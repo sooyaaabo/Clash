@@ -25,13 +25,19 @@ function main(config) {
             proxies: ["SG AUTO", "JP AUTO", "US AUTO"],
         },
         {
+            icon: "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/X.png",
+            name: "X",
+            type: "select",
+            proxies: ["HK AUTO", "SG AUTO", "JP AUTO", "US AUTO"],
+        },
+        {
             icon: "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Telegram.png",
             name: "Telegram",
             type: "select",
             proxies: ["HK AUTO", "SG AUTO", "JP AUTO", "US AUTO"],
         },
         {
-            icon: "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Global.png",
+            icon: "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/WorldMap.png",
             name: "Google",
             type: "select",
             proxies: ["HK AUTO", "SG AUTO", "JP AUTO", "US AUTO"],
@@ -47,7 +53,7 @@ function main(config) {
             interval: 300,
         },
         {
-            icon: "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/Singapore.pngg",
+            icon: "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/Singapore.png",
             "include-all": true,
             "exclude-filter":
                 "(?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置",
@@ -92,6 +98,14 @@ function main(config) {
         cn_domain: {
             url: "https://mirror.ghproxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.yaml",
             path: "./ruleset/cn_domain.yaml",
+            behavior: "domain",
+            interval: 86400,
+            format: "yaml",
+            type: "http",
+        },
+        twitter_domain: {
+            url: "https://mirror.ghproxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/twitter.yaml",
+            path: "./ruleset/twitter_domain.yaml",
             behavior: "domain",
             interval: 86400,
             format: "yaml",
@@ -203,6 +217,7 @@ function main(config) {
         "RULE-SET,openai,AI",
         "RULE-SET,claude,AI",
         "RULE-SET,steam,PROXY",
+        "RULE-SET,twitter_domain,X",
         "RULE-SET,telegram_domain,Telegram",
         "RULE-SET,telegram_ip,Telegram",
         "RULE-SET,google_domain,Google",
