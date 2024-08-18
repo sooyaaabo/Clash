@@ -37,7 +37,7 @@ function main(config) {
             proxies: ["HK AUTO", "SG AUTO", "JP AUTO", "US AUTO"],
         },
         {
-            icon: "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/WorldMap.png",
+            icon: "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/Google.png",
             name: "Google",
             type: "select",
             proxies: ["HK AUTO", "SG AUTO", "JP AUTO", "US AUTO"],
