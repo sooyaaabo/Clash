@@ -1,0 +1,408 @@
+# 影视播放规则(直连)
+# 2024-08-29 20:45
+
+payload:
+# CMSPlayer
+# 低端影视
+  - DOMAIN-SUFFIX, ddrk.me
+  - DOMAIN-SUFFIX, ddys.pro
+  - DOMAIN-SUFFIX, ddys.mov
+  - DOMAIN-SUFFIX, ddys.tv
+  - DOMAIN-SUFFIX, ddys.info
+  - DOMAIN-SUFFIX, ddys.love
+# 在线之家
+  - DOMAIN-SUFFIX, zxzja.com
+  - DOMAIN-SUFFIX, zxzj.site
+  - DOMAIN-SUFFIX, zxzjhd.com
+  - DOMAIN-SUFFIX, zxzj.pro
+# 私密影院
+  - DOMAIN-SUFFIX, simiyy.com
+# 奈飞工厂
+  - DOMAIN-SUFFIX, netflixgc.com
+# 极速资源
+  - DOMAIN-SUFFIX, jszyapi.com
+  - DOMAIN-SUFFIX, jisuzyimg.com
+  - DOMAIN, vv.jisuzyv.com
+# 卧龙资源
+  - DOMAIN-SUFFIX, wolongzy.cc
+  - DOMAIN-SUFFIX, wolongzyw.com
+# 索尼资源
+  - DOMAIN-SUFFIX, suoniapi.com
+  - DOMAIN, v3.sxzyhuij.com
+  - DOMAIN, v3.suonizy-youku.com
+  - DOMAIN, v8.sxzyhuij.com
+  - DOMAIN, snzypic.com
+  - DOMAIN, v8.suonizy-youku.com
+# 天空资源
+  - DOMAIN-SUFFIX, tiankongapi.com
+  - DOMAIN-SUFFIX, huishij.com
+# 飞速资源
+  - DOMAIN-SUFFIX, feisuzyapi.com
+  - DOMAIN-SUFFIX, feisuimg.com
+# 红牛资源
+  - DOMAIN-SUFFIX, hongniuzy2.com
+# 非凡资源
+  - DOMAIN-SUFFIX, ffzyapi.com
+  - DOMAIN-SUFFIX, image8899.net
+# 量子资源
+  - DOMAIN-SUFFIX, lziapi.com
+  - DOMAIN-SUFFIX, lzzyimg.com
+# ikun资源
+  - DOMAIN-SUFFIX, ikunzyapi.com
+  - DOMAIN-SUFFIX, imgikzy.com
+# 光速资源
+  - DOMAIN-SUFFIX, guangsuapi.com
+  - DOMAIN-SUFFIX, guangsuimage.com
+# 百度云资源
+  - DOMAIN-SUFFIX, apibdzy.com
+  - DOMAIN-SUFFIX, bdzyimg.com
+# ck资源
+  - DOMAIN-SUFFIX, ckzy.me
+# 快车资源
+  - DOMAIN-SUFFIX, kczyapi.com
+  - DOMAIN-SUFFIX, kuaichezy.com
+# U酷资源
+  - DOMAIN-SUFFIX, ukuapi.com
+# 闪电资源
+  - DOMAIN-SUFFIX, sdzyapi.com
+# 无尽资源
+  - DOMAIN-SUFFIX, wujinapi.com
+  - DOMAIN-SUFFIX, wujinpp.com
+# 火狐资源
+  - DOMAIN-SUFFIX, hhzyapi.com
+  - DOMAIN-SUFFIX, hhmage.com
+# 虎牙资源
+  - DOMAIN-SUFFIX, huyaapi.com
+  - DOMAIN-SUFFIX, huyajs.com
+# 樱花资源
+  - DOMAIN-SUFFIX, apiyhzy.com
+# 四圈资源
+  - DOMAIN-SUFFIX, fenwe078.cf
+# 最大资源
+  - DOMAIN-SUFFIX, zuidapi.com
+  - DOMAIN-SUFFIX, zuidapic.com
+# 快看资源
+  - DOMAIN-SUFFIX, kuaikan-api.com
+  - DOMAIN-SUFFIX, kuaikanzy.net
+# 可可资源
+  - DOMAIN-SUFFIX, kekezyapi.com
+# 速博资源
+  - DOMAIN-SUFFIX, subocaiji.com
+  - DOMAIN-SUFFIX, suboimage.com
+# 39影视
+  - DOMAIN-SUFFIX, 39kan.com
+  - DOMAIN-SUFFIX, 394tv.com
+# 步步高资源
+  - DOMAIN-SUFFIX, yparse.com
+# 新浪资源
+  - DOMAIN-SUFFIX, xinlangapi.com
+  - DOMAIN-SUFFIX, xinlangtupian.com
+# 飘花影院
+  - DOMAIN-SUFFIX, ahjiuman.com
+  - DOMAIN-SUFFIX, youkuphoto.com
+# 乐视资源
+  - DOMAIN-SUFFIX, leshizyapi.com
+# 飘零影院
+  - DOMAIN-SUFFIX, p2100.net
+# 魔都动漫
+  - DOMAIN-SUFFIX, moduapi.cc
+# 奇虎资源
+  - DOMAIN-SUFFIX, qhzyapi.com
+# 享看资源
+  - DOMAIN-SUFFIX, xkanzy10.com
+# 快云资源
+  - DOMAIN-SUFFIX, kuaiyunzy.com
+# 黑木耳
+  - DOMAIN-SUFFIX, heimuer.tv
+  - DOMAIN-SUFFIX, heimuer.xyz
+# 华为吧
+  - DOMAIN-SUFFIX, huawei8.live
+  - DOMAIN-SUFFIX, hw8.live
+# 二次萌影视
+  - DOMAIN-SUFFIX, ecmys.com
+  - DOMAIN-SUFFIX, ecmys.top
+  - DOMAIN-SUFFIX, ecmys.cc
+# 影视猫
+  - DOMAIN, ysm.tkbot.fun
+  - DOMAIN-SUFFIX, tkbot.fun
+# TIMI蓝光
+  - DOMAIN-SUFFIX, zyz.ikum.cc
+# 4K电影馆
+  - DOMAIN-SUFFIX, 4kdyg.vip
+  - DOMAIN-SUFFIX, 4kdyg.com
+  - DOMAIN-SUFFIX, 4kdyg.top
+  - DOMAIN-SUFFIX, wangyoung.com
+
+# XPTV
+# 探索页
+  - DOMAIN-SUFFIX, infuseku.xyz
+# 两个BT
+  - DOMAIN-SUFFIX, bttwo.org
+  - DOMAIN-SUFFIX, bttwoo.com
+  - DOMAIN-SUFFIX, bttwo.vip
+# 耐看点播
+  - DOMAIN-SUFFIX, nkvod.com
+# 烧火电影
+  - DOMAIN-SUFFIX, saohuo.tv
+  - DOMAIN-SUFFIX, saohuo.us
+  - DOMAIN-SUFFIX, shdy2.com
+  - DOMAIN-KEYWORD, saohuo
+# 素白白影院
+  - DOMAIN-SUFFIX, subaibai.vip
+  - DOMAIN-SUFFIX, subaibai.com
+  - DOMAIN-SUFFIX, subaibaiys.com
+  - DOMAIN-KEYWORD, subaibaiys
+# 速讯影院
+  - DOMAIN, hd.suxun.site
+  - DOMAIN-SUFFIX, suxun.site
+  - DOMAIN-SUFFIX, esuxun.com
+  - DOMAIN-KEYWORD, suxun
+# 文才资源
+  - DOMAIN, api.zeqaht.com
+  - DOMAIN-SUFFIX, zeqaht.com
+# 韩剧看看
+  - DOMAIN-SUFFIX, hanjukankan.com
+  - DOMAIN-KEYWORD, hanjukankan
+# AGE动漫
+  - DOMAIN-SUFFIX, agedm.org
+  - DOMAIN-SUFFIX, age.tv
+  - DOMAIN-SUFFIX, agefans.com
+# AnFuns动漫
+  - DOMAIN-SUFFIX, anfuns.org
+# timi芒果TV
+  - DOMAIN-SUFFIX, mgtv.com
+  - DOMAIN-SUFFIX, timizy.com
+# 短剧天堂
+  - DOMAIN-SUFFIX, duanjutt.tv
+  - DOMAIN-KEYWORD, duanjutt
+# dsakf23665
+  - DOMAIN-SUFFIX, dsakf23665.com
+# NO视频
+  - DOMAIN-SUFFIX, novipnoad.net
+# BILFUN
+  - DOMAIN-SUFFIX, bilfun.cc
+# 星芽短剧
+  - DOMAIN, app.whjzjx.cn
+# 小苹果
+  - DOMAIN, item.xpgtv.xyz
+# 瓜子影视
+  - DOMAIN, api.zaqohu.com
+# 厂长资源
+  - DOMAIN-SUFFIX, czzy.site
+  - DOMAIN-SUFFIX, czys.top
+  - DOMAIN-SUFFIX, czys.pro
+  - DOMAIN-SUFFIX, czzy.top
+  - DOMAIN-SUFFIX, czzy.tv
+  - DOMAIN-SUFFIX, cz01.tv
+  - DOMAIN-SUFFIX, czzy77.com
+  - DOMAIN-SUFFIX, cz233.com
+# 555电影
+  - DOMAIN-SUFFIX, 55drm.com
+  - DOMAIN-SUFFIX, 5cinv.net
+  - DOMAIN-SUFFIX, 55flix.com
+  - DOMAIN-SUFFIX, 12filmvault.com
+  - DOMAIN-SUFFIX, 5vidw.com
+  - DOMAIN-SUFFIX, f6lz.com
+  - DOMAIN-SUFFIX, 5wuv.com
+# 哔嘀影视
+  - DOMAIN-SUFFIX, bdys.me
+  - DOMAIN-SUFFIX, yjys.top
+  - DOMAIN-SUFFIX, yjys02.com
+  - DOMAIN-SUFFIX, 52bdys.com
+  - DOMAIN-SUFFIX, yjys.inf.ua
+  - DOMAIN-SUFFIX, yjys.cc.ua
+# 哔嘀播放
+  - DOMAIN-suffix, ibytedtos.com
+  - DOMAIN-suffix, toutiao50.com
+  - DOMAIN-suffix, ibyteimg.com
+# LIBVIO
+  - DOMAIN-SUFFIX, libvio.app
+  - DOMAIN-SUFFIX, libvio.link
+  - DOMAIN-SUFFIX, libvio.pro
+  - DOMAIN-SUFFIX, libvio.vip
+# 阿里小站
+  - DOMAIN-SUFFIX, pan666.net
+# 云盘社区
+  - DOMAIN-SUFFIX, yunpan1.xyz
+  - DOMAIN-SUFFIX, yunpan1.cc
+  - DOMAIN-SUFFIX, yunpan1.co
+# 玩偶哥哥
+  - DOMAIN-SUFFIX, wogg.net
+# 玩偶表哥
+  - DOMAIN-KEYWORD, wobge.run
+# 小纸条
+  - DOMAIN-SUFFIX, a.gitcafe.net
+  - DOMAIN-SUFFIX, ali.gitcafe.ink 
+  - DOMAIN, yunluo.oss-cn-shanghai.aliyuncs.com
+# JOJO
+  - DOMAIN-SUFFIX, jiohub.top
+# 网盘播放
+  - DOMAIN-KEYWORD, quark
+  - DOMAIN, drive-pc.quark.cn
+  - DOMAIN-SUFFIX, aliyundrive.asia
+  - DOMAIN-SUFFIX, alicloudccp.com
+  - DOMAIN, openapi.aliyundrive.com
+  - DOMAIN, auth.aliyundrive.com
+  - DOMAIN, api.aliyundrive.com
+# 厂长&低端播放
+  - DOMAIN-SUFFIX, cz01.site
+  - DOMAIN-SUFFIX, larksuitecdn.com
+  - DOMAIN-SUFFIX, fotile.com
+  - DOMAIN-SUFFIX, pstatp.com
+  - DOMAIN-SUFFIX, ugdtimg.com
+  - DOMAIN-SUFFIX, ctyunxs.cn
+  - DOMAIN, wxsnsencsvp.wxs.qq.com
+
+# Emby
+# Paul
+;  - DOMAIN-SUFFIX, cf.imetyou.top
+;  - DOMAIN-SUFFIX, emby.imetyou.top
+;  - DOMAIN-SUFFIX, fk.imetyou.top
+;  - DOMAIN-SUFFIX, kr.imetyou.top
+;  - DOMAIN-SUFFIX, sg.imetyou.top
+;  - DOMAIN-SUFFIX, chun.imetyou.top
+# TreeDiagram
+  - DOMAIN-SUFFIX, 789.123456.al
+# NyaMedia
+  - DOMAIN-SUFFIX, emby.bangumi.ca
+# 纸片人
+  - DOMAIN-SUFFIX, embyplus.org
+# 大V影院
+  - DOMAIN, su.viclub.top
+# 垃圾影音
+  - DOMAIN, cf.xmsl.org
+# 普拉斯影业
+  - DOMAIN, emby-best.xeton.dev
+# 叔服
+  - DOMAIN, jz.mcjoker.xyz
+# MisakaF
+  - DOMAIN, cdn.misakaf.org
+  - DOMAIN-SUFFIX, cloudfront.net
+# 牢大科蜜野兽
+  - DOMAIN-SUFFIX, mius.uk
+# 终点站
+  - DOMAIN, pub1.emby.wtf
+  - DOMAIN, pub2.emby.wtf
+  - DOMAIN, pub3.emby.wtf
+# yomo
+  - DOMAIN, emby.yomo.lol
+# peach
+  - DOMAIN-SUFFIX, embymv.tk
+
+# Jellyfin
+# 探花TV
+  - DOMAIN-SUFFIX, tanhuatv.site
+
+#豆瓣封面
+  - DOMAIN-SUFFIX, doubanio.com
+#杂七杂八的播放
+  - DOMAIN-SUFFIX, zaqohu.com
+  - DOMAIN-SUFFIX, xjqxz.top
+  - DOMAIN-SUFFIX, wjm.xpgtv.net
+  - DOMAIN-SUFFIX, vvmlm.com
+  - DOMAIN-SUFFIX, akamaized.net
+  - DOMAIN-SUFFIX, wegame.com.cn
+  - DOMAIN-SUFFIX, tc.qq.com
+  - DOMAIN-SUFFIX, centos.chat
+  - DOMAIN-SUFFIX, bilfun.cc
+  - DOMAIN-SUFFIX, novipnoad.net
+  - DOMAIN-SUFFIX, yangkeduo.com
+  - DOMAIN-SUFFIX, xingya.com.cn
+  - DOMAIN-SUFFIX, whjzjx.cn
+  - DOMAIN-SUFFIX, mediap.svc.ms
+  - DOMAIN-SUFFIX, novipnoad.net
+  - DOMAIN-SUFFIX, yangkeduo.com
+  - DOMAIN-KEYWORD, ts.com
+  - DOMAIN, n45lxpvts.com
+  - DOMAIN, yk7ynj4ts.com
+  - DOMAIN, r8qgyo0ts.com
+  - DOMAIN, 9t5af8lts.com
+  - DOMAIN, d4y3409ts.com
+  - DOMAIN, 3zj55vots.com
+  - DOMAIN-KEYWORD, heimuer
+  - DOMAIN-SUFFIX, m3u8.girigirilove.com
+  - DOMAIN-SUFFIX, cloudflarestorage.com
+  - DOMAIN-SUFFIX, ho7k.com
+  - DOMAIN-SUFFIX, dsakf23665.com
+  - DOMAIN-SUFFIX, 115.com
+  - DOMAIN-SUFFIX, mgtv.com
+  - DOMAIN-SUFFIX, timizy.com
+  - DOMAIN-KEYWORD, ghw9zwp5
+  - DOMAIN-SUFFIX, ywxohs.com
+  - DOMAIN-SUFFIX, miyoushe.com
+  - DOMAIN-KEYWORD, media-oss
+  - DOMAIN-SUFFIX, netease.com
+  - DOMAIN-SUFFIX, aliyuncs.com
+  - DOMAIN-SUFFIX, xmcdn.com
+  - DOMAIN-SUFFIX, anfuns.org
+  - DOMAIN-KEYWORD, hmrvideo
+  - DOMAIN-KEYWORD, heimuer
+  - DOMAIN-SUFFIX, ykusu.ykusu
+  - DOMAIN-SUFFIX, myqcloud.com
+  - DOMAIN-SUFFIX, esuxun.com
+  - DOMAIN-KEYWORD, duanjutt
+  - DOMAIN-KEYWORD, suxun
+  - DOMAIN-KEYWORD, ffzy
+  - DOMAIN-KEYWORD, cdnlz
+  - DOMAIN-KEYWORD, lzcdn
+  - DOMAIN-SUFFIX, bfengbf.com
+  - DOMAIN-SUFFIX, bfikuncdn.com
+  - DOMAIN-KEYWORD, tencent-1257389134.cos
+  - DOMAIN, gvideo.qpic.cn
+  - DOMAIN, media-hncs-fy-person.hn12oss.ctyunxs.cn
+  - DOMAIN, qchannelvideo.photo.qq.com
+  - DOMAIN, sf16-sg.larksuitecdn.com
+  - DOMAIN, op.xn--it-if7c19g5s4bps5c.com
+  - DOMAIN, tjdownload.pan.wo.cn
+  - DOMAIN-SUFFIX, nkvod.com
+  - DOMAIN-SUFFIX, 13to.com
+  - DOMAIN-KEYWORD, thehanju
+  - DOMAIN-KEYWORD, hanjukankan
+  - DOMAIN-KEYWORD, subaibaiys
+  - DOMAIN-SUFFIX, xhscdn.com
+  - DOMAIN-KEYWORD, wangchuanxin
+  - DOMAIN-SUFFIX, vod-qcloud.com
+  - DOMAIN-KEYWORD, hhplayer
+  - DOMAIN-KEYWORD, saohuo
+  - DOMAIN-KEYWORD, bttwo
+  - DOMAIN-SUFFIX, dandanplay.net
+  - DOMAIN-SUFFIX, mcloud.139.com
+  - DOMAIN-SUFFIX, jiasu.buzz
+  - DOMAIN-KEYWORD, feidaozy
+  - DOMAIN-KEYWORD, modujx
+  - DOMAIN-KEYWORD, simanuo
+  - DOMAIN-SUFFIX, huawei8.live
+  - DOMAIN-SUFFIX, hw8.live
+  - DOMAIN-KEYWORD, heimuer
+  - DOMAIN-KEYWORD, hhuus
+  - DOMAIN-KEYWORD, hhwenjian
+  - DOMAIN, hhmage.com
+  - DOMAIN, xinlangtupian.com
+  - DOMAIN-KEYWORD, xlzyd
+  - DOMAIN, ikunzyapi.com
+  - DOMAIN-KEYWORD, ikzybf
+  - DOMAIN-KEYWORD, 49zyvideoplayurl
+  - DOMAIN-KEYWORD, v.cdnlz
+  - DOMAIN-KEYWORD, vip.kuaikan
+  - DOMAIN-KEYWORD, vip.ffzy
+  - DOMAIN-KEYWORD,kuaiyun
+  - DOMAIN, vod2.kczybf.com
+  - DOMAIN, top.1080pzy.co
+  - DOMAIN, c3.monidai.com
+  - DOMAIN, pan.dy066.com
+  - DOMAIN, hey11.cjkypo.com
+  - DOMAIN, hnts.ymuuy.com
+  - DOMAIN, hnzy.bfvvs.com
+  - DOMAIN-SUFFIX, maimn.com
+  - DOMAIN, img.lzzyimg.com
+  - DOMAIN, vip.ffzy-play5.com
+  - DOMAIN, vip.ffzy-online6.com
+  - DOMAIN, sss.image8899.net
+  - DOMAIN, ikcdn01.ikzybf.com
+  - DOMAIN, vip.ffzy-play9.com
+  - DOMAIN, svip.picffzy.com
+  - DOMAIN, vip.imgffzy.com
+  - DOMAIN, vip.ffzyread1.com
+  - DOMAIN, vip.ffzy-play3.com
+  - DOMAIN, vip.ffzyread.com
+  - DOMAIN, www.imgikzy.com
