@@ -1,5 +1,5 @@
 # Mihomo_Sample_Yaml
-# 日期：2024-08-30
+# 日期：2024-09-01
 # 配置作者：https://t.me/sooyaaabo
 # 参考配置URL：https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Config/Clash_Sample_Configuration_By_iKeLee.yaml
 # 适用版本：所有使用 mihomo 核心的程序
@@ -89,17 +89,23 @@ NodeParam: &NodeParam {type: http, interval: 3600, health-check: {enable: true, 
 # 锚点 - 节点订阅
 proxy-providers: 
   机场名称1:
-    url: '机场订阅链接1'
+    url: '机场订阅1'
     <<: *NodeParam
     path: './proxy_providers/机场名称1.yaml'
     override:
       additional-prefix: "[机场名称1] " # 为订阅节点添加机场名称前缀
   机场名称2:
-    url: '机场订阅链接2'
+    url: '机场订阅1'
     <<: *NodeParam
     path: './proxy_providers/机场名称2.yaml'
     override:
       additional-prefix: "[机场名称2] " # 为订阅节点添加机场名称前缀
+  机场名称3:
+    url: '机场订阅1'
+    <<: *NodeParam
+    path: './proxy_providers/机场名称3.yaml'
+    override:
+      additional-prefix: "[机场名称3] " # 为订阅节点添加机场名称前缀
 
 # 锚点 - 节点筛选组
 FilterHK: &FilterHK '^(?=.*((?i)🇭🇰|香港|(\b(HK|Hong)\b)))(?!.*((?i)家宽|回国|校园|游戏|🎮|(\b(GAME)\b))).*$'
@@ -143,7 +149,7 @@ proxy-groups:
   - {name: Google, type: select, proxies: [DIRECT, 香港策略, 台湾策略, 日本策略, 韩国策略, 新加坡策略, 美国策略, 英国策略, 法国策略, 德国策略], icon: https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Google.png}
   - {name: YouTube, type: select, proxies: [DIRECT, 香港策略, 台湾策略, 日本策略, 韩国策略, 新加坡策略, 美国策略, 英国策略, 法国策略, 德国策略], icon: https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/YouTube.png}
   - {name: Netflix, type: select, proxies: [香港策略, 台湾策略, 日本策略, 韩国策略, 新加坡策略, 美国策略, 英国策略, 法国策略, 德国策略], icon: https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Netflix.png}
-  - {name: Emby, type: select, include-all-providers: true, filter: *FilterEmby, proxies: [DIRECT, 香港策略, 台湾策略, 日本策略, 韩国策略, 新加坡策略, 美国策略, 英国策略, 法国策略, 德国策略], icon: https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Emby.png}
+  - {name: Emby, type: select, include-all-providers: true, filter: *FilterEmby, proxies: [DIRECT, 香港策略, 台湾策略, 日本策略, 韩国策略, 新加坡策略, 美国策略, 英国策略, 法国策略, 德国策略], icon: https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Emby-02.png}
   - {name: 兜底策略, type: select, proxies: [香港策略, 台湾策略, 日本策略, 韩国策略, 新加坡策略, 美国策略, 英国策略, 法国策略, 德国策略, DIRECT], icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Final.png}
 
   - {name: 香港策略, type: select, proxies: [⏱香港时延优选策略组, 🚥香港故障转移策略组, 🎛香港负载均衡策略组], icon: https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/HongKong.png}
@@ -251,10 +257,15 @@ rule-providers:
     path: './rules/Netflix.yaml'
     url: 'https://gitlab.com/lodepuly/proxy_tool_resources/-/raw/master/rule/Clash/Netflix/Netflix.yaml'
 
-  Emby:
+  Player-Direct:
     <<: *RuleProviders
-    path: './rules/Emby.yaml'
-    url: 'https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/EmbyServer.yaml'
+    path: './rules/Player-Direct.yaml'
+    url: 'https://raw.githubusercontent.com/sooyaaabo/Clash/main/Mihomo/Rule/Player-Direct.yaml'
+
+  Player-Proxy:
+    <<: *RuleProviders
+    path: './rules/Player-Proxy.yaml'
+    url: 'https://raw.githubusercontent.com/sooyaaabo/Clash/main/Mihomo/Rule/Player-Proxy.yaml'
 
   iCloudChina:
     <<: *RuleProviders
@@ -324,7 +335,8 @@ rules:
   - RULE-SET, Game, 游戏选择
   - RULE-SET, Netflix, Netflix
   - RULE-SET, YouTube, YouTube
-  - RULE-SET, Emby, Emby
+  - RULE-SET, Player-Direct, DIRECT
+  - RULE-SET, Player-Proxy, Emby
   - RULE-SET, TestFlight, TestFlight
   - RULE-SET, iCloudChina, DIRECT
   - RULE-SET, ApplePushNotificationService, DIRECT
