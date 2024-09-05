@@ -1,8 +1,6 @@
-// 参考 Verge Rev 示例 Script 配置
-//
+// 参考配置：https://raw.githubusercontent.com/Repcz/Tool/X/Clash/Meta/Override.js
 // Clash Verge Rev (Version ≥ 17.2) & Mihomo-Party (Version ≥ 0.5.8)
-//
-// 最后更新时间: 2024-09-03 21:45
+// 最后更新时间: 2024-09-05 09:30
 
 // 规则集通用配置
 const ruleProviderCommon = {
@@ -58,10 +56,10 @@ function main(config) {
   // 覆盖 geodata 配置
   config["geodata-mode"] = true;
   config["geox-url"] = {
-    "geoip": "https://mirror.ghproxy.com/https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geoip-lite.dat",
-    "geosite": "https://mirror.ghproxy.com/https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geosite.dat",
-    "mmdb": "https://mirror.ghproxy.com/https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/country-lite.mmdb",
-    "asn": "https://mirror.ghproxy.com/https://github.com/xishang0128/geoip/releases/download/latest/GeoLite2-ASN.mmdb"
+    "geoip": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/geoip.dat",
+    "geosite": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/geosite.dat",
+    "mmdb": "https://gitlab.com/Masaiki/GeoIP2-CN/-/raw/release/Country.mmdb",
+    "asn": "https://gitlab.com/Loon0x00/loon_data/-/raw/main/geo/GeoLite2-ASN.mmdb"
   };
 
   // 覆盖 sniffer 配置
@@ -95,7 +93,6 @@ function main(config) {
       ...groupBaseOption,
       "name": "手动切换",
       "type": "select",
-      "proxies": ["香港节点", "美国节点", "新加坡节点", "日本节点", "韩国节点", "台湾节点", "DIRECT"],
       "include-all": true,
       "icon": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/ClashMeta-01.png"
     },
@@ -103,14 +100,14 @@ function main(config) {
       ...groupBaseOption,
       "name": "国外网站",
       "type": "select",
-      "proxies": ["手动切换", "香港节点", "美国节点", "新加坡节点", "日本节点", "韩国节点", "台湾节点", "DIRECT"],
+      "proxies": ["手动切换", "香港节点", "美国节点", "新加坡节点", "日本节点", "韩国节点", "台湾节点"],
       "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Global.png"
     },
     {
       ...groupBaseOption,
       "name": "国际媒体",
       "type": "select",
-      "proxies": ["手动切换", "香港节点", "美国节点", "新加坡节点", "日本节点", "韩国节点", "台湾节点", "DIRECT"],
+      "proxies": ["手动切换", "香港节点", "美国节点", "新加坡节点", "日本节点", "韩国节点", "台湾节点"],
       "icon": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/YouTube.png"
     },
     {
@@ -131,35 +128,37 @@ function main(config) {
       ...groupBaseOption,
       "name": "Google",
       "type": "select",
-      "proxies": ["手动切换", "香港节点", "美国节点", "新加坡节点", "日本节点", "韩国节点", "台湾节点", "DIRECT"],
+      "proxies": ["手动切换", "香港节点", "美国节点", "新加坡节点", "日本节点", "韩国节点", "台湾节点"],
       "icon": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Google.png"
     },
     {
       ...groupBaseOption,
       "name": "Telegram",
       "type": "select",
-      "proxies": ["手动切换", "香港节点", "美国节点", "新加坡节点", "日本节点", "韩国节点", "台湾节点", "DIRECT"],
+      "proxies": ["手动切换", "香港节点", "美国节点", "新加坡节点", "日本节点", "韩国节点", "台湾节点"],
       "icon": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Telegram-02.png"
     },
     {
       ...groupBaseOption,
       "name": "Twitter",
       "type": "select",
-      "proxies": ["手动切换", "香港节点", "美国节点", "新加坡节点", "日本节点", "韩国节点", "台湾节点", "DIRECT"],
+      "proxies": ["手动切换", "香港节点", "美国节点", "新加坡节点", "日本节点", "韩国节点", "台湾节点"],
       "icon": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/X-02.png"
     },
     {
       ...groupBaseOption,
       "name": "AI",
       "type": "select",
-      "proxies": ["手动切换", "香港节点", "美国节点", "新加坡节点", "日本节点", "韩国节点", "台湾节点", "DIRECT"],
+      "include-all": true,
+      "proxies": ["手动切换", "香港节点", "美国节点", "新加坡节点", "日本节点", "韩国节点", "台湾节点"],
       "icon": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/ChatGPT.png"
     },
     {
       ...groupBaseOption,
       "name": "Game",
       "type": "select",
-      "proxies": ["手动切换", "香港节点", "美国节点", "新加坡节点", "日本节点", "韩国节点", "台湾节点", "DIRECT"],
+      "include-all": true,
+      "proxies": ["手动切换", "香港节点", "美国节点", "新加坡节点", "日本节点", "韩国节点", "台湾节点"],
       "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Game.png"
     },
     {
@@ -167,7 +166,7 @@ function main(config) {
       "name": "Emby",
       "type": "select",
       "include-all": true,
-      "proxies": ["手动切换", "香港节点", "美国节点", "新加坡节点", "日本节点", "韩国节点", "台湾节点", "DIRECT"],
+      "proxies": ["手动切换", "香港节点", "美国节点", "新加坡节点", "日本节点", "韩国节点", "台湾节点"],
       "icon": "https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Emby-02.png"
     },
     {
