@@ -1,5 +1,5 @@
 # Mihomo_Sample_Yaml
-# 日期：2024-09-01
+# 日期：2024-09-19
 # 配置作者：https://t.me/sooyaaabo
 # 参考配置URL：https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Config/Clash_Sample_Configuration_By_iKeLee.yaml
 # 适用版本：所有使用 mihomo 核心的程序
@@ -95,13 +95,13 @@ proxy-providers:
     override:
       additional-prefix: "[机场名称1] " # 为订阅节点添加机场名称前缀
   机场名称2:
-    url: '机场订阅1'
+    url: '机场订阅2'
     <<: *NodeParam
     path: './proxy_providers/机场名称2.yaml'
     override:
       additional-prefix: "[机场名称2] " # 为订阅节点添加机场名称前缀
   机场名称3:
-    url: '机场订阅1'
+    url: '机场订阅3'
     <<: *NodeParam
     path: './proxy_providers/机场名称3.yaml'
     override:
