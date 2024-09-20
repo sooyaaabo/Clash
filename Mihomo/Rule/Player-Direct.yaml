@@ -1,5 +1,5 @@
 # 影视播放规则(直连)
-# 2024-08-29 20:45
+# 2024-09-20 10:10
 
 payload:
 # CMSPlayer
@@ -136,6 +136,14 @@ payload:
 # XPTV
 # 探索页
   - DOMAIN-SUFFIX, infuseku.xyz
+# 天天影视
+  - DOMAIN, op.ysdqjs.cn
+# 爱壹帆
+  - DOMAIN-SUFFIX, iyf.tv
+# 4k-av
+  - DOMAIN-SUFFIX, 4k-av.com
+# 金牌影院
+  - DOMAIN-SUFFIX, cfkj86.com
 # 两个BT
   - DOMAIN-SUFFIX, bttwo.org
   - DOMAIN-SUFFIX, bttwoo.com
@@ -255,47 +263,56 @@ payload:
 
 # Emby
 # Paul
-;  - DOMAIN-SUFFIX, cf.imetyou.top
-;  - DOMAIN-SUFFIX, emby.imetyou.top
-;  - DOMAIN-SUFFIX, fk.imetyou.top
-;  - DOMAIN-SUFFIX, kr.imetyou.top
-;  - DOMAIN-SUFFIX, sg.imetyou.top
-;  - DOMAIN-SUFFIX, chun.imetyou.top
+  - DOMAIN-SUFFIX, imetyou.top
 # TreeDiagram
   - DOMAIN-SUFFIX, 789.123456.al
 # NyaMedia
-  - DOMAIN-SUFFIX, emby.bangumi.ca
+  - DOMAIN-SUFFIX,bangumi.ca
+# PiliPili
+  - DOMAIN-SUFFIX, pilipili.club
+  - DOMAIN-SUFFIX, pilifun.top:443
+  - DOMAIN, xn--ohq746dhyifsj.xn--pp5aa2sb.com
 # 纸片人
   - DOMAIN-SUFFIX, embyplus.org
+# 二刺螈
+  - DOMAIN-SUFFIX, nijigem.by
 # 大V影院
   - DOMAIN, su.viclub.top
-# 垃圾影音
-  - DOMAIN, cf.xmsl.org
+# 蘑菇
+  - DOMAIN-SUFFIX, mooguu.top
 # 普拉斯影业
   - DOMAIN, emby-best.xeton.dev
-# 叔服
-  - DOMAIN, jz.mcjoker.xyz
-# MisakaF
-  - DOMAIN, cdn.misakaf.org
-  - DOMAIN-SUFFIX, cloudfront.net
+# 放映机
+  - DOMAIN-SUFFIX, 9191001.xyz
+# lily
+  - DOMAIN-SUFFIX, lilyya.xyz
+# CC
+  - DOMAIN-SUFFIX, embycc.link
+# apop
+  - DOMAIN-SUFFIX, apopcloud.live
+# Watermelon
+  - DOMAIN-SUFFIX, 1024.name
 # 牢大科蜜野兽
   - DOMAIN-SUFFIX, mius.uk
 # 终点站
-  - DOMAIN, pub1.emby.wtf
-  - DOMAIN, pub2.emby.wtf
-  - DOMAIN, pub3.emby.wtf
+  - DOMAIN-SUFFIX, term.wtf
 # yomo
   - DOMAIN, emby.yomo.lol
 # peach
-  - DOMAIN-SUFFIX, embymv.tk
+  - DOMAIN-SUFFIX, embymv.link
+# awa
+  - DOMAIN-SUFFIX, 811861.xyz
 
 # Jellyfin
 # 探花TV
   - DOMAIN-SUFFIX, tanhuatv.site
+IP-CIDR, 152.53.67.239/32, no-resolve
 
 #豆瓣封面
   - DOMAIN-SUFFIX, doubanio.com
 #杂七杂八的播放
+  - DOMAIN-SUFFIX, 4k-av.com
+  - DOMAIN, ppvod01.blbtgg.com
   - DOMAIN-SUFFIX, zaqohu.com
   - DOMAIN-SUFFIX, xjqxz.top
   - DOMAIN-SUFFIX, wjm.xpgtv.net
