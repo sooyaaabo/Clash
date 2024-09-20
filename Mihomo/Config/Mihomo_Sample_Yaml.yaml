@@ -1,5 +1,5 @@
 # Mihomo_Sample_Yaml
-# 日期：2024-09-19
+# 日期：2024-09-20
 # 配置作者：https://t.me/sooyaaabo
 # 参考配置URL：https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Config/Clash_Sample_Configuration_By_iKeLee.yaml
 # 适用版本：所有使用 mihomo 核心的程序
@@ -326,21 +326,19 @@ rule-providers:
 rules:
   - RULE-SET, Lan, DIRECT
   - RULE-SET, Direct, DIRECT
-  - RULE-SET, Proxy, 兜底策略
-  - RULE-SET, ChinaDownloadCDN, DIRECT
-  - RULE-SET, InternationalDownloadCDN, 境外下载
-  - RULE-SET, AI, AI
-  - RULE-SET, TikTok, TikTok
-  - RULE-SET, Steam, 兜底策略
-  - RULE-SET, Game, 游戏选择
-  - RULE-SET, Netflix, Netflix
-  - RULE-SET, YouTube, YouTube
   - RULE-SET, Player-Direct, DIRECT
-  - RULE-SET, Player-Proxy, Emby
-  - RULE-SET, TestFlight, TestFlight
+  - RULE-SET, ESET_China, DIRECT
   - RULE-SET, iCloudChina, DIRECT
   - RULE-SET, ApplePushNotificationService, DIRECT
   - RULE-SET, AppleSoftwareUpdates, DIRECT
+  - RULE-SET, ChinaDownloadCDN, DIRECT
+  - GEOIP, CN, DIRECT
+  - RULE-SET, AI, AI
+  - RULE-SET, TikTok, TikTok
+  - RULE-SET, Netflix, Netflix
+  - RULE-SET, YouTube, YouTube
+  - RULE-SET, Player-Proxy, Emby
+  - RULE-SET, TestFlight, TestFlight
   - RULE-SET, AppleID, Apple ID
   - RULE-SET, AppStore, App Store
   - RULE-SET, GitHub, GitHub
@@ -348,6 +346,8 @@ rules:
   - RULE-SET, Google, Google
   - RULE-SET, Twitter, Twitter
   - RULE-SET, Telegram, Telegram
-  - RULE-SET, ESET_China, DIRECT
-  - GEOIP, CN, DIRECT
+  - RULE-SET, Game, 游戏选择
+  - RULE-SET, Steam, 兜底策略
+  - RULE-SET, Proxy, 兜底策略
+  - RULE-SET, InternationalDownloadCDN, 境外下载
   - MATCH, 兜底策略
