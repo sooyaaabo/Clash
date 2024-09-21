@@ -1,5 +1,5 @@
 # 影视播放规则(直连)
-# 2024-09-20 10:10
+# 2024-09-21 10:35
 
 payload:
 # CMSPlayer
@@ -270,7 +270,7 @@ payload:
   - DOMAIN-SUFFIX,bangumi.ca
 # PiliPili
   - DOMAIN-SUFFIX, pilipili.club
-  - DOMAIN-SUFFIX, pilifun.top:443
+  - DOMAIN-SUFFIX, pilifun.top
   - DOMAIN, xn--ohq746dhyifsj.xn--pp5aa2sb.com
 # 纸片人
   - DOMAIN-SUFFIX, embyplus.org
