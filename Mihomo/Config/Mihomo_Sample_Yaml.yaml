@@ -1,5 +1,5 @@
 # Mihomo_Sample_Yaml
-# 日期：2024-09-20
+# 日期：2024-09-22
 # 配置作者：https://t.me/sooyaaabo
 # 参考配置URL：https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Config/Clash_Sample_Configuration_By_iKeLee.yaml
 # 适用版本：所有使用 mihomo 核心的程序
@@ -123,11 +123,11 @@ FilterAll: &FilterAll '^(?=.*(.))(?!.*((?i)家宽|群|邀请|返利|循环|官�
 
 # 策略组参数锚点
 # 锚点 - 时延优选参数 [每 6 秒一次惰性健康检查，容差 20ms，时延超过 2 秒判定为失败，失败 3 次则自动触发健康检查]
-UrlTest: &UrlTest {type: url-test, interval: 6, tolerance: 20, lazy: true, url: 'http://cp.cloudflare.com', disable-udp: false, timeout: 2000, max-failed-times: 3, hidden: true, include-all-providers: true}
+UrlTest: &UrlTest {type: url-test, interval: 6, tolerance: 20, lazy: true, url: 'http://www.apple.com/library/test/success.html', disable-udp: false, timeout: 2000, max-failed-times: 3, hidden: true, include-all-providers: true}
 # 锚点 - 故障转移参数 [每 6 秒一次惰性健康检查，时延超过 2 秒判定为失败，失败 3 次则自动触发健康检查]
-FallBack: &FallBack {type: fallback, interval: 6, lazy: true, url: 'http://cp.cloudflare.com', disable-udp: false, timeout: 2000, max-failed-times: 3, hidden: true, include-all-providers: true}
+FallBack: &FallBack {type: fallback, interval: 6, lazy: true, url: 'http://www.apple.com/library/test/success.html', disable-udp: false, timeout: 2000, max-failed-times: 3, hidden: true, include-all-providers: true}
 # 锚点 - 负载均衡参数 [每 6 秒一次惰性健康检查，时延超过 2 秒判定为失败，失败 3 次则自动触发健康检查]
-LoadBalance: &LoadBalance {type: load-balance, interval: 6, lazy: true, url: 'http://cp.cloudflare.com', disable-udp: false, strategy: consistent-hashing, timeout: 2000, max-failed-times: 3, hidden: true, include-all-providers: true}
+LoadBalance: &LoadBalance {type: load-balance, interval: 6, lazy: true, url: 'http://www.apple.com/library/test/success.html', disable-udp: false, strategy: consistent-hashing, timeout: 2000, max-failed-times: 3, hidden: true, include-all-providers: true}
 # 锚点 - 规则参数 [每小时更新一次订阅规则，更新规则时使用直连策略]
 RuleProviders: &RuleProviders {type: http, behavior: classical, interval: 3600, format: yaml, proxy: DIRECT}
 
@@ -152,48 +152,48 @@ proxy-groups:
   - {name: Emby, type: select, include-all-providers: true, filter: *FilterEmby, proxies: [DIRECT, 香港策略, 台湾策略, 日本策略, 韩国策略, 新加坡策略, 美国策略, 英国策略, 法国策略, 德国策略], icon: https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Emby-02.png}
   - {name: 兜底策略, type: select, proxies: [香港策略, 台湾策略, 日本策略, 韩国策略, 新加坡策略, 美国策略, 英国策略, 法国策略, 德国策略, DIRECT], icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Final.png}
 
-  - {name: 香港策略, type: select, proxies: [⏱香港时延优选策略组, 🚥香港故障转移策略组, 🎛香港负载均衡策略组], icon: https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/HongKong.png}
-  - {name: 台湾策略, type: select, proxies: [⏱台湾时延优选策略组, 🚥台湾故障转移策略组, 🎛台湾负载均衡策略组], icon: https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/Taiwan.png}
-  - {name: 日本策略, type: select, proxies: [⏱日本时延优选策略组, 🚥日本故障转移策略组, 🎛日本负载均衡策略组], icon: https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/Japan.png}
-  - {name: 韩国策略, type: select, proxies: [⏱韩国时延优选策略组, 🚥韩国故障转移策略组, 🎛韩国负载均衡策略组], icon: https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/SouthKorea.png}
-  - {name: 新加坡策略, type: select, proxies: [⏱新加坡时延优选策略组, 🚥新加坡故障转移策略组, 🎛新加坡负载均衡策略组], icon: https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/Singapore.png}
-  - {name: 美国策略, type: select, proxies: [⏱美国时延优选策略组, 🚥美国故障转移策略组, 🎛美国负载均衡策略组], icon: https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/UnitedStates.png}
-  - {name: 英国策略, type: select, proxies: [⏱英国时延优选策略组, 🚥英国故障转移策略组, 🎛英国负载均衡策略组], icon: https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/UnitedKingdom.png}
-  - {name: 法国策略, type: select, proxies: [⏱法国时延优选策略组, 🚥法国故障转移策略组, 🎛法国负载均衡策略组], icon: https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/France.png}
-  - {name: 德国策略, type: select, proxies: [⏱德国时延优选策略组, 🚥德国故障转移策略组, 🎛德国负载均衡策略组], icon: https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/Germany.png}
+  - {name: 香港策略, type: select, proxies: [香港时延优选策略组, 香港故障转移策略组, 香港负载均衡策略组], icon: https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/HongKong.png}
+  - {name: 台湾策略, type: select, proxies: [台湾时延优选策略组, 台湾故障转移策略组, 台湾负载均衡策略组], icon: https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/Taiwan.png}
+  - {name: 日本策略, type: select, proxies: [日本时延优选策略组, 日本故障转移策略组, 日本负载均衡策略组], icon: https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/Japan.png}
+  - {name: 韩国策略, type: select, proxies: [韩国时延优选策略组, 韩国故障转移策略组, 韩国负载均衡策略组], icon: https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/SouthKorea.png}
+  - {name: 新加坡策略, type: select, proxies: [新加坡时延优选策略组, 新加坡故障转移策略组, 新加坡负载均衡策略组], icon: https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/Singapore.png}
+  - {name: 美国策略, type: select, proxies: [美国时延优选策略组, 美国故障转移策略组, 美国负载均衡策略组], icon: https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/UnitedStates.png}
+  - {name: 英国策略, type: select, proxies: [英国时延优选策略组, 英国故障转移策略组, 英国负载均衡策略组], icon: https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/UnitedKingdom.png}
+  - {name: 法国策略, type: select, proxies: [法国时延优选策略组, 法国故障转移策略组, 法国负载均衡策略组], icon: https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/France.png}
+  - {name: 德国策略, type: select, proxies: [德国时延优选策略组, 德国故障转移策略组, 德国负载均衡策略组], icon: https://raw.githubusercontent.com/sooyaaabo/Loon/main/Icon/Flag/Germany.png}
 
 # 时延优选策略组
-  - {name: ⏱香港时延优选策略组, <<: *UrlTest, filter: *FilterHK}
-  - {name: ⏱台湾时延优选策略组, <<: *UrlTest, filter: *FilterTW}
-  - {name: ⏱日本时延优选策略组, <<: *UrlTest, filter: *FilterJP}
-  - {name: ⏱韩国时延优选策略组, <<: *UrlTest, filter: *FilterKR}
-  - {name: ⏱新加坡时延优选策略组, <<: *UrlTest, filter: *FilterSG}
-  - {name: ⏱美国时延优选策略组, <<: *UrlTest, filter: *FilterUS}
-  - {name: ⏱英国时延优选策略组, <<: *UrlTest, filter: *FilterUK}
-  - {name: ⏱法国时延优选策略组, <<: *UrlTest, filter: *FilterFR}
-  - {name: ⏱德国时延优选策略组, <<: *UrlTest, filter: *FilterDE}
+  - {name: 香港时延优选策略组, <<: *UrlTest, filter: *FilterHK}
+  - {name: 台湾时延优选策略组, <<: *UrlTest, filter: *FilterTW}
+  - {name: 日本时延优选策略组, <<: *UrlTest, filter: *FilterJP}
+  - {name: 韩国时延优选策略组, <<: *UrlTest, filter: *FilterKR}
+  - {name: 新加坡时延优选策略组, <<: *UrlTest, filter: *FilterSG}
+  - {name: 美国时延优选策略组, <<: *UrlTest, filter: *FilterUS}
+  - {name: 英国时延优选策略组, <<: *UrlTest, filter: *FilterUK}
+  - {name: 法国时延优选策略组, <<: *UrlTest, filter: *FilterFR}
+  - {name: 德国时延优选策略组, <<: *UrlTest, filter: *FilterDE}
 
 # 故障转移策略组
-  - {name: 🚥香港故障转移策略组, <<: *FallBack, filter: *FilterHK}
-  - {name: 🚥台湾故障转移策略组, <<: *FallBack, filter: *FilterTW}
-  - {name: 🚥日本故障转移策略组, <<: *FallBack, filter: *FilterJP}
-  - {name: 🚥韩国故障转移策略组, <<: *FallBack, filter: *FilterKR}
-  - {name: 🚥新加坡故障转移策略组, <<: *FallBack, filter: *FilterSG}
-  - {name: 🚥美国故障转移策略组, <<: *FallBack, filter: *FilterUS}
-  - {name: 🚥英国故障转移策略组, <<: *FallBack, filter: *FilterUK}
-  - {name: 🚥法国故障转移策略组, <<: *FallBack, filter: *FilterFR}
-  - {name: 🚥德国故障转移策略组, <<: *FallBack, filter: *FilterDE}
+  - {name: 香港故障转移策略组, <<: *FallBack, filter: *FilterHK}
+  - {name: 台湾故障转移策略组, <<: *FallBack, filter: *FilterTW}
+  - {name: 日本故障转移策略组, <<: *FallBack, filter: *FilterJP}
+  - {name: 韩国故障转移策略组, <<: *FallBack, filter: *FilterKR}
+  - {name: 新加坡故障转移策略组, <<: *FallBack, filter: *FilterSG}
+  - {name: 美国故障转移策略组, <<: *FallBack, filter: *FilterUS}
+  - {name: 英国故障转移策略组, <<: *FallBack, filter: *FilterUK}
+  - {name: 法国故障转移策略组, <<: *FallBack, filter: *FilterFR}
+  - {name: 德国故障转移策略组, <<: *FallBack, filter: *FilterDE}
 
 # 负载均衡策略组
-  - {name: 🎛香港负载均衡策略组, <<: *LoadBalance, filter: *FilterHK}
-  - {name: 🎛台湾负载均衡策略组, <<: *LoadBalance, filter: *FilterTW}
-  - {name: 🎛日本负载均衡策略组, <<: *LoadBalance, filter: *FilterJP}
-  - {name: 🎛韩国负载均衡策略组, <<: *LoadBalance, filter: *FilterKR}
-  - {name: 🎛新加坡负载均衡策略组, <<: *LoadBalance, filter: *FilterSG}
-  - {name: 🎛美国负载均衡策略组, <<: *LoadBalance, filter: *FilterUS}
-  - {name: 🎛英国负载均衡策略组, <<: *LoadBalance, filter: *FilterUK}
-  - {name: 🎛法国负载均衡策略组, <<: *LoadBalance, filter: *FilterFR}
-  - {name: 🎛德国负载均衡策略组, <<: *LoadBalance, filter: *FilterDE}
+  - {name: 香港负载均衡策略组, <<: *LoadBalance, filter: *FilterHK}
+  - {name: 台湾负载均衡策略组, <<: *LoadBalance, filter: *FilterTW}
+  - {name: 日本负载均衡策略组, <<: *LoadBalance, filter: *FilterJP}
+  - {name: 韩国负载均衡策略组, <<: *LoadBalance, filter: *FilterKR}
+  - {name: 新加坡负载均衡策略组, <<: *LoadBalance, filter: *FilterSG}
+  - {name: 美国负载均衡策略组, <<: *LoadBalance, filter: *FilterUS}
+  - {name: 英国负载均衡策略组, <<: *LoadBalance, filter: *FilterUK}
+  - {name: 法国负载均衡策略组, <<: *LoadBalance, filter: *FilterFR}
+  - {name: 德国负载均衡策略组, <<: *LoadBalance, filter: *FilterDE}
 
 # 订阅规则
 rule-providers:
