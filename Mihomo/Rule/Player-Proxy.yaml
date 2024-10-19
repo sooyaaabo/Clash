@@ -12,6 +12,18 @@ payload:
   - DOMAIN-SUFFIX,olehdtv.com
   - DOMAIN-SUFFIX,olemovienews.com
   - DOMAIN-KEYWORD,olevod
+# 低端影视
+#  - DOMAIN-SUFFIX,ddrk.me
+#  - DOMAIN-SUFFIX,ddys.pro
+#  - DOMAIN-SUFFIX,ddys.mov
+#  - DOMAIN-SUFFIX,ddys.tv
+#  - DOMAIN-SUFFIX,ddys.info
+#  - DOMAIN-SUFFIX,ddys.love
+# 在线之家
+#  - DOMAIN-SUFFIX,zxzja.com
+#  - DOMAIN-SUFFIX,zxzj.site
+#  - DOMAIN-SUFFIX,zxzjhd.com
+#  - DOMAIN-SUFFIX,zxzj.pro
 # 独播库
   - DOMAIN-SUFFIX,duboku.tv
   - DOMAIN-SUFFIX,pub.duboku.net
@@ -36,6 +48,18 @@ payload:
   - DOMAIN-SUFFIX,4kdyg.fun
 
 # XPTV
+# 厂长资源
+#  - DOMAIN-SUFFIX,czzy.site
+#  - DOMAIN-SUFFIX,czys.top
+#  - DOMAIN-SUFFIX,czzy.top
+#  - DOMAIN-SUFFIX,czzy.tv
+#  - DOMAIN-SUFFIX,cz01.vip
+#  - DOMAIN-SUFFIX,cz01.tv
+#  - DOMAIN-SUFFIX,czzy22.com
+#  - DOMAIN-SUFFIX,czzy66.com
+#  - DOMAIN-SUFFIX,czzy77.com
+#  - DOMAIN-SUFFIX,czzy88.com
+#  - DOMAIN-SUFFIX,cz233.com
 # ギリギリ动漫
   - DOMAIN-SUFFIX,girigirilove.com
 # AnFuns动漫
@@ -44,6 +68,8 @@ payload:
   - DOMAIN-SUFFIX,bttwo.net
 # 美剧星球
   - DOMAIN-SUFFIX,kmeiju.cc
+# 木偶哥哥
+  - DOMAIN,www.mogg.top
 
 # Emby
 # 普拉斯影业
@@ -55,21 +81,19 @@ payload:
 # MisakaF
   - DOMAIN-SUFFIX,aca.best
   - DOMAIN-SUFFIX,misakaf.org
-  - IP-CIDR,102.223.180.108/32
+  - IP-CIDR,102.223.180.108/32,no-resolve
 # 终点站
   - DOMAIN-SUFFIX,emby.wtf
+# 纸片人
+  - DOMAIN-SUFFIX,embyplus.org
 # 牢大科蜜野兽
-  - DOMAIN,ph.16bit.cfd
+  - DOMAIN-SUFFIX,mius.uk
 # Alpha
   - DOMAIN-SUFFIX,alphatvapp.top
 # Nanflix
   - DOMAIN-SUFFIX,nanflix.net
 # CC
   - DOMAIN-SUFFIX,coemn.com
-# Apop
-  - IP-CIDR,64.110.90.125/32,no-resolve
-# Plumber
-  - DOMAIN,tiancheng.boaz.cf
 # CharonTV
   - DOMAIN-SUFFIX,charontv.com
 # Jellyfish+

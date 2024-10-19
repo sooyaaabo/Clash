@@ -192,6 +192,9 @@ payload:
   - DOMAIN,item.xpgtv.xyz
 # 瓜子影视
   - DOMAIN,api.zaqohu.com
+# HDmoli
+  - DOMAIN-SUFFIX,damoli.pro
+  - DOMAIN-SUFFIX,hdmoli.pro
 # 厂长资源
   - DOMAIN-SUFFIX,czzy.site
   - DOMAIN-SUFFIX,czys.top
@@ -217,9 +220,9 @@ payload:
   - DOMAIN-SUFFIX,yjys.inf.ua
   - DOMAIN-SUFFIX,yjys.cc.ua
 # 哔嘀播放
-  - DOMAIN-suffix,ibytedtos.com
-  - DOMAIN-suffix,toutiao50.com
-  - DOMAIN-suffix,ibyteimg.com
+  - DOMAIN-SUFFIX,ibytedtos.com
+  - DOMAIN-SUFFIX,toutiao50.com
+  - DOMAIN-SUFFIX,ibyteimg.com
 # LIBVIO
   - DOMAIN-SUFFIX,libvio.app
   - DOMAIN-SUFFIX,libvio.link
@@ -237,10 +240,20 @@ payload:
   - DOMAIN-KEYWORD,wobge.run
 # 小纸条
   - DOMAIN-SUFFIX,a.gitcafe.net
-  - DOMAIN-SUFFIX,ali.gitcafe.ink 
+  - DOMAIN-SUFFIX,ali.gitcafe.ink 
   - DOMAIN,yunluo.oss-cn-shanghai.aliyuncs.com
 # JOJO
   - DOMAIN-SUFFIX,jiohub.top
+# 南风短剧
+  - DOMAIN,www.nanf.cc
+# 多多影音
+  - DOMAIN-SUFFIX,yydsys.top
+# 蜡笔盘
+  - DOMAIN-SUFFIX,labipan.com
+# 至臻视觉
+  - DOMAIN-SUFFIX,mihdr.top
+# 云盘资源网
+  - DOMAIN-SUFFIX,res.yunpan.win
 # 网盘播放
   - DOMAIN-KEYWORD,quark
   - DOMAIN,drive-pc.quark.cn
@@ -267,10 +280,7 @@ payload:
   - DOMAIN-SUFFIX,bangumi.ca
 # PiliPili
   - DOMAIN-SUFFIX,pilipili.club
-  - DOMAIN-SUFFIX,pilifun.top
   - DOMAIN,xn--ohq746dhyifsj.xn--pp5aa2sb.com
-# 纸片人
-  - DOMAIN-SUFFIX,embyplus.org
 # 二刺螈
   - DOMAIN-SUFFIX,nijigem.by
 # 大V影院
@@ -285,8 +295,12 @@ payload:
   - DOMAIN-SUFFIX,sfcj.org
 # Temby
   - DOMAIN-SUFFIX,285286.xyz
+# 飞跃银河
+  - DOMAIN-SUFFIX,yhemby.top
 # hka
   - DOMAIN-SUFFIX,aliz.work
+# Watermelon
+  - DOMAIN-SUFFIX,1024.name
 # lily
   - DOMAIN-SUFFIX,lilyya.xyz
 # CC
@@ -294,24 +308,17 @@ payload:
 # Apop
   - DOMAIN-SUFFIX,apopcloud.me
   - DOMAIN-SUFFIX,apopcloud.live
-  - IP-CIDR,208.75.134.189/32,no-resolve
-  - IP-CIDR,50.114.159.46/32,no-resolve
-  - IP-CIDR,109.176.203.63/32,no-resolve
-  - IP-CIDR,45.119.99.41/32,no-resolve
-  - IP-CIDR,132.226.20.31/32,no-resolve
-# Watermelon
-  - DOMAIN-SUFFIX,1024.name
-# 牢大科蜜野兽
-  - DOMAIN-SUFFIX,mius.uk
 # 终点站
   - DOMAIN-SUFFIX,term.wtf
 # yomo
   - DOMAIN-SUFFIX,yomo.lol
 # peach
   - DOMAIN-SUFFIX,embymv.link
+# Plumber
+  - DOMAIN-SUFFIX,boaz.cf
+  - DOMAIN-SUFFIX,910427.xyz
 # awa
   - DOMAIN-SUFFIX,811861.xyz
-  - DOMAIN-SUFFIX,awatv.de
 
 # Jellyfin
 # 探花TV
@@ -321,6 +328,8 @@ payload:
 #豆瓣封面
   - DOMAIN-SUFFIX,doubanio.com
 #杂七杂八的播放
+  - DOMAIN-SUFFIX,damoli.pro
+  - DOMAIN-SUFFIX,hdmoli.pro
   - DOMAIN-SUFFIX,4k-av.com
   - DOMAIN,ppvod01.blbtgg.com
   - DOMAIN-SUFFIX,zaqohu.com
@@ -412,7 +421,7 @@ payload:
   - DOMAIN-KEYWORD,v.cdnlz
   - DOMAIN-KEYWORD,vip.kuaikan
   - DOMAIN-KEYWORD,vip.ffzy
-  - DOMAIN-KEYWORD,kuaiyun
+DOMAIN-KEYWORD,kuaiyun
   - DOMAIN,vod2.kczybf.com
   - DOMAIN,top.1080pzy.co
   - DOMAIN,c3.monidai.com
