@@ -116,12 +116,6 @@ proxy-providers:
     path: './proxy_providers/机场名称2.yaml'
     override:
       additional-prefix: "[机场名称2] " # 为订阅节点添加机场名称前缀
-  机场名称3:
-    url: '机场订阅3'
-    <<: *NodeParam
-    path: './proxy_providers/机场名称3.yaml'
-    override:
-      additional-prefix: "[机场名称3] " # 为订阅节点添加机场名称前缀
 
 # 锚点 - 节点筛选组
 FilterHK: &FilterHK '^(?=.*((?i)🇭🇰|香港|(\b(HK|Hong)\b)))(?!.*((?i)家宽|回国|校园|游戏|🎮|(\b(GAME)\b))).*$'
@@ -255,7 +249,7 @@ rule-providers:
 
   GitHub:
     <<: *RuleProviders
-    path: './rules/1PasswordUS.yaml'
+    path: './rules/GitHub.yaml'
     url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GitHub/GitHub.yaml'
 
   Steam:
