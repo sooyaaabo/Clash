@@ -96,5 +96,8 @@ payload:
   - DOMAIN-SUFFIX,coemn.com
 # CharonTV
   - DOMAIN-SUFFIX,charontv.com
+# Plumber
+  - DOMAIN-SUFFIX,boaz.cf
+  - DOMAIN-SUFFIX,910427.xyz
 # Jellyfish+
   - DOMAIN,vip3.jellyfin.asia

@@ -240,7 +240,7 @@ payload:
   - DOMAIN-KEYWORD,wobge.run
 # 小纸条
   - DOMAIN-SUFFIX,a.gitcafe.net
-  - DOMAIN-SUFFIX,ali.gitcafe.ink 
+  - DOMAIN-SUFFIX,ali.gitcafe.ink 
   - DOMAIN,yunluo.oss-cn-shanghai.aliyuncs.com
 # JOJO
   - DOMAIN-SUFFIX,jiohub.top
@@ -254,6 +254,8 @@ payload:
   - DOMAIN-SUFFIX,mihdr.top
 # 云盘资源网
   - DOMAIN-SUFFIX,res.yunpan.win
+# 正奕
+  - DOMAIN-SUFFIX,jnczyl.top
 # 网盘播放
   - DOMAIN-KEYWORD,quark
   - DOMAIN,drive-pc.quark.cn
@@ -295,12 +297,17 @@ payload:
   - DOMAIN-SUFFIX,sfcj.org
 # Temby
   - DOMAIN-SUFFIX,285286.xyz
+# 飞跃彩虹
+  - DOMAIN-SUFFIX,581658.best
+  - DOMAIN-SUFFIX,7777777.buzz
 # 飞跃银河
   - DOMAIN-SUFFIX,yhemby.top
 # hka
   - DOMAIN-SUFFIX,aliz.work
 # Watermelon
   - DOMAIN-SUFFIX,1024.name
+# Levilde Luminia
+  - DOMAIN-SUFFIX,itsmyduty.top
 # lily
   - DOMAIN-SUFFIX,lilyya.xyz
 # CC
@@ -314,16 +321,14 @@ payload:
   - DOMAIN-SUFFIX,yomo.lol
 # peach
   - DOMAIN-SUFFIX,embymv.link
-# Plumber
-  - DOMAIN-SUFFIX,boaz.cf
-  - DOMAIN-SUFFIX,910427.xyz
 # awa
-  - DOMAIN-SUFFIX,811861.xyz
+  - DOMAIN-SUFFIX,awatv.de
+# PrejuDice Jellyfin
+  - DOMAIN,jellyfin.1l1.icu
 
 # Jellyfin
 # 探花TV
   - DOMAIN-SUFFIX,tanhuatv.site
-  - IP-CIDR,152.53.67.239/32,no-resolve
 
 #豆瓣封面
   - DOMAIN-SUFFIX,doubanio.com
@@ -421,7 +426,7 @@ payload:
   - DOMAIN-KEYWORD,v.cdnlz
   - DOMAIN-KEYWORD,vip.kuaikan
   - DOMAIN-KEYWORD,vip.ffzy
-DOMAIN-KEYWORD,kuaiyun
+  - DOMAIN-KEYWORD,kuaiyun
   - DOMAIN,vod2.kczybf.com
   - DOMAIN,top.1080pzy.co
   - DOMAIN,c3.monidai.com
