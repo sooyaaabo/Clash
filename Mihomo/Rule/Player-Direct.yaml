@@ -287,8 +287,6 @@ payload:
   - DOMAIN-SUFFIX,mooguu.top
 # 普拉斯影业
   - DOMAIN,emby-best.xeton.dev
-# 放映机
-  - DOMAIN-SUFFIX,9191001.xyz
 # 非越
   - DOMAIN-SUFFIX,sfcj.org
 # Temby
