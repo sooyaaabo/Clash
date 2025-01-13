@@ -50,9 +50,9 @@ jobs:
         # 下载配置文件并在文件中添加原链接
         for config_name in "${!configs[@]}"; do
             url="${configs[$config_name]}"
-            curl -A -L -o "KeleeOne/Config/${config_name}.yaml" "$url"
+            curl -A -L -o "Clash/Config/${config_name}.yaml" "$url"
 
-            sed -i "1s|^|# 引用链接: $url\n|" "KeleeOne/Config/$config_name.yaml"  # 在文件开头添加原链接
+            sed -i "1s|^|# 引用链接: $url\n|" "Clash/Config/$config_name.yaml"  # 在文件开头添加原链接
         done
 
         
@@ -755,7 +755,7 @@ jobs:
         # 下载规则
         for list_name in "${!lists[@]}"; do
             url="${lists[$list_name]}"
-            curl -A -L -o "KeleeOne/Rule/${list_name}.yaml" "$url"
+            curl -A -L -o "Clash/Rule/${list_name}.yaml" "$url"
         done
 
 
