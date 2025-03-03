@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-04 02:26:12
-# RuleCount：1158
+# UpdateTime：2025-03-04 03:18:19
+# RuleCount：1157
 payload:
   - DOMAIN,e13252.dscg.akamaiedge.net
   - DOMAIN,netflix.com.edgesuite.net
@@ -34,10 +34,10 @@ payload:
   - DOMAIN-SUFFIX,nflxso.net
   - DOMAIN-SUFFIX,nflxvideo.net
   - DOMAIN-SUFFIX,cookielaw.org
-  - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
+  - DOMAIN-KEYWORD,netflixdnstest
   - DOMAIN-KEYWORD,dualstack.apiproxy-
   - DOMAIN-KEYWORD,dualstack.ichnaea-web-
-  - DOMAIN-KEYWORD,netflixdnstest
+  - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
   - USER-AGENT,Argo*
   - IP-CIDR,99.78.238.255/32
   - IP-CIDR,99.78.238.253/32
@@ -1158,4 +1158,3 @@ payload:
   - IP-CIDR6,2607:fb10::/32
   - IP-CIDR6,2a00:86c0::/32
   - IP-CIDR6,2a03:5640::/32
-  - HOST-WILDCARD,netflixdnstest*.com

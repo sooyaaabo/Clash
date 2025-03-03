@@ -1,4 +1,4 @@
-# UpdateTime：2025-03-04 02:26:13
+# UpdateTime：2025-03-04 03:18:18
 # RuleCount：31847
 payload:
   - DOMAIN,practivate.adobe
@@ -31650,42 +31650,42 @@ payload:
   - DOMAIN-SUFFIX,google.co.zw
   - DOMAIN-SUFFIX,volvotrucks.co.zw
   - DOMAIN-SUFFIX,youtube.co.zw
+  - DOMAIN-KEYWORD,jav
   - DOMAIN-KEYWORD,1drv
+  - DOMAIN-KEYWORD,avtb
+  - DOMAIN-KEYWORD,porn
   - DOMAIN-KEYWORD,1e100
   - DOMAIN-KEYWORD,abema
-  - DOMAIN-KEYWORD,amazon
-  - DOMAIN-KEYWORD,appledaily
-  - DOMAIN-KEYWORD,avoddashs
-  - DOMAIN-KEYWORD,avtb
-  - DOMAIN-KEYWORD,bbcfmt
-  - DOMAIN-KEYWORD,beetalk
-  - DOMAIN-KEYWORD,blogspot
-  - DOMAIN-KEYWORD,dlercloud
-  - DOMAIN-KEYWORD,dropbox
-  - DOMAIN-KEYWORD,facebook
   - DOMAIN-KEYWORD,fbcdn
   - DOMAIN-KEYWORD,gmail
-  - DOMAIN-KEYWORD,google
-  - DOMAIN-KEYWORD,instagram
-  - DOMAIN-KEYWORD,jav
-  - DOMAIN-KEYWORD,musical.ly
-  - DOMAIN-KEYWORD,onedrive
-  - DOMAIN-KEYWORD,paypal
-  - DOMAIN-KEYWORD,pinterest
-  - DOMAIN-KEYWORD,porn
-  - DOMAIN-KEYWORD,sci-hub
-  - DOMAIN-KEYWORD,skydrive
-  - DOMAIN-KEYWORD,spotify
-  - DOMAIN-KEYWORD,telegram
-  - DOMAIN-KEYWORD,tiktok
   - DOMAIN-KEYWORD,ttvnw
   - DOMAIN-KEYWORD,twimg
+  - DOMAIN-KEYWORD,amazon
+  - DOMAIN-KEYWORD,bbcfmt
+  - DOMAIN-KEYWORD,google
+  - DOMAIN-KEYWORD,paypal
+  - DOMAIN-KEYWORD,tiktok
+  - DOMAIN-KEYWORD,beetalk
+  - DOMAIN-KEYWORD,dropbox
+  - DOMAIN-KEYWORD,sci-hub
+  - DOMAIN-KEYWORD,spotify
   - DOMAIN-KEYWORD,twitter
   - DOMAIN-KEYWORD,uk-live
   - DOMAIN-KEYWORD,voddazn
-  - DOMAIN-KEYWORD,whatsapp
-  - DOMAIN-KEYWORD,wikileaks
   - DOMAIN-KEYWORD,youtube
+  - DOMAIN-KEYWORD,blogspot
+  - DOMAIN-KEYWORD,facebook
+  - DOMAIN-KEYWORD,onedrive
+  - DOMAIN-KEYWORD,skydrive
+  - DOMAIN-KEYWORD,telegram
+  - DOMAIN-KEYWORD,whatsapp
+  - DOMAIN-KEYWORD,avoddashs
+  - DOMAIN-KEYWORD,dlercloud
+  - DOMAIN-KEYWORD,instagram
+  - DOMAIN-KEYWORD,pinterest
+  - DOMAIN-KEYWORD,wikileaks
+  - DOMAIN-KEYWORD,appledaily
+  - DOMAIN-KEYWORD,musical.ly
   - USER-AGENT,My5*
   - USER-AGENT,PBS*
   - USER-AGENT,Viu*

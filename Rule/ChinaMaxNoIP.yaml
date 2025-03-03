@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-04 02:26:26
-# RuleCount：96373
+# UpdateTime：2025-03-04 03:18:31
+# RuleCount：96372
 payload:
   - DOMAIN,livecdnh2.tvanywhere.ae
   - DOMAIN,ip.istatmenus.app
@@ -96295,19 +96295,19 @@ payload:
   - DOMAIN-SUFFIX,vksir.zone
   - DOMAIN-SUFFIX,waimai.zone
   - DOMAIN-SUFFIX,wss.zone
-  - DOMAIN-KEYWORD,.tmall.com
+  - DOMAIN-KEYWORD,qiyi
+  - DOMAIN-KEYWORD,baidu
+  - DOMAIN-KEYWORD,weibo
   - DOMAIN-KEYWORD,alicdn
   - DOMAIN-KEYWORD,alipay
   - DOMAIN-KEYWORD,aliyun
-  - DOMAIN-KEYWORD,baidu
   - DOMAIN-KEYWORD,beplay
+  - DOMAIN-KEYWORD,stripe
+  - DOMAIN-KEYWORD,taobao
   - DOMAIN-KEYWORD,bilibili
   - DOMAIN-KEYWORD,hnagroup
   - DOMAIN-KEYWORD,officecdn
-  - DOMAIN-KEYWORD,qiyi
-  - DOMAIN-KEYWORD,stripe
-  - DOMAIN-KEYWORD,taobao
-  - DOMAIN-KEYWORD,weibo
+  - DOMAIN-KEYWORD,.tmall.com
   - USER-AGENT,QQ*
   - USER-AGENT,MOO*
   - USER-AGENT,TIM*
@@ -96373,4 +96373,3 @@ payload:
   - USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
   - USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
   - USER-AGENT,%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C*
-  - HOST-WILDCARD,windows-*.net

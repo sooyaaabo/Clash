@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-04 02:26:14
-# RuleCount：3655
+# UpdateTime：2025-03-04 03:18:19
+# RuleCount：3654
 payload:
   - DOMAIN,ip.istatmenus.app
   - DOMAIN,client.amplifi.com
@@ -3600,15 +3600,15 @@ payload:
   - DOMAIN-SUFFIX,xin.xin
   - DOMAIN-SUFFIX,qq.xn--fiqs8s
   - DOMAIN-SUFFIX,xn--r70as2s.xn--fiqs8s
-  - DOMAIN-KEYWORD,.tmall.com
+  - DOMAIN-KEYWORD,baidu
   - DOMAIN-KEYWORD,alicdn
   - DOMAIN-KEYWORD,alipay
   - DOMAIN-KEYWORD,aliyun
-  - DOMAIN-KEYWORD,baidu
   - DOMAIN-KEYWORD,beplay
+  - DOMAIN-KEYWORD,taobao
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-KEYWORD,officecdn
-  - DOMAIN-KEYWORD,taobao
+  - DOMAIN-KEYWORD,.tmall.com
   - USER-AGENT,QQ*
   - USER-AGENT,TIM*
   - USER-AGENT,cmb*
@@ -3655,4 +3655,3 @@ payload:
   - IP-CIDR6,2a0b:b581::/48
   - IP-CIDR6,2a0b:b582::/48
   - IP-CIDR6,2a0b:b583::/48
-  - HOST-WILDCARD,windows-*.net

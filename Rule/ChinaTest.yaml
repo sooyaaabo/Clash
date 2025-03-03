@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-04 02:26:19
-# RuleCount：94110
+# UpdateTime：2025-03-04 03:18:25
+# RuleCount：94109
 payload:
   - DOMAIN,ip.istatmenus.app
   - DOMAIN,play.1ucrs.com
@@ -94055,15 +94055,15 @@ payload:
   - DOMAIN-SUFFIX,vksir.zone
   - DOMAIN-SUFFIX,waimai.zone
   - DOMAIN-SUFFIX,wss.zone
-  - DOMAIN-KEYWORD,.tmall.com
+  - DOMAIN-KEYWORD,baidu
   - DOMAIN-KEYWORD,alicdn
   - DOMAIN-KEYWORD,alipay
   - DOMAIN-KEYWORD,aliyun
-  - DOMAIN-KEYWORD,baidu
   - DOMAIN-KEYWORD,beplay
+  - DOMAIN-KEYWORD,taobao
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-KEYWORD,officecdn
-  - DOMAIN-KEYWORD,taobao
+  - DOMAIN-KEYWORD,.tmall.com
   - USER-AGENT,QQ*
   - USER-AGENT,TIM*
   - USER-AGENT,cmb*
@@ -94110,4 +94110,3 @@ payload:
   - IP-CIDR6,2a0b:b581::/48
   - IP-CIDR6,2a0b:b582::/48
   - IP-CIDR6,2a0b:b583::/48
-  - HOST-WILDCARD,windows-*.net

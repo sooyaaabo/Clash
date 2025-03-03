@@ -1,4 +1,4 @@
-# UpdateTime：2025-03-04 02:26:11
+# UpdateTime：2025-03-04 03:18:16
 # RuleCount：200
 payload:
   - DOMAIN,token-api.metaswap.codefi.network
@@ -197,7 +197,7 @@ payload:
   - DOMAIN-SUFFIX,docs.lotu.sh
   - DOMAIN-SUFFIX,tether.to
   - DOMAIN-SUFFIX,vfat.tools
-  - DOMAIN-KEYWORD,binance
-  - DOMAIN-KEYWORD,huobi
-  - DOMAIN-KEYWORD,metamask
   - DOMAIN-KEYWORD,okx
+  - DOMAIN-KEYWORD,huobi
+  - DOMAIN-KEYWORD,binance
+  - DOMAIN-KEYWORD,metamask

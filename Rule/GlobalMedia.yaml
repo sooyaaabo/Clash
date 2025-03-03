@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-04 02:26:11
-# RuleCount：2310
+# UpdateTime：2025-03-04 03:18:17
+# RuleCount：2300
 payload:
   - DOMAIN,ktpx.amazon.com
   - DOMAIN,gspe1-ssl.ls.apple.com
@@ -1284,30 +1284,30 @@ payload:
   - DOMAIN-SUFFIX,huffingtonpost.co.za
   - DOMAIN-SUFFIX,youtube.co.za
   - DOMAIN-SUFFIX,youtube.co.zw
-  - DOMAIN-KEYWORD,abematv.akamaized.net
-  - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
-  - DOMAIN-KEYWORD,avoddashs
-  - DOMAIN-KEYWORD,bbcfmt
-  - DOMAIN-KEYWORD,discovery.uplynk.com
-  - DOMAIN-KEYWORD,dualstack.apiproxy-
-  - DOMAIN-KEYWORD,dualstack.ichnaea-web-
-  - DOMAIN-KEYWORD,hamivideo.cdn.hinet.net
-  - DOMAIN-KEYWORD,hbogoasia
-  - DOMAIN-KEYWORD,japonx
-  - DOMAIN-KEYWORD,japronx
-  - DOMAIN-KEYWORD,jooxweb-api
-  - DOMAIN-KEYWORD,netflixdnstest
   - DOMAIN-KEYWORD,nivod
-  - DOMAIN-KEYWORD,nowtv100
-  - DOMAIN-KEYWORD,olevod
-  - DOMAIN-KEYWORD,rthklive
-  - DOMAIN-KEYWORD,spotify
-  - DOMAIN-KEYWORD,tiktokcdn
   - DOMAIN-KEYWORD,ttvnw
-  - DOMAIN-KEYWORD,tvbanywhere
+  - DOMAIN-KEYWORD,bbcfmt
+  - DOMAIN-KEYWORD,japonx
+  - DOMAIN-KEYWORD,olevod
+  - DOMAIN-KEYWORD,japronx
+  - DOMAIN-KEYWORD,spotify
   - DOMAIN-KEYWORD,uk-live
   - DOMAIN-KEYWORD,voddazn
   - DOMAIN-KEYWORD,youtube
+  - DOMAIN-KEYWORD,nowtv100
+  - DOMAIN-KEYWORD,rthklive
+  - DOMAIN-KEYWORD,avoddashs
+  - DOMAIN-KEYWORD,hbogoasia
+  - DOMAIN-KEYWORD,tiktokcdn
+  - DOMAIN-KEYWORD,jooxweb-api
+  - DOMAIN-KEYWORD,tvbanywhere
+  - DOMAIN-KEYWORD,netflixdnstest
+  - DOMAIN-KEYWORD,dualstack.apiproxy-
+  - DOMAIN-KEYWORD,discovery.uplynk.com
+  - DOMAIN-KEYWORD,abematv.akamaized.net
+  - DOMAIN-KEYWORD,dualstack.ichnaea-web-
+  - DOMAIN-KEYWORD,hamivideo.cdn.hinet.net
+  - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
   - USER-AGENT,HBO*
   - USER-AGENT,Max*
   - USER-AGENT,My5*
@@ -2301,13 +2301,3 @@ payload:
   - IP-CIDR6,2607:fb10::/32
   - IP-CIDR6,2a00:86c0::/32
   - IP-CIDR6,2a03:5640::/32
-  - HOST-WILDCARD,dc?livedazn.akamaized.net
-  - HOST-WILDCARD,dc?voddazn.akamaized.net
-  - HOST-WILDCARD,netflixdnstest*.com
-  - HOST-WILDCARD,youtube.*
-  - HOST-WILDCARD,youtube.*.*
-  - HOST-WILDCARD,youtube.co.*
-  - HOST-WILDCARD,youtube.com.*
-  - HOST-WILDCARD,youtubego.*
-  - HOST-WILDCARD,youtubego.co.*
-  - HOST-WILDCARD,youtubego.com.*

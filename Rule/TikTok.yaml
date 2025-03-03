@@ -1,4 +1,4 @@
-# UpdateTime：2025-03-04 02:26:11
+# UpdateTime：2025-03-04 03:18:18
 # RuleCount：28
 payload:
   - DOMAIN,lf16-effectcdn.byteeffecttos-g.com
@@ -26,6 +26,6 @@ payload:
   - DOMAIN-SUFFIX,tiktokd.net
   - DOMAIN-SUFFIX,tiktokd.org
   - DOMAIN-SUFFIX,tiktokv.us
-  - DOMAIN-KEYWORD,musical.ly
   - DOMAIN-KEYWORD,tiktok
+  - DOMAIN-KEYWORD,musical.ly
   - USER-AGENT,TikTok*

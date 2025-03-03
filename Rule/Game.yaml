@@ -1,4 +1,4 @@
-# UpdateTime：2025-03-04 02:26:14
+# UpdateTime：2025-03-04 03:18:19
 # RuleCount：597
 payload:
   - DOMAIN,login.live.com
@@ -549,8 +549,8 @@ payload:
   - DOMAIN-SUFFIX,garena.vn
   - DOMAIN-SUFFIX,nintendo.co.za
   - DOMAIN-KEYWORD,epicgames
-  - DOMAIN-KEYWORD,steambroadcast
   - DOMAIN-KEYWORD,steamstore
+  - DOMAIN-KEYWORD,steambroadcast
   - DOMAIN-KEYWORD,steamuserimages
   - IP-CIDR,222.231.22.1/32
   - IP-CIDR,211.234.110.1/32

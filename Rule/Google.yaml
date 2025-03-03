@@ -1,4 +1,4 @@
-# UpdateTime：2025-03-04 02:26:14
+# UpdateTime：2025-03-04 03:18:19
 # RuleCount：735
 payload:
   - DOMAIN,lens.l.google.com
@@ -723,10 +723,10 @@ payload:
   - DOMAIN-SUFFIX,google.co.za
   - DOMAIN-SUFFIX,google.co.zm
   - DOMAIN-SUFFIX,google.co.zw
-  - DOMAIN-KEYWORD,appspot
-  - DOMAIN-KEYWORD,blogspot
   - DOMAIN-KEYWORD,gmail
   - DOMAIN-KEYWORD,google
+  - DOMAIN-KEYWORD,appspot
+  - DOMAIN-KEYWORD,blogspot
   - DOMAIN-KEYWORD,recaptcha
   - USER-AGENT,Google.Drive*
   - USER-AGENT,*com.google.Drive*

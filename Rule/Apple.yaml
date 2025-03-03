@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-04 02:26:11
-# RuleCount：1872
+# UpdateTime：2025-03-04 03:18:17
+# RuleCount：1857
 payload:
   - DOMAIN,edge.apple
   - DOMAIN,api.smoot.apple.cn
@@ -1818,13 +1818,13 @@ payload:
   - DOMAIN-SUFFIX,xn--ruq8a011kt6y.xn--hxt814e
   - DOMAIN-SUFFIX,apple.xyz
   - DOMAIN-SUFFIX,ipod.co.za
-  - DOMAIN-KEYWORD,apple-support.akadns.net
-  - DOMAIN-KEYWORD,apple.com.akadns.net
-  - DOMAIN-KEYWORD,apple.com.edgekey.net
-  - DOMAIN-KEYWORD,buy.itunes.apple.com
-  - DOMAIN-KEYWORD,icloud.com.akadns.net
   - DOMAIN-KEYWORD,smp-device
   - DOMAIN-KEYWORD,testflight
+  - DOMAIN-KEYWORD,apple.com.akadns.net
+  - DOMAIN-KEYWORD,buy.itunes.apple.com
+  - DOMAIN-KEYWORD,apple.com.edgekey.net
+  - DOMAIN-KEYWORD,icloud.com.akadns.net
+  - DOMAIN-KEYWORD,apple-support.akadns.net
   - USER-AGENT,FMFD*
   - USER-AGENT,Maps*
   - USER-AGENT,geod*
@@ -1858,18 +1858,3 @@ payload:
   - IP-CIDR,63.92.224.0/19
   - IP-CIDR,139.178.128.0/18
   - IP-CIDR,17.0.0.0/8
-  - HOST-WILDCARD,*-content.icloud.com.cn
-  - HOST-WILDCARD,apple.*
-  - HOST-WILDCARD,apple.com.*
-  - HOST-WILDCARD,appleworldwidedeveloper.*.net
-  - HOST-WILDCARD,imac.*
-  - HOST-WILDCARD,init*.push-apple.com.akadns.net
-  - HOST-WILDCARD,init*.push.apple.com
-  - HOST-WILDCARD,ipad.*
-  - HOST-WILDCARD,ipadair.*
-  - HOST-WILDCARD,ipadmini.*
-  - HOST-WILDCARD,iphone.*
-  - HOST-WILDCARD,ipod.*
-  - HOST-WILDCARD,macbook.*
-  - HOST-WILDCARD,macbookair.*
-  - HOST-WILDCARD,macbookpro.*

@@ -1,4 +1,4 @@
-# UpdateTime：2025-03-04 02:26:18
+# UpdateTime：2025-03-04 03:18:24
 # RuleCount：261
 payload:
   - DOMAIN,tracker.qu.ax
@@ -255,10 +255,10 @@ payload:
   - DOMAIN-SUFFIX,msg.vg
   - DOMAIN-SUFFIX,extremlymtorrents.ws
   - DOMAIN-SUFFIX,hd4.xyz
-  - DOMAIN-KEYWORD,announce
-  - DOMAIN-KEYWORD,chdbits
   - DOMAIN-KEYWORD,m-team
+  - DOMAIN-KEYWORD,chdbits
   - DOMAIN-KEYWORD,torrent
+  - DOMAIN-KEYWORD,announce
   - IP-CIDR,207.241.231.226/32
   - IP-CIDR,207.241.226.111/32
   - IP-CIDR,52.58.128.163/32

@@ -1,4 +1,4 @@
-# UpdateTime：2025-03-04 02:26:11
+# UpdateTime：2025-03-04 03:18:17
 # RuleCount：6680
 payload:
   - DOMAIN,developer.apple.com
@@ -6551,31 +6551,31 @@ payload:
   - DOMAIN-SUFFIX,google.co.zm
   - DOMAIN-SUFFIX,google.co.zw
   - DOMAIN-KEYWORD,1drv
+  - DOMAIN-KEYWORD,avtb
+  - DOMAIN-KEYWORD,porn
   - DOMAIN-KEYWORD,1e100
   - DOMAIN-KEYWORD,abema
-  - DOMAIN-KEYWORD,appledaily
-  - DOMAIN-KEYWORD,avtb
-  - DOMAIN-KEYWORD,beetalk
-  - DOMAIN-KEYWORD,blogspot
-  - DOMAIN-KEYWORD,dlercloud
-  - DOMAIN-KEYWORD,dropbox
-  - DOMAIN-KEYWORD,facebook
   - DOMAIN-KEYWORD,fbcdn
   - DOMAIN-KEYWORD,gmail
-  - DOMAIN-KEYWORD,google
-  - DOMAIN-KEYWORD,instagram
-  - DOMAIN-KEYWORD,onedrive
-  - DOMAIN-KEYWORD,paypal
-  - DOMAIN-KEYWORD,porn
-  - DOMAIN-KEYWORD,sci-hub
-  - DOMAIN-KEYWORD,skydrive
-  - DOMAIN-KEYWORD,spotify
-  - DOMAIN-KEYWORD,telegram
   - DOMAIN-KEYWORD,ttvnw
+  - DOMAIN-KEYWORD,google
+  - DOMAIN-KEYWORD,paypal
+  - DOMAIN-KEYWORD,beetalk
+  - DOMAIN-KEYWORD,dropbox
+  - DOMAIN-KEYWORD,sci-hub
+  - DOMAIN-KEYWORD,spotify
   - DOMAIN-KEYWORD,twitter
   - DOMAIN-KEYWORD,uk-live
-  - DOMAIN-KEYWORD,whatsapp
   - DOMAIN-KEYWORD,youtube
+  - DOMAIN-KEYWORD,blogspot
+  - DOMAIN-KEYWORD,facebook
+  - DOMAIN-KEYWORD,onedrive
+  - DOMAIN-KEYWORD,skydrive
+  - DOMAIN-KEYWORD,telegram
+  - DOMAIN-KEYWORD,whatsapp
+  - DOMAIN-KEYWORD,dlercloud
+  - DOMAIN-KEYWORD,instagram
+  - DOMAIN-KEYWORD,appledaily
   - USER-AGENT,Roam*
   - USER-AGENT,PayPal*
   - USER-AGENT,Duolingo*

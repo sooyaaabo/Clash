@@ -1,4 +1,4 @@
-# UpdateTime：2025-03-04 02:26:20
+# UpdateTime：2025-03-04 03:18:26
 # RuleCount：423
 payload:
   - DOMAIN,112-81-125-43.dhost.00cdn.com
@@ -308,8 +308,8 @@ payload:
   - DOMAIN-SUFFIX,iqiyi.demo.uwp
   - DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s
   - DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s
-  - DOMAIN-KEYWORD,bilibili
   - DOMAIN-KEYWORD,qiyi
+  - DOMAIN-KEYWORD,bilibili
   - USER-AGENT,MOO*
   - USER-AGENT,MGTV*
   - USER-AGENT,QIYI*

@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-04 02:26:23
-# RuleCount：116741
+# UpdateTime：2025-03-04 03:18:26
+# RuleCount：116740
 payload:
   - DOMAIN,livecdnh2.tvanywhere.ae
   - DOMAIN,ip.istatmenus.app
@@ -96193,17 +96193,17 @@ payload:
   - DOMAIN-SUFFIX,vksir.zone
   - DOMAIN-SUFFIX,waimai.zone
   - DOMAIN-SUFFIX,wss.zone
-  - DOMAIN-KEYWORD,.tmall.com
+  - DOMAIN-KEYWORD,baidu
+  - DOMAIN-KEYWORD,weibo
   - DOMAIN-KEYWORD,alicdn
   - DOMAIN-KEYWORD,alipay
   - DOMAIN-KEYWORD,aliyun
-  - DOMAIN-KEYWORD,baidu
   - DOMAIN-KEYWORD,beplay
-  - DOMAIN-KEYWORD,hnagroup
-  - DOMAIN-KEYWORD,officecdn
   - DOMAIN-KEYWORD,stripe
   - DOMAIN-KEYWORD,taobao
-  - DOMAIN-KEYWORD,weibo
+  - DOMAIN-KEYWORD,hnagroup
+  - DOMAIN-KEYWORD,officecdn
+  - DOMAIN-KEYWORD,.tmall.com
   - USER-AGENT,QQ*
   - USER-AGENT,MOO*
   - USER-AGENT,TIM*
@@ -116741,4 +116741,3 @@ payload:
   - IP-CIDR6,240c:c000::/20
   - IP-CIDR6,240e::/18
   - IP-ASN,132203
-  - HOST-WILDCARD,windows-*.net

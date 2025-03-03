@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-04 02:26:11
-# RuleCount：711
+# UpdateTime：2025-03-04 03:18:18
+# RuleCount：710
 payload:
   - DOMAIN,vsmarketplacebadge.apphb.com
   - DOMAIN,bj1.api.bing.com
@@ -705,10 +705,9 @@ payload:
   - DOMAIN-SUFFIX,microsoft.vn
   - DOMAIN-SUFFIX,windows
   - DOMAIN-KEYWORD,1drv
-  - DOMAIN-KEYWORD,microsoft
   - DOMAIN-KEYWORD,onedrive
   - DOMAIN-KEYWORD,skydrive
+  - DOMAIN-KEYWORD,microsoft
   - USER-AGENT,OneDrive*
   - USER-AGENT,Microsoft*
   - USER-AGENT,OneDriveiOSApp*
-  - HOST-WILDCARD,onedrive.*

@@ -1,4 +1,4 @@
-# UpdateTime：2025-03-04 02:26:11
+# UpdateTime：2025-03-04 03:18:17
 # RuleCount：981
 payload:
   - DOMAIN,books.apple.com
@@ -866,26 +866,26 @@ payload:
   - DOMAIN-SUFFIX,flzbcdn.xyz
   - DOMAIN-SUFFIX,icntv.xyz
   - DOMAIN-SUFFIX,picjs.xyz
-  - DOMAIN-KEYWORD,.pinterest.
+  - DOMAIN-KEYWORD,avtb
+  - DOMAIN-KEYWORD,porn
   - DOMAIN-KEYWORD,1e100
   - DOMAIN-KEYWORD,abema
-  - DOMAIN-KEYWORD,appledaily
-  - DOMAIN-KEYWORD,avtb
-  - DOMAIN-KEYWORD,beetalk
-  - DOMAIN-KEYWORD,dlercloud
-  - DOMAIN-KEYWORD,dropbox
-  - DOMAIN-KEYWORD,facebook
   - DOMAIN-KEYWORD,fbcdn
-  - DOMAIN-KEYWORD,instagram
+  - DOMAIN-KEYWORD,ttvnw
   - DOMAIN-KEYWORD,paypal
-  - DOMAIN-KEYWORD,porn
+  - DOMAIN-KEYWORD,beetalk
+  - DOMAIN-KEYWORD,dropbox
   - DOMAIN-KEYWORD,sci-hub
   - DOMAIN-KEYWORD,spotify
-  - DOMAIN-KEYWORD,telegram
-  - DOMAIN-KEYWORD,ttvnw
   - DOMAIN-KEYWORD,twitter
   - DOMAIN-KEYWORD,uk-live
+  - DOMAIN-KEYWORD,facebook
+  - DOMAIN-KEYWORD,telegram
   - DOMAIN-KEYWORD,whatsapp
+  - DOMAIN-KEYWORD,dlercloud
+  - DOMAIN-KEYWORD,instagram
+  - DOMAIN-KEYWORD,appledaily
+  - DOMAIN-KEYWORD,.pinterest.
   - USER-AGENT,PayPal*
   - USER-AGENT,Duolingo*
   - USER-AGENT,OneDrive*

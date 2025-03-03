@@ -1,9 +1,9 @@
-# UpdateTime：2025-03-04 02:26:11
+# UpdateTime：2025-03-04 03:18:16
 # RuleCount：6
 payload:
   - DOMAIN-SUFFIX,qbittorrent.org
   - DOMAIN-KEYWORD,aria2
-  - DOMAIN-KEYWORD,thunder
-  - DOMAIN-KEYWORD,xlliveud
   - DOMAIN-KEYWORD,xunlei
   - DOMAIN-KEYWORD,yunpan
+  - DOMAIN-KEYWORD,thunder
+  - DOMAIN-KEYWORD,xlliveud

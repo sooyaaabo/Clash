@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-04 02:26:11
-# RuleCount：209
+# UpdateTime：2025-03-04 03:18:17
+# RuleCount：204
 payload:
   - DOMAIN-SUFFIX,amazon.ae
   - DOMAIN-SUFFIX,amazon
@@ -205,8 +205,3 @@ payload:
   - IP-CIDR,18.232.0.0/14
   - IP-CIDR,52.200.0.0/13
   - IP-CIDR,18.208.0.0/13
-  - HOST-WILDCARD,aboutamazon*
-  - HOST-WILDCARD,amazon.*
-  - HOST-WILDCARD,amazonaws.*
-  - HOST-WILDCARD,kindle.*
-  - HOST-WILDCARD,kindleoasis.*

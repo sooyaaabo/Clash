@@ -1,4 +1,4 @@
-# UpdateTime：2025-03-04 02:26:20
+# UpdateTime：2025-03-04 03:18:25
 # RuleCount：570
 payload:
   - DOMAIN-SUFFIX,instagr.am
@@ -545,8 +545,8 @@ payload:
   - DOMAIN-SUFFIX,facebook.us
   - DOMAIN-SUFFIX,ocul.us
   - DOMAIN-SUFFIX,facebook.wang
-  - DOMAIN-KEYWORD,facebook
   - DOMAIN-KEYWORD,fbcdn
+  - DOMAIN-KEYWORD,facebook
   - IP-CIDR,169.45.248.118/32
   - IP-CIDR,108.168.255.227/32
   - IP-CIDR,108.168.255.224/32
