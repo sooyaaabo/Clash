@@ -61,7 +61,7 @@ jobs:
         mkdir -p Clash/Rule
         
         # 定义规则
-        declare -A lists=(
+        declare -A yamls=(
             [115]="https://rule.kelee.one/Clash/Rule/115.yaml"
             [12306]="https://rule.kelee.one/Clash/Rule/12306.yaml"
             [1337x]="https://rule.kelee.one/Clash/Rule/1337x.yaml"
@@ -736,6 +736,12 @@ jobs:
         for list_name in "${!lists[@]}"; do
             url="${lists[$list_name]}"
             curl -A -L -o "Clash/Rule/${list_name}.yaml" "$url"
+        done
+
+        # 下载规则
+        for yaml_name in "${!yamls[@]}"; do
+            url="${yamls[$yaml_name]}"
+            curl -A "Surge iOS/3449" -L -o "Clash/Rule/${yaml_name}.yaml" "$url"
         done
 
 
