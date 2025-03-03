@@ -1,12 +1,11 @@
-# UpdateTime：2025-03-03 23:57:26
+# UpdateTime：2025-03-04 02:26:18
 # RuleCount：13
 payload:
-  - DOMAIN-SUFFIX,51ckjr.com
   - DOMAIN-SUFFIX,ckjr001.cn
+  - DOMAIN-SUFFIX,myckjr.cn
+  - DOMAIN-SUFFIX,51ckjr.com
   - DOMAIN-SUFFIX,ckjr001.com
   - DOMAIN-SUFFIX,ckjryy.com
-  - DOMAIN-SUFFIX,meituo.shop
-  - DOMAIN-SUFFIX,myckjr.cn
   - DOMAIN-SUFFIX,myckjr.com
   - DOMAIN-SUFFIX,qxckjr.com
   - DOMAIN-SUFFIX,sxyckjr.com
@@ -14,3 +13,4 @@ payload:
   - DOMAIN-SUFFIX,tengkaxx.com
   - DOMAIN-SUFFIX,tjckjr.com
   - DOMAIN-SUFFIX,tkckjr.com
+  - DOMAIN-SUFFIX,meituo.shop

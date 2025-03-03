@@ -1,9 +1,9 @@
-# UpdateTime：2025-03-03 23:57:27
+# UpdateTime：2025-03-04 02:26:21
 # RuleCount：6
 payload:
   - DOMAIN-SUFFIX,gitlab-assets.oss-cn-hongkong.aliyuncs.com
-  - DOMAIN-SUFFIX,gitlab-static.net
   - DOMAIN-SUFFIX,gitlab.com
-  - DOMAIN-SUFFIX,gitlab.net
-  - DOMAIN-SUFFIX,gitter-static.net
   - DOMAIN-SUFFIX,gitter.im
+  - DOMAIN-SUFFIX,gitlab.net
+  - DOMAIN-SUFFIX,gitlab-static.net
+  - DOMAIN-SUFFIX,gitter-static.net

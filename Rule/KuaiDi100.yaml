@@ -1,9 +1,9 @@
-# UpdateTime：2025-03-03 23:57:23
+# UpdateTime：2025-03-04 02:26:14
 # RuleCount：6
 payload:
   - DOMAIN-SUFFIX,baidiapp.com
   - DOMAIN-SUFFIX,baidinet.com
-  - DOMAIN-SUFFIX,ckd.im
   - DOMAIN-SUFFIX,kd100.com
   - DOMAIN-SUFFIX,kuaidi100.com
   - DOMAIN-SUFFIX,kuaidilab.com
+  - DOMAIN-SUFFIX,ckd.im

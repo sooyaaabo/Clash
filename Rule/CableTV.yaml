@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-03 23:57:23
+# UpdateTime：2025-03-04 02:26:12
 # RuleCount：2
 payload:
-  - DOMAIN-SUFFIX,cabletv.com.hk
   - DOMAIN-SUFFIX,i-cable.com
+  - DOMAIN-SUFFIX,cabletv.com.hk

@@ -1,6 +1,6 @@
-# UpdateTime：2025-03-03 23:57:23
+# UpdateTime：2025-03-04 02:26:14
 # RuleCount：3
 payload:
+  - DOMAIN-SUFFIX,scaleflex.com
   - DOMAIN-SUFFIX,cloudimage.io
   - DOMAIN-SUFFIX,cloudimg.io
-  - DOMAIN-SUFFIX,scaleflex.com

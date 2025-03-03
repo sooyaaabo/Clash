@@ -1,22 +1,22 @@
-# UpdateTime：2025-03-03 23:57:23
+# UpdateTime：2025-03-04 02:26:14
 # RuleCount：19
 payload:
   - DOMAIN-SUFFIX,bkrent.cn
-  - DOMAIN-SUFFIX,g1d.net
   - DOMAIN-SUFFIX,iptv.com.cn
   - DOMAIN-SUFFIX,jiwunote.com.cn
+  - DOMAIN-SUFFIX,pplive.com.cn
   - DOMAIN-SUFFIX,kidkk.cn
   - DOMAIN-SUFFIX,kidpp.cn
   - DOMAIN-SUFFIX,kidsn.cn
   - DOMAIN-SUFFIX,kidyy.cn
   - DOMAIN-SUFFIX,pplive.cn
+  - DOMAIN-SUFFIX,snrent.cn
   - DOMAIN-SUFFIX,pplive.com
-  - DOMAIN-SUFFIX,pplive.com.cn
-  - DOMAIN-SUFFIX,pplive.net
   - DOMAIN-SUFFIX,pptv.com
   - DOMAIN-SUFFIX,pptvdata.com
   - DOMAIN-SUFFIX,pptvimg.com
   - DOMAIN-SUFFIX,pptvnet.com
   - DOMAIN-SUFFIX,pptvyun.com
-  - DOMAIN-SUFFIX,snrent.cn
   - DOMAIN-SUFFIX,synacast.com
+  - DOMAIN-SUFFIX,g1d.net
+  - DOMAIN-SUFFIX,pplive.net

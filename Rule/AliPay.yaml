@@ -1,16 +1,16 @@
-# UpdateTime：2025-03-03 23:57:22
+# UpdateTime：2025-03-04 02:26:10
 # RuleCount：21
 payload:
   - DOMAIN-SUFFIX,alipay
+  - DOMAIN-SUFFIX,alipay.cn
+  - DOMAIN-SUFFIX,alipay.com.cn
+  - DOMAIN-SUFFIX,sinopayment.com.cn
+  - DOMAIN-SUFFIX,ifaa.org.cn
+  - DOMAIN-SUFFIX,alipay.com
   - DOMAIN-SUFFIX,alipay-corp.com
   - DOMAIN-SUFFIX,alipay-eco.com
   - DOMAIN-SUFFIX,alipay-inc.com
   - DOMAIN-SUFFIX,alipay-traffic.com
-  - DOMAIN-SUFFIX,alipay.cn
-  - DOMAIN-SUFFIX,alipay.com
-  - DOMAIN-SUFFIX,alipay.com.cn
-  - DOMAIN-SUFFIX,alipay.hk
-  - DOMAIN-SUFFIX,alipay.net
   - DOMAIN-SUFFIX,alipaydesign.com
   - DOMAIN-SUFFIX,alipaydev.com
   - DOMAIN-SUFFIX,alipaydns.com
@@ -19,6 +19,6 @@ payload:
   - DOMAIN-SUFFIX,alipaymo.com
   - DOMAIN-SUFFIX,alipayobjects.com
   - DOMAIN-SUFFIX,alipayplus.com
-  - DOMAIN-SUFFIX,ifaa.org.cn
   - DOMAIN-SUFFIX,luohanacademy.com
-  - DOMAIN-SUFFIX,sinopayment.com.cn
+  - DOMAIN-SUFFIX,alipay.hk
+  - DOMAIN-SUFFIX,alipay.net

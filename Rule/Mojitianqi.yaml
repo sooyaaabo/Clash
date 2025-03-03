@@ -1,10 +1,10 @@
-# UpdateTime：2025-03-03 23:57:25
+# UpdateTime：2025-03-04 02:26:16
 # RuleCount：7
 payload:
+  - DOMAIN-SUFFIX,xiaomo.cn
   - DOMAIN-SUFFIX,airnut.com
   - DOMAIN-SUFFIX,moji.com
   - DOMAIN-SUFFIX,mojicb.com
   - DOMAIN-SUFFIX,mojichina.com
   - DOMAIN-SUFFIX,mojitest.com
   - DOMAIN-SUFFIX,moweather.com
-  - DOMAIN-SUFFIX,xiaomo.cn

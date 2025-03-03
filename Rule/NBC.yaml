@@ -1,19 +1,18 @@
-# UpdateTime：2025-03-03 23:57:22
+# UpdateTime：2025-03-04 02:26:10
 # RuleCount：22
 payload:
   - DOMAIN,nbcstreaming.sc.omtrdc.net
+  - DOMAIN-SUFFIX,nbc.co
   - DOMAIN-SUFFIX,bravotv.com
   - DOMAIN-SUFFIX,cnbc.com
   - DOMAIN-SUFFIX,cnbcfm.com
   - DOMAIN-SUFFIX,eluniverso.com
   - DOMAIN-SUFFIX,eonline.com
+  - DOMAIN-SUFFIX,nbcsports.h-cdn.com
   - DOMAIN-SUFFIX,msnbc.com
-  - DOMAIN-SUFFIX,nbc-sports.go-vip.net
-  - DOMAIN-SUFFIX,nbc.co
   - DOMAIN-SUFFIX,nbc.com
   - DOMAIN-SUFFIX,nbcnews.com
   - DOMAIN-SUFFIX,nbcsports.com
-  - DOMAIN-SUFFIX,nbcsports.h-cdn.com
   - DOMAIN-SUFFIX,nbcudigitaladops.com
   - DOMAIN-SUFFIX,nbcuni.com
   - DOMAIN-SUFFIX,oxygen.com
@@ -23,3 +22,4 @@ payload:
   - DOMAIN-SUFFIX,telemundo.com
   - DOMAIN-SUFFIX,universalkids.com
   - DOMAIN-SUFFIX,usanetwork.com
+  - DOMAIN-SUFFIX,nbc-sports.go-vip.net

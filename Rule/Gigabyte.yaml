@@ -1,9 +1,9 @@
-# UpdateTime：2025-03-03 23:57:23
+# UpdateTime：2025-03-04 02:26:12
 # RuleCount：7
 payload:
-  - DOMAIN-SUFFIX,aorus.com
   - DOMAIN-SUFFIX,aoruszone.cn
   - DOMAIN-SUFFIX,gigabyte.cn
+  - DOMAIN-SUFFIX,aorus.com
   - DOMAIN-SUFFIX,gigabyte.com
   - DOMAIN-SUFFIX,gigabyte2.azureedge.net
   - DOMAIN-SUFFIX,sa78gs.wpc.edgecastcdn.net

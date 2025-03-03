@@ -1,9 +1,9 @@
-# UpdateTime：2025-03-03 23:57:26
+# UpdateTime：2025-03-04 02:26:18
 # RuleCount：6
 payload:
-  - DOMAIN,bcbolt446c5271-a.akamaihd.net
-  - DOMAIN,content.jwplatform.com
   - DOMAIN,edge.api.brightcove.com
+  - DOMAIN,content.jwplatform.com
   - DOMAIN,videos-f.jwpsrv.com
+  - DOMAIN,bcbolt446c5271-a.akamaihd.net
   - DOMAIN-SUFFIX,encoretvb.com
   - USER-AGENT,encoreTVB*

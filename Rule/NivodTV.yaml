@@ -1,11 +1,11 @@
-# UpdateTime：2025-03-03 23:57:23
+# UpdateTime：2025-03-04 02:26:11
 # RuleCount：8
 payload:
   - DOMAIN-SUFFIX,biggggg.com
+  - DOMAIN-SUFFIX,newpppp.com
+  - DOMAIN-SUFFIX,vod360.net
   - DOMAIN-SUFFIX,mudvod.tv
   - DOMAIN-SUFFIX,nbys.tv
   - DOMAIN-SUFFIX,nbys1.tv
   - DOMAIN-SUFFIX,nbyy.tv
-  - DOMAIN-SUFFIX,newpppp.com
-  - DOMAIN-SUFFIX,vod360.net
   - DOMAIN-KEYWORD,nivod

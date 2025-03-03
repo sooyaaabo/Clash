@@ -1,6 +1,6 @@
-# UpdateTime：2025-03-03 23:57:27
+# UpdateTime：2025-03-04 02:26:20
 # RuleCount：3
 payload:
-  - DOMAIN-SUFFIX,identrust.co.uk
   - DOMAIN-SUFFIX,identrust.com
   - DOMAIN-SUFFIX,identrust.net
+  - DOMAIN-SUFFIX,identrust.co.uk

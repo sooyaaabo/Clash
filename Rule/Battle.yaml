@@ -1,11 +1,11 @@
-# UpdateTime：2025-03-03 23:57:23
+# UpdateTime：2025-03-04 02:26:14
 # RuleCount：8
 payload:
+  - DOMAIN,cdn.blz-contentstack.com
   - DOMAIN,blizzard.nefficient.co.kr
   - DOMAIN,blzddist1-a.akamaihd.net
   - DOMAIN,blzddistkr1-a.akamaihd.net
   - DOMAIN,bnetproduct-a.akamaihd.net
-  - DOMAIN,cdn.blz-contentstack.com
-  - DOMAIN-SUFFIX,battle.net
   - DOMAIN-SUFFIX,battlenet.com.cn
   - DOMAIN-SUFFIX,blizzard.com
+  - DOMAIN-SUFFIX,battle.net

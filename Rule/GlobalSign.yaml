@@ -1,16 +1,16 @@
-# UpdateTime：2025-03-03 23:57:23
+# UpdateTime：2025-03-04 02:26:14
 # RuleCount：13
 payload:
-  - DOMAIN-SUFFIX,globalsign-media.com
+  - DOMAIN-SUFFIX,globalsign.com.au
   - DOMAIN-SUFFIX,globalsign.be
   - DOMAIN-SUFFIX,globalsign.ch
-  - DOMAIN-SUFFIX,globalsign.co.uk
   - DOMAIN-SUFFIX,globalsign.com
-  - DOMAIN-SUFFIX,globalsign.com.au
-  - DOMAIN-SUFFIX,globalsign.com.hk
-  - DOMAIN-SUFFIX,globalsign.com.sg
+  - DOMAIN-SUFFIX,globalsign-media.com
   - DOMAIN-SUFFIX,globalsign.es
   - DOMAIN-SUFFIX,globalsign.eu
   - DOMAIN-SUFFIX,globalsign.fr
+  - DOMAIN-SUFFIX,globalsign.com.hk
   - DOMAIN-SUFFIX,globalsign.net
   - DOMAIN-SUFFIX,globalsign.nl
+  - DOMAIN-SUFFIX,globalsign.com.sg
+  - DOMAIN-SUFFIX,globalsign.co.uk

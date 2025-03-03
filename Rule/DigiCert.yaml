@@ -1,11 +1,11 @@
-# UpdateTime：2025-03-03 23:57:22
+# UpdateTime：2025-03-04 02:26:11
 # RuleCount：14
 payload:
   - DOMAIN-SUFFIX,dcocsp.cn
-  - DOMAIN-SUFFIX,digicert-cn.com
-  - DOMAIN-SUFFIX,digicert-validation.com
   - DOMAIN-SUFFIX,digicert.cn
   - DOMAIN-SUFFIX,digicert.com
+  - DOMAIN-SUFFIX,digicert-cn.com
+  - DOMAIN-SUFFIX,digicert-validation.com
   - DOMAIN-SUFFIX,digitalcertvalidation.com
   - DOMAIN-SUFFIX,freessl.com
   - DOMAIN-SUFFIX,geotrust.com

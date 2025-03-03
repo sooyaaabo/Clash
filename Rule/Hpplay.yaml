@@ -1,8 +1,8 @@
-# UpdateTime：2025-03-03 23:57:26
+# UpdateTime：2025-03-04 02:26:18
 # RuleCount：5
 payload:
-  - DOMAIN-SUFFIX,hpplay.cn
   - DOMAIN-SUFFIX,hpplay.com.cn
-  - DOMAIN-SUFFIX,mirrorcast.cn
   - DOMAIN-SUFFIX,mirrorcast.com.cn
+  - DOMAIN-SUFFIX,hpplay.cn
+  - DOMAIN-SUFFIX,mirrorcast.cn
   - DOMAIN-SUFFIX,mirrorcast.tv

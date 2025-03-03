@@ -1,12 +1,12 @@
-# UpdateTime：2025-03-03 23:57:26
+# UpdateTime：2025-03-04 02:26:18
 # RuleCount：9
 payload:
   - DOMAIN-SUFFIX,a-map.cn
   - DOMAIN-SUFFIX,a-map.co
-  - DOMAIN-SUFFIX,a-map.link
-  - DOMAIN-SUFFIX,a-map.vip
   - DOMAIN-SUFFIX,amap.com
   - DOMAIN-SUFFIX,amapauto.com
   - DOMAIN-SUFFIX,anav.com
   - DOMAIN-SUFFIX,autonavi.com
   - DOMAIN-SUFFIX,gaode.com
+  - DOMAIN-SUFFIX,a-map.link
+  - DOMAIN-SUFFIX,a-map.vip

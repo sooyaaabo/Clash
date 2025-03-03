@@ -1,15 +1,15 @@
-# UpdateTime：2025-03-03 23:57:23
+# UpdateTime：2025-03-04 02:26:14
 # RuleCount：12
 payload:
-  - DOMAIN-SUFFIX,codei.sh
   - DOMAIN-SUFFIX,codeish.co
-  - DOMAIN-SUFFIX,codeish.io
-  - DOMAIN-SUFFIX,heroku-app.com
-  - DOMAIN-SUFFIX,heroku-charge.com
   - DOMAIN-SUFFIX,heroku.co
   - DOMAIN-SUFFIX,heroku.com
-  - DOMAIN-SUFFIX,heroku.me
+  - DOMAIN-SUFFIX,heroku-app.com
+  - DOMAIN-SUFFIX,heroku-charge.com
   - DOMAIN-SUFFIX,herokuapp.com
   - DOMAIN-SUFFIX,herokucdn.com
   - DOMAIN-SUFFIX,herokucharge.com
   - DOMAIN-SUFFIX,herokussl.com
+  - DOMAIN-SUFFIX,codeish.io
+  - DOMAIN-SUFFIX,heroku.me
+  - DOMAIN-SUFFIX,codei.sh

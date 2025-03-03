@@ -1,10 +1,10 @@
-# UpdateTime：2025-03-03 23:57:26
+# UpdateTime：2025-03-04 02:26:18
 # RuleCount：7
 payload:
+  - DOMAIN-SUFFIX,anjuke.cn
+  - DOMAIN-SUFFIX,jikejia.cn
   - DOMAIN-SUFFIX,aifang.com
   - DOMAIN-SUFFIX,aifcdn.com
   - DOMAIN-SUFFIX,ajkinclude.com
-  - DOMAIN-SUFFIX,anjuke.cn
   - DOMAIN-SUFFIX,anjuke.com
   - DOMAIN-SUFFIX,anjukestatic.com
-  - DOMAIN-SUFFIX,jikejia.cn

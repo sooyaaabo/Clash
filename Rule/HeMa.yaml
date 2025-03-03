@@ -1,15 +1,15 @@
-# UpdateTime：2025-03-03 23:57:22
+# UpdateTime：2025-03-04 02:26:11
 # RuleCount：12
 payload:
-  - DOMAIN-SUFFIX,freshhema.com
   - DOMAIN-SUFFIX,hemaapi.cn
-  - DOMAIN-SUFFIX,hemamax.com
   - DOMAIN-SUFFIX,hemaopen.cn
-  - DOMAIN-SUFFIX,hemaos.com
   - DOMAIN-SUFFIX,hemashare.cn
+  - DOMAIN-SUFFIX,rexpos.cn
+  - DOMAIN-SUFFIX,rextech.cn
+  - DOMAIN-SUFFIX,freshhema.com
+  - DOMAIN-SUFFIX,hemamax.com
+  - DOMAIN-SUFFIX,hemaos.com
   - DOMAIN-SUFFIX,marioall.com
   - DOMAIN-SUFFIX,marioin.com
   - DOMAIN-SUFFIX,mariowap.com
-  - DOMAIN-SUFFIX,rexpos.cn
-  - DOMAIN-SUFFIX,rextech.cn
   - DOMAIN-SUFFIX,shyhhema.com

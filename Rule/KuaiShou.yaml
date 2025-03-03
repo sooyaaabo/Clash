@@ -1,6 +1,34 @@
-# UpdateTime：2025-03-03 23:57:22
+# UpdateTime：2025-03-04 02:26:10
 # RuleCount：676
 payload:
+  - DOMAIN-SUFFIX,acfun.cn
+  - DOMAIN-SUFFIX,acfunchina.cn
+  - DOMAIN-SUFFIX,etoote.com.cn
+  - DOMAIN-SUFFIX,dianmiao.cn
+  - DOMAIN-SUFFIX,etoote.cn
+  - DOMAIN-SUFFIX,ikuaiying.cn
+  - DOMAIN-SUFFIX,ksurl.cn
+  - DOMAIN-SUFFIX,kuai-ying.cn
+  - DOMAIN-SUFFIX,kuaiads.cn
+  - DOMAIN-SUFFIX,kuaishou.cn
+  - DOMAIN-SUFFIX,kuaishouapp.cn
+  - DOMAIN-SUFFIX,kuaishouzt.cn
+  - DOMAIN-SUFFIX,kuaizhaogong.cn
+  - DOMAIN-SUFFIX,kwaiad.cn
+  - DOMAIN-SUFFIX,kwaiadapp.cn
+  - DOMAIN-SUFFIX,kwaiads.cn
+  - DOMAIN-SUFFIX,kwaibusiness.cn
+  - DOMAIN-SUFFIX,kwailai.cn
+  - DOMAIN-SUFFIX,kwailala.cn
+  - DOMAIN-SUFFIX,kwaishou.cn
+  - DOMAIN-SUFFIX,kwaishouapp.cn
+  - DOMAIN-SUFFIX,kwaitalk.cn
+  - DOMAIN-SUFFIX,kwaitv.cn
+  - DOMAIN-SUFFIX,kwaiying.cn
+  - DOMAIN-SUFFIX,kwaizt.cn
+  - DOMAIN-SUFFIX,las-tech.org.cn
+  - DOMAIN-SUFFIX,rawpic.cn
+  - DOMAIN-SUFFIX,shuimoo.cn
   - DOMAIN-SUFFIX,00y9334535.com
   - DOMAIN-SUFFIX,027g3nkf40.com
   - DOMAIN-SUFFIX,02a5ji7vso.com
@@ -69,7 +97,6 @@ payload:
   - DOMAIN-SUFFIX,64oak78y99.com
   - DOMAIN-SUFFIX,64ptd74095.com
   - DOMAIN-SUFFIX,666kuaishou.com
-  - DOMAIN-SUFFIX,666kuaishou.net
   - DOMAIN-SUFFIX,671992tc08.com
   - DOMAIN-SUFFIX,6gz6h1ze8r.com
   - DOMAIN-SUFFIX,6p7q8c3oa4.com
@@ -116,12 +143,8 @@ payload:
   - DOMAIN-SUFFIX,a1t2w1lzfr.com
   - DOMAIN-SUFFIX,aarkpbkc.com
   - DOMAIN-SUFFIX,aatcmdvi.com
-  - DOMAIN-SUFFIX,acfun.cn
   - DOMAIN-SUFFIX,acfun.com
-  - DOMAIN-SUFFIX,acfun.tv
-  - DOMAIN-SUFFIX,acfunchina.cn
   - DOMAIN-SUFFIX,acfunchina.com
-  - DOMAIN-SUFFIX,acfunchina.net
   - DOMAIN-SUFFIX,acguxhda.com
   - DOMAIN-SUFFIX,adkwai.com
   - DOMAIN-SUFFIX,adukwai.com
@@ -161,8 +184,6 @@ payload:
   - DOMAIN-SUFFIX,c8uixr96iv79.com
   - DOMAIN-SUFFIX,ca9ce6rv872ce1.com
   - DOMAIN-SUFFIX,camreizuxphd.com
-  - DOMAIN-SUFFIX,catus.xyz
-  - DOMAIN-SUFFIX,catuscdn.xyz
   - DOMAIN-SUFFIX,ceawgez.com
   - DOMAIN-SUFFIX,ch6k5zd77f.com
   - DOMAIN-SUFFIX,ciaxkzxy.com
@@ -182,7 +203,6 @@ payload:
   - DOMAIN-SUFFIX,cxgaugrv.com
   - DOMAIN-SUFFIX,cyktqdrp.com
   - DOMAIN-SUFFIX,d37hw752kt.com
-  - DOMAIN-SUFFIX,dianmiao.cn
   - DOMAIN-SUFFIX,diyiyt.com
   - DOMAIN-SUFFIX,doutianshequ.com
   - DOMAIN-SUFFIX,dqf14u8573.com
@@ -204,10 +224,7 @@ payload:
   - DOMAIN-SUFFIX,er8gmvwi54p5x1.com
   - DOMAIN-SUFFIX,ercoabv.com
   - DOMAIN-SUFFIX,esm8u7oe9ci5.com
-  - DOMAIN-SUFFIX,etoote.cn
   - DOMAIN-SUFFIX,etoote.com
-  - DOMAIN-SUFFIX,etoote.com.cn
-  - DOMAIN-SUFFIX,etoote.net
   - DOMAIN-SUFFIX,etwgzkce.com
   - DOMAIN-SUFFIX,evgezphv.com
   - DOMAIN-SUFFIX,exgpykzm.com
@@ -250,7 +267,6 @@ payload:
   - DOMAIN-SUFFIX,ifkz256x3p.com
   - DOMAIN-SUFFIX,iirpwigs.com
   - DOMAIN-SUFFIX,ikqtcbva.com
-  - DOMAIN-SUFFIX,ikuaiying.cn
   - DOMAIN-SUFFIX,ikvoaxzw.com
   - DOMAIN-SUFFIX,inkuai.com
   - DOMAIN-SUFFIX,inkwai.com
@@ -286,9 +302,7 @@ payload:
   - DOMAIN-SUFFIX,ksmq5a9kxzmr.com
   - DOMAIN-SUFFIX,kspkg.com
   - DOMAIN-SUFFIX,kstv.com
-  - DOMAIN-SUFFIX,ksurl.cn
   - DOMAIN-SUFFIX,ktovztie.com
-  - DOMAIN-SUFFIX,kuai-ying.cn
   - DOMAIN-SUFFIX,kuai-ying.com
   - DOMAIN-SUFFIX,kuai666aa8e43gomqhzeg.com
   - DOMAIN-SUFFIX,kuai666bj7tu65rkdz82.com
@@ -303,36 +317,24 @@ payload:
   - DOMAIN-SUFFIX,kuai666ogv754urmpb4.com
   - DOMAIN-SUFFIX,kuai666trqtauks5ht6x.com
   - DOMAIN-SUFFIX,kuai666vs5aq9o3ytdgp.com
-  - DOMAIN-SUFFIX,kuaiads.cn
   - DOMAIN-SUFFIX,kuaiads.com
   - DOMAIN-SUFFIX,kuaiapps.com
-  - DOMAIN-SUFFIX,kuaishou.cn
   - DOMAIN-SUFFIX,kuaishou.com
-  - DOMAIN-SUFFIX,kuaishouapp.cn
   - DOMAIN-SUFFIX,kuaishouapp.com
-  - DOMAIN-SUFFIX,kuaishouapp.net
   - DOMAIN-SUFFIX,kuaishouapps.com
   - DOMAIN-SUFFIX,kuaishougroup.com
   - DOMAIN-SUFFIX,kuaishoupay.com
-  - DOMAIN-SUFFIX,kuaishouzt.cn
   - DOMAIN-SUFFIX,kuaishouzt.com
-  - DOMAIN-SUFFIX,kuaizhaogong.cn
   - DOMAIN-SUFFIX,kuaizhaogong.com
   - DOMAIN-SUFFIX,kv6om4zs5i47.com
   - DOMAIN-SUFFIX,kvamerfx.com
   - DOMAIN-SUFFIX,kvrmicit.com
+  - DOMAIN-SUFFIX,kwai.com
   - DOMAIN-SUFFIX,kwai-group.com
   - DOMAIN-SUFFIX,kwai-pro.com
-  - DOMAIN-SUFFIX,kwai.com
-  - DOMAIN-SUFFIX,kwai.net
-  - DOMAIN-SUFFIX,kwai.xyz
   - DOMAIN-SUFFIX,kwai666.com
-  - DOMAIN-SUFFIX,kwaiad.cn
-  - DOMAIN-SUFFIX,kwaiadapp.cn
   - DOMAIN-SUFFIX,kwaiadapp.com
-  - DOMAIN-SUFFIX,kwaiads.cn
   - DOMAIN-SUFFIX,kwaiads.com
-  - DOMAIN-SUFFIX,kwaibusiness.cn
   - DOMAIN-SUFFIX,kwaibusiness.com
   - DOMAIN-SUFFIX,kwaicdn.com
   - DOMAIN-SUFFIX,kwaicdnx.com
@@ -340,9 +342,7 @@ payload:
   - DOMAIN-SUFFIX,kwaiekow98icxsp7fz.com
   - DOMAIN-SUFFIX,kwaiesovc9xgzfcmt.com
   - DOMAIN-SUFFIX,kwaigroup.com
-  - DOMAIN-SUFFIX,kwailai.cn
   - DOMAIN-SUFFIX,kwailai.com
-  - DOMAIN-SUFFIX,kwailala.cn
   - DOMAIN-SUFFIX,kwailala.com
   - DOMAIN-SUFFIX,kwailine.com
   - DOMAIN-SUFFIX,kwairga8upiycbiv.com
@@ -350,19 +350,12 @@ payload:
   - DOMAIN-SUFFIX,kwairpoewaum3s9z41.com
   - DOMAIN-SUFFIX,kwairr9aw56vso581r.com
   - DOMAIN-SUFFIX,kwaisczway7r4tz7m8.com
-  - DOMAIN-SUFFIX,kwaishou.cn
-  - DOMAIN-SUFFIX,kwaishouapp.cn
   - DOMAIN-SUFFIX,kwaishouapp.com
-  - DOMAIN-SUFFIX,kwaishouapp.net
-  - DOMAIN-SUFFIX,kwaitalk.cn
   - DOMAIN-SUFFIX,kwaitalk.com
-  - DOMAIN-SUFFIX,kwaitv.cn
   - DOMAIN-SUFFIX,kwaitv.com
   - DOMAIN-SUFFIX,kwaiww7t3qi8x217.com
-  - DOMAIN-SUFFIX,kwaiying.cn
   - DOMAIN-SUFFIX,kwaiying.com
   - DOMAIN-SUFFIX,kwaiymx64war5a7f.com
-  - DOMAIN-SUFFIX,kwaizt.cn
   - DOMAIN-SUFFIX,kwaizt.com
   - DOMAIN-SUFFIX,kwimgs.com
   - DOMAIN-SUFFIX,kwxpobrw.com
@@ -371,7 +364,6 @@ payload:
   - DOMAIN-SUFFIX,kyubwsx1g5.com
   - DOMAIN-SUFFIX,kzrqicae.com
   - DOMAIN-SUFFIX,l799vk4qe2.com
-  - DOMAIN-SUFFIX,las-tech.org.cn
   - DOMAIN-SUFFIX,live-voip.com
   - DOMAIN-SUFFIX,m3mk7nyo17.com
   - DOMAIN-SUFFIX,m4vmsozi62ifz.com
@@ -420,7 +412,6 @@ payload:
   - DOMAIN-SUFFIX,orzoupri.com
   - DOMAIN-SUFFIX,osf5xep778.com
   - DOMAIN-SUFFIX,oskwai.com
-  - DOMAIN-SUFFIX,oskwai.net
   - DOMAIN-SUFFIX,otcaumiu.com
   - DOMAIN-SUFFIX,otqyzk7mx2t8.com
   - DOMAIN-SUFFIX,ovaqrzcw.com
@@ -475,7 +466,6 @@ payload:
   - DOMAIN-SUFFIX,r75y8c2628.com
   - DOMAIN-SUFFIX,r79xqa8r7e93.com
   - DOMAIN-SUFFIX,rakpqgk.com
-  - DOMAIN-SUFFIX,rawpic.cn
   - DOMAIN-SUFFIX,reqgvheo.com
   - DOMAIN-SUFFIX,rgaxobcs.com
   - DOMAIN-SUFFIX,rgezppvk.com
@@ -498,7 +488,6 @@ payload:
   - DOMAIN-SUFFIX,scowqbfk.com
   - DOMAIN-SUFFIX,sgcqscgu.com
   - DOMAIN-SUFFIX,sgrsvakz.com
-  - DOMAIN-SUFFIX,shuimoo.cn
   - DOMAIN-SUFFIX,siozqkt.com
   - DOMAIN-SUFFIX,smsvifv.com
   - DOMAIN-SUFFIX,srcqeece.com
@@ -677,3 +666,14 @@ payload:
   - DOMAIN-SUFFIX,zvryuq7xg31x5g.com
   - DOMAIN-SUFFIX,zwaztizp.com
   - DOMAIN-SUFFIX,zygvqivs.com
+  - DOMAIN-SUFFIX,666kuaishou.net
+  - DOMAIN-SUFFIX,acfunchina.net
+  - DOMAIN-SUFFIX,etoote.net
+  - DOMAIN-SUFFIX,kuaishouapp.net
+  - DOMAIN-SUFFIX,kwai.net
+  - DOMAIN-SUFFIX,kwaishouapp.net
+  - DOMAIN-SUFFIX,oskwai.net
+  - DOMAIN-SUFFIX,acfun.tv
+  - DOMAIN-SUFFIX,catus.xyz
+  - DOMAIN-SUFFIX,catuscdn.xyz
+  - DOMAIN-SUFFIX,kwai.xyz

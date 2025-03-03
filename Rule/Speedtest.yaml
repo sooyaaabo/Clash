@@ -1,10 +1,10 @@
-# UpdateTime：2025-03-03 23:57:22
+# UpdateTime：2025-03-04 02:26:11
 # RuleCount：7
 payload:
   - DOMAIN,speed.dler.io
-  - DOMAIN-SUFFIX,fast.com
-  - DOMAIN-SUFFIX,ooklaserver.net
   - DOMAIN-SUFFIX,speed.cloudflare.com
+  - DOMAIN-SUFFIX,fast.com
   - DOMAIN-SUFFIX,speed.dler.io
+  - DOMAIN-SUFFIX,ooklaserver.net
   - DOMAIN-KEYWORD,speedtest
   - USER-AGENT,SpeedTest*

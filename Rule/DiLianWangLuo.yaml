@@ -1,17 +1,17 @@
-# UpdateTime：2025-03-03 23:57:23
+# UpdateTime：2025-03-04 02:26:11
 # RuleCount：14
 payload:
   - DOMAIN-SUFFIX,acadn.cn
-  - DOMAIN-SUFFIX,acadn.com
-  - DOMAIN-SUFFIX,bbbcdns.com
-  - DOMAIN-SUFFIX,dlgslb.cn
-  - DOMAIN-SUFFIX,dlgslb.net
-  - DOMAIN-SUFFIX,dwion.com
-  - DOMAIN-SUFFIX,fastcdn.com
   - DOMAIN-SUFFIX,fastcdn.com.cn
+  - DOMAIN-SUFFIX,dlgslb.cn
   - DOMAIN-SUFFIX,flxdns.cn
-  - DOMAIN-SUFFIX,flxdns.com
   - DOMAIN-SUFFIX,globalcdn.cn
   - DOMAIN-SUFFIX,mcadn.cn
   - DOMAIN-SUFFIX,tlgslb.cn
+  - DOMAIN-SUFFIX,acadn.com
+  - DOMAIN-SUFFIX,bbbcdns.com
+  - DOMAIN-SUFFIX,dwion.com
+  - DOMAIN-SUFFIX,fastcdn.com
+  - DOMAIN-SUFFIX,flxdns.com
   - DOMAIN-SUFFIX,tlgslb.com
+  - DOMAIN-SUFFIX,dlgslb.net

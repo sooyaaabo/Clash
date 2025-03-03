@@ -1,12 +1,12 @@
-# UpdateTime：2025-03-03 23:57:23
+# UpdateTime：2025-03-04 02:26:14
 # RuleCount：9
 payload:
   - DOMAIN-SUFFIX,editorx.com
   - DOMAIN-SUFFIX,parastorage.com
-  - DOMAIN-SUFFIX,wix-code.com
   - DOMAIN-SUFFIX,wix.com
+  - DOMAIN-SUFFIX,wix-code.com
   - DOMAIN-SUFFIX,wixanswers.com
-  - DOMAIN-SUFFIX,wixapps.net
   - DOMAIN-SUFFIX,wixmp.com
   - DOMAIN-SUFFIX,wixsite.com
   - DOMAIN-SUFFIX,wixstatic.com
+  - DOMAIN-SUFFIX,wixapps.net

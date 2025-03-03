@@ -1,9 +1,9 @@
-# UpdateTime：2025-03-03 23:57:23
+# UpdateTime：2025-03-04 02:26:12
 # RuleCount：6
 payload:
-  - DOMAIN,mask-api.fe.apple-dns.net
   - DOMAIN,mask-api.icloud.com
-  - DOMAIN,mask-t.apple-dns.net
+  - DOMAIN,mask-api.fe.apple-dns.net
   - DOMAIN,mask.apple-dns.net
-  - DOMAIN-SUFFIX,mask-h2.icloud.com
+  - DOMAIN,mask-t.apple-dns.net
   - DOMAIN-SUFFIX,mask.icloud.com
+  - DOMAIN-SUFFIX,mask-h2.icloud.com

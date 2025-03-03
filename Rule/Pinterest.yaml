@@ -1,16 +1,13 @@
-# UpdateTime：2025-03-03 23:57:22
+# UpdateTime：2025-03-04 02:26:11
 # RuleCount：23
 payload:
-  - DOMAIN-SUFFIX,pinimg.com
   - DOMAIN-SUFFIX,pinterest.at
+  - DOMAIN-SUFFIX,pinterest.com.au
   - DOMAIN-SUFFIX,pinterest.ca
   - DOMAIN-SUFFIX,pinterest.ch
   - DOMAIN-SUFFIX,pinterest.cl
-  - DOMAIN-SUFFIX,pinterest.co.kr
-  - DOMAIN-SUFFIX,pinterest.co.uk
+  - DOMAIN-SUFFIX,pinimg.com
   - DOMAIN-SUFFIX,pinterest.com
-  - DOMAIN-SUFFIX,pinterest.com.au
-  - DOMAIN-SUFFIX,pinterest.com.mx
   - DOMAIN-SUFFIX,pinterest.de
   - DOMAIN-SUFFIX,pinterest.dk
   - DOMAIN-SUFFIX,pinterest.es
@@ -18,9 +15,12 @@ payload:
   - DOMAIN-SUFFIX,pinterest.ie
   - DOMAIN-SUFFIX,pinterest.it
   - DOMAIN-SUFFIX,pinterest.jp
+  - DOMAIN-SUFFIX,pinterest.co.kr
+  - DOMAIN-SUFFIX,pinterest.com.mx
   - DOMAIN-SUFFIX,pinterest.nl
   - DOMAIN-SUFFIX,pinterest.nz
   - DOMAIN-SUFFIX,pinterest.ph
   - DOMAIN-SUFFIX,pinterest.pt
   - DOMAIN-SUFFIX,pinterest.ru
   - DOMAIN-SUFFIX,pinterest.se
+  - DOMAIN-SUFFIX,pinterest.co.uk

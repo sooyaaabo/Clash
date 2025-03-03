@@ -1,9 +1,9 @@
-# UpdateTime：2025-03-03 23:57:26
+# UpdateTime：2025-03-04 02:26:18
 # RuleCount：20
 payload:
+  - DOMAIN-SUFFIX,wikipedia.com
   - DOMAIN-SUFFIX,mediawiki.org
   - DOMAIN-SUFFIX,toolforge.org
-  - DOMAIN-SUFFIX,w.wiki
   - DOMAIN-SUFFIX,wikibooks.org
   - DOMAIN-SUFFIX,wikidata.org
   - DOMAIN-SUFFIX,wikileaks.org
@@ -11,7 +11,6 @@ payload:
   - DOMAIN-SUFFIX,wikimediacloud.org
   - DOMAIN-SUFFIX,wikimediafoundation.org
   - DOMAIN-SUFFIX,wikinews.org
-  - DOMAIN-SUFFIX,wikipedia.com
   - DOMAIN-SUFFIX,wikipedia.org
   - DOMAIN-SUFFIX,wikiquote.org
   - DOMAIN-SUFFIX,wikisource.org
@@ -21,3 +20,4 @@ payload:
   - DOMAIN-SUFFIX,wmcloud.org
   - DOMAIN-SUFFIX,wmflabs.org
   - DOMAIN-SUFFIX,wmfusercontent.org
+  - DOMAIN-SUFFIX,w.wiki

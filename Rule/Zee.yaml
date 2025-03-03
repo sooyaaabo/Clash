@@ -1,19 +1,16 @@
-# UpdateTime：2025-03-03 23:57:23
+# UpdateTime：2025-03-04 02:26:11
 # RuleCount：22
 payload:
-  - DOMAIN-SUFFIX,bgr.in
+  - DOMAIN-SUFFIX,zeenews-fonts.s3.amazonaws.com
   - DOMAIN-SUFFIX,bollywoodlife.com
   - DOMAIN-SUFFIX,careerfundas.com
   - DOMAIN-SUFFIX,cricketcountry.com
-  - DOMAIN-SUFFIX,dnai.in
   - DOMAIN-SUFFIX,dnaindia.com
   - DOMAIN-SUFFIX,earngeek.com
   - DOMAIN-SUFFIX,ekhindi.com
-  - DOMAIN-SUFFIX,ind.sh
   - DOMAIN-SUFFIX,india.com
   - DOMAIN-SUFFIX,indiancolleges.com
   - DOMAIN-SUFFIX,itripto.com
-  - DOMAIN-SUFFIX,oncars.in
   - DOMAIN-SUFFIX,prepsure.com
   - DOMAIN-SUFFIX,thehealthsite.com
   - DOMAIN-SUFFIX,wionews.com
@@ -21,5 +18,8 @@ payload:
   - DOMAIN-SUFFIX,zee.com
   - DOMAIN-SUFFIX,zeebiz.com
   - DOMAIN-SUFFIX,zeeentertainment.com
-  - DOMAIN-SUFFIX,zeenews-fonts.s3.amazonaws.com
   - DOMAIN-SUFFIX,zeenews.com
+  - DOMAIN-SUFFIX,bgr.in
+  - DOMAIN-SUFFIX,dnai.in
+  - DOMAIN-SUFFIX,oncars.in
+  - DOMAIN-SUFFIX,ind.sh

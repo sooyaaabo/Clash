@@ -1,7 +1,7 @@
-# UpdateTime：2025-03-03 23:57:26
+# UpdateTime：2025-03-04 02:26:18
 # RuleCount：4
 payload:
   - DOMAIN-SUFFIX,fengkongcloud.com
   - DOMAIN-SUFFIX,xhscdn.com
-  - DOMAIN-SUFFIX,xhscdn.net
   - DOMAIN-SUFFIX,xiaohongshu.com
+  - DOMAIN-SUFFIX,xhscdn.net

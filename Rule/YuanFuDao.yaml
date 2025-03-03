@@ -1,7 +1,12 @@
-# UpdateTime：2025-03-03 23:57:26
+# UpdateTime：2025-03-04 02:26:18
 # RuleCount：86
 payload:
-  - DOMAIN-SUFFIX,52ml.net
+  - DOMAIN-SUFFIX,nanguakexue.biz
+  - DOMAIN-SUFFIX,yuanfudao.biz
+  - DOMAIN-SUFFIX,yuansouti.biz
+  - DOMAIN-SUFFIX,yuantiku.biz
+  - DOMAIN-SUFFIX,zebraenglish.biz
+  - DOMAIN-SUFFIX,fbcontent.cn
   - DOMAIN-SUFFIX,banmaaike.com
   - DOMAIN-SUFFIX,banmadayuwen.com
   - DOMAIN-SUFFIX,banmagushi.com
@@ -23,22 +28,17 @@ payload:
   - DOMAIN-SUFFIX,bmm-invite.com
   - DOMAIN-SUFFIX,bmm-mp.com
   - DOMAIN-SUFFIX,bmm-wx.com
-  - DOMAIN-SUFFIX,checkmath.net
-  - DOMAIN-SUFFIX,fbcontent.cn
   - DOMAIN-SUFFIX,fdzzjs.com
   - DOMAIN-SUFFIX,haitunzixi.com
-  - DOMAIN-SUFFIX,nanguakexue.biz
   - DOMAIN-SUFFIX,nanguakexue.com
   - DOMAIN-SUFFIX,oatenglish.com
   - DOMAIN-SUFFIX,shandiansiwei.com
   - DOMAIN-SUFFIX,top100school.com
   - DOMAIN-SUFFIX,xiaoyuankousuan.com
   - DOMAIN-SUFFIX,xiaoyuansouti.com
-  - DOMAIN-SUFFIX,xiaoyuansouti.xyz
   - DOMAIN-SUFFIX,yanmaiyingyu.com
   - DOMAIN-SUFFIX,ybc1024.com
   - DOMAIN-SUFFIX,ybccode.com
-  - DOMAIN-SUFFIX,yfd.xyz
   - DOMAIN-SUFFIX,yfdurl.com
   - DOMAIN-SUFFIX,yfdurl0.com
   - DOMAIN-SUFFIX,yfdurl1.com
@@ -62,14 +62,10 @@ payload:
   - DOMAIN-SUFFIX,yfdurl8.com
   - DOMAIN-SUFFIX,yfdurl9.com
   - DOMAIN-SUFFIX,ylprinter.com
-  - DOMAIN-SUFFIX,yuanfudao.biz
   - DOMAIN-SUFFIX,yuanfudao.com
   - DOMAIN-SUFFIX,yuansoti.com
-  - DOMAIN-SUFFIX,yuansouti.biz
   - DOMAIN-SUFFIX,yuansouti.com
-  - DOMAIN-SUFFIX,yuantiku.biz
   - DOMAIN-SUFFIX,yuantiku.com
-  - DOMAIN-SUFFIX,yuantiku.xyz
   - DOMAIN-SUFFIX,ze-assemble.com
   - DOMAIN-SUFFIX,ze-clock.com
   - DOMAIN-SUFFIX,ze-grow.com
@@ -77,7 +73,6 @@ payload:
   - DOMAIN-SUFFIX,ze-invite.com
   - DOMAIN-SUFFIX,ze-mp.com
   - DOMAIN-SUFFIX,ze-wx.com
-  - DOMAIN-SUFFIX,zebraenglish.biz
   - DOMAIN-SUFFIX,zebraenglish.com
   - DOMAIN-SUFFIX,zhenguanyu.com
   - DOMAIN-SUFFIX,zm-assemble.com
@@ -87,3 +82,8 @@ payload:
   - DOMAIN-SUFFIX,zm-invite.com
   - DOMAIN-SUFFIX,zm-mp.com
   - DOMAIN-SUFFIX,zm-wx.com
+  - DOMAIN-SUFFIX,52ml.net
+  - DOMAIN-SUFFIX,checkmath.net
+  - DOMAIN-SUFFIX,xiaoyuansouti.xyz
+  - DOMAIN-SUFFIX,yfd.xyz
+  - DOMAIN-SUFFIX,yuantiku.xyz

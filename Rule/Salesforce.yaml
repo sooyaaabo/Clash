@@ -1,4 +1,4 @@
-# UpdateTime：2025-03-03 23:57:23
+# UpdateTime：2025-03-04 02:26:12
 # RuleCount：13
 payload:
   - DOMAIN-SUFFIX,force.com
@@ -7,10 +7,10 @@ payload:
   - DOMAIN-SUFFIX,herokucdn.com
   - DOMAIN-SUFFIX,mulesoft.com
   - DOMAIN-SUFFIX,salesforce.com
-  - DOMAIN-SUFFIX,salesforce.org
   - DOMAIN-SUFFIX,salesforceliveagent.com
   - DOMAIN-SUFFIX,sfdcdigital.com
   - DOMAIN-SUFFIX,sfdcstatic.com
   - DOMAIN-SUFFIX,tableau.com
-  - DOMAIN-SUFFIX,trailblazer.me
   - DOMAIN-SUFFIX,trailhead.com
+  - DOMAIN-SUFFIX,trailblazer.me
+  - DOMAIN-SUFFIX,salesforce.org

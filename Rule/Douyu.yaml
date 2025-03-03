@@ -1,16 +1,16 @@
-# UpdateTime：2025-03-03 23:57:23
+# UpdateTime：2025-03-04 02:26:14
 # RuleCount：13
 payload:
-  - DOMAIN-SUFFIX,bytefcdnrd.com
-  - DOMAIN-SUFFIX,douyu.com
-  - DOMAIN-SUFFIX,douyu.tv
   - DOMAIN-SUFFIX,douyuba.cn
   - DOMAIN-SUFFIX,douyucdn.cn
   - DOMAIN-SUFFIX,douyucdn2.cn
   - DOMAIN-SUFFIX,douyupcdn.cn
+  - DOMAIN-SUFFIX,bytefcdnrd.com
+  - DOMAIN-SUFFIX,douyu.com
   - DOMAIN-SUFFIX,douyuscdn.com
   - DOMAIN-SUFFIX,douyutv.com
   - DOMAIN-SUFFIX,doyonoc.com
   - DOMAIN-SUFFIX,edgesrv.com
   - DOMAIN-SUFFIX,guguyuyin.com
   - DOMAIN-SUFFIX,oywtv.com
+  - DOMAIN-SUFFIX,douyu.tv

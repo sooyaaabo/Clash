@@ -1,13 +1,13 @@
-# UpdateTime：2025-03-03 23:57:22
+# UpdateTime：2025-03-04 02:26:11
 # RuleCount：10
 payload:
-  - DOMAIN-SUFFIX,fang.com
-  - DOMAIN-SUFFIX,hkproperty.com
+  - DOMAIN-SUFFIX,soufun.com.cn
+  - DOMAIN-SUFFIX,villachina.com.cn
   - DOMAIN-SUFFIX,houselight.cn
   - DOMAIN-SUFFIX,nree.cn
+  - DOMAIN-SUFFIX,fang.com
+  - DOMAIN-SUFFIX,hkproperty.com
   - DOMAIN-SUFFIX,soufun.com
-  - DOMAIN-SUFFIX,soufun.com.cn
   - DOMAIN-SUFFIX,soufunimg.com
   - DOMAIN-SUFFIX,txsf.com
   - DOMAIN-SUFFIX,villachina.com
-  - DOMAIN-SUFFIX,villachina.com.cn

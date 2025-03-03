@@ -1,13 +1,13 @@
-# UpdateTime：2025-03-03 23:57:23
+# UpdateTime：2025-03-04 02:26:11
 # RuleCount：10
 payload:
   - DOMAIN-SUFFIX,japonx.com
-  - DOMAIN-SUFFIX,japonx.net
-  - DOMAIN-SUFFIX,japonx.tv
-  - DOMAIN-SUFFIX,japonx.vip
   - DOMAIN-SUFFIX,japronx.com
+  - DOMAIN-SUFFIX,japonx.net
   - DOMAIN-SUFFIX,japronx.net
+  - DOMAIN-SUFFIX,japonx.tv
   - DOMAIN-SUFFIX,japronx.tv
+  - DOMAIN-SUFFIX,japonx.vip
   - DOMAIN-SUFFIX,japronx.vip
   - DOMAIN-KEYWORD,japonx
   - DOMAIN-KEYWORD,japronx

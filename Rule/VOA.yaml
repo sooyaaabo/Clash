@@ -1,27 +1,20 @@
-# UpdateTime：2025-03-03 23:57:26
+# UpdateTime：2025-03-04 02:26:18
 # RuleCount：51
 payload:
   - DOMAIN-SUFFIX,amerikaninsesi.com
-  - DOMAIN-SUFFIX,amerikaninsesi.org
   - DOMAIN-SUFFIX,amerikaovozi.com
   - DOMAIN-SUFFIX,amerikayidzayn.com
   - DOMAIN-SUFFIX,amerikiskhma.com
-  - DOMAIN-SUFFIX,bbg.gov
   - DOMAIN-SUFFIX,dandalinvoa.com
   - DOMAIN-SUFFIX,darivoa.com
   - DOMAIN-SUFFIX,dengeamerika.com
   - DOMAIN-SUFFIX,dengiamerika.com
-  - DOMAIN-SUFFIX,glasamerike.net
-  - DOMAIN-SUFFIX,golos-ameriki.ru
   - DOMAIN-SUFFIX,golosameriki.com
   - DOMAIN-SUFFIX,insidevoa.com
   - DOMAIN-SUFFIX,pashtovoa.com
   - DOMAIN-SUFFIX,persagg.com
   - DOMAIN-SUFFIX,radiyoyacuvoa.com
   - DOMAIN-SUFFIX,urduvoa.com
-  - DOMAIN-SUFFIX,voa-11.akacast.akamaistream.net
-  - DOMAIN-SUFFIX,voa.gov
-  - DOMAIN-SUFFIX,voa.mobi
   - DOMAIN-SUFFIX,voaafaanoromoo.com
   - DOMAIN-SUFFIX,voaafrique.com
   - DOMAIN-SUFFIX,voabambara.com
@@ -38,7 +31,6 @@ payload:
   - DOMAIN-SUFFIX,voalingala.com
   - DOMAIN-SUFFIX,voandebele.com
   - DOMAIN-SUFFIX,voanews.com
-  - DOMAIN-SUFFIX,voanews.eu
   - DOMAIN-SUFFIX,voanoticias.com
   - DOMAIN-SUFFIX,voanouvel.com
   - DOMAIN-SUFFIX,voaportugues.com
@@ -52,3 +44,11 @@ payload:
   - DOMAIN-SUFFIX,voatour.com
   - DOMAIN-SUFFIX,voazimbabwe.com
   - DOMAIN-SUFFIX,zeriamerikes.com
+  - DOMAIN-SUFFIX,voanews.eu
+  - DOMAIN-SUFFIX,bbg.gov
+  - DOMAIN-SUFFIX,voa.gov
+  - DOMAIN-SUFFIX,voa.mobi
+  - DOMAIN-SUFFIX,voa-11.akacast.akamaistream.net
+  - DOMAIN-SUFFIX,glasamerike.net
+  - DOMAIN-SUFFIX,amerikaninsesi.org
+  - DOMAIN-SUFFIX,golos-ameriki.ru

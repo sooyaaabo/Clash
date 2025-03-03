@@ -1,20 +1,20 @@
-# UpdateTime：2025-03-03 23:57:23
+# UpdateTime：2025-03-04 02:26:14
 # RuleCount：17
 payload:
-  - DOMAIN-SUFFIX,anm.co.uk
   - DOMAIN-SUFFIX,dailym.ai
-  - DOMAIN-SUFFIX,dailymail.co.uk
-  - DOMAIN-SUFFIX,dailymail.com
   - DOMAIN-SUFFIX,dailymail.com.au
-  - DOMAIN-SUFFIX,dailymail.dk
+  - DOMAIN-SUFFIX,dailymail.com
   - DOMAIN-SUFFIX,dailymailonline.com
-  - DOMAIN-SUFFIX,dmgmediaprivacy.co.uk
   - DOMAIN-SUFFIX,mailhealth.com
-  - DOMAIN-SUFFIX,mailonline.co.uk
   - DOMAIN-SUFFIX,mailonline.com
-  - DOMAIN-SUFFIX,mailonsunday.co.uk
-  - DOMAIN-SUFFIX,mailonsunday.ie
-  - DOMAIN-SUFFIX,metro.co.uk
-  - DOMAIN-SUFFIX,mol.im
-  - DOMAIN-SUFFIX,thisismoney.co.uk
+  - DOMAIN-SUFFIX,dailymail.dk
   - DOMAIN-SUFFIX,thismon.ee
+  - DOMAIN-SUFFIX,mailonsunday.ie
+  - DOMAIN-SUFFIX,mol.im
+  - DOMAIN-SUFFIX,anm.co.uk
+  - DOMAIN-SUFFIX,dailymail.co.uk
+  - DOMAIN-SUFFIX,dmgmediaprivacy.co.uk
+  - DOMAIN-SUFFIX,mailonline.co.uk
+  - DOMAIN-SUFFIX,mailonsunday.co.uk
+  - DOMAIN-SUFFIX,metro.co.uk
+  - DOMAIN-SUFFIX,thisismoney.co.uk

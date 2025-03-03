@@ -1,7 +1,7 @@
-# UpdateTime：2025-03-03 23:57:22
+# UpdateTime：2025-03-04 02:26:10
 # RuleCount：4
 payload:
-  - DOMAIN-SUFFIX,p-cdn.us
   - DOMAIN-SUFFIX,sndcdn.com
   - DOMAIN-SUFFIX,soundcloud.com
+  - DOMAIN-SUFFIX,p-cdn.us
   - USER-AGENT,SoundCloud*

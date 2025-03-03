@@ -1,8 +1,11 @@
-# UpdateTime：2025-03-03 23:57:23
+# UpdateTime：2025-03-04 02:26:11
 # RuleCount：165
 payload:
   - DOMAIN,eaasserts-a.akamaihd.net
   - DOMAIN,originasserts.akamaized.net
+  - DOMAIN-SUFFIX,dungeonkeeper.com.cn
+  - DOMAIN-SUFFIX,dungeonkeeper.cn
+  - DOMAIN-SUFFIX,cloudsync-prod.s3.amazonaws.com
   - DOMAIN-SUFFIX,anthemgame.com
   - DOMAIN-SUFFIX,anthemthegame.com
   - DOMAIN-SUFFIX,apexlegends.com
@@ -25,47 +28,34 @@ payload:
   - DOMAIN-SUFFIX,blackboxgames.com
   - DOMAIN-SUFFIX,camelot-europe.com
   - DOMAIN-SUFFIX,camelotherald.com
-  - DOMAIN-SUFFIX,camelotherald.net
   - DOMAIN-SUFFIX,capitalgames.com
   - DOMAIN-SUFFIX,chillingo.com
-  - DOMAIN-SUFFIX,cloudsync-prod.s3.amazonaws.com
   - DOMAIN-SUFFIX,cncrivals.com
   - DOMAIN-SUFFIX,commandandconquer.com
   - DOMAIN-SUFFIX,conquerwithcharacter.com
-  - DOMAIN-SUFFIX,crysis.jp
-  - DOMAIN-SUFFIX,daoc.net
   - DOMAIN-SUFFIX,darkageofcamelot.com
   - DOMAIN-SUFFIX,darkness-risen.com
   - DOMAIN-SUFFIX,dawngate.com
   - DOMAIN-SUFFIX,dawngatechronicles.com
   - DOMAIN-SUFFIX,deadspacegame.com
-  - DOMAIN-SUFFIX,dice.se
   - DOMAIN-SUFFIX,dicela.com
-  - DOMAIN-SUFFIX,dicela.net
   - DOMAIN-SUFFIX,dragonage.com
   - DOMAIN-SUFFIX,dragonagekeep.com
   - DOMAIN-SUFFIX,dragonagemovie.com
-  - DOMAIN-SUFFIX,dungeonkeeper.cn
   - DOMAIN-SUFFIX,dungeonkeeper.com
-  - DOMAIN-SUFFIX,dungeonkeeper.com.cn
-  - DOMAIN-SUFFIX,ea-anz-press.com
   - DOMAIN-SUFFIX,ea.com
-  - DOMAIN-SUFFIX,ea.tt.omtrdc.net
+  - DOMAIN-SUFFIX,ea-anz-press.com
   - DOMAIN-SUFFIX,eaaccess.com
-  - DOMAIN-SUFFIX,eaassets-a.akamaihd.net
   - DOMAIN-SUFFIX,eablackbox.com
   - DOMAIN-SUFFIX,eacashcard.com
   - DOMAIN-SUFFIX,eacodigos.com
   - DOMAIN-SUFFIX,eafootballworld.com
-  - DOMAIN-SUFFIX,eakorea.co.kr
   - DOMAIN-SUFFIX,eamirrorsedge.com
   - DOMAIN-SUFFIX,eamobile.com
   - DOMAIN-SUFFIX,eamythic.com
-  - DOMAIN-SUFFIX,eamythic.net
   - DOMAIN-SUFFIX,eanordic.com
   - DOMAIN-SUFFIX,eaplay.com
   - DOMAIN-SUFFIX,easports.com
-  - DOMAIN-SUFFIX,easports.jp
   - DOMAIN-SUFFIX,easportsactive.com
   - DOMAIN-SUFFIX,easportsactiveonline.com
   - DOMAIN-SUFFIX,easportsfootball.com
@@ -74,7 +64,6 @@ payload:
   - DOMAIN-SUFFIX,easportsworld.com
   - DOMAIN-SUFFIX,eastore.com
   - DOMAIN-SUFFIX,electronicarts.com
-  - DOMAIN-SUFFIX,electronicarts.fr
   - DOMAIN-SUFFIX,fifastreet.com
   - DOMAIN-SUFFIX,fifastreet3.com
   - DOMAIN-SUFFIX,frostbite.com
@@ -87,21 +76,15 @@ payload:
   - DOMAIN-SUFFIX,lordofultima.com
   - DOMAIN-SUFFIX,maddenchampionship.com
   - DOMAIN-SUFFIX,maddenrewards.com
-  - DOMAIN-SUFFIX,maddenseason.info
-  - DOMAIN-SUFFIX,maddenseason.net
-  - DOMAIN-SUFFIX,maddenseason.org
   - DOMAIN-SUFFIX,masseffect.com
   - DOMAIN-SUFFIX,masseffectarchives.com
   - DOMAIN-SUFFIX,maxis.com
   - DOMAIN-SUFFIX,mirrorsedge.com
-  - DOMAIN-SUFFIX,mirrorsedge.jp
-  - DOMAIN-SUFFIX,mirrorsedge.net
   - DOMAIN-SUFFIX,mirrorsedge2.com
   - DOMAIN-SUFFIX,mirrorsedge2d.com
   - DOMAIN-SUFFIX,mysims.com
   - DOMAIN-SUFFIX,mysimsracing.com
   - DOMAIN-SUFFIX,mythicentertainment.com
-  - DOMAIN-SUFFIX,mythicentertainment.net
   - DOMAIN-SUFFIX,mythicgames.com
   - DOMAIN-SUFFIX,needforspeed.com
   - DOMAIN-SUFFIX,needforspeedboost.com
@@ -118,9 +101,7 @@ payload:
   - DOMAIN-SUFFIX,needforspeedtimeattack.com
   - DOMAIN-SUFFIX,needforspeedundergroundeast.com
   - DOMAIN-SUFFIX,nfsworld.com
-  - DOMAIN-SUFFIX,origin-a.akamaihd.net
   - DOMAIN-SUFFIX,origin.com
-  - DOMAIN-SUFFIX,origin.tv
   - DOMAIN-SUFFIX,plantsvszombies2.com
   - DOMAIN-SUFFIX,play4free.com
   - DOMAIN-SUFFIX,playapex.com
@@ -131,10 +112,9 @@ payload:
   - DOMAIN-SUFFIX,pvzgw2.com
   - DOMAIN-SUFFIX,pvzheroes.com
   - DOMAIN-SUFFIX,seaofsolitude.com
-  - DOMAIN-SUFFIX,simcity-buildit.com
   - DOMAIN-SUFFIX,simcity.com
+  - DOMAIN-SUFFIX,simcity-buildit.com
   - DOMAIN-SUFFIX,skate2.com
-  - DOMAIN-SUFFIX,spearhead.kr
   - DOMAIN-SUFFIX,speedhunters.com
   - DOMAIN-SUFFIX,spore.com
   - DOMAIN-SUFFIX,ssx3.com
@@ -146,7 +126,6 @@ payload:
   - DOMAIN-SUFFIX,swjedifallenorder.com
   - DOMAIN-SUFFIX,swjfo.com
   - DOMAIN-SUFFIX,swtor.com
-  - DOMAIN-SUFFIX,swtor.net
   - DOMAIN-SUFFIX,teamneedforspeed.com
   - DOMAIN-SUFFIX,thedreadwolfrises.com
   - DOMAIN-SUFFIX,thesims.com
@@ -166,3 +145,24 @@ payload:
   - DOMAIN-SUFFIX,visceralgames.com
   - DOMAIN-SUFFIX,xdsummit.com
   - DOMAIN-SUFFIX,yogify.com
+  - DOMAIN-SUFFIX,electronicarts.fr
+  - DOMAIN-SUFFIX,maddenseason.info
+  - DOMAIN-SUFFIX,crysis.jp
+  - DOMAIN-SUFFIX,easports.jp
+  - DOMAIN-SUFFIX,mirrorsedge.jp
+  - DOMAIN-SUFFIX,eakorea.co.kr
+  - DOMAIN-SUFFIX,spearhead.kr
+  - DOMAIN-SUFFIX,eaassets-a.akamaihd.net
+  - DOMAIN-SUFFIX,origin-a.akamaihd.net
+  - DOMAIN-SUFFIX,camelotherald.net
+  - DOMAIN-SUFFIX,daoc.net
+  - DOMAIN-SUFFIX,dicela.net
+  - DOMAIN-SUFFIX,eamythic.net
+  - DOMAIN-SUFFIX,maddenseason.net
+  - DOMAIN-SUFFIX,mirrorsedge.net
+  - DOMAIN-SUFFIX,mythicentertainment.net
+  - DOMAIN-SUFFIX,ea.tt.omtrdc.net
+  - DOMAIN-SUFFIX,swtor.net
+  - DOMAIN-SUFFIX,maddenseason.org
+  - DOMAIN-SUFFIX,dice.se
+  - DOMAIN-SUFFIX,origin.tv

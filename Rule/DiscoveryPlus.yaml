@@ -1,4 +1,4 @@
-# UpdateTime：2025-03-03 23:57:23
+# UpdateTime：2025-03-04 02:26:14
 # RuleCount：17
 payload:
   - DOMAIN,discovery-us.conax.cloud
@@ -6,15 +6,15 @@ payload:
   - DOMAIN,dplus-northamerica.media-edge.prod-vod.h264.io
   - DOMAIN-SUFFIX,disco-api.com
   - DOMAIN-SUFFIX,discovery.com
-  - DOMAIN-SUFFIX,discoveryplus.co.uk
   - DOMAIN-SUFFIX,discoveryplus.com
-  - DOMAIN-SUFFIX,discoveryplus.in
   - DOMAIN-SUFFIX,dnitv.com
-  - DOMAIN-SUFFIX,fwmrm.net
   - DOMAIN-SUFFIX,getblueshift.com
-  - DOMAIN-SUFFIX,litix.io
   - DOMAIN-SUFFIX,mobile-collector.newrelic.com
   - DOMAIN-SUFFIX,uplynk.com
+  - DOMAIN-SUFFIX,discoveryplus.in
+  - DOMAIN-SUFFIX,litix.io
+  - DOMAIN-SUFFIX,fwmrm.net
+  - DOMAIN-SUFFIX,discoveryplus.co.uk
   - DOMAIN-KEYWORD,discovery.uplynk.com
   - USER-AGENT,DPlus*
   - USER-AGENT,discovery+*

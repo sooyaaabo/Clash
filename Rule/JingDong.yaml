@@ -1,23 +1,37 @@
-# UpdateTime：2025-03-03 23:57:22
+# UpdateTime：2025-03-04 02:26:11
 # RuleCount：248
 payload:
-  - DOMAIN-SUFFIX,1huizhan.com
   - DOMAIN-SUFFIX,3.cn
-  - DOMAIN-SUFFIX,300hu.com
   - DOMAIN-SUFFIX,360buy.cn
-  - DOMAIN-SUFFIX,360buy.com
+  - DOMAIN-SUFFIX,baitiao.cn
+  - DOMAIN-SUFFIX,chicalot.cn
   - DOMAIN-SUFFIX,360buy.com.cn
+  - DOMAIN-SUFFIX,chinabank.com.cn
+  - DOMAIN-SUFFIX,duiou.com.cn
+  - DOMAIN-SUFFIX,jd.com.cn
+  - DOMAIN-SUFFIX,jd-ex.com.cn
+  - DOMAIN-SUFFIX,jdl.com.cn
+  - DOMAIN-SUFFIX,jcloudwaftest.cn
+  - DOMAIN-SUFFIX,jd.cn
+  - DOMAIN-SUFFIX,jd-ex.cn
+  - DOMAIN-SUFFIX,jddtv.cn
+  - DOMAIN-SUFFIX,jdl.cn
+  - DOMAIN-SUFFIX,jdlike.cn
+  - DOMAIN-SUFFIX,prestodb.net.cn
+  - DOMAIN-SUFFIX,paidaojia.cn
+  - DOMAIN-SUFFIX,wuliujie.cn
+  - DOMAIN-SUFFIX,yhcdn.cn
+  - DOMAIN-SUFFIX,1huizhan.com
+  - DOMAIN-SUFFIX,300hu.com
+  - DOMAIN-SUFFIX,360buy.com
   - DOMAIN-SUFFIX,360buyimg.com
   - DOMAIN-SUFFIX,360buyinternational.com
   - DOMAIN-SUFFIX,360top.com
   - DOMAIN-SUFFIX,7fresh.com
-  - DOMAIN-SUFFIX,baitiao.cn
   - DOMAIN-SUFFIX,baitiao.com
   - DOMAIN-SUFFIX,blackdragon.com
   - DOMAIN-SUFFIX,buyjingxi.com
   - DOMAIN-SUFFIX,caiyu.com
-  - DOMAIN-SUFFIX,chicalot.cn
-  - DOMAIN-SUFFIX,chinabank.com.cn
   - DOMAIN-SUFFIX,cloud-beijing.com
   - DOMAIN-SUFFIX,cloud-hebi.com
   - DOMAIN-SUFFIX,cloud-ningbo.com
@@ -94,66 +108,43 @@ payload:
   - DOMAIN-SUFFIX,cloudzhongshan.com
   - DOMAIN-SUFFIX,cloudzhuhai.com
   - DOMAIN-SUFFIX,dao123.com
-  - DOMAIN-SUFFIX,duiou.com.cn
   - DOMAIN-SUFFIX,goselling.com
   - DOMAIN-SUFFIX,ibaitiao.com
   - DOMAIN-SUFFIX,info-insur.com
   - DOMAIN-SUFFIX,isvjcloud.com
   - DOMAIN-SUFFIX,isvjd.com
+  - DOMAIN-SUFFIX,jcloud.com
   - DOMAIN-SUFFIX,jcloud-cache.com
-  - DOMAIN-SUFFIX,jcloud-cache.net
   - DOMAIN-SUFFIX,jcloud-cdn.com
   - DOMAIN-SUFFIX,jcloud-live.com
   - DOMAIN-SUFFIX,jcloud-oss.com
-  - DOMAIN-SUFFIX,jcloud.com
   - DOMAIN-SUFFIX,jcloudcache.com
-  - DOMAIN-SUFFIX,jcloudcache.net
   - DOMAIN-SUFFIX,jcloudcs.com
   - DOMAIN-SUFFIX,jclouddn.com
   - DOMAIN-SUFFIX,jclouddns.com
-  - DOMAIN-SUFFIX,jclouddns.net
   - DOMAIN-SUFFIX,jcloudec.com
   - DOMAIN-SUFFIX,jcloudedge.com
-  - DOMAIN-SUFFIX,jcloudedge.net
   - DOMAIN-SUFFIX,jcloudgslb.com
-  - DOMAIN-SUFFIX,jcloudgslb.net
   - DOMAIN-SUFFIX,jcloudimg.com
-  - DOMAIN-SUFFIX,jcloudimg.net
   - DOMAIN-SUFFIX,jcloudlb.com
-  - DOMAIN-SUFFIX,jcloudlb.net
   - DOMAIN-SUFFIX,jcloudlive.com
   - DOMAIN-SUFFIX,jcloudlv.com
   - DOMAIN-SUFFIX,jcloudoss.com
   - DOMAIN-SUFFIX,jcloudresolve.com
-  - DOMAIN-SUFFIX,jcloudresolve.net
   - DOMAIN-SUFFIX,jcloudss.com
   - DOMAIN-SUFFIX,jcloudstatic.com
-  - DOMAIN-SUFFIX,jcloudstatic.net
   - DOMAIN-SUFFIX,jcloudvideo.com
-  - DOMAIN-SUFFIX,jcloudvideo.net
   - DOMAIN-SUFFIX,jcloudwaf.com
-  - DOMAIN-SUFFIX,jcloudwaftest.cn
   - DOMAIN-SUFFIX,jcloudwaftest.com
-  - DOMAIN-SUFFIX,jcloudwaftest.net
   - DOMAIN-SUFFIX,jclps.com
-  - DOMAIN-SUFFIX,jd-app.com
-  - DOMAIN-SUFFIX,jd-ex.cn
-  - DOMAIN-SUFFIX,jd-ex.com
-  - DOMAIN-SUFFIX,jd-ex.com.cn
-  - DOMAIN-SUFFIX,jd-ex.net
-  - DOMAIN-SUFFIX,jd.cn
-  - DOMAIN-SUFFIX,jd.co.th
   - DOMAIN-SUFFIX,jd.com
-  - DOMAIN-SUFFIX,jd.com.cn
-  - DOMAIN-SUFFIX,jd.hk
-  - DOMAIN-SUFFIX,jd.id
-  - DOMAIN-SUFFIX,jd.ru
-  - DOMAIN-SUFFIX,jd.shop
+  - DOMAIN-SUFFIX,jd-app.com
+  - DOMAIN-SUFFIX,jd-ex.com
   - DOMAIN-SUFFIX,jdbusiness.com
   - DOMAIN-SUFFIX,jdcache.com
   - DOMAIN-SUFFIX,jdcdn.com
+  - DOMAIN-SUFFIX,jdcloud.com
   - DOMAIN-SUFFIX,jdcloud-api.com
-  - DOMAIN-SUFFIX,jdcloud-api.net
   - DOMAIN-SUFFIX,jdcloud-edu.com
   - DOMAIN-SUFFIX,jdcloud-elite.com
   - DOMAIN-SUFFIX,jdcloud-elive.com
@@ -161,36 +152,24 @@ payload:
   - DOMAIN-SUFFIX,jdcloud-mail.com
   - DOMAIN-SUFFIX,jdcloud-openapi.com
   - DOMAIN-SUFFIX,jdcloud-oss.com
-  - DOMAIN-SUFFIX,jdcloud.com
   - DOMAIN-SUFFIX,jdcloudcache.com
-  - DOMAIN-SUFFIX,jdcloudcache.net
   - DOMAIN-SUFFIX,jdcloudcdn.com
-  - DOMAIN-SUFFIX,jdcloudcdn.net
   - DOMAIN-SUFFIX,jdcloudcs.com
   - DOMAIN-SUFFIX,jdclouddns.com
-  - DOMAIN-SUFFIX,jdclouddns.net
   - DOMAIN-SUFFIX,jdcloudedge.com
-  - DOMAIN-SUFFIX,jdcloudedge.net
   - DOMAIN-SUFFIX,jdcloudlb.com
-  - DOMAIN-SUFFIX,jdcloudlb.net
   - DOMAIN-SUFFIX,jdcloudlive.com
-  - DOMAIN-SUFFIX,jdcloudlive.net
   - DOMAIN-SUFFIX,jdcloudresolve.com
-  - DOMAIN-SUFFIX,jdcloudresolve.net
   - DOMAIN-SUFFIX,jdcloudsite.com
   - DOMAIN-SUFFIX,jdcloudstatic.com
-  - DOMAIN-SUFFIX,jdcloudstatic.net
   - DOMAIN-SUFFIX,jdcloudstatus.com
-  - DOMAIN-SUFFIX,jdcloudstatus.net
   - DOMAIN-SUFFIX,jdcloudvideo.com
-  - DOMAIN-SUFFIX,jdcloudvideo.net
   - DOMAIN-SUFFIX,jdcloudwaf.com
   - DOMAIN-SUFFIX,jdcontent.com
   - DOMAIN-SUFFIX,jdd-global.com
   - DOMAIN-SUFFIX,jddapeigou.com
   - DOMAIN-SUFFIX,jddebug.com
   - DOMAIN-SUFFIX,jddglobal.com
-  - DOMAIN-SUFFIX,jddtv.cn
   - DOMAIN-SUFFIX,jddtv.com
   - DOMAIN-SUFFIX,jdemall.com
   - DOMAIN-SUFFIX,jdfeijing.com
@@ -198,12 +177,8 @@ payload:
   - DOMAIN-SUFFIX,jdfmgt.com
   - DOMAIN-SUFFIX,jdfw1.com
   - DOMAIN-SUFFIX,jdgslb.com
-  - DOMAIN-SUFFIX,jdgslb.net
   - DOMAIN-SUFFIX,jdjinrong.com
-  - DOMAIN-SUFFIX,jdl.cn
   - DOMAIN-SUFFIX,jdl.com
-  - DOMAIN-SUFFIX,jdl.com.cn
-  - DOMAIN-SUFFIX,jdlike.cn
   - DOMAIN-SUFFIX,jdpay.com
   - DOMAIN-SUFFIX,jdpaydns.com
   - DOMAIN-SUFFIX,jdsmartkf.com
@@ -217,17 +192,13 @@ payload:
   - DOMAIN-SUFFIX,jingxi.com
   - DOMAIN-SUFFIX,jkcsjd.com
   - DOMAIN-SUFFIX,joybuy.com
-  - DOMAIN-SUFFIX,joybuy.es
   - DOMAIN-SUFFIX,linglonglife.com
   - DOMAIN-SUFFIX,logiseasy.com
   - DOMAIN-SUFFIX,mayshijia.com
   - DOMAIN-SUFFIX,minitiao.com
-  - DOMAIN-SUFFIX,missjia.net
   - DOMAIN-SUFFIX,ocwms.com
-  - DOMAIN-SUFFIX,paidaojia.cn
   - DOMAIN-SUFFIX,paipai.com
   - DOMAIN-SUFFIX,prestodb-china.com
-  - DOMAIN-SUFFIX,prestodb.net.cn
   - DOMAIN-SUFFIX,qianxun.com
   - DOMAIN-SUFFIX,qingzhouip.com
   - DOMAIN-SUFFIX,sgsic.com
@@ -237,11 +208,9 @@ payload:
   - DOMAIN-SUFFIX,wanggou.com
   - DOMAIN-SUFFIX,wangyin.com
   - DOMAIN-SUFFIX,wdfok.com
-  - DOMAIN-SUFFIX,wuliujie.cn
   - DOMAIN-SUFFIX,wuliujie.com
   - DOMAIN-SUFFIX,xianjiqun.com
   - DOMAIN-SUFFIX,xjoycity.com
-  - DOMAIN-SUFFIX,yhcdn.cn
   - DOMAIN-SUFFIX,yhd.com
   - DOMAIN-SUFFIX,yihaodian.com
   - DOMAIN-SUFFIX,yihaodianimg.com
@@ -249,3 +218,34 @@ payload:
   - DOMAIN-SUFFIX,yixun.com
   - DOMAIN-SUFFIX,yiyaojd.com
   - DOMAIN-SUFFIX,yizhitou.com
+  - DOMAIN-SUFFIX,joybuy.es
+  - DOMAIN-SUFFIX,jd.hk
+  - DOMAIN-SUFFIX,jd.id
+  - DOMAIN-SUFFIX,jcloud-cache.net
+  - DOMAIN-SUFFIX,jcloudcache.net
+  - DOMAIN-SUFFIX,jclouddns.net
+  - DOMAIN-SUFFIX,jcloudedge.net
+  - DOMAIN-SUFFIX,jcloudgslb.net
+  - DOMAIN-SUFFIX,jcloudimg.net
+  - DOMAIN-SUFFIX,jcloudlb.net
+  - DOMAIN-SUFFIX,jcloudresolve.net
+  - DOMAIN-SUFFIX,jcloudstatic.net
+  - DOMAIN-SUFFIX,jcloudvideo.net
+  - DOMAIN-SUFFIX,jcloudwaftest.net
+  - DOMAIN-SUFFIX,jd-ex.net
+  - DOMAIN-SUFFIX,jdcloud-api.net
+  - DOMAIN-SUFFIX,jdcloudcache.net
+  - DOMAIN-SUFFIX,jdcloudcdn.net
+  - DOMAIN-SUFFIX,jdclouddns.net
+  - DOMAIN-SUFFIX,jdcloudedge.net
+  - DOMAIN-SUFFIX,jdcloudlb.net
+  - DOMAIN-SUFFIX,jdcloudlive.net
+  - DOMAIN-SUFFIX,jdcloudresolve.net
+  - DOMAIN-SUFFIX,jdcloudstatic.net
+  - DOMAIN-SUFFIX,jdcloudstatus.net
+  - DOMAIN-SUFFIX,jdcloudvideo.net
+  - DOMAIN-SUFFIX,jdgslb.net
+  - DOMAIN-SUFFIX,missjia.net
+  - DOMAIN-SUFFIX,jd.ru
+  - DOMAIN-SUFFIX,jd.shop
+  - DOMAIN-SUFFIX,jd.co.th

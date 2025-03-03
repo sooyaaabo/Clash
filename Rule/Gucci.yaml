@@ -1,9 +1,9 @@
-# UpdateTime：2025-03-03 23:57:27
+# UpdateTime：2025-03-04 02:26:20
 # RuleCount：6
 payload:
-  - DOMAIN-SUFFIX,chimeforchange.org
   - DOMAIN-SUFFIX,gucci.cn
   - DOMAIN-SUFFIX,gucci.com
   - DOMAIN-SUFFIX,guccimuseo.com
   - DOMAIN-SUFFIX,guccitimeless.com
   - DOMAIN-SUFFIX,regiongold.com
+  - DOMAIN-SUFFIX,chimeforchange.org

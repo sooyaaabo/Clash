@@ -1,11 +1,11 @@
-# UpdateTime：2025-03-03 23:57:27
+# UpdateTime：2025-03-04 02:26:20
 # RuleCount：8
 payload:
+  - DOMAIN-SUFFIX,cloudau.cn
+  - DOMAIN-SUFFIX,optaim.cn
   - DOMAIN-SUFFIX,2taobao2jd.com
   - DOMAIN-SUFFIX,appgrub.com
-  - DOMAIN-SUFFIX,cloudau.cn
   - DOMAIN-SUFFIX,iappad.com
   - DOMAIN-SUFFIX,iapprank.com
   - DOMAIN-SUFFIX,igo52.com
-  - DOMAIN-SUFFIX,optaim.cn
   - DOMAIN-SUFFIX,optaim.com

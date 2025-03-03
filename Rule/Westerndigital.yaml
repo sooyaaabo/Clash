@@ -1,17 +1,15 @@
-# UpdateTime：2025-03-03 23:57:26
+# UpdateTime：2025-03-04 02:26:18
 # RuleCount：23
 payload:
-  - DOMAIN-SUFFIX,g-technology.com
   - DOMAIN-SUFFIX,sandisk.ae
-  - DOMAIN-SUFFIX,sandisk.cn
-  - DOMAIN-SUFFIX,sandisk.co.jp
-  - DOMAIN-SUFFIX,sandisk.co.kr
-  - DOMAIN-SUFFIX,sandisk.co.uk
-  - DOMAIN-SUFFIX,sandisk.com
   - DOMAIN-SUFFIX,sandisk.com.au
   - DOMAIN-SUFFIX,sandisk.com.br
-  - DOMAIN-SUFFIX,sandisk.com.tr
-  - DOMAIN-SUFFIX,sandisk.com.tw
+  - DOMAIN-SUFFIX,sandisk.cn
+  - DOMAIN-SUFFIX,g-technology.com
+  - DOMAIN-SUFFIX,sandisk.com
+  - DOMAIN-SUFFIX,wd.com
+  - DOMAIN-SUFFIX,wdc.com
+  - DOMAIN-SUFFIX,westerndigital.com
   - DOMAIN-SUFFIX,sandisk.de
   - DOMAIN-SUFFIX,sandisk.es
   - DOMAIN-SUFFIX,sandisk.fr
@@ -19,8 +17,10 @@ payload:
   - DOMAIN-SUFFIX,sandisk.id
   - DOMAIN-SUFFIX,sandisk.in
   - DOMAIN-SUFFIX,sandisk.it
+  - DOMAIN-SUFFIX,sandisk.co.jp
+  - DOMAIN-SUFFIX,sandisk.co.kr
   - DOMAIN-SUFFIX,sandisk.nl
   - DOMAIN-SUFFIX,sandisk.sg
-  - DOMAIN-SUFFIX,wd.com
-  - DOMAIN-SUFFIX,wdc.com
-  - DOMAIN-SUFFIX,westerndigital.com
+  - DOMAIN-SUFFIX,sandisk.com.tr
+  - DOMAIN-SUFFIX,sandisk.com.tw
+  - DOMAIN-SUFFIX,sandisk.co.uk

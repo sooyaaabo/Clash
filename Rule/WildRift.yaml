@@ -1,6 +1,6 @@
-# UpdateTime：2025-03-03 23:57:23
+# UpdateTime：2025-03-04 02:26:14
 # RuleCount：3
 payload:
+  - DOMAIN-SUFFIX,riotgames.com
   - DOMAIN-SUFFIX,pvp.net
   - DOMAIN-SUFFIX,riotcdn.net
-  - DOMAIN-SUFFIX,riotgames.com

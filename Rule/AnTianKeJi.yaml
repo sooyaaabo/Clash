@@ -1,14 +1,14 @@
-# UpdateTime：2025-03-03 23:57:22
+# UpdateTime：2025-03-04 02:26:11
 # RuleCount：11
 payload:
   - DOMAIN-SUFFIX,antiy.cn
-  - DOMAIN-SUFFIX,antiy.com
+  - DOMAIN-SUFFIX,avlyun.cn
+  - DOMAIN-SUFFIX,cloud-backup.com.cn
   - DOMAIN-SUFFIX,antiy.net.cn
+  - DOMAIN-SUFFIX,antiy.com
   - DOMAIN-SUFFIX,antiycloud.com
   - DOMAIN-SUFFIX,avlinsight.com
   - DOMAIN-SUFFIX,avlsec.com
-  - DOMAIN-SUFFIX,avlyun.cn
   - DOMAIN-SUFFIX,avlyun.com
   - DOMAIN-SUFFIX,avlyun.net
   - DOMAIN-SUFFIX,avlyun.org
-  - DOMAIN-SUFFIX,cloud-backup.com.cn

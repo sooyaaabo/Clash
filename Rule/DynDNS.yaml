@@ -1,11 +1,11 @@
-# UpdateTime：2025-03-03 23:57:26
+# UpdateTime：2025-03-04 02:26:18
 # RuleCount：8
 payload:
-  - DOMAIN-SUFFIX,blogdns.org
   - DOMAIN-SUFFIX,dyn.com
   - DOMAIN-SUFFIX,dyndns-ip.com
   - DOMAIN-SUFFIX,dyndns-pics.com
-  - DOMAIN-SUFFIX,dyndns.org
   - DOMAIN-SUFFIX,from-pr.com
   - DOMAIN-SUFFIX,from-sd.com
   - DOMAIN-SUFFIX,is-a-hunter.com
+  - DOMAIN-SUFFIX,blogdns.org
+  - DOMAIN-SUFFIX,dyndns.org

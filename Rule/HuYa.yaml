@@ -1,7 +1,7 @@
-# UpdateTime：2025-03-03 23:57:23
+# UpdateTime：2025-03-04 02:26:12
 # RuleCount：4
 payload:
-  - DOMAIN-SUFFIX,huya.com
   - DOMAIN-SUFFIX,huyagame.cn
+  - DOMAIN-SUFFIX,huya.com
   - DOMAIN-SUFFIX,peiwanlu.com
   - DOMAIN-SUFFIX,snapplay.com

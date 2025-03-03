@@ -1,10 +1,10 @@
-# UpdateTime：2025-03-03 23:57:24
+# UpdateTime：2025-03-04 02:26:15
 # RuleCount：7
 payload:
-  - DOMAIN-SUFFIX,ebi.ac.uk
-  - DOMAIN-SUFFIX,embl-hamburg.de
   - DOMAIN-SUFFIX,embl.de
+  - DOMAIN-SUFFIX,embl-hamburg.de
   - DOMAIN-SUFFIX,embl.fr
   - DOMAIN-SUFFIX,embl.it
-  - DOMAIN-SUFFIX,embl.org
   - DOMAIN-SUFFIX,emblstatic.net
+  - DOMAIN-SUFFIX,embl.org
+  - DOMAIN-SUFFIX,ebi.ac.uk

@@ -1,9 +1,8 @@
-# UpdateTime：2025-03-03 23:57:23
+# UpdateTime：2025-03-04 02:26:11
 # RuleCount：13
 payload:
   - DOMAIN-SUFFIX,4399.cn
   - DOMAIN-SUFFIX,4399.com
-  - DOMAIN-SUFFIX,4399.net
   - DOMAIN-SUFFIX,4399api.com
   - DOMAIN-SUFFIX,4399dmw.com
   - DOMAIN-SUFFIX,4399pk.com
@@ -13,4 +12,5 @@ payload:
   - DOMAIN-SUFFIX,funnycore.com
   - DOMAIN-SUFFIX,img4399.com
   - DOMAIN-SUFFIX,qq163.com
+  - DOMAIN-SUFFIX,4399.net
   - DOMAIN-SUFFIX,qq163.net

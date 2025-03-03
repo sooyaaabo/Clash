@@ -1,11 +1,11 @@
-# UpdateTime：2025-03-03 23:57:22
+# UpdateTime：2025-03-04 02:26:10
 # RuleCount：8
 payload:
-  - DOMAIN-SUFFIX,consul.io
   - DOMAIN-SUFFIX,hashicorp.com
+  - DOMAIN-SUFFIX,vagrantcloud.com
+  - DOMAIN-SUFFIX,vagrantup.com
+  - DOMAIN-SUFFIX,consul.io
   - DOMAIN-SUFFIX,nomadproject.io
   - DOMAIN-SUFFIX,packer.io
   - DOMAIN-SUFFIX,terraform.io
-  - DOMAIN-SUFFIX,vagrantcloud.com
-  - DOMAIN-SUFFIX,vagrantup.com
   - DOMAIN-SUFFIX,vaultproject.io

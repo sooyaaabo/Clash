@@ -1,8 +1,8 @@
-# UpdateTime：2025-03-03 23:57:26
+# UpdateTime：2025-03-04 02:26:18
 # RuleCount：5
 payload:
-  - DOMAIN-SUFFIX,ubi.com
   - DOMAIN-SUFFIX,ubisoft-orbit-savegames.s3.amazonaws.com
   - DOMAIN-SUFFIX,ubisoft-uplay-savegames.s3.amazonaws.com
+  - DOMAIN-SUFFIX,ubi.com
   - DOMAIN-SUFFIX,ubisoft.com
   - DOMAIN-SUFFIX,uplay.com

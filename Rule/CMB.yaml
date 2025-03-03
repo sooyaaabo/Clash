@@ -1,41 +1,41 @@
-# UpdateTime：2025-03-03 23:57:23
+# UpdateTime：2025-03-04 02:26:12
 # RuleCount：38
 payload:
+  - DOMAIN-SUFFIX,cmbchina.biz
+  - DOMAIN-SUFFIX,cmf.biz
   - DOMAIN-SUFFIX,8008205555.cn
-  - DOMAIN-SUFFIX,8008205555.com
-  - DOMAIN-SUFFIX,bbf.org.cn
-  - DOMAIN-SUFFIX,bjsbnet.com
   - DOMAIN-SUFFIX,chndoi.cn
-  - DOMAIN-SUFFIX,chndoi.com
+  - DOMAIN-SUFFIX,cmbchina.cn
+  - DOMAIN-SUFFIX,cmbimg.cn
+  - DOMAIN-SUFFIX,cmbt.cn
+  - DOMAIN-SUFFIX,cmburl.cn
+  - DOMAIN-SUFFIX,cmfunds.cn
+  - DOMAIN-SUFFIX,cnkidoi.cn
   - DOMAIN-SUFFIX,chndoi.com.cn
-  - DOMAIN-SUFFIX,chndoi.net
-  - DOMAIN-SUFFIX,chndoi.org
-  - DOMAIN-SUFFIX,cignacmb-ipmi.com
+  - DOMAIN-SUFFIX,wuxizazhi.com.cn
+  - DOMAIN-SUFFIX,wuxizazhi.net.cn
+  - DOMAIN-SUFFIX,bbf.org.cn
+  - DOMAIN-SUFFIX,wuxizazhi.cn
+  - DOMAIN-SUFFIX,8008205555.com
+  - DOMAIN-SUFFIX,bjsbnet.com
+  - DOMAIN-SUFFIX,chndoi.com
   - DOMAIN-SUFFIX,cignacmb.com
+  - DOMAIN-SUFFIX,cignacmb-ipmi.com
   - DOMAIN-SUFFIX,cignacmbamc.com
   - DOMAIN-SUFFIX,cmb-leasing.com
-  - DOMAIN-SUFFIX,cmbchina.biz
-  - DOMAIN-SUFFIX,cmbchina.cn
   - DOMAIN-SUFFIX,cmbchina.com
-  - DOMAIN-SUFFIX,cmbi.com.hk
-  - DOMAIN-SUFFIX,cmbimg.cn
   - DOMAIN-SUFFIX,cmbimg.com
-  - DOMAIN-SUFFIX,cmbt.cn
   - DOMAIN-SUFFIX,cmbuat.com
-  - DOMAIN-SUFFIX,cmburl.cn
   - DOMAIN-SUFFIX,cmbwinglungbank.com
-  - DOMAIN-SUFFIX,cmf.biz
-  - DOMAIN-SUFFIX,cmf.ltd
   - DOMAIN-SUFFIX,cmfchina.com
-  - DOMAIN-SUFFIX,cmfunds.cn
-  - DOMAIN-SUFFIX,cnki.net
-  - DOMAIN-SUFFIX,cnkidoi.cn
   - DOMAIN-SUFFIX,cnkidoi.com
-  - DOMAIN-SUFFIX,cnkidoi.net
-  - DOMAIN-SUFFIX,cnkidoi.org
   - DOMAIN-SUFFIX,test-cignacmb.com
-  - DOMAIN-SUFFIX,wuxizazhi.cn
   - DOMAIN-SUFFIX,wuxizazhi.com
-  - DOMAIN-SUFFIX,wuxizazhi.com.cn
+  - DOMAIN-SUFFIX,cmbi.com.hk
+  - DOMAIN-SUFFIX,cmf.ltd
+  - DOMAIN-SUFFIX,chndoi.net
+  - DOMAIN-SUFFIX,cnki.net
+  - DOMAIN-SUFFIX,cnkidoi.net
   - DOMAIN-SUFFIX,wuxizazhi.net
-  - DOMAIN-SUFFIX,wuxizazhi.net.cn
+  - DOMAIN-SUFFIX,chndoi.org
+  - DOMAIN-SUFFIX,cnkidoi.org

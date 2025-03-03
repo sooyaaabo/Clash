@@ -1,11 +1,11 @@
-# UpdateTime：2025-03-03 23:57:22
+# UpdateTime：2025-03-04 02:26:10
 # RuleCount：8
 payload:
+  - DOMAIN-SUFFIX,bfshow.cn
+  - DOMAIN-SUFFIX,stormshow.cn
   - DOMAIN-SUFFIX,baofeng.com
-  - DOMAIN-SUFFIX,baofeng.mobi
-  - DOMAIN-SUFFIX,baofeng.net
   - DOMAIN-SUFFIX,baofengtv.com
   - DOMAIN-SUFFIX,bfimg.com
-  - DOMAIN-SUFFIX,bfshow.cn
+  - DOMAIN-SUFFIX,baofeng.mobi
+  - DOMAIN-SUFFIX,baofeng.net
   - DOMAIN-SUFFIX,bjtndao.org
-  - DOMAIN-SUFFIX,stormshow.cn

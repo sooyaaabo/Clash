@@ -1,10 +1,10 @@
-# UpdateTime：2025-03-03 23:57:22
+# UpdateTime：2025-03-04 02:26:10
 # RuleCount：7
 payload:
   - DOMAIN,cloudsync-prod.s3.amazonaws.com
+  - DOMAIN,rtm.tnt-ea.com
   - DOMAIN,eaasserts-a.akamaihd.net
   - DOMAIN,origin-a.akamaihd.net
   - DOMAIN,originasserts.akamaized.net
-  - DOMAIN,rtm.tnt-ea.com
   - DOMAIN-SUFFIX,ea.com
   - DOMAIN-SUFFIX,origin.com

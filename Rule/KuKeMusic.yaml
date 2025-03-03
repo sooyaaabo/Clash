@@ -1,6 +1,6 @@
-# UpdateTime：2025-03-03 23:57:22
+# UpdateTime：2025-03-04 02:26:10
 # RuleCount：3
 payload:
-  - DOMAIN-SUFFIX,kuke.com
   - DOMAIN-SUFFIX,kukey.com.cn
   - DOMAIN-SUFFIX,naxos.cn
+  - DOMAIN-SUFFIX,kuke.com

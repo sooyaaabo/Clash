@@ -1,15 +1,15 @@
-# UpdateTime：2025-03-03 23:57:26
+# UpdateTime：2025-03-04 02:26:18
 # RuleCount：12
 payload:
   - DOMAIN-SUFFIX,malayalamanorama.com
   - DOMAIN-SUFFIX,manorama.com
   - DOMAIN-SUFFIX,manoramanews.com
   - DOMAIN-SUFFIX,manoramaonline.com
-  - DOMAIN-SUFFIX,manoramayearbook.in
   - DOMAIN-SUFFIX,onmanorama.com
+  - DOMAIN-SUFFIX,vanitaonline.com
+  - DOMAIN-SUFFIX,vanithaveedu.com
   - DOMAIN-SUFFIX,radiomango.fm
+  - DOMAIN-SUFFIX,manoramayearbook.in
   - DOMAIN-SUFFIX,theman.in
   - DOMAIN-SUFFIX,theweek.in
-  - DOMAIN-SUFFIX,vanitaonline.com
   - DOMAIN-SUFFIX,vanitha.in
-  - DOMAIN-SUFFIX,vanithaveedu.com

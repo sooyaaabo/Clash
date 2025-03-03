@@ -1,12 +1,12 @@
-# UpdateTime：2025-03-03 23:57:23
+# UpdateTime：2025-03-04 02:26:12
 # RuleCount：9
 payload:
+  - DOMAIN-SUFFIX,fengzhibo.com.cn
+  - DOMAIN-SUFFIX,phoenixtv.com.cn
+  - DOMAIN-SUFFIX,phoenixcenter.cn
   - DOMAIN-SUFFIX,fengcx.com
   - DOMAIN-SUFFIX,fengedu.com
-  - DOMAIN-SUFFIX,fengzhibo.com.cn
   - DOMAIN-SUFFIX,ifeng.com
   - DOMAIN-SUFFIX,ifengimg.com
   - DOMAIN-SUFFIX,ifengweekly.com
-  - DOMAIN-SUFFIX,phoenixcenter.cn
   - DOMAIN-SUFFIX,phoenixtv.com
-  - DOMAIN-SUFFIX,phoenixtv.com.cn

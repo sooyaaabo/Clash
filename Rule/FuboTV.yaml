@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-03 23:57:23
+# UpdateTime：2025-03-04 02:26:12
 # RuleCount：2
 payload:
-  - DOMAIN-SUFFIX,fubo.tv
   - DOMAIN-SUFFIX,fubotv.com
+  - DOMAIN-SUFFIX,fubo.tv

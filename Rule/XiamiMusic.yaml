@@ -1,8 +1,8 @@
-# UpdateTime：2025-03-03 23:57:26
+# UpdateTime：2025-03-04 02:26:18
 # RuleCount：5
 payload:
   - DOMAIN-SUFFIX,xiami.com
   - DOMAIN-SUFFIX,xiami.fm
   - DOMAIN-SUFFIX,xiami.net
-  - USER-AGENT,walkman*
   - USER-AGENT,xiami*
+  - USER-AGENT,walkman*

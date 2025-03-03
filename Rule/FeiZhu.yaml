@@ -1,6 +1,8 @@
-# UpdateTime：2025-03-03 23:57:22
+# UpdateTime：2025-03-04 02:26:11
 # RuleCount：20
 payload:
+  - DOMAIN-SUFFIX,fdfgdf.cn
+  - DOMAIN-SUFFIX,feizhu.cn
   - DOMAIN-SUFFIX,alitrip.com
   - DOMAIN-SUFFIX,asczwa.com
   - DOMAIN-SUFFIX,asczxcefsv.com
@@ -8,11 +10,8 @@ payload:
   - DOMAIN-SUFFIX,dfkhgj.com
   - DOMAIN-SUFFIX,edcdfg.com
   - DOMAIN-SUFFIX,ereuiib.com
-  - DOMAIN-SUFFIX,fdfgdf.cn
-  - DOMAIN-SUFFIX,feizhu.cn
   - DOMAIN-SUFFIX,feizhu.com
   - DOMAIN-SUFFIX,fliggy.com
-  - DOMAIN-SUFFIX,fliggy.hk
   - DOMAIN-SUFFIX,iuynfg.com
   - DOMAIN-SUFFIX,jhgtgb.com
   - DOMAIN-SUFFIX,mnbvbqw.com
@@ -21,3 +20,4 @@ payload:
   - DOMAIN-SUFFIX,xcvvs.com
   - DOMAIN-SUFFIX,zxczw.com
   - DOMAIN-SUFFIX,zzxca.com
+  - DOMAIN-SUFFIX,fliggy.hk

@@ -1,24 +1,24 @@
-# UpdateTime：2025-03-03 23:57:23
+# UpdateTime：2025-03-04 02:26:14
 # RuleCount：21
 payload:
-  - DOMAIN-SUFFIX,97973.com
   - DOMAIN-SUFFIX,97973.com.cn
-  - DOMAIN-SUFFIX,carrydj.com
+  - DOMAIN-SUFFIX,maozhuar.com.cn
   - DOMAIN-SUFFIX,fldvz.cn
-  - DOMAIN-SUFFIX,hj-dog.com
   - DOMAIN-SUFFIX,jyjqdn.cn
   - DOMAIN-SUFFIX,lccnxn.cn
   - DOMAIN-SUFFIX,ljnvb.cn
   - DOMAIN-SUFFIX,lzcmm9x.cn
   - DOMAIN-SUFFIX,maozhuar.cn
-  - DOMAIN-SUFFIX,maozhuar.com
-  - DOMAIN-SUFFIX,maozhuar.com.cn
   - DOMAIN-SUFFIX,shsyfzq.cn
   - DOMAIN-SUFFIX,smmdn.cn
   - DOMAIN-SUFFIX,sylqmn.cn
   - DOMAIN-SUFFIX,xcmy0.cn
   - DOMAIN-SUFFIX,xuanyaodang.cn
-  - DOMAIN-SUFFIX,xuanyaodang.com
-  - DOMAIN-SUFFIX,xuanyaodang.net
   - DOMAIN-SUFFIX,yblxyp.cn
+  - DOMAIN-SUFFIX,97973.com
+  - DOMAIN-SUFFIX,carrydj.com
+  - DOMAIN-SUFFIX,hj-dog.com
+  - DOMAIN-SUFFIX,maozhuar.com
+  - DOMAIN-SUFFIX,xuanyaodang.com
   - DOMAIN-SUFFIX,youmengchuangxiang.com
+  - DOMAIN-SUFFIX,xuanyaodang.net

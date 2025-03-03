@@ -1,21 +1,23 @@
-# UpdateTime：2025-03-03 23:57:22
+# UpdateTime：2025-03-04 02:26:11
 # RuleCount：33
 payload:
-  - DOMAIN-SUFFIX,cobeuz.fr
-  - DOMAIN-SUFFIX,cobuz.fr
-  - DOMAIN-SUFFIX,cobuzz.fr
-  - DOMAIN-SUFFIX,kobuz.fr
   - DOMAIN-SUFFIX,qobuz.at
   - DOMAIN-SUFFIX,qobuz.be
   - DOMAIN-SUFFIX,qobuz.biz
   - DOMAIN-SUFFIX,qobuz.ca
   - DOMAIN-SUFFIX,qobuz.ch
-  - DOMAIN-SUFFIX,qobuz.co.uk
   - DOMAIN-SUFFIX,qobuz.com
+  - DOMAIN-SUFFIX,quobuz.com
+  - DOMAIN-SUFFIX,static-qobuz.com
   - DOMAIN-SUFFIX,qobuz.de
   - DOMAIN-SUFFIX,qobuz.eu
   - DOMAIN-SUFFIX,qobuz.fi
+  - DOMAIN-SUFFIX,cobeuz.fr
+  - DOMAIN-SUFFIX,cobuz.fr
+  - DOMAIN-SUFFIX,cobuzz.fr
+  - DOMAIN-SUFFIX,kobuz.fr
   - DOMAIN-SUFFIX,qobuz.fr
+  - DOMAIN-SUFFIX,quobuz.fr
   - DOMAIN-SUFFIX,qobuz.gr
   - DOMAIN-SUFFIX,qobuz.hk
   - DOMAIN-SUFFIX,qobuz.info
@@ -28,9 +30,7 @@ payload:
   - DOMAIN-SUFFIX,qobuz.ro
   - DOMAIN-SUFFIX,qobuz.se
   - DOMAIN-SUFFIX,qobuz.tv
+  - DOMAIN-SUFFIX,qobuz.co.uk
   - DOMAIN-SUFFIX,qobuz.us
-  - DOMAIN-SUFFIX,quobuz.com
-  - DOMAIN-SUFFIX,quobuz.fr
-  - DOMAIN-SUFFIX,static-qobuz.com
-  - IP-CIDR,52.211.1.180/32
   - IP-CIDR,99.81.97.56/32
+  - IP-CIDR,52.211.1.180/32

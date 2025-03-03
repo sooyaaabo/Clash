@@ -1,10 +1,10 @@
-# UpdateTime：2025-03-03 23:57:22
+# UpdateTime：2025-03-04 02:26:10
 # RuleCount：7
 payload:
-  - DOMAIN,cdn-fox-networks-group-green.akamaized.net
-  - DOMAIN,d3cv4a9a9wh0bt.cloudfront.net
   - DOMAIN,foxsports01-i.akamaihd.net
   - DOMAIN,foxsports02-i.akamaihd.net
   - DOMAIN,foxsports03-i.akamaihd.net
+  - DOMAIN,cdn-fox-networks-group-green.akamaized.net
   - DOMAIN,staticasiafox.akamaized.net
+  - DOMAIN,d3cv4a9a9wh0bt.cloudfront.net
   - DOMAIN-SUFFIX,foxplus.com

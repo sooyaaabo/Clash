@@ -1,18 +1,17 @@
-# UpdateTime：2025-03-03 23:57:22
+# UpdateTime：2025-03-04 02:26:10
 # RuleCount：22
 payload:
-  - DOMAIN-SUFFIX,6655.com
   - DOMAIN-SUFFIX,cike.cn
+  - DOMAIN-SUFFIX,ruanmei.cn
+  - DOMAIN-SUFFIX,6655.com
   - DOMAIN-SUFFIX,cooldock.com
   - DOMAIN-SUFFIX,dnsnut.com
   - DOMAIN-SUFFIX,fengkeji.com
   - DOMAIN-SUFFIX,henku.com
   - DOMAIN-SUFFIX,ithome.com
-  - DOMAIN-SUFFIX,ithome.net
   - DOMAIN-SUFFIX,jimeng.com
   - DOMAIN-SUFFIX,lapin365.com
   - DOMAIN-SUFFIX,loogoo.com
-  - DOMAIN-SUFFIX,ruanmei.cn
   - DOMAIN-SUFFIX,ruanmei.com
   - DOMAIN-SUFFIX,saayaa.com
   - DOMAIN-SUFFIX,souxia.com
@@ -23,3 +22,4 @@ payload:
   - DOMAIN-SUFFIX,win8china.com
   - DOMAIN-SUFFIX,yaodu365.com
   - DOMAIN-SUFFIX,zuihuimai.com
+  - DOMAIN-SUFFIX,ithome.net

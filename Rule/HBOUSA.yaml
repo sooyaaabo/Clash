@@ -1,15 +1,15 @@
-# UpdateTime：2025-03-03 23:57:23
+# UpdateTime：2025-03-04 02:26:14
 # RuleCount：12
 payload:
   - DOMAIN,telegraph.prd.api.discomax.com
   - DOMAIN,wmff.warnermediacdn.com
   - DOMAIN-SUFFIX,cinemax.com
   - DOMAIN-SUFFIX,discomax.com
-  - DOMAIN-SUFFIX,h264.io
   - DOMAIN-SUFFIX,hbomax.com
   - DOMAIN-SUFFIX,hbomaxcdn.com
-  - DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
   - DOMAIN-SUFFIX,hbonow.com
   - DOMAIN-SUFFIX,max.com
   - DOMAIN-SUFFIX,maxgo.com
+  - DOMAIN-SUFFIX,h264.io
+  - DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
   - USER-AGENT,HBOMAX*

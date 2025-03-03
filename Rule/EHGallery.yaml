@@ -1,10 +1,10 @@
-# UpdateTime：2025-03-03 23:57:22
+# UpdateTime：2025-03-04 02:26:11
 # RuleCount：7
 payload:
+  - DOMAIN-SUFFIX,hath.network
   - DOMAIN-SUFFIX,e-hentai.org
   - DOMAIN-SUFFIX,ehgt.org
   - DOMAIN-SUFFIX,ehwiki.org
   - DOMAIN-SUFFIX,exhentai.org
-  - DOMAIN-SUFFIX,hath.network
   - DOMAIN-SUFFIX,hentaiverse.org
   - IP-CIDR,178.175.128.0/21

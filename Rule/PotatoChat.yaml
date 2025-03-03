@@ -1,6 +1,6 @@
-# UpdateTime：2025-03-03 23:57:23
+# UpdateTime：2025-03-04 02:26:11
 # RuleCount：3
 payload:
-  - IP-CIDR,13.251.24.0/24
   - IP-CIDR,13.251.41.0/24
+  - IP-CIDR,13.251.24.0/24
   - IP-CIDR,17.252.156.0/23

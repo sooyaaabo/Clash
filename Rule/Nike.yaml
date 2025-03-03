@@ -1,14 +1,14 @@
-# UpdateTime：2025-03-03 23:57:23
+# UpdateTime：2025-03-04 02:26:12
 # RuleCount：11
 payload:
-  - DOMAIN-SUFFIX,nike.com
+  - DOMAIN-SUFFIX,nikestore.com.au
   - DOMAIN-SUFFIX,nike.com.br
-  - DOMAIN-SUFFIX,nike.com.hk
+  - DOMAIN-SUFFIX,nikeinc.com.cn
+  - DOMAIN-SUFFIX,nike.com
   - DOMAIN-SUFFIX,nikecdn.com
   - DOMAIN-SUFFIX,nikecloud.com
-  - DOMAIN-SUFFIX,nikeinc.com.cn
-  - DOMAIN-SUFFIX,nikestore.com.au
   - DOMAIN-SUFFIX,niketracking.com
   - DOMAIN-SUFFIX,static-nike.com
-  - DOMAIN-SUFFIX,swoo.sh
   - DOMAIN-SUFFIX,swoosh.com
+  - DOMAIN-SUFFIX,nike.com.hk
+  - DOMAIN-SUFFIX,swoo.sh

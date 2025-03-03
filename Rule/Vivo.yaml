@@ -1,17 +1,17 @@
-# UpdateTime：2025-03-03 23:57:27
+# UpdateTime：2025-03-04 02:26:20
 # RuleCount：14
 payload:
-  - DOMAIN-SUFFIX,bbk.com
+  - DOMAIN-SUFFIX,vsearch.club
   - DOMAIN-SUFFIX,bbktel.com.cn
+  - DOMAIN-SUFFIX,vivo.com.cn
+  - DOMAIN-SUFFIX,vivo.cn
+  - DOMAIN-SUFFIX,bbk.com
   - DOMAIN-SUFFIX,funtouchos.com
   - DOMAIN-SUFFIX,gdbbk.com
   - DOMAIN-SUFFIX,iqoo.com
-  - DOMAIN-SUFFIX,vivo.cn
   - DOMAIN-SUFFIX,vivo.com
-  - DOMAIN-SUFFIX,vivo.com.cn
-  - DOMAIN-SUFFIX,vivo.xyz
   - DOMAIN-SUFFIX,vivoglobal.com
   - DOMAIN-SUFFIX,vivosjpt.com
   - DOMAIN-SUFFIX,vivotc.com
+  - DOMAIN-SUFFIX,vivo.xyz
   - DOMAIN-SUFFIX,vmic.xyz
-  - DOMAIN-SUFFIX,vsearch.club

@@ -1,13 +1,13 @@
-# UpdateTime：2025-03-03 23:57:22
+# UpdateTime：2025-03-04 02:26:11
 # RuleCount：11
 payload:
+  - DOMAIN-SUFFIX,imeigu.com.cn
+  - DOMAIN-SUFFIX,imeigu.cn
   - DOMAIN-SUFFIX,aiganggu.com
   - DOMAIN-SUFFIX,danjuanapp.com
   - DOMAIN-SUFFIX,danjuanfunds.com
   - DOMAIN-SUFFIX,iganggu.com
   - DOMAIN-SUFFIX,imedao.com
-  - DOMAIN-SUFFIX,imeigu.cn
-  - DOMAIN-SUFFIX,imeigu.com.cn
   - DOMAIN-SUFFIX,ncfjj.com
   - DOMAIN-SUFFIX,snowballfinance.com
   - DOMAIN-SUFFIX,snowballsecurities.com

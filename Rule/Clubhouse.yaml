@@ -1,8 +1,8 @@
-# UpdateTime：2025-03-03 23:57:27
+# UpdateTime：2025-03-04 02:26:20
 # RuleCount：5
 payload:
-  - DOMAIN,clubhouse.pubnub.com
   - DOMAIN,clubhouseprod.s3.amazonaws.com
+  - DOMAIN,clubhouse.pubnub.com
   - DOMAIN-SUFFIX,clubhouse.com
   - DOMAIN-SUFFIX,clubhouseapi.com
   - DOMAIN-SUFFIX,joinclubhouse.com

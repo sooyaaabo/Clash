@@ -1,10 +1,10 @@
-# UpdateTime：2025-03-03 23:57:23
+# UpdateTime：2025-03-04 02:26:11
 # RuleCount：7
 payload:
-  - DOMAIN-SUFFIX,chinauos.com
   - DOMAIN-SUFFIX,deepin.cn
+  - DOMAIN-SUFFIX,chinauos.com
   - DOMAIN-SUFFIX,deepin.com
+  - DOMAIN-SUFFIX,uniontech.com
+  - DOMAIN-SUFFIX,linglong.dev
   - DOMAIN-SUFFIX,deepin.io
   - DOMAIN-SUFFIX,deepin.org
-  - DOMAIN-SUFFIX,linglong.dev
-  - DOMAIN-SUFFIX,uniontech.com

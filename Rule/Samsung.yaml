@@ -1,16 +1,16 @@
-# UpdateTime：2025-03-03 23:57:22
+# UpdateTime：2025-03-04 02:26:11
 # RuleCount：13
 payload:
-  - DOMAIN-SUFFIX,anrdoezrs.net
+  - DOMAIN-SUFFIX,samsungeshop.com.cn
   - DOMAIN-SUFFIX,galaxyappstore.com
-  - DOMAIN-SUFFIX,galaxymobile.jp
-  - DOMAIN-SUFFIX,game-platform.net
   - DOMAIN-SUFFIX,knoxemm.com
   - DOMAIN-SUFFIX,samsung.com
   - DOMAIN-SUFFIX,samsungapps.com
   - DOMAIN-SUFFIX,samsungcloud.com
   - DOMAIN-SUFFIX,samsungdm.com
-  - DOMAIN-SUFFIX,samsungeshop.com.cn
   - DOMAIN-SUFFIX,samsunggalaxyfriends.com
   - DOMAIN-SUFFIX,samsungknox.com
   - DOMAIN-SUFFIX,samsungqbe.com
+  - DOMAIN-SUFFIX,galaxymobile.jp
+  - DOMAIN-SUFFIX,anrdoezrs.net
+  - DOMAIN-SUFFIX,game-platform.net

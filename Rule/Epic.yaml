@@ -1,12 +1,10 @@
-# UpdateTime：2025-03-03 23:57:22
+# UpdateTime：2025-03-04 02:26:11
 # RuleCount：15
 payload:
+  - DOMAIN-SUFFIX,easy.ac
   - DOMAIN-SUFFIX,battlebreakers.com
   - DOMAIN-SUFFIX,eac-cdn.com
-  - DOMAIN-SUFFIX,easy.ac
-  - DOMAIN-SUFFIX,easyanticheat.net
   - DOMAIN-SUFFIX,epicgames.com
-  - DOMAIN-SUFFIX,epicgames.dev
   - DOMAIN-SUFFIX,fortnite.com
   - DOMAIN-SUFFIX,helpshift.com
   - DOMAIN-SUFFIX,paragon.com
@@ -16,3 +14,5 @@ payload:
   - DOMAIN-SUFFIX,spyjinx.com
   - DOMAIN-SUFFIX,unrealengine.com
   - DOMAIN-SUFFIX,unrealtournament.com
+  - DOMAIN-SUFFIX,epicgames.dev
+  - DOMAIN-SUFFIX,easyanticheat.net

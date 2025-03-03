@@ -1,11 +1,11 @@
-# UpdateTime：2025-03-03 23:57:23
+# UpdateTime：2025-03-04 02:26:14
 # RuleCount：8
 payload:
   - DOMAIN-SUFFIX,delvenetworks.com
   - DOMAIN-SUFFIX,limelight.com
-  - DOMAIN-SUFFIX,lldns.net
-  - DOMAIN-SUFFIX,llnw-trials.com
   - DOMAIN-SUFFIX,llnw.com
+  - DOMAIN-SUFFIX,llnw-trials.com
+  - DOMAIN-SUFFIX,lldns.net
   - DOMAIN-SUFFIX,llnw.net
   - DOMAIN-SUFFIX,llnwd.net
   - DOMAIN-SUFFIX,llnwi.net

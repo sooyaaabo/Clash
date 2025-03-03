@@ -1,13 +1,13 @@
-# UpdateTime：2025-03-03 23:57:26
+# UpdateTime：2025-03-04 02:26:18
 # RuleCount：10
 payload:
-  - DOMAIN,ai.google.dev
   - DOMAIN,alkalimakersuite-pa.clients6.google.com
-  - DOMAIN,generativelanguage.googleapis.com
   - DOMAIN,makersuite.google.com
-  - DOMAIN-SUFFIX,bard.google.com
+  - DOMAIN,generativelanguage.googleapis.com
+  - DOMAIN,ai.google.dev
   - DOMAIN-SUFFIX,deepmind.com
-  - DOMAIN-SUFFIX,deepmind.google
+  - DOMAIN-SUFFIX,bard.google.com
   - DOMAIN-SUFFIX,gemini.google.com
-  - DOMAIN-SUFFIX,generativeai.google
   - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+  - DOMAIN-SUFFIX,deepmind.google
+  - DOMAIN-SUFFIX,generativeai.google

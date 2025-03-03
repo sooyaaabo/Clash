@@ -1,9 +1,9 @@
-# UpdateTime：2025-03-03 23:57:23
+# UpdateTime：2025-03-04 02:26:12
 # RuleCount：6
 payload:
-  - DOMAIN-SUFFIX,pycon.org
   - DOMAIN-SUFFIX,pypa.io
   - DOMAIN-SUFFIX,pypi.io
+  - DOMAIN-SUFFIX,pycon.org
   - DOMAIN-SUFFIX,pypi.org
   - DOMAIN-SUFFIX,python.org
   - DOMAIN-SUFFIX,pythonhosted.org

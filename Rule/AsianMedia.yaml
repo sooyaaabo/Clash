@@ -1,34 +1,34 @@
-# UpdateTime：2025-03-03 23:57:23
+# UpdateTime：2025-03-04 02:26:14
 # RuleCount：31
 payload:
-  - DOMAIN,akmcdnoversea-tw.inter.iqiyi.com
-  - DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
   - DOMAIN,api.biliapi.com
-  - DOMAIN,api.biliapi.net
-  - DOMAIN,api.bilibili.com
   - DOMAIN,app.biliapi.com
-  - DOMAIN,app.biliapi.net
+  - DOMAIN,api.bilibili.com
   - DOMAIN,app.bilibili.com
-  - DOMAIN,cache.video.iqiyi.com
+  - DOMAIN,m.bilibili.com
+  - DOMAIN,www.bilibili.com
+  - DOMAIN,akmcdnoversea-tw.inter.iqiyi.com
   - DOMAIN,chuangcachecdnoversea-tw.inter.iqiyi.com
-  - DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
-  - DOMAIN,grpc.biliapi.net
+  - DOMAIN,intl.iqiyi.com
   - DOMAIN,intl-rcd.iqiyi.com
   - DOMAIN,intl-subscription.iqiyi.com
-  - DOMAIN,intl.iqiyi.com
-  - DOMAIN,m.bilibili.com
+  - DOMAIN,cache.video.iqiyi.com
   - DOMAIN,mobileso.bz.mgtv.com
   - DOMAIN,upos-hz-mirrorakam.akamaized.net
-  - DOMAIN,www.bilibili.com
-  - DOMAIN-SUFFIX,api.mgtv.com
+  - DOMAIN,api.biliapi.net
+  - DOMAIN,app.biliapi.net
+  - DOMAIN,grpc.biliapi.net
+  - DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
+  - DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
   - DOMAIN-SUFFIX,iq.com
-  - DOMAIN-SUFFIX,wetv.vip
+  - DOMAIN-SUFFIX,api.mgtv.com
   - DOMAIN-SUFFIX,wetvinfo.com
+  - DOMAIN-SUFFIX,wetv.vip
   - DOMAIN-KEYWORD,cn-hk-eq-bcache-
-  - IP-CIDR,103.44.56.0/22
-  - IP-CIDR,116.211.202.206/32
   - IP-CIDR,116.211.202.216/32
+  - IP-CIDR,116.211.202.206/32
+  - IP-CIDR,23.40.242.10/32
+  - IP-CIDR,23.40.241.251/32
   - IP-CIDR,118.26.120.0/24
   - IP-CIDR,118.26.32.0/23
-  - IP-CIDR,23.40.241.251/32
-  - IP-CIDR,23.40.242.10/32
+  - IP-CIDR,103.44.56.0/22

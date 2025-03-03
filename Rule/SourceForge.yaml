@@ -1,7 +1,7 @@
-# UpdateTime：2025-03-03 23:57:23
+# UpdateTime：2025-03-04 02:26:12
 # RuleCount：4
 payload:
   - DOMAIN-SUFFIX,fsdn.com
-  - DOMAIN-SUFFIX,sf.net
   - DOMAIN-SUFFIX,sourceforge.com
+  - DOMAIN-SUFFIX,sf.net
   - DOMAIN-SUFFIX,sourceforge.net

@@ -1,10 +1,10 @@
-# UpdateTime：2025-03-03 23:57:23
+# UpdateTime：2025-03-04 02:26:11
 # RuleCount：7
 payload:
-  - DOMAIN-SUFFIX,keepmovingwithmovefree.com
-  - DOMAIN-SUFFIX,move-free.net
   - DOMAIN-SUFFIX,movefree.cn
+  - DOMAIN-SUFFIX,keepmovingwithmovefree.com
   - DOMAIN-SUFFIX,movefreeoffers.com
   - DOMAIN-SUFFIX,movefreerewards.com
   - DOMAIN-SUFFIX,movefrees.com
   - DOMAIN-SUFFIX,schiffvitamins.com
+  - DOMAIN-SUFFIX,move-free.net

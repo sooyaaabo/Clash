@@ -1,4 +1,4 @@
-# UpdateTime：2025-03-03 23:57:23
+# UpdateTime：2025-03-04 02:26:14
 # RuleCount：8
 payload:
   - DOMAIN-SUFFIX,i-joox.com
@@ -7,5 +7,5 @@ payload:
   - DOMAIN-KEYWORD,jooxweb-api
   - USER-AGENT,JOOX*
   - USER-AGENT,WeMusic*
-  - IP-CIDR,119.28.182.0/23
   - IP-CIDR,203.205.234.0/23
+  - IP-CIDR,119.28.182.0/23
