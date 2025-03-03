@@ -1,93 +1,130 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
-<head>
-<title>Attention Required! | Cloudflare</title>
-<meta charset="UTF-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-<meta name="robots" content="noindex, nofollow" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
-<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
-<style>body{margin:0;padding:0}</style>
-
-
-<!--[if gte IE 10]><!-->
-<script>
-  if (!navigator.cookieEnabled) {
-    window.addEventListener('DOMContentLoaded', function () {
-      var cookieEl = document.getElementById('cookie-alert');
-      cookieEl.style.display = 'block';
-    })
-  }
-</script>
-<!--<![endif]-->
-
-
-</head>
-<body>
-  <div id="cf-wrapper">
-    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
-    <div id="cf-error-details" class="cf-error-details-wrapper">
-      <div class="cf-wrapper cf-header cf-error-overview">
-        <h1 data-translate="block_headline">Sorry, you have been blocked</h1>
-        <h2 class="cf-subheadline"><span data-translate="unable_to_access">You are unable to access</span> kelee.one</h2>
-      </div><!-- /.header -->
-
-      <div class="cf-section cf-highlight">
-        <div class="cf-wrapper">
-          <div class="cf-screenshot-container cf-screenshot-full">
-            
-              <span class="cf-no-screenshot error"></span>
-            
-          </div>
-        </div>
-      </div><!-- /.captcha-container -->
-
-      <div class="cf-section cf-wrapper">
-        <div class="cf-columns two">
-          <div class="cf-column">
-            <h2 data-translate="blocked_why_headline">Why have I been blocked?</h2>
-
-            <p data-translate="blocked_why_detail">This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.</p>
-          </div>
-
-          <div class="cf-column">
-            <h2 data-translate="blocked_resolve_headline">What can I do to resolve this?</h2>
-
-            <p data-translate="blocked_resolve_detail">You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.</p>
-          </div>
-        </div>
-      </div><!-- /.section -->
-
-      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
-  <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">91aaeeef7ad6c985</strong></span>
-    <span class="cf-footer-separator sm:hidden">&bull;</span>
-    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
-      Your IP:
-      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.75.92.144</span>
-      <span class="cf-footer-separator sm:hidden">&bull;</span>
-    </span>
-    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
-    
-  </p>
-  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
-</div><!-- /.error-footer -->
-
-
-    </div><!-- /#cf-error-details -->
-  </div><!-- /#cf-wrapper -->
-
-  <script>
-  window._cf_translation = {};
-  
-  
-</script>
-
-</body>
-</html>
+# UpdateTime：2025-03-03 23:57:22
+# RuleCount：127
+payload:
+  - DOMAIN-SUFFIX,100classicbooks.com
+  - DOMAIN-SUFFIX,ac-pocketcamp.com
+  - DOMAIN-SUFFIX,amiibo.com
+  - DOMAIN-SUFFIX,ayudanintendo.com
+  - DOMAIN-SUFFIX,bowsersinsidestory.com
+  - DOMAIN-SUFFIX,dialga.com
+  - DOMAIN-SUFFIX,diddykongracing.com
+  - DOMAIN-SUFFIX,dkr.com
+  - DOMAIN-SUFFIX,donkeykongcountryreturns.com
+  - DOMAIN-SUFFIX,drmario-world.com
+  - DOMAIN-SUFFIX,excitebots.com
+  - DOMAIN-SUFFIX,fire-emblem-heroes.com
+  - DOMAIN-SUFFIX,fireemblemawakening.com
+  - DOMAIN-SUFFIX,flipnotestudio.com
+  - DOMAIN-SUFFIX,giratina.com
+  - DOMAIN-SUFFIX,gloryofheracles.com
+  - DOMAIN-SUFFIX,hackyourconsole.com
+  - DOMAIN-SUFFIX,kirbysepicyarn.com
+  - DOMAIN-SUFFIX,kirbysuperstarultra.com
+  - DOMAIN-SUFFIX,kyurem.com
+  - DOMAIN-SUFFIX,legendofzelda.cn
+  - DOMAIN-SUFFIX,legendofzelda.com.cn
+  - DOMAIN-SUFFIX,marioandluigidreamteam.com
+  - DOMAIN-SUFFIX,mariobroswii.com
+  - DOMAIN-SUFFIX,mariokart.cn
+  - DOMAIN-SUFFIX,mariokart.com.cn
+  - DOMAIN-SUFFIX,mariokart7.com
+  - DOMAIN-SUFFIX,mariokart8.com
+  - DOMAIN-SUFFIX,mariosupersluggers.com
+  - DOMAIN-SUFFIX,miitomo.com
+  - DOMAIN-SUFFIX,miitomo.com.cn
+  - DOMAIN-SUFFIX,miiverse.com
+  - DOMAIN-SUFFIX,nentindo.net
+  - DOMAIN-SUFFIX,newsupermariobrosu.com
+  - DOMAIN-SUFFIX,nintendo-europe-sales.com
+  - DOMAIN-SUFFIX,nintendo-europe.com
+  - DOMAIN-SUFFIX,nintendo.at
+  - DOMAIN-SUFFIX,nintendo.be
+  - DOMAIN-SUFFIX,nintendo.ch
+  - DOMAIN-SUFFIX,nintendo.co.jp
+  - DOMAIN-SUFFIX,nintendo.co.kr
+  - DOMAIN-SUFFIX,nintendo.co.uk
+  - DOMAIN-SUFFIX,nintendo.co.za
+  - DOMAIN-SUFFIX,nintendo.com
+  - DOMAIN-SUFFIX,nintendo.com.au
+  - DOMAIN-SUFFIX,nintendo.com.hk
+  - DOMAIN-SUFFIX,nintendo.com.pt
+  - DOMAIN-SUFFIX,nintendo.de
+  - DOMAIN-SUFFIX,nintendo.dk
+  - DOMAIN-SUFFIX,nintendo.es
+  - DOMAIN-SUFFIX,nintendo.eu
+  - DOMAIN-SUFFIX,nintendo.fi
+  - DOMAIN-SUFFIX,nintendo.fr
+  - DOMAIN-SUFFIX,nintendo.it
+  - DOMAIN-SUFFIX,nintendo.jp
+  - DOMAIN-SUFFIX,nintendo.net
+  - DOMAIN-SUFFIX,nintendo.nl
+  - DOMAIN-SUFFIX,nintendo.no
+  - DOMAIN-SUFFIX,nintendo.pt
+  - DOMAIN-SUFFIX,nintendo.ru
+  - DOMAIN-SUFFIX,nintendo.se
+  - DOMAIN-SUFFIX,nintendo.tw
+  - DOMAIN-SUFFIX,nintendo3ds.com
+  - DOMAIN-SUFFIX,nintendodsi.com
+  - DOMAIN-SUFFIX,nintendoeurope.com
+  - DOMAIN-SUFFIX,nintendolabo.cn
+  - DOMAIN-SUFFIX,nintendonetwork.net
+  - DOMAIN-SUFFIX,nintendonyc.com
+  - DOMAIN-SUFFIX,nintendostore.com
+  - DOMAIN-SUFFIX,nintendoswitch.cn
+  - DOMAIN-SUFFIX,nintendoswitch.com
+  - DOMAIN-SUFFIX,nintendoswitch.com.cn
+  - DOMAIN-SUFFIX,nintendoswitch.net
+  - DOMAIN-SUFFIX,nintendoswitchtogether.com
+  - DOMAIN-SUFFIX,nintendowifi.net
+  - DOMAIN-SUFFIX,nintendowii.com
+  - DOMAIN-SUFFIX,personaltrainermath.com
+  - DOMAIN-SUFFIX,playnintendo.com
+  - DOMAIN-SUFFIX,pokedex3d.com
+  - DOMAIN-SUFFIX,pokemon-moon.com
+  - DOMAIN-SUFFIX,pokemon-sun.com
+  - DOMAIN-SUFFIX,pokemon-sunmoon.com
+  - DOMAIN-SUFFIX,pokemon.com
+  - DOMAIN-SUFFIX,pokemonbank.com
+  - DOMAIN-SUFFIX,pokemonblackwhite.com
+  - DOMAIN-SUFFIX,pokemonbw.com
+  - DOMAIN-SUFFIX,pokemonchampionships.com
+  - DOMAIN-SUFFIX,pokemongoldsilver.com
+  - DOMAIN-SUFFIX,pokemonhome.com
+  - DOMAIN-SUFFIX,pokemonletsgoeevee.com
+  - DOMAIN-SUFFIX,pokemonletsgopikachu.com
+  - DOMAIN-SUFFIX,pokemonmysterydungeon.com
+  - DOMAIN-SUFFIX,pokemonpicross.com
+  - DOMAIN-SUFFIX,pokemonplatinum.com
+  - DOMAIN-SUFFIX,pokemonrubysapphire.com
+  - DOMAIN-SUFFIX,pokemonsunmoon.com
+  - DOMAIN-SUFFIX,pokemonswordshield.com
+  - DOMAIN-SUFFIX,pokemonultrasunmoon.com
+  - DOMAIN-SUFFIX,pokemonvgc.com
+  - DOMAIN-SUFFIX,pokemonwifi.net
+  - DOMAIN-SUFFIX,splatoon2tournament.com
+  - DOMAIN-SUFFIX,starfox.com
+  - DOMAIN-SUFFIX,supermario.com
+  - DOMAIN-SUFFIX,supermario3dworld.com
+  - DOMAIN-SUFFIX,supermariobros.com.cn
+  - DOMAIN-SUFFIX,supermariogalaxy.com
+  - DOMAIN-SUFFIX,supermariorun.com
+  - DOMAIN-SUFFIX,superpapermario.com
+  - DOMAIN-SUFFIX,supersmashbros.cn
+  - DOMAIN-SUFFIX,supersmashbros.com.cn
+  - DOMAIN-SUFFIX,thelegendarystarfy.com
+  - DOMAIN-SUFFIX,thewonderful101.com
+  - DOMAIN-SUFFIX,wariolandshakeit.com
+  - DOMAIN-SUFFIX,wariowarediy.com
+  - DOMAIN-SUFFIX,wii-u.com
+  - DOMAIN-SUFFIX,wiifit.com
+  - DOMAIN-SUFFIX,wiifitu.com
+  - DOMAIN-SUFFIX,wiipartyu.com
+  - DOMAIN-SUFFIX,wiisports.com
+  - DOMAIN-SUFFIX,wiisportsresort.com
+  - DOMAIN-SUFFIX,wiiugamepad.com
+  - DOMAIN-SUFFIX,wiivc.net
+  - DOMAIN-SUFFIX,xenoblade.com
+  - DOMAIN-SUFFIX,xn--mts47c3w9b1qr.cn
+  - DOMAIN-SUFFIX,xn--mts47c3w9b1qr.net
+  - DOMAIN-SUFFIX,yoshisnewisland.com
+  - IP-CIDR,35.192.0.0/12

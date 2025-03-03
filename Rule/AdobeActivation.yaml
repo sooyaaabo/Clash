@@ -1,93 +1,121 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
-<head>
-<title>Attention Required! | Cloudflare</title>
-<meta charset="UTF-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-<meta name="robots" content="noindex, nofollow" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
-<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
-<style>body{margin:0;padding:0}</style>
-
-
-<!--[if gte IE 10]><!-->
-<script>
-  if (!navigator.cookieEnabled) {
-    window.addEventListener('DOMContentLoaded', function () {
-      var cookieEl = document.getElementById('cookie-alert');
-      cookieEl.style.display = 'block';
-    })
-  }
-</script>
-<!--<![endif]-->
-
-
-</head>
-<body>
-  <div id="cf-wrapper">
-    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
-    <div id="cf-error-details" class="cf-error-details-wrapper">
-      <div class="cf-wrapper cf-header cf-error-overview">
-        <h1 data-translate="block_headline">Sorry, you have been blocked</h1>
-        <h2 class="cf-subheadline"><span data-translate="unable_to_access">You are unable to access</span> kelee.one</h2>
-      </div><!-- /.header -->
-
-      <div class="cf-section cf-highlight">
-        <div class="cf-wrapper">
-          <div class="cf-screenshot-container cf-screenshot-full">
-            
-              <span class="cf-no-screenshot error"></span>
-            
-          </div>
-        </div>
-      </div><!-- /.captcha-container -->
-
-      <div class="cf-section cf-wrapper">
-        <div class="cf-columns two">
-          <div class="cf-column">
-            <h2 data-translate="blocked_why_headline">Why have I been blocked?</h2>
-
-            <p data-translate="blocked_why_detail">This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.</p>
-          </div>
-
-          <div class="cf-column">
-            <h2 data-translate="blocked_resolve_headline">What can I do to resolve this?</h2>
-
-            <p data-translate="blocked_resolve_detail">You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.</p>
-          </div>
-        </div>
-      </div><!-- /.section -->
-
-      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
-  <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">91aaeeadb8fd56bc</strong></span>
-    <span class="cf-footer-separator sm:hidden">&bull;</span>
-    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
-      Your IP:
-      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.75.92.144</span>
-      <span class="cf-footer-separator sm:hidden">&bull;</span>
-    </span>
-    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
-    
-  </p>
-  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
-</div><!-- /.error-footer -->
-
-
-    </div><!-- /#cf-error-details -->
-  </div><!-- /#cf-wrapper -->
-
-  <script>
-  window._cf_translation = {};
-  
-  
-</script>
-
-</body>
-</html>
+# UpdateTime：2025-03-03 23:57:22
+# RuleCount：118
+payload:
+  - DOMAIN,1b9khekel6.adobe.io
+  - DOMAIN,3dns-1.adobe.com
+  - DOMAIN,3dns-2.adobe.com
+  - DOMAIN,3dns-3.adobe.com
+  - DOMAIN,3dns-4.adobe.com
+  - DOMAIN,3dns.adobe.com
+  - DOMAIN,9ngulmtgqi.adobe.io
+  - DOMAIN,activate-sea.adobe.com
+  - DOMAIN,activate-sjc0.adobe.com
+  - DOMAIN,activate.adobe.com
+  - DOMAIN,activate.wip.adobe.com
+  - DOMAIN,activate.wip1.adobe.com
+  - DOMAIN,activate.wip2.adobe.com
+  - DOMAIN,activate.wip3.adobe.com
+  - DOMAIN,activate.wip4.adobe.com
+  - DOMAIN,adobe-dns-01.adobe.com
+  - DOMAIN,adobe-dns-1.adobe.com
+  - DOMAIN,adobe-dns-2.adobe.com
+  - DOMAIN,adobe-dns-3.adobe.com
+  - DOMAIN,adobe-dns-4.adobe.com
+  - DOMAIN,adobe-dns.adobe.com
+  - DOMAIN,adobe.demdex.net
+  - DOMAIN,adobe.tt.omtrdc.net
+  - DOMAIN,adobedc.demdex.net
+  - DOMAIN,adobeereg.com
+  - DOMAIN,adobeid-na1.services.adobe.com
+  - DOMAIN,assets.adobedtm.com
+  - DOMAIN,auth-cloudfront.prod.ims.adobejanus.com
+  - DOMAIN,auth.services.adobe.com
+  - DOMAIN,bam.nr-data.net
+  - DOMAIN,cai-splunk-proxy.adobe.io
+  - DOMAIN,cc-api-data.adobe.io
+  - DOMAIN,cc-cdn.adobe.com
+  - DOMAIN,cc-cdn.adobe.com.edgekey.net
+  - DOMAIN,cclibraries-defaults-cdn.adobe.com
+  - DOMAIN,cclibraries-defaults-cdn.adobe.com.edgekey.net
+  - DOMAIN,cn-assets.adobedtm.com.edgekey.net
+  - DOMAIN,crl.verisign.net
+  - DOMAIN,crlog-crcn.adobe.com
+  - DOMAIN,crs.cr.adobe.com
+  - DOMAIN,edgeproxy-irl1.cloud.adobe.io
+  - DOMAIN,ereg.adobe.com
+  - DOMAIN,ereg.wip.adobe.com
+  - DOMAIN,ereg.wip1.adobe.com
+  - DOMAIN,ereg.wip2.adobe.com
+  - DOMAIN,ereg.wip3.adobe.com
+  - DOMAIN,ereg.wip4.adobe.com
+  - DOMAIN,ethos.ethos02-prod-irl1.ethos.adobe.net
+  - DOMAIN,genuine.adobe.com
+  - DOMAIN,geo2.adobe.com
+  - DOMAIN,hl2rcv.adobe.com
+  - DOMAIN,hlrcv.stage.adobe.com
+  - DOMAIN,ic.adobe.io
+  - DOMAIN,k.sni.global.fastly.net
+  - DOMAIN,lcs-cops.adobe.io
+  - DOMAIN,lcs-robs.adobe.io
+  - DOMAIN,lm.licenses.adobe.com
+  - DOMAIN,lmlicenses.wip4.adobe.com
+  - DOMAIN,na1r.services.adobe.com
+  - DOMAIN,na2m-pr.licenses.adobe.com
+  - DOMAIN,ood.opsource.net
+  - DOMAIN,practivate.adobe
+  - DOMAIN,practivate.adobe.com
+  - DOMAIN,practivate.adobe.ipp
+  - DOMAIN,practivate.adobe.newoa
+  - DOMAIN,practivate.adobe.ntp
+  - DOMAIN,prod.adobegenuine.com
+  - DOMAIN,pv2bqhsp36w.prod.cloud.adobe.io
+  - DOMAIN,services.prod.ims.adobejanus.com
+  - DOMAIN,ssl-delivery.adobe.com.edgekey.net
+  - DOMAIN,sstats.adobe.com
+  - DOMAIN,stls.adobe.com-cn.edgesuite.net
+  - DOMAIN,stls.adobe.com-cn.edgesuite.net.globalredir.akadns.net
+  - DOMAIN,uds.licenses.adobe.com
+  - DOMAIN,use-stls.adobe.com.edgesuite.net
+  - DOMAIN,wip.adobe.com
+  - DOMAIN,wip1.adobe.com
+  - DOMAIN,wip2.adobe.com
+  - DOMAIN,wip3.adobe.com
+  - DOMAIN,wip4.adobe.com
+  - DOMAIN,workflow-ui-prod.licensingstack.com
+  - DOMAIN,wwis-dubc1-vip60.adobe.com
+  - DOMAIN,www.adobeereg.com
+  - DOMAIN,www.wip.adobe.com
+  - DOMAIN,www.wip1.adobe.com
+  - DOMAIN,www.wip2.adobe.com
+  - DOMAIN,www.wip3.adobe.com
+  - DOMAIN,www.wip4.adobe.com
+  - IP-CIDR,100.24.211.130/32
+  - IP-CIDR,13.227.103.57/32
+  - IP-CIDR,162.247.242.20/32
+  - IP-CIDR,18.228.243.121/32
+  - IP-CIDR,18.230.164.221/32
+  - IP-CIDR,199.232.114.137/32
+  - IP-CIDR,23.22.30.141/32
+  - IP-CIDR,3.208.248.199/32
+  - IP-CIDR,3.216.32.253/32
+  - IP-CIDR,3.219.243.226/32
+  - IP-CIDR,3.220.11.113/32
+  - IP-CIDR,3.221.72.231/32
+  - IP-CIDR,34.192.151.90/32
+  - IP-CIDR,34.215.42.13/32
+  - IP-CIDR,34.237.241.83/32
+  - IP-CIDR,44.240.189.42/32
+  - IP-CIDR,52.10.49.85/32
+  - IP-CIDR,52.20.222.155/32
+  - IP-CIDR,52.208.86.132/32
+  - IP-CIDR,52.6.155.20/32
+  - IP-CIDR,52.84.156.37/32
+  - IP-CIDR,54.156.135.114/32
+  - IP-CIDR,54.208.86.132/32
+  - IP-CIDR,54.221.228.134/32
+  - IP-CIDR,54.224.241.105/32
+  - IP-CIDR,63.140.38.120/32
+  - IP-CIDR,63.140.38.160/32
+  - IP-CIDR,63.140.38.169/32
+  - IP-CIDR,63.140.38.219/32
+  - IP-CIDR,65.8.207.109/32

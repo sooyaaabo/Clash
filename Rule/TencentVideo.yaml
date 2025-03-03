@@ -1,90 +1,54 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
-<head>
-<title>Attention Required! | Cloudflare</title>
-<meta charset="UTF-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-<meta name="robots" content="noindex, nofollow" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
-<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
-<style>body{margin:0;padding:0}</style>
-
-
-<!--[if gte IE 10]><!-->
-<script>
-  if (!navigator.cookieEnabled) {
-    window.addEventListener('DOMContentLoaded', function () {
-      var cookieEl = document.getElementById('cookie-alert');
-      cookieEl.style.display = 'block';
-    })
-  }
-</script>
-<!--<![endif]-->
-
-</head>
-<body>
-  <div id="cf-wrapper">
-    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
-    <div id="cf-error-details" class="cf-error-details-wrapper">
-      <div class="cf-wrapper cf-header cf-error-overview">
-        <h1 data-translate="block_headline">Sorry, you have been blocked</h1>
-        <h2 class="cf-subheadline"><span data-translate="unable_to_access">You are unable to access</span> kelee.one</h2>
-      </div><!-- /.header -->
-
-      <div class="cf-section cf-highlight">
-        <div class="cf-wrapper">
-          <div class="cf-screenshot-container cf-screenshot-full">
-            
-              <span class="cf-no-screenshot error"></span>
-            
-          </div>
-        </div>
-      </div><!-- /.captcha-container -->
-
-      <div class="cf-section cf-wrapper">
-        <div class="cf-columns two">
-          <div class="cf-column">
-            <h2 data-translate="blocked_why_headline">Why have I been blocked?</h2>
-
-            <p data-translate="blocked_why_detail">This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.</p>
-          </div>
-
-          <div class="cf-column">
-            <h2 data-translate="blocked_resolve_headline">What can I do to resolve this?</h2>
-
-            <p data-translate="blocked_resolve_detail">You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.</p>
-          </div>
-        </div>
-      </div><!-- /.section -->
-
-      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
-    <p class="text-13">
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">91aaeeaae8032051</strong></span>
-      <span class="cf-footer-separator sm:hidden">&bull;</span>
-      <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
-        Your IP:
-        <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">20.75.92.144</span>
-        <span class="cf-footer-separator sm:hidden">&bull;</span>
-      </span>
-      <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
-      
-    </p>
-    <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
-  </div><!-- /.error-footer -->
-
-    </div><!-- /#cf-error-details -->
-  </div><!-- /#cf-wrapper -->
-
-  <script>
-    window._cf_translation = {};
-    
-    
-  </script>
-</body>
-</html>
+# UpdateTime：2025-03-03 23:57:23
+# RuleCount：51
+payload:
+  - DOMAIN,00713915daab0be43def5c338c02c80b.dlied1.cdntips.net
+  - DOMAIN,17caa75e77d31e1f5a7841e0b3374569.dlied1.cdntips.net
+  - DOMAIN,apd-pcdnvodstat.teg.tencent-cloud.net
+  - DOMAIN,dldir1.qq.com
+  - DOMAIN,iacc.qq.com
+  - DOMAIN,ins-eeww7kom.ias.tencent-cloud.net
+  - DOMAIN,ios.video.mpush.qq.com
+  - DOMAIN,rdelivery.qq.com
+  - DOMAIN,ts.qq.com
+  - DOMAIN,v.streaming.qq.com
+  - DOMAIN,video-public-1258344701.shiply-cdn.qq.com
+  - DOMAIN,video-search-1258344701.shiply-cdn.qq.com
+  - DOMAIN,video-vip-1258344701.shiply-cdn.qq.com
+  - DOMAIN,yoo.gtimg.com
+  - DOMAIN-SUFFIX,pgdt.gtimg.cn
+  - DOMAIN-SUFFIX,qqvideo.gtimg.com
+  - DOMAIN-SUFFIX,v.qq.com
+  - DOMAIN-SUFFIX,v.smtcdns.com
+  - DOMAIN-SUFFIX,video.qq.com
+  - IP-CIDR,58.49.111.117/32
+  - IP-CIDR,58.49.111.79/32
+  - IP-CIDR,58.49.111.95/32
+  - IP-CIDR6,::ffff:113.248.172.245/128
+  - IP-CIDR6,::ffff:114.235.96.186/128
+  - IP-CIDR6,::ffff:115.236.128.112/128
+  - IP-CIDR6,::ffff:115.236.128.120/128
+  - IP-CIDR6,::ffff:115.236.128.24/128
+  - IP-CIDR6,::ffff:115.236.128.80/128
+  - IP-CIDR6,::ffff:117.64.75.196/128
+  - IP-CIDR6,::ffff:117.68.200.210/128
+  - IP-CIDR6,::ffff:117.87.144.24/128
+  - IP-CIDR6,::ffff:121.56.126.255/128
+  - IP-CIDR6,::ffff:124.73.198.81/128
+  - IP-CIDR6,::ffff:124.73.200.142/128
+  - IP-CIDR6,::ffff:175.6.84.30/128
+  - IP-CIDR6,::ffff:175.6.84.96/128
+  - IP-CIDR6,::ffff:183.161.144.133/128
+  - IP-CIDR6,::ffff:183.161.144.230/128
+  - IP-CIDR6,::ffff:183.161.149.105/128
+  - IP-CIDR6,::ffff:198.18.5.138/128
+  - IP-CIDR6,::ffff:198.18.6.81/128
+  - IP-CIDR6,::ffff:198.18.6.83/128
+  - IP-CIDR6,::ffff:223.240.191.238/128
+  - IP-CIDR6,::ffff:27.157.209.46/128
+  - IP-CIDR6,::ffff:58.217.232.117/128
+  - IP-CIDR6,::ffff:58.217.232.68/128
+  - IP-CIDR6,::ffff:58.217.232.79/128
+  - IP-CIDR6,::ffff:58.58.0.90/128
+  - IP-CIDR6,::ffff:60.171.183.161/128
+  - IP-CIDR6,::ffff:60.171.183.186/128
+  - IP-CIDR6,::ffff:60.171.183.98/128

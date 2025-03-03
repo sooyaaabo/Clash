@@ -1,93 +1,144 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
-<head>
-<title>Attention Required! | Cloudflare</title>
-<meta charset="UTF-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-<meta name="robots" content="noindex, nofollow" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
-<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
-<style>body{margin:0;padding:0}</style>
-
-
-<!--[if gte IE 10]><!-->
-<script>
-  if (!navigator.cookieEnabled) {
-    window.addEventListener('DOMContentLoaded', function () {
-      var cookieEl = document.getElementById('cookie-alert');
-      cookieEl.style.display = 'block';
-    })
-  }
-</script>
-<!--<![endif]-->
-
-
-</head>
-<body>
-  <div id="cf-wrapper">
-    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
-    <div id="cf-error-details" class="cf-error-details-wrapper">
-      <div class="cf-wrapper cf-header cf-error-overview">
-        <h1 data-translate="block_headline">Sorry, you have been blocked</h1>
-        <h2 class="cf-subheadline"><span data-translate="unable_to_access">You are unable to access</span> kelee.one</h2>
-      </div><!-- /.header -->
-
-      <div class="cf-section cf-highlight">
-        <div class="cf-wrapper">
-          <div class="cf-screenshot-container cf-screenshot-full">
-            
-              <span class="cf-no-screenshot error"></span>
-            
-          </div>
-        </div>
-      </div><!-- /.captcha-container -->
-
-      <div class="cf-section cf-wrapper">
-        <div class="cf-columns two">
-          <div class="cf-column">
-            <h2 data-translate="blocked_why_headline">Why have I been blocked?</h2>
-
-            <p data-translate="blocked_why_detail">This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.</p>
-          </div>
-
-          <div class="cf-column">
-            <h2 data-translate="blocked_resolve_headline">What can I do to resolve this?</h2>
-
-            <p data-translate="blocked_resolve_detail">You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.</p>
-          </div>
-        </div>
-      </div><!-- /.section -->
-
-      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
-  <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">91aaee9bdef059fe</strong></span>
-    <span class="cf-footer-separator sm:hidden">&bull;</span>
-    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
-      Your IP:
-      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.75.92.144</span>
-      <span class="cf-footer-separator sm:hidden">&bull;</span>
-    </span>
-    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
-    
-  </p>
-  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
-</div><!-- /.error-footer -->
-
-
-    </div><!-- /#cf-error-details -->
-  </div><!-- /#cf-wrapper -->
-
-  <script>
-  window._cf_translation = {};
-  
-  
-</script>
-
-</body>
-</html>
+# UpdateTime：2025-03-03 23:57:26
+# RuleCount：141
+payload:
+  - DOMAIN-SUFFIX,408399.com
+  - DOMAIN-SUFFIX,408399.net
+  - DOMAIN-SUFFIX,816798.net
+  - DOMAIN-SUFFIX,account-cn.huami.com
+  - DOMAIN-SUFFIX,airstar.com
+  - DOMAIN-SUFFIX,airstarfinance.net
+  - DOMAIN-SUFFIX,aleenote.cn
+  - DOMAIN-SUFFIX,aleenote.com
+  - DOMAIN-SUFFIX,alibiji.cn
+  - DOMAIN-SUFFIX,alinotes.cn
+  - DOMAIN-SUFFIX,aos-incentive.huami.com
+  - DOMAIN-SUFFIX,api-aos-cnbj6.huami.com
+  - DOMAIN-SUFFIX,api-mifit-cn.huami.com
+  - DOMAIN-SUFFIX,api-mifit.huami.com
+  - DOMAIN-SUFFIX,app-analytics-cn.huami.com
+  - DOMAIN-SUFFIX,duokan.com
+  - DOMAIN-SUFFIX,duokanbox.com
+  - DOMAIN-SUFFIX,facephoto.com
+  - DOMAIN-SUFFIX,fe-cdn.huami.com
+  - DOMAIN-SUFFIX,fe-static.huami.com
+  - DOMAIN-SUFFIX,growth.ai.srv
+  - DOMAIN-SUFFIX,heihei.com
+  - DOMAIN-SUFFIX,hongmi.cn
+  - DOMAIN-SUFFIX,i3ciebwk6ixfb.com
+  - DOMAIN-SUFFIX,kewucool.com
+  - DOMAIN-SUFFIX,kssdata-yz1.kuaipandata.com
+  - DOMAIN-SUFFIX,kssdata-yz2-lt.kuaipandata.com
+  - DOMAIN-SUFFIX,kssdata-yz2.kuaipandata.com
+  - DOMAIN-SUFFIX,kssm.kuaipandata.com
+  - DOMAIN-SUFFIX,kssv-w-yz01.kuaipandata.com
+  - DOMAIN-SUFFIX,leijun.com
+  - DOMAIN-SUFFIX,m3-cloud.com
+  - DOMAIN-SUFFIX,mgslb.cn
+  - DOMAIN-SUFFIX,mgslb.com
+  - DOMAIN-SUFFIX,mgslb.net
+  - DOMAIN-SUFFIX,mgslb.org
+  - DOMAIN-SUFFIX,mi-ae.cn
+  - DOMAIN-SUFFIX,mi-ae.com
+  - DOMAIN-SUFFIX,mi-ae.com.cn
+  - DOMAIN-SUFFIX,mi-ae.net
+  - DOMAIN-SUFFIX,mi-cache.com
+  - DOMAIN-SUFFIX,mi-cdn.com
+  - DOMAIN-SUFFIX,mi-customer.com
+  - DOMAIN-SUFFIX,mi-idc.com
+  - DOMAIN-SUFFIX,mi-img.com
+  - DOMAIN-SUFFIX,mi-img1.com
+  - DOMAIN-SUFFIX,mi-img2.com
+  - DOMAIN-SUFFIX,mi-img3.com
+  - DOMAIN-SUFFIX,mi-img4.com
+  - DOMAIN-SUFFIX,mi-img5.com
+  - DOMAIN-SUFFIX,mi-static.com
+  - DOMAIN-SUFFIX,mi.cn
+  - DOMAIN-SUFFIX,mi.com
+  - DOMAIN-SUFFIX,mi.com.cn
+  - DOMAIN-SUFFIX,mi0.cc
+  - DOMAIN-SUFFIX,mi1.cc
+  - DOMAIN-SUFFIX,miav-cse.avlyun.com
+  - DOMAIN-SUFFIX,micoce.com.cn
+  - DOMAIN-SUFFIX,micode.cn
+  - DOMAIN-SUFFIX,micode.com.cn
+  - DOMAIN-SUFFIX,micode.net
+  - DOMAIN-SUFFIX,mieco.net
+  - DOMAIN-SUFFIX,mifile.cn
+  - DOMAIN-SUFFIX,mij.cc
+  - DOMAIN-SUFFIX,mijia.tech
+  - DOMAIN-SUFFIX,mikge.com
+  - DOMAIN-SUFFIX,miliao.com
+  - DOMAIN-SUFFIX,milliant.com
+  - DOMAIN-SUFFIX,mioffice.cn
+  - DOMAIN-SUFFIX,mios.cn
+  - DOMAIN-SUFFIX,mios.com.cn
+  - DOMAIN-SUFFIX,miot-spec.org
+  - DOMAIN-SUFFIX,mipay.com
+  - DOMAIN-SUFFIX,mipush.com
+  - DOMAIN-SUFFIX,miredian.com
+  - DOMAIN-SUFFIX,miren.cn
+  - DOMAIN-SUFFIX,mitalk.com
+  - DOMAIN-SUFFIX,mitvos.com
+  - DOMAIN-SUFFIX,mitvos.net
+  - DOMAIN-SUFFIX,miui-fxcse.avlyun.com
+  - DOMAIN-SUFFIX,miui.cn
+  - DOMAIN-SUFFIX,miui.com
+  - DOMAIN-SUFFIX,miwifi.com
+  - DOMAIN-SUFFIX,mixinshe.com
+  - DOMAIN-SUFFIX,miyun.com
+  - DOMAIN-SUFFIX,peijian.com
+  - DOMAIN-SUFFIX,qsb.browser.miui.srv
+  - DOMAIN-SUFFIX,res.mi.baidu.com
+  - DOMAIN-SUFFIX,restapi.amap.com
+  - DOMAIN-SUFFIX,shunwei.cn
+  - DOMAIN-SUFFIX,singapore01.kuaipandata.com
+  - DOMAIN-SUFFIX,store-cdn.huami.com
+  - DOMAIN-SUFFIX,thumb-yz01.kuaipandata.com
+  - DOMAIN-SUFFIX,thumb-yz02.kuaipandata.com
+  - DOMAIN-SUFFIX,thumb-yz69.kuaipandata.com
+  - DOMAIN-SUFFIX,thumb-yz96.kuaipandata.com
+  - DOMAIN-SUFFIX,timipc.com
+  - DOMAIN-SUFFIX,tj1-miui-bn-stage01.kscn
+  - DOMAIN-SUFFIX,wali.com
+  - DOMAIN-SUFFIX,xiaoaiassist.com
+  - DOMAIN-SUFFIX,xiaoaiscan.net
+  - DOMAIN-SUFFIX,xiaoaisound.com
+  - DOMAIN-SUFFIX,xiaomi.cn
+  - DOMAIN-SUFFIX,xiaomi.com
+  - DOMAIN-SUFFIX,xiaomi.net
+  - DOMAIN-SUFFIX,xiaomi.open.qingting.fm
+  - DOMAIN-SUFFIX,xiaomi.org
+  - DOMAIN-SUFFIX,xiaomicache.com
+  - DOMAIN-SUFFIX,xiaomicorp.cn
+  - DOMAIN-SUFFIX,xiaomicorp.com
+  - DOMAIN-SUFFIX,xiaomicorp.com.cn
+  - DOMAIN-SUFFIX,xiaomicorp.net
+  - DOMAIN-SUFFIX,xiaomicp.com
+  - DOMAIN-SUFFIX,xiaomidns.cn
+  - DOMAIN-SUFFIX,xiaomidns.com
+  - DOMAIN-SUFFIX,xiaomidns.com.cn
+  - DOMAIN-SUFFIX,xiaomidns.net
+  - DOMAIN-SUFFIX,xiaomiev.com
+  - DOMAIN-SUFFIX,xiaomiinc.cn
+  - DOMAIN-SUFFIX,xiaomiinc.com
+  - DOMAIN-SUFFIX,xiaomiinc.com.cn
+  - DOMAIN-SUFFIX,xiaomiinc.net
+  - DOMAIN-SUFFIX,xiaomimobile.com
+  - DOMAIN-SUFFIX,xiaominr.com
+  - DOMAIN-SUFFIX,xiaomiprint.com
+  - DOMAIN-SUFFIX,xiaomisa.cn
+  - DOMAIN-SUFFIX,xiaomisa.com
+  - DOMAIN-SUFFIX,xiaomisa.net
+  - DOMAIN-SUFFIX,xiaomisa.org
+  - DOMAIN-SUFFIX,xiaomiwear.com
+  - DOMAIN-SUFFIX,xiaomixiaoai.com
+  - DOMAIN-SUFFIX,xiaomiyoupin.com
+  - DOMAIN-SUFFIX,xlaomi.net
+  - DOMAIN-SUFFIX,youpin.cn
+  - DOMAIN-SUFFIX,youpin.com.cn
+  - DOMAIN-SUFFIX,zhutidasai.com
+  - IP-CIDR,110.43.63.242/32
+  - IP-CIDR,120.133.33.222/32
+  - IP-CIDR,47.241.176.221/32
+  - IP-CIDR,58.220.58.152/31
+  - IP-CIDR,58.220.59.2/32

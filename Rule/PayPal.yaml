@@ -1,93 +1,251 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
-<head>
-<title>Attention Required! | Cloudflare</title>
-<meta charset="UTF-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-<meta name="robots" content="noindex, nofollow" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
-<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
-<style>body{margin:0;padding:0}</style>
-
-
-<!--[if gte IE 10]><!-->
-<script>
-  if (!navigator.cookieEnabled) {
-    window.addEventListener('DOMContentLoaded', function () {
-      var cookieEl = document.getElementById('cookie-alert');
-      cookieEl.style.display = 'block';
-    })
-  }
-</script>
-<!--<![endif]-->
-
-
-</head>
-<body>
-  <div id="cf-wrapper">
-    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
-    <div id="cf-error-details" class="cf-error-details-wrapper">
-      <div class="cf-wrapper cf-header cf-error-overview">
-        <h1 data-translate="block_headline">Sorry, you have been blocked</h1>
-        <h2 class="cf-subheadline"><span data-translate="unable_to_access">You are unable to access</span> kelee.one</h2>
-      </div><!-- /.header -->
-
-      <div class="cf-section cf-highlight">
-        <div class="cf-wrapper">
-          <div class="cf-screenshot-container cf-screenshot-full">
-            
-              <span class="cf-no-screenshot error"></span>
-            
-          </div>
-        </div>
-      </div><!-- /.captcha-container -->
-
-      <div class="cf-section cf-wrapper">
-        <div class="cf-columns two">
-          <div class="cf-column">
-            <h2 data-translate="blocked_why_headline">Why have I been blocked?</h2>
-
-            <p data-translate="blocked_why_detail">This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.</p>
-          </div>
-
-          <div class="cf-column">
-            <h2 data-translate="blocked_resolve_headline">What can I do to resolve this?</h2>
-
-            <p data-translate="blocked_resolve_detail">You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.</p>
-          </div>
-        </div>
-      </div><!-- /.section -->
-
-      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
-  <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">91aaef0359c85776</strong></span>
-    <span class="cf-footer-separator sm:hidden">&bull;</span>
-    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
-      Your IP:
-      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.75.92.144</span>
-      <span class="cf-footer-separator sm:hidden">&bull;</span>
-    </span>
-    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
-    
-  </p>
-  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
-</div><!-- /.error-footer -->
-
-
-    </div><!-- /#cf-error-details -->
-  </div><!-- /#cf-wrapper -->
-
-  <script>
-  window._cf_translation = {};
-  
-  
-</script>
-
-</body>
-</html>
+# UpdateTime：2025-03-03 23:57:26
+# RuleCount：248
+payload:
+  - DOMAIN-SUFFIX,account-paypal.info
+  - DOMAIN-SUFFIX,account-paypal.net
+  - DOMAIN-SUFFIX,account-paypal.org
+  - DOMAIN-SUFFIX,accountpaypal.com
+  - DOMAIN-SUFFIX,accountpaypal.net
+  - DOMAIN-SUFFIX,accountpaypal.org
+  - DOMAIN-SUFFIX,anfutong.cn
+  - DOMAIN-SUFFIX,anfutong.com
+  - DOMAIN-SUFFIX,anfutong.com.cn
+  - DOMAIN-SUFFIX,beibao.cn
+  - DOMAIN-SUFFIX,beibao.com
+  - DOMAIN-SUFFIX,beibao.com.cn
+  - DOMAIN-SUFFIX,bill-safe.com
+  - DOMAIN-SUFFIX,billmelater.com
+  - DOMAIN-SUFFIX,billmelater.info
+  - DOMAIN-SUFFIX,billmelater.net
+  - DOMAIN-SUFFIX,bml.info
+  - DOMAIN-SUFFIX,braintreegateway.com
+  - DOMAIN-SUFFIX,braintreegateway.tv
+  - DOMAIN-SUFFIX,braintreepayments.com
+  - DOMAIN-SUFFIX,braintreepayments.info
+  - DOMAIN-SUFFIX,braintreepayments.org
+  - DOMAIN-SUFFIX,braintreepayments.tv
+  - DOMAIN-SUFFIX,braintreepaymentsolutions.com
+  - DOMAIN-SUFFIX,braintreeps.com
+  - DOMAIN-SUFFIX,briantreepayments.net
+  - DOMAIN-SUFFIX,briantreepayments.tv
+  - DOMAIN-SUFFIX,buyfast-paysmart.net
+  - DOMAIN-SUFFIX,card.io
+  - DOMAIN-SUFFIX,cash2.com
+  - DOMAIN-SUFFIX,cashify.com
+  - DOMAIN-SUFFIX,cashify.net
+  - DOMAIN-SUFFIX,devtools-paypal.com
+  - DOMAIN-SUFFIX,experiencebillmelater.com
+  - DOMAIN-SUFFIX,filipino-music.net
+  - DOMAIN-SUFFIX,fundpaypal.com
+  - DOMAIN-SUFFIX,getbraintree.com
+  - DOMAIN-SUFFIX,gmoney.org
+  - DOMAIN-SUFFIX,i-o-u.info
+  - DOMAIN-SUFFIX,krakenjs.com
+  - DOMAIN-SUFFIX,loanbuilder.com
+  - DOMAIN-SUFFIX,login-paypal.com
+  - DOMAIN-SUFFIX,login-paypal.info
+  - DOMAIN-SUFFIX,mywaytopay.info
+  - DOMAIN-SUFFIX,mywaytopay.net
+  - DOMAIN-SUFFIX,pa9pal.com
+  - DOMAIN-SUFFIX,paaypal.com
+  - DOMAIN-SUFFIX,paily.net
+  - DOMAIN-SUFFIX,paily.org
+  - DOMAIN-SUFFIX,paipal.com
+  - DOMAIN-SUFFIX,pavpal.com
+  - DOMAIN-SUFFIX,paydiant.com
+  - DOMAIN-SUFFIX,paylike.com
+  - DOMAIN-SUFFIX,paypa1.com
+  - DOMAIN-SUFFIX,paypa1.org
+  - DOMAIN-SUFFIX,paypaal.com
+  - DOMAIN-SUFFIX,paypal-activate.com
+  - DOMAIN-SUFFIX,paypal-activate.info
+  - DOMAIN-SUFFIX,paypal-activate.org
+  - DOMAIN-SUFFIX,paypal-apac.com
+  - DOMAIN-SUFFIX,paypal-apps.com
+  - DOMAIN-SUFFIX,paypal-biz.com
+  - DOMAIN-SUFFIX,paypal-brandcentral.com
+  - DOMAIN-SUFFIX,paypal-business.com
+  - DOMAIN-SUFFIX,paypal-business.net
+  - DOMAIN-SUFFIX,paypal-business.org
+  - DOMAIN-SUFFIX,paypal-cardcash.com
+  - DOMAIN-SUFFIX,paypal-cash.com
+  - DOMAIN-SUFFIX,paypal-center.com
+  - DOMAIN-SUFFIX,paypal-center.info
+  - DOMAIN-SUFFIX,paypal-center.net
+  - DOMAIN-SUFFIX,paypal-center.org
+  - DOMAIN-SUFFIX,paypal-communication.com
+  - DOMAIN-SUFFIX,paypal-communications.com
+  - DOMAIN-SUFFIX,paypal-communications.net
+  - DOMAIN-SUFFIX,paypal-community.com
+  - DOMAIN-SUFFIX,paypal-community.net
+  - DOMAIN-SUFFIX,paypal-comunidad.com
+  - DOMAIN-SUFFIX,paypal-corp.com
+  - DOMAIN-SUFFIX,paypal-database.com
+  - DOMAIN-SUFFIX,paypal-database.us
+  - DOMAIN-SUFFIX,paypal-donations.com
+  - DOMAIN-SUFFIX,paypal-dynamic.com
+  - DOMAIN-SUFFIX,paypal-engineering.com
+  - DOMAIN-SUFFIX,paypal-europe.com
+  - DOMAIN-SUFFIX,paypal-excelinvoicing.com
+  - DOMAIN-SUFFIX,paypal-exchanges.com
+  - DOMAIN-SUFFIX,paypal-forward.com
+  - DOMAIN-SUFFIX,paypal-galactic.com
+  - DOMAIN-SUFFIX,paypal-gift.com
+  - DOMAIN-SUFFIX,paypal-gifts.com
+  - DOMAIN-SUFFIX,paypal-gpplus.com
+  - DOMAIN-SUFFIX,paypal-here.com
+  - DOMAIN-SUFFIX,paypal-hrsystem.com
+  - DOMAIN-SUFFIX,paypal-innovationlab.com
+  - DOMAIN-SUFFIX,paypal-integration.com
+  - DOMAIN-SUFFIX,paypal-japan.com
+  - DOMAIN-SUFFIX,paypal-knowledge.com
+  - DOMAIN-SUFFIX,paypal-labs.com
+  - DOMAIN-SUFFIX,paypal-latam.com
+  - DOMAIN-SUFFIX,paypal-learning.com
+  - DOMAIN-SUFFIX,paypal-login.com
+  - DOMAIN-SUFFIX,paypal-login.info
+  - DOMAIN-SUFFIX,paypal-login.org
+  - DOMAIN-SUFFIX,paypal-login.us
+  - DOMAIN-SUFFIX,paypal-luxury.com
+  - DOMAIN-SUFFIX,paypal-mainstreet.net
+  - DOMAIN-SUFFIX,paypal-marketing.com
+  - DOMAIN-SUFFIX,paypal-media.com
+  - DOMAIN-SUFFIX,paypal-merchantloyalty.com
+  - DOMAIN-SUFFIX,paypal-mktg.com
+  - DOMAIN-SUFFIX,paypal-mobilemoney.com
+  - DOMAIN-SUFFIX,paypal-network.org
+  - DOMAIN-SUFFIX,paypal-notice.com
+  - DOMAIN-SUFFIX,paypal-notify.com
+  - DOMAIN-SUFFIX,paypal-online.info
+  - DOMAIN-SUFFIX,paypal-online.net
+  - DOMAIN-SUFFIX,paypal-online.org
+  - DOMAIN-SUFFIX,paypal-optimizer.com
+  - DOMAIN-SUFFIX,paypal-pages.com
+  - DOMAIN-SUFFIX,paypal-photocard.com
+  - DOMAIN-SUFFIX,paypal-plaza.com
+  - DOMAIN-SUFFIX,paypal-portal.com
+  - DOMAIN-SUFFIX,paypal-prepagata.com
+  - DOMAIN-SUFFIX,paypal-prepagata.net
+  - DOMAIN-SUFFIX,paypal-prepaid.com
+  - DOMAIN-SUFFIX,paypal-profile.com
+  - DOMAIN-SUFFIX,paypal-proserv.com
+  - DOMAIN-SUFFIX,paypal-qrshopping.org
+  - DOMAIN-SUFFIX,paypal-recargacelular.com
+  - DOMAIN-SUFFIX,paypal-redeem.com
+  - DOMAIN-SUFFIX,paypal-referral.com
+  - DOMAIN-SUFFIX,paypal-retail.com
+  - DOMAIN-SUFFIX,paypal-scoop.com
+  - DOMAIN-SUFFIX,paypal-search.com
+  - DOMAIN-SUFFIX,paypal-secure.net
+  - DOMAIN-SUFFIX,paypal-secure.org
+  - DOMAIN-SUFFIX,paypal-security.net
+  - DOMAIN-SUFFIX,paypal-security.org
+  - DOMAIN-SUFFIX,paypal-service.org
+  - DOMAIN-SUFFIX,paypal-signin.com
+  - DOMAIN-SUFFIX,paypal-signin.us
+  - DOMAIN-SUFFIX,paypal-special.com
+  - DOMAIN-SUFFIX,paypal-specialoffers.com
+  - DOMAIN-SUFFIX,paypal-sptam.com
+  - DOMAIN-SUFFIX,paypal-status.com
+  - DOMAIN-SUFFIX,paypal-support.com
+  - DOMAIN-SUFFIX,paypal-survey.com
+  - DOMAIN-SUFFIX,paypal-survey.org
+  - DOMAIN-SUFFIX,paypal-team.com
+  - DOMAIN-SUFFIX,paypal-viewpoints.net
+  - DOMAIN-SUFFIX,paypal.ca
+  - DOMAIN-SUFFIX,paypal.com
+  - DOMAIN-SUFFIX,paypal.com.cn
+  - DOMAIN-SUFFIX,paypal.com.hk
+  - DOMAIN-SUFFIX,paypal.com.sg
+  - DOMAIN-SUFFIX,paypal.hk
+  - DOMAIN-SUFFIX,paypal.info
+  - DOMAIN-SUFFIX,paypal.jp
+  - DOMAIN-SUFFIX,paypal.me
+  - DOMAIN-SUFFIX,paypal.net.cn
+  - DOMAIN-SUFFIX,paypal.org.cn
+  - DOMAIN-SUFFIX,paypal.so
+  - DOMAIN-SUFFIX,paypal.us
+  - DOMAIN-SUFFIX,paypalbeacon.com
+  - DOMAIN-SUFFIX,paypalbenefits.com
+  - DOMAIN-SUFFIX,paypalbrasil.com
+  - DOMAIN-SUFFIX,paypalcommunity.cn
+  - DOMAIN-SUFFIX,paypalcommunity.com
+  - DOMAIN-SUFFIX,paypalcommunity.net
+  - DOMAIN-SUFFIX,paypalcommunity.org
+  - DOMAIN-SUFFIX,paypalcorp.com
+  - DOMAIN-SUFFIX,paypalcredit.com
+  - DOMAIN-SUFFIX,paypalcreditcard.com
+  - DOMAIN-SUFFIX,paypalgivingfund.org
+  - DOMAIN-SUFFIX,paypalhere.cn
+  - DOMAIN-SUFFIX,paypalhere.com
+  - DOMAIN-SUFFIX,paypalhere.com.cn
+  - DOMAIN-SUFFIX,paypalhere.info
+  - DOMAIN-SUFFIX,paypalhere.net
+  - DOMAIN-SUFFIX,paypalhere.org
+  - DOMAIN-SUFFIX,paypalhere.tv
+  - DOMAIN-SUFFIX,paypali.net
+  - DOMAIN-SUFFIX,paypalinc.com
+  - DOMAIN-SUFFIX,paypalindia.com
+  - DOMAIN-SUFFIX,paypalinsuranceservices.org
+  - DOMAIN-SUFFIX,paypall.com
+  - DOMAIN-SUFFIX,paypallabs.com
+  - DOMAIN-SUFFIX,paypalme.com
+  - DOMAIN-SUFFIX,paypalnet.net
+  - DOMAIN-SUFFIX,paypalnet.org
+  - DOMAIN-SUFFIX,paypalnetwork.info
+  - DOMAIN-SUFFIX,paypalnetwork.net
+  - DOMAIN-SUFFIX,paypalnetwork.org
+  - DOMAIN-SUFFIX,paypalobjects.com
+  - DOMAIN-SUFFIX,paypalonline.net
+  - DOMAIN-SUFFIX,paypalonline.org
+  - DOMAIN-SUFFIX,paypalprepagata.com
+  - DOMAIN-SUFFIX,paypalprepagata.net
+  - DOMAIN-SUFFIX,paypalservice.com
+  - DOMAIN-SUFFIX,paypalshopping.com
+  - DOMAIN-SUFFIX,paypalshopping.net
+  - DOMAIN-SUFFIX,paypalsurvey.com
+  - DOMAIN-SUFFIX,paypalx.com
+  - DOMAIN-SUFFIX,paypaly.com
+  - DOMAIN-SUFFIX,payppal.com
+  - DOMAIN-SUFFIX,payypal.com
+  - DOMAIN-SUFFIX,pdncommunity.com
+  - DOMAIN-SUFFIX,pp-soc.com
+  - DOMAIN-SUFFIX,ppaypal.com
+  - DOMAIN-SUFFIX,pppds.com
+  - DOMAIN-SUFFIX,pypl.com
+  - DOMAIN-SUFFIX,pypl.info
+  - DOMAIN-SUFFIX,pypl.net
+  - DOMAIN-SUFFIX,pypl.tv
+  - DOMAIN-SUFFIX,s-xoom.com
+  - DOMAIN-SUFFIX,secure-paypal.info
+  - DOMAIN-SUFFIX,securepaypal.info
+  - DOMAIN-SUFFIX,simility.com
+  - DOMAIN-SUFFIX,sslpaypal.org
+  - DOMAIN-SUFFIX,swiftbank.info
+  - DOMAIN-SUFFIX,swiftbank.us
+  - DOMAIN-SUFFIX,swiftcapital.com
+  - DOMAIN-SUFFIX,swiftfinancial.com
+  - DOMAIN-SUFFIX,swiftfinancial.info
+  - DOMAIN-SUFFIX,swiftfinancial.net
+  - DOMAIN-SUFFIX,thepaypalshop.com
+  - DOMAIN-SUFFIX,theshoppingexpresslane.net
+  - DOMAIN-SUFFIX,venmo-touch.com
+  - DOMAIN-SUFFIX,venmo.com
+  - DOMAIN-SUFFIX,venmo.info
+  - DOMAIN-SUFFIX,venmo.net
+  - DOMAIN-SUFFIX,venmo.org
+  - DOMAIN-SUFFIX,venmo.s3.amazonaws.com
+  - DOMAIN-SUFFIX,webmoneyinfo.com
+  - DOMAIN-SUFFIX,wiremoneytoirelandwithxoomeasierandcheaper.com
+  - DOMAIN-SUFFIX,www-paypal.info
+  - DOMAIN-SUFFIX,www-paypal.us
+  - DOMAIN-SUFFIX,wwwxoom.com
+  - DOMAIN-SUFFIX,xn--bnq297cix3a.cn
+  - DOMAIN-SUFFIX,xoom-experience.com
+  - DOMAIN-SUFFIX,xoom.com
+  - DOMAIN-SUFFIX,xoom.io
+  - DOMAIN-SUFFIX,xoom.net.cn
+  - DOMAIN-SUFFIX,xoom.us
+  - DOMAIN-SUFFIX,xoomcom.com
+  - DOMAIN-KEYWORD,paypal
+  - USER-AGENT,PayPal*

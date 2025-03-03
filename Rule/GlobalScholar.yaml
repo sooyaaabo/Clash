@@ -1,93 +1,232 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
-<head>
-<title>Attention Required! | Cloudflare</title>
-<meta charset="UTF-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-<meta name="robots" content="noindex, nofollow" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
-<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
-<style>body{margin:0;padding:0}</style>
-
-
-<!--[if gte IE 10]><!-->
-<script>
-  if (!navigator.cookieEnabled) {
-    window.addEventListener('DOMContentLoaded', function () {
-      var cookieEl = document.getElementById('cookie-alert');
-      cookieEl.style.display = 'block';
-    })
-  }
-</script>
-<!--<![endif]-->
-
-
-</head>
-<body>
-  <div id="cf-wrapper">
-    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
-    <div id="cf-error-details" class="cf-error-details-wrapper">
-      <div class="cf-wrapper cf-header cf-error-overview">
-        <h1 data-translate="block_headline">Sorry, you have been blocked</h1>
-        <h2 class="cf-subheadline"><span data-translate="unable_to_access">You are unable to access</span> kelee.one</h2>
-      </div><!-- /.header -->
-
-      <div class="cf-section cf-highlight">
-        <div class="cf-wrapper">
-          <div class="cf-screenshot-container cf-screenshot-full">
-            
-              <span class="cf-no-screenshot error"></span>
-            
-          </div>
-        </div>
-      </div><!-- /.captcha-container -->
-
-      <div class="cf-section cf-wrapper">
-        <div class="cf-columns two">
-          <div class="cf-column">
-            <h2 data-translate="blocked_why_headline">Why have I been blocked?</h2>
-
-            <p data-translate="blocked_why_detail">This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.</p>
-          </div>
-
-          <div class="cf-column">
-            <h2 data-translate="blocked_resolve_headline">What can I do to resolve this?</h2>
-
-            <p data-translate="blocked_resolve_detail">You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.</p>
-          </div>
-        </div>
-      </div><!-- /.section -->
-
-      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
-  <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">91aaeeb189475776</strong></span>
-    <span class="cf-footer-separator sm:hidden">&bull;</span>
-    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
-      Your IP:
-      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">20.75.92.144</span>
-      <span class="cf-footer-separator sm:hidden">&bull;</span>
-    </span>
-    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
-    
-  </p>
-  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
-</div><!-- /.error-footer -->
-
-
-    </div><!-- /#cf-error-details -->
-  </div><!-- /#cf-wrapper -->
-
-  <script>
-  window._cf_translation = {};
-  
-  
-</script>
-
-</body>
-</html>
+# UpdateTime：2025-03-03 23:57:26
+# RuleCount：229
+payload:
+  - DOMAIN,scholar.google.com
+  - DOMAIN-SUFFIX,1lib.cloud
+  - DOMAIN-SUFFIX,1lib.domains
+  - DOMAIN-SUFFIX,1lib.education
+  - DOMAIN-SUFFIX,1lib.eu
+  - DOMAIN-SUFFIX,1lib.limited
+  - DOMAIN-SUFFIX,1lib.pl
+  - DOMAIN-SUFFIX,1lib.to
+  - DOMAIN-SUFFIX,1lib.tw
+  - DOMAIN-SUFFIX,2lib.org
+  - DOMAIN-SUFFIX,3lib.net
+  - DOMAIN-SUFFIX,aclweb.org
+  - DOMAIN-SUFFIX,acm.org
+  - DOMAIN-SUFFIX,acs.org
+  - DOMAIN-SUFFIX,aiaa.org
+  - DOMAIN-SUFFIX,aip.org
+  - DOMAIN-SUFFIX,altmetric.com
+  - DOMAIN-SUFFIX,amamanualofstyle.com
+  - DOMAIN-SUFFIX,ams.org
+  - DOMAIN-SUFFIX,analytictech.com
+  - DOMAIN-SUFFIX,anb.org
+  - DOMAIN-SUFFIX,annualreviews.org
+  - DOMAIN-SUFFIX,apa.org
+  - DOMAIN-SUFFIX,apress.com
+  - DOMAIN-SUFFIX,aps.org
+  - DOMAIN-SUFFIX,art1lib.com
+  - DOMAIN-SUFFIX,arxiv.org
+  - DOMAIN-SUFFIX,ascelibrary.org
+  - DOMAIN-SUFFIX,asha.org
+  - DOMAIN-SUFFIX,asm.org
+  - DOMAIN-SUFFIX,asme.org
+  - DOMAIN-SUFFIX,astm.org
+  - DOMAIN-SUFFIX,b-ok.africa
+  - DOMAIN-SUFFIX,b-ok.asia
+  - DOMAIN-SUFFIX,b-ok.cc
+  - DOMAIN-SUFFIX,b-ok.global
+  - DOMAIN-SUFFIX,b-ok.org
+  - DOMAIN-SUFFIX,berkeley.edu
+  - DOMAIN-SUFFIX,biomedcentral.com
+  - DOMAIN-SUFFIX,biorxiv.org
+  - DOMAIN-SUFFIX,blackstonespoliceservice.com
+  - DOMAIN-SUFFIX,blackwell-synergy.com
+  - DOMAIN-SUFFIX,bmj.com
+  - DOMAIN-SUFFIX,book4you.org
+  - DOMAIN-SUFFIX,bookfi.net
+  - DOMAIN-SUFFIX,booksc.eu
+  - DOMAIN-SUFFIX,booksc.me
+  - DOMAIN-SUFFIX,booksc.org
+  - DOMAIN-SUFFIX,booksc.xyz
+  - DOMAIN-SUFFIX,bookshome.info
+  - DOMAIN-SUFFIX,bookshome.net
+  - DOMAIN-SUFFIX,bookshome.world
+  - DOMAIN-SUFFIX,brill.com
+  - DOMAIN-SUFFIX,cabdirect.org
+  - DOMAIN-SUFFIX,cambridge.org
+  - DOMAIN-SUFFIX,cambridgedigital.net
+  - DOMAIN-SUFFIX,cambridgemaths.org
+  - DOMAIN-SUFFIX,cambridgeschoolshakespeare.com
+  - DOMAIN-SUFFIX,cas.org
+  - DOMAIN-SUFFIX,cell.com
+  - DOMAIN-SUFFIX,clarivate.com
+  - DOMAIN-SUFFIX,computer.org
+  - DOMAIN-SUFFIX,computingreviews.com
+  - DOMAIN-SUFFIX,cqvip.com
+  - DOMAIN-SUFFIX,crossref.org
+  - DOMAIN-SUFFIX,csiro.au
+  - DOMAIN-SUFFIX,de1lib.org
+  - DOMAIN-SUFFIX,deepdyve.com
+  - DOMAIN-SUFFIX,degruyter.com
+  - DOMAIN-SUFFIX,dentalhypotheses.com
+  - DOMAIN-SUFFIX,doi.info
+  - DOMAIN-SUFFIX,doi.org
+  - DOMAIN-SUFFIX,ebscohost.com
+  - DOMAIN-SUFFIX,elifesciences.org
+  - DOMAIN-SUFFIX,els-cdn.com
+  - DOMAIN-SUFFIX,elsevier-ae.com
+  - DOMAIN-SUFFIX,elsevier.com
+  - DOMAIN-SUFFIX,elsevier.io
+  - DOMAIN-SUFFIX,emerald.com
+  - DOMAIN-SUFFIX,endnote.com
+  - DOMAIN-SUFFIX,engineeringvillage.com
+  - DOMAIN-SUFFIX,epigeum.com
+  - DOMAIN-SUFFIX,europepmc.org
+  - DOMAIN-SUFFIX,evise.com
+  - DOMAIN-SUFFIX,frontiersin.org
+  - DOMAIN-SUFFIX,gale.com
+  - DOMAIN-SUFFIX,galegroup.com
+  - DOMAIN-SUFFIX,geoscienceworld.org
+  - DOMAIN-SUFFIX,ggsrv.com
+  - DOMAIN-SUFFIX,hindawi.com
+  - DOMAIN-SUFFIX,hk1lib.org
+  - DOMAIN-SUFFIX,ic.ac.uk
+  - DOMAIN-SUFFIX,icevirtuallibrary.com
+  - DOMAIN-SUFFIX,ieee.org
+  - DOMAIN-SUFFIX,ieeecomputer.org
+  - DOMAIN-SUFFIX,ieeecomputersociety.org
+  - DOMAIN-SUFFIX,imf.org
+  - DOMAIN-SUFFIX,imperial.ac.uk
+  - DOMAIN-SUFFIX,imperial.insendi.com
+  - DOMAIN-SUFFIX,imperialbusiness.school
+  - DOMAIN-SUFFIX,informs.org
+  - DOMAIN-SUFFIX,iop.org
+  - DOMAIN-SUFFIX,isca-speech.org
+  - DOMAIN-SUFFIX,isiknowledge.com
+  - DOMAIN-SUFFIX,jamanetwork.com
+  - DOMAIN-SUFFIX,japanknowledge.com
+  - DOMAIN-SUFFIX,jbc.org
+  - DOMAIN-SUFFIX,jbe-platform.com
+  - DOMAIN-SUFFIX,jhu.edu
+  - DOMAIN-SUFFIX,jmlr.org
+  - DOMAIN-SUFFIX,jneurosci.org
+  - DOMAIN-SUFFIX,jstor.org
+  - DOMAIN-SUFFIX,karger.com
+  - DOMAIN-SUFFIX,knovel.com
+  - DOMAIN-SUFFIX,kuke.com
+  - DOMAIN-SUFFIX,lawdata.com.tw
+  - DOMAIN-SUFFIX,libguides.com
+  - DOMAIN-SUFFIX,libsolutions.app
+  - DOMAIN-SUFFIX,libsolutions.domains
+  - DOMAIN-SUFFIX,libsolutions.net
+  - DOMAIN-SUFFIX,liebertpub.com
+  - DOMAIN-SUFFIX,literatumonline.com
+  - DOMAIN-SUFFIX,ma1lib.org
+  - DOMAIN-SUFFIX,madsrevolution.net
+  - DOMAIN-SUFFIX,mdpi.com
+  - DOMAIN-SUFFIX,mit
+  - DOMAIN-SUFFIX,mit.edu
+  - DOMAIN-SUFFIX,mit.net
+  - DOMAIN-SUFFIX,mitpressjournals.org
+  - DOMAIN-SUFFIX,mpg.de
+  - DOMAIN-SUFFIX,myilibrary.com
+  - DOMAIN-SUFFIX,nature.com
+  - DOMAIN-SUFFIX,ncbi.nlm.nih.gov
+  - DOMAIN-SUFFIX,nejm.org
+  - DOMAIN-SUFFIX,neurology.org
+  - DOMAIN-SUFFIX,newisiknowledge.com
+  - DOMAIN-SUFFIX,oecd-ilibrary.org
+  - DOMAIN-SUFFIX,oed.com
+  - DOMAIN-SUFFIX,omscr.com
+  - DOMAIN-SUFFIX,osapublishing.org
+  - DOMAIN-SUFFIX,oup.com
+  - DOMAIN-SUFFIX,ouplaw.com
+  - DOMAIN-SUFFIX,ovid.com
+  - DOMAIN-SUFFIX,ox.ac.uk
+  - DOMAIN-SUFFIX,oxfordaasc.com
+  - DOMAIN-SUFFIX,oxfordartonline.com
+  - DOMAIN-SUFFIX,oxfordbibliographies.com
+  - DOMAIN-SUFFIX,oxfordclinicalpsych.com
+  - DOMAIN-SUFFIX,oxforddnb.com
+  - DOMAIN-SUFFIX,oxfordfirstsource.com
+  - DOMAIN-SUFFIX,oxfordhandbooks.com
+  - DOMAIN-SUFFIX,oxfordlawtrove.com
+  - DOMAIN-SUFFIX,oxfordmedicine.com
+  - DOMAIN-SUFFIX,oxfordmusiconline.com
+  - DOMAIN-SUFFIX,oxfordpoliticstrove.com
+  - DOMAIN-SUFFIX,oxfordre.com
+  - DOMAIN-SUFFIX,oxfordreference.com
+  - DOMAIN-SUFFIX,oxfordscholarlyeditions.com
+  - DOMAIN-SUFFIX,oxfordscholarship.com
+  - DOMAIN-SUFFIX,oxfordwesternmusic.com
+  - DOMAIN-SUFFIX,peerj.com
+  - DOMAIN-SUFFIX,physiology.org
+  - DOMAIN-SUFFIX,pkulaw.com
+  - DOMAIN-SUFFIX,plos.org
+  - DOMAIN-SUFFIX,pnas.org
+  - DOMAIN-SUFFIX,princeton.edu
+  - DOMAIN-SUFFIX,proquest.com
+  - DOMAIN-SUFFIX,psyccareers.com
+  - DOMAIN-SUFFIX,readcube.com
+  - DOMAIN-SUFFIX,researchgate.net
+  - DOMAIN-SUFFIX,routledgehandbooks.com
+  - DOMAIN-SUFFIX,royalsocietypublishing.org
+  - DOMAIN-SUFFIX,rsc.org
+  - DOMAIN-SUFFIX,sagepub.com
+  - DOMAIN-SUFFIX,scholarpedia.org
+  - DOMAIN-SUFFIX,sci-hub.tw
+  - DOMAIN-SUFFIX,science.org
+  - DOMAIN-SUFFIX,sciencedirect.com
+  - DOMAIN-SUFFIX,sciencedirectassets.com
+  - DOMAIN-SUFFIX,sciencemag.org
+  - DOMAIN-SUFFIX,sciencenets.com
+  - DOMAIN-SUFFIX,scientificamerican.com
+  - DOMAIN-SUFFIX,scitation.org
+  - DOMAIN-SUFFIX,scopus.com
+  - DOMAIN-SUFFIX,semanticscholar.org
+  - DOMAIN-SUFFIX,serialssolutions.com
+  - DOMAIN-SUFFIX,sg1lib.org
+  - DOMAIN-SUFFIX,siam.org
+  - DOMAIN-SUFFIX,silverchair-cdn.com
+  - DOMAIN-SUFFIX,singlelogin.app
+  - DOMAIN-SUFFIX,singlelogin.me
+  - DOMAIN-SUFFIX,sipriyearbook.org
+  - DOMAIN-SUFFIX,spiedigitallibrary.org
+  - DOMAIN-SUFFIX,springer.com
+  - DOMAIN-SUFFIX,springerlink.com
+  - DOMAIN-SUFFIX,springernature.com
+  - DOMAIN-SUFFIX,statsmakemecry.com
+  - DOMAIN-SUFFIX,tandf.co.uk
+  - DOMAIN-SUFFIX,tandfonline.com
+  - DOMAIN-SUFFIX,taylorandfrancis.com
+  - DOMAIN-SUFFIX,taylorfrancis.com
+  - DOMAIN-SUFFIX,thelancet.com
+  - DOMAIN-SUFFIX,turnitin.com
+  - DOMAIN-SUFFIX,uchicago.edu
+  - DOMAIN-SUFFIX,ucla.edu
+  - DOMAIN-SUFFIX,ukwhoswho.com
+  - DOMAIN-SUFFIX,umass.edu
+  - DOMAIN-SUFFIX,un.org
+  - DOMAIN-SUFFIX,uni-bielefeld.de
+  - DOMAIN-SUFFIX,universitypressscholarship.com
+  - DOMAIN-SUFFIX,uq.edu.au
+  - DOMAIN-SUFFIX,uq.h5p.com
+  - DOMAIN-SUFFIX,veryshortintroductions.com
+  - DOMAIN-SUFFIX,wanfangdata.com
+  - DOMAIN-SUFFIX,wanfangdata.com.cn
+  - DOMAIN-SUFFIX,webofknowledge.com
+  - DOMAIN-SUFFIX,webofscience.com
+  - DOMAIN-SUFFIX,westlaw.com
+  - DOMAIN-SUFFIX,westlawchina.com
+  - DOMAIN-SUFFIX,wiley.com
+  - DOMAIN-SUFFIX,wkap.nl
+  - DOMAIN-SUFFIX,worldbank.org
+  - DOMAIN-SUFFIX,worldscientific.com
+  - DOMAIN-SUFFIX,yale.edu
+  - DOMAIN-SUFFIX,z-lib.org
+  - DOMAIN-SUFFIX,zlib.life
+  - DOMAIN-SUFFIX,zlibcdn.com
+  - DOMAIN-SUFFIX,zlibcdn2.com
+  - DOMAIN-SUFFIX,zotero.org
