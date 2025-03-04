@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-04 03:18:16
-# RuleCount：3751
+# UpdateTime：2025-03-05 03:06:08
+# RuleCount：3748
 payload:
   - DOMAIN,ip.istatmenus.app
   - DOMAIN,client.amplifi.com
@@ -1491,7 +1491,6 @@ payload:
   - DOMAIN-SUFFIX,ipapark.com
   - DOMAIN-SUFFIX,ipinyou.com
   - DOMAIN-SUFFIX,ipplus360.com
-  - DOMAIN-SUFFIX,ipv6-test.com
   - DOMAIN-SUFFIX,iq.com
   - DOMAIN-SUFFIX,iqiyi.com
   - DOMAIN-SUFFIX,iqiyipic.com
@@ -2513,8 +2512,6 @@ payload:
   - DOMAIN-SUFFIX,tenpay.com
   - DOMAIN-SUFFIX,tenxcloud.com
   - DOMAIN-SUFFIX,test-cignacmb.com
-  - DOMAIN-SUFFIX,test-ipv4.com
-  - DOMAIN-SUFFIX,test-ipv6.com
   - DOMAIN-SUFFIX,testwaf.com
   - DOMAIN-SUFFIX,texasholdemcup.com
   - DOMAIN-SUFFIX,tfzq.com
