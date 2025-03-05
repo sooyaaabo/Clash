@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-05 23:06:32
-# RuleCount：264
+# UpdateTime：2025-03-06 03:06:26
+# RuleCount：260
 payload:
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.mywaifu.best
@@ -8,7 +8,6 @@ payload:
   - DOMAIN,bt1.xxxxbt.cc
   - DOMAIN,tracker.dump.cl
   - DOMAIN,open.tracker.cl
-  - DOMAIN,tracker1.myporn.club
   - DOMAIN,isk.richardsw.club
   - DOMAIN,home.yxgz.club
   - DOMAIN,tracker.kmzs123.cn
@@ -55,7 +54,6 @@ payload:
   - DOMAIN,www.torrentsnipe.info
   - DOMAIN,open.tracker.ink
   - DOMAIN,bandito.byterunner.io
-  - DOMAIN,open.dstud.io
   - DOMAIN,opentracker.io
   - DOMAIN,tracker.cyberia.is
   - DOMAIN,u4.trakx.crim.ist
@@ -81,7 +79,6 @@ payload:
   - DOMAIN,tracker.renfei.net
   - DOMAIN,shubt.net
   - DOMAIN,tracker.skyts.net
-  - DOMAIN,wepzone.net
   - DOMAIN,fleira.no
   - DOMAIN,tracker.corpscorp.online
   - DOMAIN,concen.org
@@ -119,7 +116,6 @@ payload:
   - DOMAIN,tracker.darkness.services
   - DOMAIN,t.jaekr.sh
   - DOMAIN,open.stealth.si
-  - DOMAIN,tracker.skynetcloud.site
   - DOMAIN,tracker.ololosh.space
   - DOMAIN,tracker.pmman.tech
   - DOMAIN,tracker.valete.tf
