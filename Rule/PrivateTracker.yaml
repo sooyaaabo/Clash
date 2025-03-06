@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-06 03:06:26
-# RuleCount：260
+# UpdateTime：2025-03-07 03:06:23
+# RuleCount：263
 payload:
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.mywaifu.best
@@ -8,6 +8,7 @@ payload:
   - DOMAIN,bt1.xxxxbt.cc
   - DOMAIN,tracker.dump.cl
   - DOMAIN,open.tracker.cl
+  - DOMAIN,tracker1.myporn.club
   - DOMAIN,isk.richardsw.club
   - DOMAIN,home.yxgz.club
   - DOMAIN,tracker.kmzs123.cn
@@ -47,6 +48,7 @@ payload:
   - DOMAIN,open.free-tracker.ga
   - DOMAIN,tracker.gmi.gd
   - DOMAIN,tracker-zhuqiy.dgj055.icu
+  - DOMAIN,tracker.itscraftsoftware.my.id
   - DOMAIN,evan.im
   - DOMAIN,1337.abcvg.info
   - DOMAIN,tracker-udp.gbitt.info
@@ -54,12 +56,14 @@ payload:
   - DOMAIN,www.torrentsnipe.info
   - DOMAIN,open.tracker.ink
   - DOMAIN,bandito.byterunner.io
+  - DOMAIN,open.dstud.io
   - DOMAIN,opentracker.io
   - DOMAIN,tracker.cyberia.is
   - DOMAIN,u4.trakx.crim.ist
   - DOMAIN,u6.trakx.crim.ist
   - DOMAIN,tracker1.520.jp
   - DOMAIN,tracker.bjut.jp
+  - DOMAIN,tracker.leechshield.link
   - DOMAIN,tracker.aburaya.live
   - DOMAIN,ipv6.rer.lol
   - DOMAIN,tracker.kuroy.me
@@ -79,6 +83,7 @@ payload:
   - DOMAIN,tracker.renfei.net
   - DOMAIN,shubt.net
   - DOMAIN,tracker.skyts.net
+  - DOMAIN,tracker.theoks.net
   - DOMAIN,fleira.no
   - DOMAIN,tracker.corpscorp.online
   - DOMAIN,concen.org
@@ -116,14 +121,12 @@ payload:
   - DOMAIN,tracker.darkness.services
   - DOMAIN,t.jaekr.sh
   - DOMAIN,open.stealth.si
-  - DOMAIN,tracker.ololosh.space
   - DOMAIN,tracker.pmman.tech
   - DOMAIN,tracker.valete.tf
   - DOMAIN,tracker.gcrenwp.top
   - DOMAIN,sparkle.ghostchu-services.top
   - DOMAIN,highteahop.top
   - DOMAIN,tracker.netmap.top
-  - DOMAIN,tr3.ysagin.top
   - DOMAIN,tracker.zhuqiy.top
   - DOMAIN,buny.uk
   - DOMAIN,nyaa.tracker.wf

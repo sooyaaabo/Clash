@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-06 03:06:32
-# RuleCount：116713
+# UpdateTime：2025-03-07 03:06:26
+# RuleCount：116718
 payload:
   - DOMAIN,livecdnh2.tvanywhere.ae
   - DOMAIN,ip.istatmenus.app
@@ -98467,6 +98467,7 @@ payload:
   - IP-CIDR,202.158.242.0/24
   - IP-CIDR,202.153.7.0/24
   - IP-CIDR,202.151.33.0/24
+  - IP-CIDR,202.146.222.0/24
   - IP-CIDR,202.146.186.0/24
   - IP-CIDR,202.137.231.0/24
   - IP-CIDR,202.134.58.0/24
@@ -98985,6 +98986,7 @@ payload:
   - IP-CIDR,92.118.189.0/24
   - IP-CIDR,91.234.36.0/24
   - IP-CIDR,91.233.17.0/24
+  - IP-CIDR,89.144.38.0/24
   - IP-CIDR,89.106.207.0/24
   - IP-CIDR,87.254.207.0/24
   - IP-CIDR,85.237.205.0/24
@@ -101651,6 +101653,7 @@ payload:
   - IP-CIDR,101.2.172.0/22
   - IP-CIDR,101.1.0.0/22
   - IP-CIDR,101.0.0.0/22
+  - IP-CIDR,93.187.128.0/22
   - IP-CIDR,85.209.40.0/22
   - IP-CIDR,81.173.20.0/22
   - IP-CIDR,80.76.36.0/22
@@ -113741,6 +113744,7 @@ payload:
   - IP-CIDR6,2a0f:7802:e104::/48
   - IP-CIDR6,2a0f:7803:fa21::/48
   - IP-CIDR6,2a0f:7803:faf3::/48
+  - IP-CIDR6,2a0f:7803:faf7::/48
   - IP-CIDR6,2a0f:7803:fe41::/48
   - IP-CIDR6,2a0f:7803:fe4a::/48
   - IP-CIDR6,2a0f:7803:fe81::/48
@@ -113748,6 +113752,7 @@ payload:
   - IP-CIDR6,2a0f:85c1:816::/48
   - IP-CIDR6,2a0f:85c1:89a::/48
   - IP-CIDR6,2a0f:85c1:b3a::/48
+  - IP-CIDR6,2a0f:85c1:b4a::/48
   - IP-CIDR6,2a0f:9400:6110::/48
   - IP-CIDR6,2a0f:9400:7700::/48
   - IP-CIDR6,2a10:2f00:15a::/48
