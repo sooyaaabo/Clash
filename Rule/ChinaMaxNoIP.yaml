@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-08 03:06:38
-# RuleCount：96348
+# UpdateTime：2025-03-09 03:06:38
+# RuleCount：96350
 payload:
   - DOMAIN,livecdnh2.tvanywhere.ae
   - DOMAIN,ip.istatmenus.app
@@ -441,6 +441,8 @@ payload:
   - DOMAIN-SUFFIX,project.ai
   - DOMAIN-SUFFIX,qdtech.ai
   - DOMAIN-SUFFIX,qiaomu.ai
+  - DOMAIN-SUFFIX,qwen.ai
+  - DOMAIN-SUFFIX,qwenlm.ai
   - DOMAIN-SUFFIX,robosense.ai
   - DOMAIN-SUFFIX,shengyi.ai
   - DOMAIN-SUFFIX,talk.ai

@@ -1,14 +1,13 @@
-# UpdateTime：2025-03-08 03:06:29
-# RuleCount：261
+# UpdateTime：2025-03-09 03:06:32
+# RuleCount：257
 payload:
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.mywaifu.best
   - DOMAIN,t.overflow.biz
   - DOMAIN,tracker.bz
   - DOMAIN,bt1.xxxxbt.cc
-  - DOMAIN,tracker.dump.cl
   - DOMAIN,open.tracker.cl
-  - DOMAIN,isk.richardsw.club
+  - DOMAIN,tracker1.myporn.club
   - DOMAIN,home.yxgz.club
   - DOMAIN,tracker.kmzs123.cn
   - DOMAIN,tracker.foreverpirates.co
@@ -39,14 +38,10 @@ payload:
   - DOMAIN,torrentsmd.com
   - DOMAIN,tracker.torrust-demo.com
   - DOMAIN,www.wareztorrent.com
-  - DOMAIN,ns-1.x-fins.com
   - DOMAIN,tracker.yemekyedim.com
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,ipv4announce.sktorrent.eu
-  - DOMAIN,tr.abir.ga
-  - DOMAIN,open.free-tracker.ga
   - DOMAIN,tracker.gmi.gd
-  - DOMAIN,tracker-zhuqiy.dgj055.icu
   - DOMAIN,tracker.itscraftsoftware.my.id
   - DOMAIN,evan.im
   - DOMAIN,1337.abcvg.info
@@ -68,6 +63,8 @@ payload:
   - DOMAIN,tracker.lintk.me
   - DOMAIN,tracker.moeking.me
   - DOMAIN,leet-tracker.moe
+  - DOMAIN,tracker.waaa.moe
+  - DOMAIN,tracker.yume-hatsuyuki.moe
   - DOMAIN,0d.kebhana.mx
   - DOMAIN,www.all4nothin.net
   - DOMAIN,retracker01-msk-virt.corbina.net
@@ -79,7 +76,7 @@ payload:
   - DOMAIN,tracker.renfei.net
   - DOMAIN,shubt.net
   - DOMAIN,tracker.skyts.net
-  - DOMAIN,tracker.theoks.net
+  - DOMAIN,wepzone.net
   - DOMAIN,fleira.no
   - DOMAIN,tracker.corpscorp.online
   - DOMAIN,concen.org
@@ -103,7 +100,6 @@ payload:
   - DOMAIN,tr.zukizuki.org
   - DOMAIN,tracker.moxing.party
   - DOMAIN,tracker.bittor.pw
-  - DOMAIN,discord.heihachi.pw
   - DOMAIN,tr.nyacat.pw
   - DOMAIN,ch3oh.ru
   - DOMAIN,retracker.hotplug.ru
@@ -117,7 +113,6 @@ payload:
   - DOMAIN,tracker.darkness.services
   - DOMAIN,t.jaekr.sh
   - DOMAIN,open.stealth.si
-  - DOMAIN,tracker.skynetcloud.site
   - DOMAIN,tracker.ololosh.space
   - DOMAIN,tracker.pmman.tech
   - DOMAIN,tracker.valete.tf
@@ -128,6 +123,7 @@ payload:
   - DOMAIN,tracker.zhuqiy.top
   - DOMAIN,buny.uk
   - DOMAIN,nyaa.tracker.wf
+  - DOMAIN,tracker.privateseedbox.xyz
   - DOMAIN,p2p.publictracker.xyz
   - DOMAIN,tracker810.xyz
   - DOMAIN,open.trackerlist.xyz

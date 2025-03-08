@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-08 03:06:25
-# RuleCount：31989
+# UpdateTime：2025-03-09 03:06:24
+# RuleCount：32007
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -2285,6 +2285,7 @@ payload:
   - DOMAIN-SUFFIX,maying.co
   - DOMAIN-SUFFIX,minilondon.co
   - DOMAIN-SUFFIX,miniso.co
+  - DOMAIN-SUFFIX,mo.co
   - DOMAIN-SUFFIX,moefuns.co
   - DOMAIN-SUFFIX,nbc.co
   - DOMAIN-SUFFIX,twister.net.co
@@ -4546,6 +4547,7 @@ payload:
   - DOMAIN-SUFFIX,booksinprint.com
   - DOMAIN-SUFFIX,bookstagram.com
   - DOMAIN-SUFFIX,booloo.com
+  - DOMAIN-SUFFIX,boombeach.com
   - DOMAIN-SUFFIX,boomerang.com
   - DOMAIN-SUFFIX,boomssr.com
   - DOMAIN-SUFFIX,boomtrain.com
@@ -4610,6 +4612,7 @@ payload:
   - DOMAIN-SUFFIX,bravoerotica.com
   - DOMAIN-SUFFIX,bravoporn.com
   - DOMAIN-SUFFIX,bravoteens.com
+  - DOMAIN-SUFFIX,brawlstars.com
   - DOMAIN-SUFFIX,brawlstarsgame.com
   - DOMAIN-SUFFIX,brazilpartneruniversity.com
   - DOMAIN-SUFFIX,brazzer.com
@@ -5180,6 +5183,10 @@ payload:
   - DOMAIN-SUFFIX,ckcdn.com
   - DOMAIN-SUFFIX,ckss98.com
   - DOMAIN-SUFFIX,claravenger.com
+  - DOMAIN-SUFFIX,clash.com
+  - DOMAIN-SUFFIX,clashmini.com
+  - DOMAIN-SUFFIX,clashofclans.com
+  - DOMAIN-SUFFIX,clashroyale.com
   - DOMAIN-SUFFIX,classicnike.com
   - DOMAIN-SUFFIX,classymomsex.com
   - DOMAIN-SUFFIX,claudeusercontent.com
@@ -7450,6 +7457,7 @@ payload:
   - DOMAIN-SUFFIX,gameroom.com
   - DOMAIN-SUFFIX,gamerotic.com
   - DOMAIN-SUFFIX,gamesathletes.com
+  - DOMAIN-SUFFIX,gamesfirsthelsinki.com
   - DOMAIN-SUFFIX,gamesfuckgirls.com
   - DOMAIN-SUFFIX,gamesofdesire.com
   - DOMAIN-SUFFIX,gamesstack.com
@@ -7967,6 +7975,8 @@ payload:
   - DOMAIN-SUFFIX,have8.com
   - DOMAIN-SUFFIX,haveibeenpwned.com
   - DOMAIN-SUFFIX,hawaiibmw.com
+  - DOMAIN-SUFFIX,hayday.com
+  - DOMAIN-SUFFIX,haydaygame.com
   - DOMAIN-SUFFIX,hbabit.com
   - DOMAIN-SUFFIX,hbg.com
   - DOMAIN-SUFFIX,hbo.com
@@ -11866,6 +11876,7 @@ payload:
   - DOMAIN-SUFFIX,pokerstrategy.com
   - DOMAIN-SUFFIX,poloniex.com
   - DOMAIN-SUFFIX,polygon.com
+  - DOMAIN-SUFFIX,polymarket.com
   - DOMAIN-SUFFIX,polymerhk.com
   - DOMAIN-SUFFIX,ponyanimalsex.com
   - DOMAIN-SUFFIX,poofetish.com
@@ -12760,6 +12771,7 @@ payload:
   - DOMAIN-SUFFIX,seemygf.com
   - DOMAIN-SUFFIX,seemyporn.com
   - DOMAIN-SUFFIX,seesmic.com
+  - DOMAIN-SUFFIX,seeurlpcl.com
   - DOMAIN-SUFFIX,seevpn.com
   - DOMAIN-SUFFIX,cdn.segment.com
   - DOMAIN-SUFFIX,seiroganmania.com
@@ -13328,6 +13340,7 @@ payload:
   - DOMAIN-SUFFIX,spyjinx.com
   - DOMAIN-SUFFIX,sqlserveronlinux.com
   - DOMAIN-SUFFIX,squ1.com
+  - DOMAIN-SUFFIX,squadbusters.com
   - DOMAIN-SUFFIX,squarecapital.com
   - DOMAIN-SUFFIX,squarecdn.com
   - DOMAIN-SUFFIX,squarecloudservices.com
@@ -13510,6 +13523,10 @@ payload:
   - DOMAIN-SUFFIX,supanimegames.com
   - DOMAIN-SUFFIX,supchina.com
   - DOMAIN-SUFFIX,superadultgames.com
+  - DOMAIN-SUFFIX,supercellcreators.com
+  - DOMAIN-SUFFIX,supercellgames.com
+  - DOMAIN-SUFFIX,supercellid.com
+  - DOMAIN-SUFFIX,supercellstore.com
   - DOMAIN-SUFFIX,superearsenjoy.com
   - DOMAIN-SUFFIX,superfreevpn.com
   - DOMAIN-SUFFIX,supergratisporno.com
@@ -15829,6 +15846,7 @@ payload:
   - DOMAIN-SUFFIX,blogspot.cv
   - DOMAIN-SUFFIX,google.cv
   - DOMAIN-SUFFIX,bmw.cw
+  - DOMAIN-SUFFIX,69shuba.cx
   - DOMAIN-SUFFIX,javmost.cx
   - DOMAIN-SUFFIX,blogspot.com.cy
   - DOMAIN-SUFFIX,bmw.com.cy

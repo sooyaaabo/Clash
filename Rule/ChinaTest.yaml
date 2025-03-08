@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-08 03:06:32
-# RuleCount：94136
+# UpdateTime：2025-03-09 03:06:31
+# RuleCount：94138
 payload:
   - DOMAIN,ip.istatmenus.app
   - DOMAIN,play.1ucrs.com
@@ -140,6 +140,8 @@ payload:
   - DOMAIN-SUFFIX,powertensors.ai
   - DOMAIN-SUFFIX,qdtech.ai
   - DOMAIN-SUFFIX,qiaomu.ai
+  - DOMAIN-SUFFIX,qwen.ai
+  - DOMAIN-SUFFIX,qwenlm.ai
   - DOMAIN-SUFFIX,robosense.ai
   - DOMAIN-SUFFIX,shengyi.ai
   - DOMAIN-SUFFIX,tidb.ai

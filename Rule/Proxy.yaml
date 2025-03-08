@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-08 03:06:24
-# RuleCount：6846
+# UpdateTime：2025-03-09 03:06:24
+# RuleCount：6848
 payload:
   - DOMAIN,developer.apple.com
   - DOMAIN,testflight.apple.com
@@ -2454,6 +2454,7 @@ payload:
   - DOMAIN-SUFFIX,pokerstars.com
   - DOMAIN-SUFFIX,pokerstrategy.com
   - DOMAIN-SUFFIX,poloniex.com
+  - DOMAIN-SUFFIX,polymarket.com
   - DOMAIN-SUFFIX,polymerhk.com
   - DOMAIN-SUFFIX,poolbinance.com
   - DOMAIN-SUFFIX,poolin.com
@@ -3572,6 +3573,7 @@ payload:
   - DOMAIN-SUFFIX,kat.cr
   - DOMAIN-SUFFIX,google.com.cu
   - DOMAIN-SUFFIX,google.cv
+  - DOMAIN-SUFFIX,69shuba.cx
   - DOMAIN-SUFFIX,blogspot.com.cy
   - DOMAIN-SUFFIX,google.com.cy
   - DOMAIN-SUFFIX,blogspot.cz

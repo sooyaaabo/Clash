@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-08 03:06:31
-# RuleCount：117217
+# UpdateTime：2025-03-09 03:06:31
+# RuleCount：117218
 payload:
   - DOMAIN,livecdnh2.tvanywhere.ae
   - DOMAIN,ip.istatmenus.app
@@ -442,6 +442,8 @@ payload:
   - DOMAIN-SUFFIX,project.ai
   - DOMAIN-SUFFIX,qdtech.ai
   - DOMAIN-SUFFIX,qiaomu.ai
+  - DOMAIN-SUFFIX,qwen.ai
+  - DOMAIN-SUFFIX,qwenlm.ai
   - DOMAIN-SUFFIX,robosense.ai
   - DOMAIN-SUFFIX,shengyi.ai
   - DOMAIN-SUFFIX,talk.ai
@@ -98266,7 +98268,6 @@ payload:
   - IP-CIDR,223.165.12.0/24
   - IP-CIDR,223.165.10.0/24
   - IP-CIDR,218.213.85.0/24
-  - IP-CIDR,217.194.135.0/24
   - IP-CIDR,217.194.133.0/24
   - IP-CIDR,213.255.231.0/24
   - IP-CIDR,213.199.169.0/24
@@ -99195,7 +99196,6 @@ payload:
   - IP-CIDR,156.247.12.0/24
   - IP-CIDR,156.242.6.0/24
   - IP-CIDR,156.242.5.0/24
-  - IP-CIDR,156.232.10.0/24
   - IP-CIDR,156.232.9.0/24
   - IP-CIDR,156.230.11.0/24
   - IP-CIDR,156.224.232.0/24
@@ -99994,6 +99994,7 @@ payload:
   - IP-CIDR,156.251.162.0/23
   - IP-CIDR,156.237.104.0/23
   - IP-CIDR,156.236.96.0/23
+  - IP-CIDR,156.232.10.0/23
   - IP-CIDR,156.230.12.0/23
   - IP-CIDR,156.154.62.0/23
   - IP-CIDR,156.107.180.0/23
