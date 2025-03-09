@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-09 03:06:32
-# RuleCount：257
+# UpdateTime：2025-03-10 03:06:22
+# RuleCount：258
 payload:
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.mywaifu.best
@@ -8,6 +8,7 @@ payload:
   - DOMAIN,bt1.xxxxbt.cc
   - DOMAIN,open.tracker.cl
   - DOMAIN,tracker1.myporn.club
+  - DOMAIN,isk.richardsw.club
   - DOMAIN,home.yxgz.club
   - DOMAIN,tracker.kmzs123.cn
   - DOMAIN,tracker.foreverpirates.co
@@ -38,9 +39,11 @@ payload:
   - DOMAIN,torrentsmd.com
   - DOMAIN,tracker.torrust-demo.com
   - DOMAIN,www.wareztorrent.com
+  - DOMAIN,ns-1.x-fins.com
   - DOMAIN,tracker.yemekyedim.com
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,ipv4announce.sktorrent.eu
+  - DOMAIN,open.free-tracker.ga
   - DOMAIN,tracker.gmi.gd
   - DOMAIN,tracker.itscraftsoftware.my.id
   - DOMAIN,evan.im
@@ -62,7 +65,7 @@ payload:
   - DOMAIN,retracker.lanta.me
   - DOMAIN,tracker.lintk.me
   - DOMAIN,tracker.moeking.me
-  - DOMAIN,leet-tracker.moe
+  - DOMAIN,lucke.fenesisu.moe
   - DOMAIN,tracker.waaa.moe
   - DOMAIN,tracker.yume-hatsuyuki.moe
   - DOMAIN,0d.kebhana.mx
@@ -109,11 +112,9 @@ payload:
   - DOMAIN,servandroidkino.ru
   - DOMAIN,retracker.spark-rostov.ru
   - DOMAIN,taciturn-shadow.spb.ru
-  - DOMAIN,retracker.x2k.ru
   - DOMAIN,tracker.darkness.services
   - DOMAIN,t.jaekr.sh
   - DOMAIN,open.stealth.si
-  - DOMAIN,tracker.ololosh.space
   - DOMAIN,tracker.pmman.tech
   - DOMAIN,tracker.valete.tf
   - DOMAIN,tracker.gcrenwp.top

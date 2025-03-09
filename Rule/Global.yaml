@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-09 03:06:24
-# RuleCount：32007
+# UpdateTime：2025-03-10 03:06:17
+# RuleCount：32008
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -14311,6 +14311,7 @@ payload:
   - DOMAIN-SUFFIX,twitvid.com
   - DOMAIN-SUFFIX,twitzap.com
   - DOMAIN-SUFFIX,twiyia.com
+  - DOMAIN-SUFFIX,twkan.com
   - DOMAIN-SUFFIX,twlegs.com
   - DOMAIN-SUFFIX,twline5.com
   - DOMAIN-SUFFIX,twnextdigital.com

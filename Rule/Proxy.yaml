@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-09 03:06:24
-# RuleCount：6848
+# UpdateTime：2025-03-10 03:06:17
+# RuleCount：6850
 payload:
   - DOMAIN,developer.apple.com
   - DOMAIN,testflight.apple.com
@@ -2123,6 +2123,7 @@ payload:
   - DOMAIN-SUFFIX,multiply.com
   - DOMAIN-SUFFIX,multiupload.com
   - DOMAIN-SUFFIX,mummysgold.com
+  - DOMAIN-SUFFIX,musixmatch.com
   - DOMAIN-SUFFIX,muslimvideo.com
   - DOMAIN-SUFFIX,muzi.com
   - DOMAIN-SUFFIX,mvnrepository.com
@@ -3140,6 +3141,7 @@ payload:
   - DOMAIN-SUFFIX,twitvid.com
   - DOMAIN-SUFFIX,twitzap.com
   - DOMAIN-SUFFIX,twiyia.com
+  - DOMAIN-SUFFIX,twkan.com
   - DOMAIN-SUFFIX,twskype.com
   - DOMAIN-SUFFIX,twtkr.com
   - DOMAIN-SUFFIX,twtrland.com
