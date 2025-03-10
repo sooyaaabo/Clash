@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-10 03:06:27
-# RuleCount：38027
+# UpdateTime：2025-03-11 03:06:34
+# RuleCount：38040
 payload:
   - DOMAIN,tube.ac
   - DOMAIN,bonzai.ad
@@ -806,6 +806,7 @@ payload:
   - DOMAIN,cs-bailing.com.cn
   - DOMAIN,bs.csshq.com.cn
   - DOMAIN,cstmedia.com.cn
+  - DOMAIN,ads.cup.com.cn
   - DOMAIN,switch.cup.com.cn
   - DOMAIN,datamaster.com.cn
   - DOMAIN,static.diditaxi.com.cn
@@ -1483,11 +1484,6 @@ payload:
   - DOMAIN,sjdjcn.cn
   - DOMAIN,skyjh.cn
   - DOMAIN,a.slsbc.cn
-  - DOMAIN,hc-ssp.sm.cn
-  - DOMAIN,dns.m.sm.cn
-  - DOMAIN,order.sm.cn
-  - DOMAIN,video-ad.sm.cn
-  - DOMAIN,wolong-dsp.sm.cn
   - DOMAIN,smmx3.cn
   - DOMAIN,ujm.snackmachinery.cn
   - DOMAIN,snmi.cn
@@ -3650,7 +3646,6 @@ payload:
   - DOMAIN,dmtracking.alibaba.com
   - DOMAIN,o2o-ad-log-gateway.alibaba.com
   - DOMAIN,ssp-partner.alibaba.com
-  - DOMAIN,zconfig.alibabausercontent.com
   - DOMAIN,baichuan-sdk.alicdn.com
   - DOMAIN,umc.danuoyi.alicdn.com
   - DOMAIN,httpdns.alicdn.com
@@ -11373,6 +11368,8 @@ payload:
   - DOMAIN,myprecisionads.com
   - DOMAIN,mypydwibqja.com
   - DOMAIN,adstore-index-1252524079.file.myqcloud.com
+  - DOMAIN,amsweb-cdn-gz-1258344696.file.myqcloud.com
+  - DOMAIN,wallpaper-1258344696.file.myqcloud.com
   - DOMAIN,myqdpxaofyzkwf.com
   - DOMAIN,myqnpgfgjo.com
   - DOMAIN,myqzicfxbkpk.com
@@ -13447,6 +13444,7 @@ payload:
   - DOMAIN,data.qq.com
   - DOMAIN,v2.gdt.qq.com
   - DOMAIN,vr.gdt.qq.com
+  - DOMAIN,xs.gdt.qq.com
   - DOMAIN,agstat.html5.qq.com
   - DOMAIN,jsapi.html5.qq.com
   - DOMAIN,life.html5.qq.com
@@ -25727,7 +25725,7 @@ payload:
   - DOMAIN-SUFFIX,sjmwkj.cn
   - DOMAIN-SUFFIX,slivercommander.cn
   - DOMAIN-SUFFIX,slygzsc.cn
-  - DOMAIN-SUFFIX,image.zzd.sm.cn
+  - DOMAIN-SUFFIX,sm.cn
   - DOMAIN-SUFFIX,smckii.cn
   - DOMAIN-SUFFIX,smdhek58726.cn
   - DOMAIN-SUFFIX,smf82.cn
@@ -25873,6 +25871,7 @@ payload:
   - DOMAIN-SUFFIX,hao.uc.cn
   - DOMAIN-SUFFIX,api.mp.uc.cn
   - DOMAIN-SUFFIX,api.open.uc.cn
+  - DOMAIN-SUFFIX,partner.uc.cn
   - DOMAIN-SUFFIX,alissl.ucdl.pp.uc.cn
   - DOMAIN-SUFFIX,client.tv.uc.cn
   - DOMAIN-SUFFIX,puds.test.uae.uc.cn
@@ -25884,7 +25883,7 @@ payload:
   - DOMAIN-SUFFIX,ucrzgcs.cn
   - DOMAIN-SUFFIX,ucstatic.cn
   - DOMAIN-SUFFIX,ucvqmvg.cn
-  - DOMAIN-SUFFIX,m.uczzd.cn
+  - DOMAIN-SUFFIX,uczzd.cn
   - DOMAIN-SUFFIX,ueaeqqi.cn
   - DOMAIN-SUFFIX,uerzyr.cn
   - DOMAIN-SUFFIX,uh64b.cn
@@ -27319,6 +27318,7 @@ payload:
   - DOMAIN-SUFFIX,tracelog.www.alibaba.com
   - DOMAIN-SUFFIX,ynuf.alibaba.com
   - DOMAIN-SUFFIX,crm-eve.b2b.alibaba-inc.com
+  - DOMAIN-SUFFIX,zconfig.alibabausercontent.com
   - DOMAIN-SUFFIX,aecpm.alicdn.com
   - DOMAIN-SUFFIX,afp.alicdn.com
   - DOMAIN-SUFFIX,afpmm.alicdn.com
@@ -27607,6 +27607,7 @@ payload:
   - DOMAIN-SUFFIX,bce.baidu.com
   - DOMAIN-SUFFIX,bdplus.baidu.com
   - DOMAIN-SUFFIX,click.bes.baidu.com
+  - DOMAIN-SUFFIX,bgg.baidu.com
   - DOMAIN-SUFFIX,boscdn.bpc.baidu.com
   - DOMAIN-SUFFIX,dlsw.br.baidu.com
   - DOMAIN-SUFFIX,j.br.baidu.com
@@ -32373,6 +32374,7 @@ payload:
   - DOMAIN-SUFFIX,jsqmt.qq.com
   - DOMAIN-SUFFIX,l.qq.com
   - DOMAIN-SUFFIX,ltsdl.qq.com
+  - DOMAIN-SUFFIX,mazu.m.qq.com
   - DOMAIN-SUFFIX,pms.mb.qq.com
   - DOMAIN-SUFFIX,oth.eve.mdt.qq.com
   - DOMAIN-SUFFIX,oth.str.mdt.qq.com
@@ -32409,6 +32411,7 @@ payload:
   - DOMAIN-SUFFIX,img1.sj.qq.com
   - DOMAIN-SUFFIX,t.sj.qq.com
   - DOMAIN-SUFFIX,ws.sj.qq.com
+  - DOMAIN-SUFFIX,snowflake.qq.com
   - DOMAIN-SUFFIX,setting.snswin.qq.com
   - DOMAIN-SUFFIX,news.ssp.qq.com
   - DOMAIN-SUFFIX,stdl.qq.com
@@ -32527,6 +32530,7 @@ payload:
   - DOMAIN-SUFFIX,lyz.radio366.com
   - DOMAIN-SUFFIX,raenfh9tkuka.com
   - DOMAIN-SUFFIX,rainfinemalawi.com
+  - DOMAIN-SUFFIX,ranfenghd.com
   - DOMAIN-SUFFIX,tools.ranker.com
   - DOMAIN-SUFFIX,tp.ranker.com
   - DOMAIN-SUFFIX,rannabio.com
@@ -33291,6 +33295,7 @@ payload:
   - DOMAIN-SUFFIX,stat.simba.taobao.com
   - DOMAIN-SUFFIX,textlink.simba.taobao.com
   - DOMAIN-SUFFIX,click.tz.simba.taobao.com
+  - DOMAIN-SUFFIX,sjarvis.taobao.com
   - DOMAIN-SUFFIX,tbskip.taobao.com
   - DOMAIN-SUFFIX,temai.taobao.com
   - DOMAIN-SUFFIX,tyh.taobao.com
@@ -33658,6 +33663,7 @@ payload:
   - DOMAIN-SUFFIX,ubaii.com
   - DOMAIN-SUFFIX,ubalh.com
   - DOMAIN-SUFFIX,uberads.com
+  - DOMAIN-SUFFIX,ubixioe.com
   - DOMAIN-SUFFIX,m.uc123.com
   - DOMAIN-SUFFIX,u.uc123.com
   - DOMAIN-SUFFIX,1.uc129.com
@@ -34723,9 +34729,13 @@ payload:
   - DOMAIN-SUFFIX,store.tv.api.3g.youku.com
   - DOMAIN-SUFFIX,store.xl.api.3g.youku.com
   - DOMAIN-SUFFIX,actives.youku.com
+  - DOMAIN-SUFFIX,acz.youku.com
+  - DOMAIN-SUFFIX,adx-core.youku.com
+  - DOMAIN-SUFFIX,adx-open-service.youku.com
   - DOMAIN-SUFFIX,das.api.youku.com
   - DOMAIN-SUFFIX,val.api.youku.com
   - DOMAIN-SUFFIX,atm.youku.com
+  - DOMAIN-SUFFIX,cad.youku.com
   - DOMAIN-SUFFIX,cmstool.youku.com
   - DOMAIN-SUFFIX,service.danmu.youku.com
   - DOMAIN-SUFFIX,dmapp.youku.com
@@ -34751,6 +34761,7 @@ payload:
   - DOMAIN-SUFFIX,passport-log.youku.com
   - DOMAIN-SUFFIX,hudong.pl.youku.com
   - DOMAIN-SUFFIX,huodong.pl.youku.com
+  - DOMAIN-SUFFIX,rhdc-acs.youku.com
   - DOMAIN-SUFFIX,b.smartvideo.youku.com
   - DOMAIN-SUFFIX,stat.youku.com
   - DOMAIN-SUFFIX,tdrec.youku.com
@@ -37843,6 +37854,7 @@ payload:
   - DOMAIN-KEYWORD,splashimgbssdl.yun.kugou.com
   - DOMAIN-KEYWORD,adsfilebssdlbig.ali.kugou.com
   - DOMAIN-KEYWORD,kgstaticdlbssdlbig.tx.kugou.com
+  - IP-CIDR,223.111.27.248/32
   - IP-CIDR,223.87.182.102/32
   - IP-CIDR,223.87.182.101/32
   - IP-CIDR,223.87.182.52/32
@@ -37927,6 +37939,7 @@ payload:
   - IP-CIDR,121.43.75.169/32
   - IP-CIDR,121.15.207.243/32
   - IP-CIDR,120.240.95.37/32
+  - IP-CIDR,120.222.240.171/32
   - IP-CIDR,120.197.89.239/32
   - IP-CIDR,120.132.63.203/32
   - IP-CIDR,120.132.57.41/32

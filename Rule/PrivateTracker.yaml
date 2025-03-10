@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-10 03:06:22
-# RuleCount：258
+# UpdateTime：2025-03-11 03:06:29
+# RuleCount：259
 payload:
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.mywaifu.best
@@ -7,7 +7,6 @@ payload:
   - DOMAIN,tracker.bz
   - DOMAIN,bt1.xxxxbt.cc
   - DOMAIN,open.tracker.cl
-  - DOMAIN,tracker1.myporn.club
   - DOMAIN,isk.richardsw.club
   - DOMAIN,home.yxgz.club
   - DOMAIN,tracker.kmzs123.cn
@@ -43,7 +42,6 @@ payload:
   - DOMAIN,tracker.yemekyedim.com
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,ipv4announce.sktorrent.eu
-  - DOMAIN,open.free-tracker.ga
   - DOMAIN,tracker.gmi.gd
   - DOMAIN,tracker.itscraftsoftware.my.id
   - DOMAIN,evan.im
@@ -65,8 +63,9 @@ payload:
   - DOMAIN,retracker.lanta.me
   - DOMAIN,tracker.lintk.me
   - DOMAIN,tracker.moeking.me
+  - DOMAIN,tracker.cangku.moe
   - DOMAIN,lucke.fenesisu.moe
-  - DOMAIN,tracker.waaa.moe
+  - DOMAIN,leet-tracker.moe
   - DOMAIN,tracker.yume-hatsuyuki.moe
   - DOMAIN,0d.kebhana.mx
   - DOMAIN,www.all4nothin.net
@@ -78,7 +77,7 @@ payload:
   - DOMAIN,tk.greedland.net
   - DOMAIN,tracker.renfei.net
   - DOMAIN,shubt.net
-  - DOMAIN,tracker.skyts.net
+  - DOMAIN,tracker.theoks.net
   - DOMAIN,wepzone.net
   - DOMAIN,fleira.no
   - DOMAIN,tracker.corpscorp.online
@@ -124,6 +123,8 @@ payload:
   - DOMAIN,tracker.zhuqiy.top
   - DOMAIN,buny.uk
   - DOMAIN,nyaa.tracker.wf
+  - DOMAIN,4.tracker.devnak.win
+  - DOMAIN,6.tracker.devnak.win
   - DOMAIN,tracker.privateseedbox.xyz
   - DOMAIN,p2p.publictracker.xyz
   - DOMAIN,tracker810.xyz
