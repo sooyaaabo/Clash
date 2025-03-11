@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-11 03:06:25
-# RuleCount：735
+# UpdateTime：2025-03-12 03:06:28
+# RuleCount：716
 payload:
   - DOMAIN,lens.l.google.com
   - DOMAIN,mtalk.google.com
@@ -223,7 +223,6 @@ payload:
   - DOMAIN-SUFFIX,googlepagecreator.com
   - DOMAIN-SUFFIX,googlephotos.com
   - DOMAIN-SUFFIX,googleplay.com
-  - DOMAIN-SUFFIX,googleplex.com
   - DOMAIN-SUFFIX,googleplus.com
   - DOMAIN-SUFFIX,googlescholar.com
   - DOMAIN-SUFFIX,googlesource.com
@@ -349,7 +348,6 @@ payload:
   - DOMAIN-SUFFIX,xn--gogl-0nd52e.com
   - DOMAIN-SUFFIX,xn--gogl-1nd42e.com
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-  - DOMAIN-SUFFIX,ai.ytimg.com
   - DOMAIN-SUFFIX,zynamics.com
   - DOMAIN-SUFFIX,x.company
   - DOMAIN-SUFFIX,google.co.cr
@@ -546,30 +544,13 @@ payload:
   - DOMAIN-SUFFIX,googleflights-cn.net
   - DOMAIN-SUFFIX,onefifteen.net
   - DOMAIN-SUFFIX,picasaweb.net
-  - DOMAIN-SUFFIX,distribution.qatp1.net
   - DOMAIN-SUFFIX,download.qatp1.net
-  - DOMAIN-SUFFIX,monitoring.qatp1.net
   - DOMAIN-SUFFIX,qagpublic.qatp1.net
-  - DOMAIN-SUFFIX,qgadmin.qatp1.net
   - DOMAIN-SUFFIX,qualysapi.qatp1.net
-  - DOMAIN-SUFFIX,qualysguard.qatp1.net
-  - DOMAIN-SUFFIX,scanservice1.qatp1.net
-  - DOMAIN-SUFFIX,distribution.qcpp1.net
-  - DOMAIN-SUFFIX,download.qcpp1.net
-  - DOMAIN-SUFFIX,monitoring.qcpp1.net
-  - DOMAIN-SUFFIX,qagpublic.qcpp1.net
   - DOMAIN-SUFFIX,qgadmin.qcpp1.net
-  - DOMAIN-SUFFIX,qualysapi.qcpp1.net
-  - DOMAIN-SUFFIX,qualysguard.qcpp1.net
   - DOMAIN-SUFFIX,scanservice1.qcpp1.net
-  - DOMAIN-SUFFIX,distribution.qpdp1.net
-  - DOMAIN-SUFFIX,download.qpdp1.net
   - DOMAIN-SUFFIX,monitoring.qpdp1.net
-  - DOMAIN-SUFFIX,qagpublic.qpdp1.net
-  - DOMAIN-SUFFIX,qgadmin.qpdp1.net
-  - DOMAIN-SUFFIX,qualysapi.qpdp1.net
   - DOMAIN-SUFFIX,qualysguard.qpdp1.net
-  - DOMAIN-SUFFIX,scanservice1.qpdp1.net
   - DOMAIN-SUFFIX,recaptcha.net
   - DOMAIN-SUFFIX,recaptcha-cn.net
   - DOMAIN-SUFFIX,stxmosquitoproject.net

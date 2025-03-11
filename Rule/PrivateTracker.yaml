@@ -1,14 +1,16 @@
-# UpdateTime：2025-03-11 03:06:29
-# RuleCount：259
+# UpdateTime：2025-03-12 03:06:32
+# RuleCount：270
 payload:
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.mywaifu.best
   - DOMAIN,t.overflow.biz
   - DOMAIN,tracker.bz
   - DOMAIN,bt1.xxxxbt.cc
-  - DOMAIN,open.tracker.cl
+  - DOMAIN,tracker.dump.cl
+  - DOMAIN,tracker1.myporn.club
   - DOMAIN,isk.richardsw.club
   - DOMAIN,home.yxgz.club
+  - DOMAIN,tracker.home.kmzs123.cn
   - DOMAIN,tracker.kmzs123.cn
   - DOMAIN,tracker.foreverpirates.co
   - DOMAIN,tracker.vanitycore.co
@@ -17,9 +19,11 @@ payload:
   - DOMAIN,open.acgtracker.com
   - DOMAIN,ec2-18-191-163-220.us-east-2.compute.amazonaws.com
   - DOMAIN,p4p.arenabg.com
+  - DOMAIN,tracker.beeimg.com
   - DOMAIN,tracker.bt-hash.com
   - DOMAIN,tracker.bt4g.com
   - DOMAIN,tr.burnabyhighstar.com
+  - DOMAIN,threads.canofsocks.com
   - DOMAIN,open.demonii.com
   - DOMAIN,exodus.desync.com
   - DOMAIN,tracker.dler.com
@@ -38,10 +42,11 @@ payload:
   - DOMAIN,torrentsmd.com
   - DOMAIN,tracker.torrust-demo.com
   - DOMAIN,www.wareztorrent.com
-  - DOMAIN,ns-1.x-fins.com
   - DOMAIN,tracker.yemekyedim.com
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,ipv4announce.sktorrent.eu
+  - DOMAIN,tr.abir.ga
+  - DOMAIN,open.free-tracker.ga
   - DOMAIN,tracker.gmi.gd
   - DOMAIN,tracker.itscraftsoftware.my.id
   - DOMAIN,evan.im
@@ -58,14 +63,15 @@ payload:
   - DOMAIN,tracker.bjut.jp
   - DOMAIN,tracker.leechshield.link
   - DOMAIN,tracker.aburaya.live
+  - DOMAIN,bt.rer.lol
   - DOMAIN,ipv6.rer.lol
   - DOMAIN,tracker.kuroy.me
   - DOMAIN,retracker.lanta.me
   - DOMAIN,tracker.lintk.me
   - DOMAIN,tracker.moeking.me
-  - DOMAIN,tracker.cangku.moe
+  - DOMAIN,tracker.nitrix.me
   - DOMAIN,lucke.fenesisu.moe
-  - DOMAIN,leet-tracker.moe
+  - DOMAIN,tracker.waaa.moe
   - DOMAIN,tracker.yume-hatsuyuki.moe
   - DOMAIN,0d.kebhana.mx
   - DOMAIN,www.all4nothin.net
@@ -111,6 +117,8 @@ payload:
   - DOMAIN,servandroidkino.ru
   - DOMAIN,retracker.spark-rostov.ru
   - DOMAIN,taciturn-shadow.spb.ru
+  - DOMAIN,tr2.trkb.ru
+  - DOMAIN,retracker.x2k.ru
   - DOMAIN,tracker.darkness.services
   - DOMAIN,t.jaekr.sh
   - DOMAIN,open.stealth.si
@@ -119,12 +127,15 @@ payload:
   - DOMAIN,tracker.gcrenwp.top
   - DOMAIN,sparkle.ghostchu-services.top
   - DOMAIN,highteahop.top
+  - DOMAIN,tracker.kmzs123.top
   - DOMAIN,tracker.netmap.top
+  - DOMAIN,tr3.ysagin.top
   - DOMAIN,tracker.zhuqiy.top
   - DOMAIN,buny.uk
   - DOMAIN,nyaa.tracker.wf
   - DOMAIN,4.tracker.devnak.win
   - DOMAIN,6.tracker.devnak.win
+  - DOMAIN,tracker.iperson.xyz
   - DOMAIN,tracker.privateseedbox.xyz
   - DOMAIN,p2p.publictracker.xyz
   - DOMAIN,tracker810.xyz

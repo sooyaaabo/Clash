@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-11 03:06:23
-# RuleCount：32008
+# UpdateTime：2025-03-12 03:06:27
+# RuleCount：32007
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -12305,7 +12305,6 @@ payload:
   - DOMAIN-SUFFIX,qhigh.com
   - DOMAIN-SUFFIX,qianglie.com
   - DOMAIN-SUFFIX,qiangwaikan.com
-  - DOMAIN-SUFFIX,qiao-cn.com
   - DOMAIN-SUFFIX,qinav.com
   - DOMAIN-SUFFIX,qise100.com
   - DOMAIN-SUFFIX,qkjuyet.com
