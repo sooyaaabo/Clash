@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-12 03:06:28
-# RuleCount：3651
+# UpdateTime：2025-03-13 03:06:37
+# RuleCount：3655
 payload:
   - DOMAIN,ip.istatmenus.app
   - DOMAIN,client.amplifi.com
@@ -534,6 +534,7 @@ payload:
   - DOMAIN-SUFFIX,boosj.com
   - DOMAIN-SUFFIX,bootcss.com
   - DOMAIN-SUFFIX,bosera.com
+  - DOMAIN-SUFFIX,bosszhipin.com
   - DOMAIN-SUFFIX,browserleaks.com
   - DOMAIN-SUFFIX,bstatic.com
   - DOMAIN-SUFFIX,btcfans.com
@@ -1294,6 +1295,7 @@ payload:
   - DOMAIN-SUFFIX,heytapimage.com
   - DOMAIN-SUFFIX,heytapmobi.com
   - DOMAIN-SUFFIX,heytea.com
+  - DOMAIN-SUFFIX,heytea-co.com
   - DOMAIN-SUFFIX,hftfund.com
   - DOMAIN-SUFFIX,hhtravel.com
   - DOMAIN-SUFFIX,hiascend.com
@@ -1801,6 +1803,8 @@ payload:
   - DOMAIN-SUFFIX,lsplayer.com
   - DOMAIN-SUFFIX,lu.com
   - DOMAIN-SUFFIX,lucifr.com
+  - DOMAIN-SUFFIX,luckincdn.com
+  - DOMAIN-SUFFIX,luckincoffee.com
   - DOMAIN-SUFFIX,luckincoffeecdn.com
   - DOMAIN-SUFFIX,ludashi.com
   - DOMAIN-SUFFIX,lufax.com

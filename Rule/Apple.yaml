@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-12 03:06:25
-# RuleCount：1857
+# UpdateTime：2025-03-13 03:06:36
+# RuleCount：1861
 payload:
   - DOMAIN,edge.apple
   - DOMAIN,api.smoot.apple.cn
@@ -15,6 +15,7 @@ payload:
   - DOMAIN,apps.apple.com
   - DOMAIN,amp-api.apps.apple.com
   - DOMAIN,amp-api-search-edge.apps.apple.com
+  - DOMAIN,amp-api-updates.apps.apple.com
   - DOMAIN,api.apps.apple.com
   - DOMAIN,api-edge.apps.apple.com
   - DOMAIN,appstoreconnect.apple.com
@@ -238,6 +239,9 @@ payload:
   - DOMAIN,icloud-cdn.icloud.com.akadns.net
   - DOMAIN,www-cdn.icloud.com.akadns.net
   - DOMAIN,itunes-apple.com.akadns.net
+  - DOMAIN,bag-cdn.itunes-apple.com.akadns.net
+  - DOMAIN,is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net
+  - DOMAIN,gspe19-2-cn-ssl.ls-apple.com.akadns.net
   - DOMAIN,gspe19-cn.ls-apple.com.akadns.net
   - DOMAIN,cl1-cdn.origin-apple.com.akadns.net
   - DOMAIN,cl3-cdn.origin-apple.com.akadns.net

@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-12 03:06:32
-# RuleCount：104770
+# UpdateTime：2025-03-13 03:06:41
+# RuleCount：104771
 payload:
   - DOMAIN,livecdnh2.tvanywhere.ae
   - DOMAIN,ip.istatmenus.app
@@ -35101,6 +35101,7 @@ payload:
   - DOMAIN-SUFFIX,heytapmobi.com
   - DOMAIN-SUFFIX,heytapugc.com
   - DOMAIN-SUFFIX,heytea.com
+  - DOMAIN-SUFFIX,heytea-co.com
   - DOMAIN-SUFFIX,heythings-iot.com
   - DOMAIN-SUFFIX,heytime.com
   - DOMAIN-SUFFIX,heyuanstone.com
@@ -47970,6 +47971,7 @@ payload:
   - DOMAIN-SUFFIX,luckeeinc.com
   - DOMAIN-SUFFIX,luckforcalendar.com
   - DOMAIN-SUFFIX,luckincalendar.com
+  - DOMAIN-SUFFIX,luckincdn.com
   - DOMAIN-SUFFIX,luckincoffee.com
   - DOMAIN-SUFFIX,luckincoffeecdn.com
   - DOMAIN-SUFFIX,lucklnk.com
@@ -99247,7 +99249,6 @@ payload:
   - IP-CIDR,45.116.81.0/24
   - IP-CIDR,45.115.27.0/24
   - IP-CIDR,45.114.189.0/24
-  - IP-CIDR,45.91.83.0/24
   - IP-CIDR,45.87.54.0/24
   - IP-CIDR,45.87.53.0/24
   - IP-CIDR,45.82.241.0/24

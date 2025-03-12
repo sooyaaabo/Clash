@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-12 03:06:32
-# RuleCount：116970
+# UpdateTime：2025-03-13 03:06:43
+# RuleCount：116975
 payload:
   - DOMAIN,livecdnh2.tvanywhere.ae
   - DOMAIN,ip.istatmenus.app
@@ -35101,6 +35101,7 @@ payload:
   - DOMAIN-SUFFIX,heytapmobi.com
   - DOMAIN-SUFFIX,heytapugc.com
   - DOMAIN-SUFFIX,heytea.com
+  - DOMAIN-SUFFIX,heytea-co.com
   - DOMAIN-SUFFIX,heythings-iot.com
   - DOMAIN-SUFFIX,heytime.com
   - DOMAIN-SUFFIX,heyuanstone.com
@@ -47970,6 +47971,7 @@ payload:
   - DOMAIN-SUFFIX,luckeeinc.com
   - DOMAIN-SUFFIX,luckforcalendar.com
   - DOMAIN-SUFFIX,luckincalendar.com
+  - DOMAIN-SUFFIX,luckincdn.com
   - DOMAIN-SUFFIX,luckincoffee.com
   - DOMAIN-SUFFIX,luckincoffeecdn.com
   - DOMAIN-SUFFIX,lucklnk.com
@@ -99247,7 +99249,6 @@ payload:
   - IP-CIDR,45.116.81.0/24
   - IP-CIDR,45.115.27.0/24
   - IP-CIDR,45.114.189.0/24
-  - IP-CIDR,45.91.83.0/24
   - IP-CIDR,45.87.54.0/24
   - IP-CIDR,45.87.53.0/24
   - IP-CIDR,45.82.241.0/24
@@ -114040,6 +114041,7 @@ payload:
   - IP-CIDR6,2a14:67c1:804::/48
   - IP-CIDR6,2a14:67c1:80b::/48
   - IP-CIDR6,2a14:67c1:b066::/48
+  - IP-CIDR6,2a14:7580:9603::/48
   - IP-CIDR6,2a14:7580:e484::/48
   - IP-CIDR6,2a14:7581:b20::/48
   - IP-CIDR6,2a14:7581:b30::/48
@@ -114811,7 +114813,7 @@ payload:
   - IP-CIDR6,2a09:be45:f600::/40
   - IP-CIDR6,2a0a:6040:ec00::/40
   - IP-CIDR6,2a0a:6042:4100::/40
-  - IP-CIDR6,2a0a:6044:6600::/40
+  - IP-CIDR6,2a0a:6044:7a00::/40
   - IP-CIDR6,2a0d:6c2:1000::/40
   - IP-CIDR6,2a0d:6c2:1600::/40
   - IP-CIDR6,2a0e:48c2:9000::/40
@@ -114836,6 +114838,7 @@ payload:
   - IP-CIDR6,2a13:a5c7:1800::/40
   - IP-CIDR6,2a14:7580:e200::/40
   - IP-CIDR6,2a14:7580:fa00::/40
+  - IP-CIDR6,2a14:7580:fe00::/40
   - IP-CIDR6,2400:6460::/39
   - IP-CIDR6,2400:ba41:200::/39
   - IP-CIDR6,2402:33c0:a200::/39
@@ -114873,6 +114876,7 @@ payload:
   - IP-CIDR6,2a09:be41:f400::/39
   - IP-CIDR6,2a09:be43:f400::/39
   - IP-CIDR6,2a09:be45:f400::/39
+  - IP-CIDR6,2a0a:6044:6600::/39
   - IP-CIDR6,2a0e:48c2:f400::/39
   - IP-CIDR6,2a0e:7580:4600::/39
   - IP-CIDR6,2a0e:ec05:4600::/39
@@ -114958,6 +114962,7 @@ payload:
   - IP-CIDR6,2a14:67c5:1000::/36
   - IP-CIDR6,2a14:7580:d000::/36
   - IP-CIDR6,2a14:7584:9000::/36
+  - IP-CIDR6,2a14:7584::/36
   - IP-CIDR6,2400:ba41:2000::/35
   - IP-CIDR6,2402:33c0:8000::/35
   - IP-CIDR6,2402:d140:2000::/35

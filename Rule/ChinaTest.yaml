@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-12 03:06:34
-# RuleCount：94189
+# UpdateTime：2025-03-13 03:06:45
+# RuleCount：94191
 payload:
   - DOMAIN,ip.istatmenus.app
   - DOMAIN,play.1ucrs.com
@@ -34057,6 +34057,7 @@ payload:
   - DOMAIN-SUFFIX,heytapimage.com
   - DOMAIN-SUFFIX,heytapmobi.com
   - DOMAIN-SUFFIX,heytea.com
+  - DOMAIN-SUFFIX,heytea-co.com
   - DOMAIN-SUFFIX,heythings-iot.com
   - DOMAIN-SUFFIX,heytime.com
   - DOMAIN-SUFFIX,heyuanstone.com
@@ -46706,6 +46707,7 @@ payload:
   - DOMAIN-SUFFIX,lucifr.com
   - DOMAIN-SUFFIX,luck-number.com
   - DOMAIN-SUFFIX,luckeeinc.com
+  - DOMAIN-SUFFIX,luckincdn.com
   - DOMAIN-SUFFIX,luckincoffee.com
   - DOMAIN-SUFFIX,luckincoffeecdn.com
   - DOMAIN-SUFFIX,lucklnk.com
