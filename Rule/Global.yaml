@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-13 03:06:36
-# RuleCount：32007
+# UpdateTime：2025-03-14 03:06:38
+# RuleCount：32009
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -187,6 +187,7 @@ payload:
   - DOMAIN,dl.begellhouse.com
   - DOMAIN,homebrew.bintray.com
   - DOMAIN,public-us-pingsx.api.clonoth.com
+  - DOMAIN,pplx-res.cloudinary.com
   - DOMAIN,apple.comscoreresearch.com
   - DOMAIN,cdn-spotify-experiments.conductrics.com
   - DOMAIN,hpstore.corpmerchandise.com
@@ -645,6 +646,7 @@ payload:
   - DOMAIN-SUFFIX,openart.ai
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,pornpen.ai
+  - DOMAIN-SUFFIX,pplx.ai
   - DOMAIN-SUFFIX,suno.ai
   - DOMAIN-SUFFIX,tsi.ai
   - DOMAIN-SUFFIX,videoindexer.ai

@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-13 03:06:50
-# RuleCount：96097
+# UpdateTime：2025-03-14 03:06:51
+# RuleCount：96070
 payload:
   - DOMAIN,livecdnh2.tvanywhere.ae
   - DOMAIN,ip.istatmenus.app
@@ -810,14 +810,12 @@ payload:
   - DOMAIN-SUFFIX,3000xs.cc
   - DOMAIN-SUFFIX,301cc.cc
   - DOMAIN-SUFFIX,30741.cc
-  - DOMAIN-SUFFIX,328379.cc
   - DOMAIN-SUFFIX,3286.cc
   - DOMAIN-SUFFIX,3322.cc
   - DOMAIN-SUFFIX,3456.cc
   - DOMAIN-SUFFIX,35aa.cc
   - DOMAIN-SUFFIX,362.cc
   - DOMAIN-SUFFIX,365828.cc
-  - DOMAIN-SUFFIX,3663cs.cc
   - DOMAIN-SUFFIX,36657.cc
   - DOMAIN-SUFFIX,3699.cc
   - DOMAIN-SUFFIX,369y.cc
@@ -5291,7 +5289,6 @@ payload:
   - DOMAIN-SUFFIX,33380xl.com
   - DOMAIN-SUFFIX,333915.com
   - DOMAIN-SUFFIX,3339auto.com
-  - DOMAIN-SUFFIX,333bbb888bbb.com
   - DOMAIN-SUFFIX,333ck.com
   - DOMAIN-SUFFIX,333cn.com
   - DOMAIN-SUFFIX,333iy.com
@@ -5989,7 +5986,6 @@ payload:
   - DOMAIN-SUFFIX,4009515151.com
   - DOMAIN-SUFFIX,4009870870.com
   - DOMAIN-SUFFIX,4009991000.com
-  - DOMAIN-SUFFIX,400cha.com
   - DOMAIN-SUFFIX,400cx.com
   - DOMAIN-SUFFIX,400dianhua.com
   - DOMAIN-SUFFIX,400gb.com
@@ -7302,7 +7298,6 @@ payload:
   - DOMAIN-SUFFIX,56zhibo.com
   - DOMAIN-SUFFIX,57023.com
   - DOMAIN-SUFFIX,5710266.com
-  - DOMAIN-SUFFIX,571free.com
   - DOMAIN-SUFFIX,571xz.com
   - DOMAIN-SUFFIX,57273vy9x0.com
   - DOMAIN-SUFFIX,5755.com
@@ -8805,7 +8800,6 @@ payload:
   - DOMAIN-SUFFIX,888ban.com
   - DOMAIN-SUFFIX,888bb111ww.com
   - DOMAIN-SUFFIX,888bb888ww.com
-  - DOMAIN-SUFFIX,888bbb222bbb.com
   - DOMAIN-SUFFIX,888chem.com
   - DOMAIN-SUFFIX,888pic.com
   - DOMAIN-SUFFIX,888ppt.com
@@ -9565,8 +9559,6 @@ payload:
   - DOMAIN-SUFFIX,99998aaa.com
   - DOMAIN-SUFFIX,99999dns.com
   - DOMAIN-SUFFIX,999ask.com
-  - DOMAIN-SUFFIX,999bbb222bbb.com
-  - DOMAIN-SUFFIX,999bbb777bbb.com
   - DOMAIN-SUFFIX,999brain.com
   - DOMAIN-SUFFIX,999inandon.com
   - DOMAIN-SUFFIX,999qpj.com
@@ -10394,6 +10386,7 @@ payload:
   - DOMAIN-SUFFIX,ahydnet.com
   - DOMAIN-SUFFIX,ahyessoft.com
   - DOMAIN-SUFFIX,ahyijiali.com
+  - DOMAIN-SUFFIX,ahyiqing.com
   - DOMAIN-SUFFIX,ahyouth.com
   - DOMAIN-SUFFIX,ahysls.com
   - DOMAIN-SUFFIX,ahysxh.com
@@ -12827,7 +12820,6 @@ payload:
   - DOMAIN-SUFFIX,banksteel.com
   - DOMAIN-SUFFIX,banlikanban.com
   - DOMAIN-SUFFIX,banma.com
-  - DOMAIN-SUFFIX,banma-inc.com
   - DOMAIN-SUFFIX,banmaaike.com
   - DOMAIN-SUFFIX,banmacdn.com
   - DOMAIN-SUFFIX,banmadayuwen.com
@@ -16067,7 +16059,6 @@ payload:
   - DOMAIN-SUFFIX,carnoc.com
   - DOMAIN-SUFFIX,carodpiano.com
   - DOMAIN-SUFFIX,carols-cards.com
-  - DOMAIN-SUFFIX,caroyidao.com
   - DOMAIN-SUFFIX,carp56.com
   - DOMAIN-SUFFIX,carrobot.com
   - DOMAIN-SUFFIX,carrotchou.com
@@ -17404,7 +17395,6 @@ payload:
   - DOMAIN-SUFFIX,chengzivr.com
   - DOMAIN-SUFFIX,chengzz.com
   - DOMAIN-SUFFIX,chenhr.com
-  - DOMAIN-SUFFIX,chenii.com
   - DOMAIN-SUFFIX,chenjinghealth.com
   - DOMAIN-SUFFIX,chenjt.com
   - DOMAIN-SUFFIX,chenkeiot.com
@@ -25661,7 +25651,6 @@ payload:
   - DOMAIN-SUFFIX,ey3g.com
   - DOMAIN-SUFFIX,ey99.com
   - DOMAIN-SUFFIX,eyangguang.com
-  - DOMAIN-SUFFIX,eyangmedia.com
   - DOMAIN-SUFFIX,eyangzhen.com
   - DOMAIN-SUFFIX,eyao168.com
   - DOMAIN-SUFFIX,eyaobei.com
@@ -28425,7 +28414,6 @@ payload:
   - DOMAIN-SUFFIX,geekluo.com
   - DOMAIN-SUFFIX,geekmaker.com
   - DOMAIN-SUFFIX,geeknev.com
-  - DOMAIN-SUFFIX,geekplayers.com
   - DOMAIN-SUFFIX,geeksman.com
   - DOMAIN-SUFFIX,geekstool.com
   - DOMAIN-SUFFIX,geektcp.com
@@ -31735,7 +31723,6 @@ payload:
   - DOMAIN-SUFFIX,gxkyxy.com
   - DOMAIN-SUFFIX,gxkzxx.com
   - DOMAIN-SUFFIX,gxlanbowang.com
-  - DOMAIN-SUFFIX,gxlanco.com
   - DOMAIN-SUFFIX,gxlancogroup.com
   - DOMAIN-SUFFIX,gxlanlian.com
   - DOMAIN-SUFFIX,gxlansheng.com
@@ -33309,6 +33296,7 @@ payload:
   - DOMAIN-SUFFIX,haige.com
   - DOMAIN-SUFFIX,haigeek.com
   - DOMAIN-SUFFIX,haigehome.com
+  - DOMAIN-SUFFIX,haigoose.com
   - DOMAIN-SUFFIX,haigouyan.com
   - DOMAIN-SUFFIX,haigui001.com
   - DOMAIN-SUFFIX,haihelashes.com
@@ -33803,6 +33791,7 @@ payload:
   - DOMAIN-SUFFIX,haoshunjia.com
   - DOMAIN-SUFFIX,haoshunjx.com
   - DOMAIN-SUFFIX,haoshuo.com
+  - DOMAIN-SUFFIX,haoshuyun.com
   - DOMAIN-SUFFIX,haositone.com
   - DOMAIN-SUFFIX,haosix.com
   - DOMAIN-SUFFIX,haoso.com
@@ -39004,7 +38993,6 @@ payload:
   - DOMAIN-SUFFIX,imgsohu.com
   - DOMAIN-SUFFIX,imgtex.com
   - DOMAIN-SUFFIX,imgtg.com
-  - DOMAIN-SUFFIX,imgtu.com
   - DOMAIN-SUFFIX,imgyzzy.com
   - DOMAIN-SUFFIX,imgzy360.com
   - DOMAIN-SUFFIX,imhan.com
@@ -41023,6 +41011,7 @@ payload:
   - DOMAIN-SUFFIX,jideos.com
   - DOMAIN-SUFFIX,jideshe.com
   - DOMAIN-SUFFIX,jidi.com
+  - DOMAIN-SUFFIX,jidiancdn.com
   - DOMAIN-SUFFIX,jidianwang.com
   - DOMAIN-SUFFIX,jidivr.com
   - DOMAIN-SUFFIX,jidiw.com
@@ -41200,7 +41189,6 @@ payload:
   - DOMAIN-SUFFIX,jincin.com
   - DOMAIN-SUFFIX,jindaixx.com
   - DOMAIN-SUFFIX,jindangit.com
-  - DOMAIN-SUFFIX,jindaoshangwu.com
   - DOMAIN-SUFFIX,jindati.com
   - DOMAIN-SUFFIX,jindianweb.com
   - DOMAIN-SUFFIX,jindianyishi.com
@@ -41707,6 +41695,7 @@ payload:
   - DOMAIN-SUFFIX,jixinbbd.com
   - DOMAIN-SUFFIX,jixixx.com
   - DOMAIN-SUFFIX,jixuanw.com
+  - DOMAIN-SUFFIX,jixuninfo.com
   - DOMAIN-SUFFIX,jixunjsq.com
   - DOMAIN-SUFFIX,jixunlyq.com
   - DOMAIN-SUFFIX,jiyik.com
@@ -42822,6 +42811,7 @@ payload:
   - DOMAIN-SUFFIX,junpinclub.com
   - DOMAIN-SUFFIX,junpinghui.com
   - DOMAIN-SUFFIX,junpinhui.com
+  - DOMAIN-SUFFIX,junpinmall.com
   - DOMAIN-SUFFIX,junpinzhi.com
   - DOMAIN-SUFFIX,junqing360.com
   - DOMAIN-SUFFIX,junrunrenli.com
@@ -43947,7 +43937,6 @@ payload:
   - DOMAIN-SUFFIX,kgogame.com
   - DOMAIN-SUFFIX,kgrestrg.com
   - DOMAIN-SUFFIX,khdatasolutions.com
-  - DOMAIN-SUFFIX,khdmn.com
   - DOMAIN-SUFFIX,khdmw.com
   - DOMAIN-SUFFIX,khfwedu.com
   - DOMAIN-SUFFIX,khhlw.com
@@ -47050,7 +47039,6 @@ payload:
   - DOMAIN-SUFFIX,ljjq.com
   - DOMAIN-SUFFIX,ljlcd.com
   - DOMAIN-SUFFIX,ljlqw.com
-  - DOMAIN-SUFFIX,ljqdq.com
   - DOMAIN-SUFFIX,ljqhju.com
   - DOMAIN-SUFFIX,ljqxjjhbc.com
   - DOMAIN-SUFFIX,ljraj.com
@@ -50656,7 +50644,6 @@ payload:
   - DOMAIN-SUFFIX,mr-ping.com
   - DOMAIN-SUFFIX,mr77.com
   - DOMAIN-SUFFIX,mr91.com
-  - DOMAIN-SUFFIX,mrabit.com
   - DOMAIN-SUFFIX,mrbanana.com
   - DOMAIN-SUFFIX,mrbcq.com
   - DOMAIN-SUFFIX,mrbook114.com
@@ -53132,6 +53119,7 @@ payload:
   - DOMAIN-SUFFIX,o03011aokk.com
   - DOMAIN-SUFFIX,o03080aokk.com
   - DOMAIN-SUFFIX,o0310o.com
+  - DOMAIN-SUFFIX,o03121aokk.com
   - DOMAIN-SUFFIX,o0o0w.com
   - DOMAIN-SUFFIX,o136.com
   - DOMAIN-SUFFIX,o2123.com
@@ -53985,7 +53973,6 @@ payload:
   - DOMAIN-SUFFIX,pacs-plus.com
   - DOMAIN-SUFFIX,pactera.com
   - DOMAIN-SUFFIX,paddlewaver.com
-  - DOMAIN-SUFFIX,padzkj.com
   - DOMAIN-SUFFIX,pafwl.com
   - DOMAIN-SUFFIX,pagescube.com
   - DOMAIN-SUFFIX,pageseagle.com
@@ -57958,7 +57945,6 @@ payload:
   - DOMAIN-SUFFIX,rediao.com
   - DOMAIN-SUFFIX,redicecn.com
   - DOMAIN-SUFFIX,redidc.com
-  - DOMAIN-SUFFIX,redisbook.com
   - DOMAIN-SUFFIX,redisfans.com
   - DOMAIN-SUFFIX,redmagic.com
   - DOMAIN-SUFFIX,redmou.com
@@ -59692,7 +59678,6 @@ payload:
   - DOMAIN-SUFFIX,sdjwg.com
   - DOMAIN-SUFFIX,sdjxbzf.com
   - DOMAIN-SUFFIX,sdjxgj.com
-  - DOMAIN-SUFFIX,sdjzgt.com
   - DOMAIN-SUFFIX,sdjzhc.com
   - DOMAIN-SUFFIX,sdkamaiduo.com
   - DOMAIN-SUFFIX,sdkangnida.com
@@ -66432,7 +66417,6 @@ payload:
   - DOMAIN-SUFFIX,topcdb.com
   - DOMAIN-SUFFIX,topcheer.com
   - DOMAIN-SUFFIX,topchitu.com
-  - DOMAIN-SUFFIX,topchn.com
   - DOMAIN-SUFFIX,topcj.com
   - DOMAIN-SUFFIX,topcrab.com
   - DOMAIN-SUFFIX,topcsic.com
@@ -68600,7 +68584,6 @@ payload:
   - DOMAIN-SUFFIX,videoincloud.com
   - DOMAIN-SUFFIX,videougc.com
   - DOMAIN-SUFFIX,videoxiaoyouxi.com
-  - DOMAIN-SUFFIX,videoyi.com
   - DOMAIN-SUFFIX,videoyx.com
   - DOMAIN-SUFFIX,viecoo.com
   - DOMAIN-SUFFIX,vienblog.com
@@ -69618,7 +69601,6 @@ payload:
   - DOMAIN-SUFFIX,warcraftchina.com
   - DOMAIN-SUFFIX,warhammertech.com
   - DOMAIN-SUFFIX,warmchina121.com
-  - DOMAIN-SUFFIX,warriortechgear.com
   - DOMAIN-SUFFIX,warsk.com
   - DOMAIN-SUFFIX,warsongmobile.com
   - DOMAIN-SUFFIX,warstudy.com
@@ -73502,7 +73484,6 @@ payload:
   - DOMAIN-SUFFIX,xinfengji.com
   - DOMAIN-SUFFIX,xinfenlei.com
   - DOMAIN-SUFFIX,xinfree.com
-  - DOMAIN-SUFFIX,xinfu888.com
   - DOMAIN-SUFFIX,xinfuhk.com
   - DOMAIN-SUFFIX,xinfushe.com
   - DOMAIN-SUFFIX,xinfuyuan818.com
@@ -73851,6 +73832,7 @@ payload:
   - DOMAIN-SUFFIX,xinzhuzhai.com
   - DOMAIN-SUFFIX,xinzlkj.com
   - DOMAIN-SUFFIX,xinzuhe.com
+  - DOMAIN-SUFFIX,xinzushenghuo.com
   - DOMAIN-SUFFIX,xioagege587skjdo.com
   - DOMAIN-SUFFIX,xionganxinxi.com
   - DOMAIN-SUFFIX,xiongbagk.com
@@ -75336,6 +75318,7 @@ payload:
   - DOMAIN-SUFFIX,xysb.com
   - DOMAIN-SUFFIX,xyshoppingbag.com
   - DOMAIN-SUFFIX,xyshuk.com
+  - DOMAIN-SUFFIX,xysjg.com
   - DOMAIN-SUFFIX,xysmart.com
   - DOMAIN-SUFFIX,xysnews.com
   - DOMAIN-SUFFIX,xysstgs.com
@@ -76243,7 +76226,6 @@ payload:
   - DOMAIN-SUFFIX,ygread.com
   - DOMAIN-SUFFIX,ygsdmedia.com
   - DOMAIN-SUFFIX,ygsoft.com
-  - DOMAIN-SUFFIX,ygswkj.com
   - DOMAIN-SUFFIX,ygtcpa.com
   - DOMAIN-SUFFIX,ygwenxue.com
   - DOMAIN-SUFFIX,ygwood.com
@@ -80549,7 +80531,6 @@ payload:
   - DOMAIN-SUFFIX,zhizuobiaojiaoyu.com
   - DOMAIN-SUFFIX,zhizuoh5.com
   - DOMAIN-SUFFIX,zhizuotu.com
-  - DOMAIN-SUFFIX,zhizy9.com
   - DOMAIN-SUFFIX,zhj9.com
   - DOMAIN-SUFFIX,zhjdkz.com
   - DOMAIN-SUFFIX,zhjiameng.com
@@ -82254,7 +82235,6 @@ payload:
   - DOMAIN-SUFFIX,zx8.com
   - DOMAIN-SUFFIX,zx98.com
   - DOMAIN-SUFFIX,zx990.com
-  - DOMAIN-SUFFIX,zxb009.com
   - DOMAIN-SUFFIX,zxb12315.com
   - DOMAIN-SUFFIX,zxblinux.com
   - DOMAIN-SUFFIX,zxbzr.com
@@ -86932,7 +86912,6 @@ payload:
   - DOMAIN-SUFFIX,fanyiba.net
   - DOMAIN-SUFFIX,fanyigou.net
   - DOMAIN-SUFFIX,fanyiqi.net
-  - DOMAIN-SUFFIX,fanzhan.net
   - DOMAIN-SUFFIX,fashaoyou.net
   - DOMAIN-SUFFIX,fastadmin.net
   - DOMAIN-SUFFIX,fastchina.net
@@ -88401,7 +88380,6 @@ payload:
   - DOMAIN-SUFFIX,laiyouhui.net
   - DOMAIN-SUFFIX,laizhouba.net
   - DOMAIN-SUFFIX,laizi.net
-  - DOMAIN-SUFFIX,lampchina.net
   - DOMAIN-SUFFIX,lamsg.net
   - DOMAIN-SUFFIX,lancecity.net
   - DOMAIN-SUFFIX,lancn.net
@@ -91698,7 +91676,6 @@ payload:
   - DOMAIN-SUFFIX,yinhuadm.one
   - DOMAIN-SUFFIX,alantorp.online
   - DOMAIN-SUFFIX,arapp.online
-  - DOMAIN-SUFFIX,avmon.online
   - DOMAIN-SUFFIX,blbl.online
   - DOMAIN-SUFFIX,bmclapi.online
   - DOMAIN-SUFFIX,bnxf.online
@@ -93856,7 +93833,6 @@ payload:
   - DOMAIN-SUFFIX,jiuwang.shop
   - DOMAIN-SUFFIX,kkyp.shop
   - DOMAIN-SUFFIX,kuaifan.shop
-  - DOMAIN-SUFFIX,kusayra.shop
   - DOMAIN-SUFFIX,kwgaewsl.shop
   - DOMAIN-SUFFIX,laiba.shop
   - DOMAIN-SUFFIX,laolieren.shop
@@ -93886,7 +93862,6 @@ payload:
   - DOMAIN-SUFFIX,sozyx.shop
   - DOMAIN-SUFFIX,speedin.shop
   - DOMAIN-SUFFIX,under-5.shop
-  - DOMAIN-SUFFIX,w1w9h07t.shop
   - DOMAIN-SUFFIX,wetry.shop
   - DOMAIN-SUFFIX,xuekuibang.shop
   - DOMAIN-SUFFIX,xunw.shop
@@ -95666,7 +95641,6 @@ payload:
   - DOMAIN-SUFFIX,cyc2018.xyz
   - DOMAIN-SUFFIX,czxztq.xyz
   - DOMAIN-SUFFIX,d0efbrm.xyz
-  - DOMAIN-SUFFIX,dabigu.xyz
   - DOMAIN-SUFFIX,dadagem.xyz
   - DOMAIN-SUFFIX,dbqf.xyz
   - DOMAIN-SUFFIX,ddosjq.xyz
@@ -95750,7 +95724,6 @@ payload:
   - DOMAIN-SUFFIX,javaer.xyz
   - DOMAIN-SUFFIX,javbuy.xyz
   - DOMAIN-SUFFIX,jdmk.xyz
-  - DOMAIN-SUFFIX,jhjt.xyz
   - DOMAIN-SUFFIX,jianghui.xyz
   - DOMAIN-SUFFIX,jiaqilixiang.xyz
   - DOMAIN-SUFFIX,jingtang.xyz
