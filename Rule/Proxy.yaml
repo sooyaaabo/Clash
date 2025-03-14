@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-14 03:06:36
-# RuleCount：6850
+# UpdateTime：2025-03-15 03:06:37
+# RuleCount：6861
 payload:
   - DOMAIN,developer.apple.com
   - DOMAIN,testflight.apple.com
@@ -41,6 +41,7 @@ payload:
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,suno.ai
   - DOMAIN-SUFFIX,wombo.ai
+  - DOMAIN-SUFFIX,x.ai
   - DOMAIN-SUFFIX,blogspot.al
   - DOMAIN-SUFFIX,google.al
   - DOMAIN-SUFFIX,blogspot.am
@@ -53,6 +54,7 @@ payload:
   - DOMAIN-SUFFIX,comments.app
   - DOMAIN-SUFFIX,get.app
   - DOMAIN-SUFFIX,glarity.app
+  - DOMAIN-SUFFIX,netlify.app
   - DOMAIN-SUFFIX,rsshub.app
   - DOMAIN-SUFFIX,vercel.app
   - DOMAIN-SUFFIX,bitinka.com.ar
@@ -656,6 +658,7 @@ payload:
   - DOMAIN-SUFFIX,bcmorning.com
   - DOMAIN-SUFFIX,bcvcdn.com
   - DOMAIN-SUFFIX,beaconevents.com
+  - DOMAIN-SUFFIX,bearteach.com
   - DOMAIN-SUFFIX,bebo.com
   - DOMAIN-SUFFIX,beeg.com
   - DOMAIN-SUFFIX,beepool.com
@@ -798,6 +801,7 @@ payload:
   - DOMAIN-SUFFIX,c-est-simple.com
   - DOMAIN-SUFFIX,c2cx.com
   - DOMAIN-SUFFIX,c3pool.com
+  - DOMAIN-SUFFIX,cachefly.com
   - DOMAIN-SUFFIX,cachinese.com
   - DOMAIN-SUFFIX,cacnw.com
   - DOMAIN-SUFFIX,cactusvpn.com
@@ -1316,6 +1320,7 @@ payload:
   - DOMAIN-SUFFIX,from-sd.com
   - DOMAIN-SUFFIX,frootvpn.com
   - DOMAIN-SUFFIX,fsurf.com
+  - DOMAIN-SUFFIX,ft.com
   - DOMAIN-SUFFIX,ftchinese.com
   - DOMAIN-SUFFIX,ftx.com
   - DOMAIN-SUFFIX,fucd.com
@@ -2926,6 +2931,7 @@ payload:
   - DOMAIN-SUFFIX,api.termius.com
   - DOMAIN-SUFFIX,textnow.com
   - DOMAIN-SUFFIX,tfiflve.com
+  - DOMAIN-SUFFIX,tg-me.com
   - DOMAIN-SUFFIX,thaicn.com
   - DOMAIN-SUFFIX,theatlantic.com
   - DOMAIN-SUFFIX,theatrum-belli.com
@@ -3732,6 +3738,7 @@ payload:
   - DOMAIN-SUFFIX,overcast.fm
   - DOMAIN-SUFFIX,ping.fm
   - DOMAIN-SUFFIX,player.fm
+  - DOMAIN-SUFFIX,soundon.fm
   - DOMAIN-SUFFIX,turntable.fm
   - DOMAIN-SUFFIX,tweetmylast.fm
   - DOMAIN-SUFFIX,archive.fo
@@ -5097,6 +5104,7 @@ payload:
   - DOMAIN-SUFFIX,therock.net.nz
   - DOMAIN-SUFFIX,dalailamavisit.org.nz
   - DOMAIN-SUFFIX,google.com.om
+  - DOMAIN-SUFFIX,2047.one
   - DOMAIN-SUFFIX,big.one
   - DOMAIN-SUFFIX,wiki.metacubex.one
   - DOMAIN-SUFFIX,mixin.one
@@ -5344,6 +5352,7 @@ payload:
   - DOMAIN-SUFFIX,exhentai.org
   - DOMAIN-SUFFIX,exmormon.org
   - DOMAIN-SUFFIX,f-droid.org
+  - DOMAIN-SUFFIX,factchecklab.org
   - DOMAIN-SUFFIX,factpedia.org
   - DOMAIN-SUFFIX,faith100.org
   - DOMAIN-SUFFIX,falun-co.org
@@ -5415,11 +5424,13 @@ payload:
   - DOMAIN-SUFFIX,gaforum.org
   - DOMAIN-SUFFIX,gaozhisheng.org
   - DOMAIN-SUFFIX,gardennetworks.org
+  - DOMAIN-SUFFIX,gdaily.org
   - DOMAIN-SUFFIX,gdzf.org
   - DOMAIN-SUFFIX,gerefoundation.org
   - DOMAIN-SUFFIX,getfoxyproxy.org
   - DOMAIN-SUFFIX,getlantern.org
   - DOMAIN-SUFFIX,getoutline.org
+  - DOMAIN-SUFFIX,getsession.org
   - DOMAIN-SUFFIX,gfwatch.org
   - DOMAIN-SUFFIX,ghidra-sre.org
   - DOMAIN-SUFFIX,ghut.org
@@ -6055,6 +6066,7 @@ payload:
   - DOMAIN-SUFFIX,google.com.pr
   - DOMAIN-SUFFIX,d.pr
   - DOMAIN-SUFFIX,gfw.press
+  - DOMAIN-SUFFIX,cutout.pro
   - DOMAIN-SUFFIX,dyndns.pro
   - DOMAIN-SUFFIX,huobi.pro
   - DOMAIN-SUFFIX,net-fits.pro
@@ -6113,7 +6125,6 @@ payload:
   - DOMAIN-SUFFIX,samair.ru
   - DOMAIN-SUFFIX,savetibet.ru
   - DOMAIN-SUFFIX,yandex.ru
-  - DOMAIN-SUFFIX,feedly.comfastgpt.run
   - DOMAIN-SUFFIX,fastgpt.run
   - DOMAIN-SUFFIX,mangmang.run
   - DOMAIN-SUFFIX,surge.run

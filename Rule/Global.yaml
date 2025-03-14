@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-14 03:06:38
-# RuleCount：32009
+# UpdateTime：2025-03-15 03:06:38
+# RuleCount：32017
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -3853,6 +3853,7 @@ payload:
   - DOMAIN-SUFFIX,bdsmstreak.com
   - DOMAIN-SUFFIX,bdsmtubexxx.com
   - DOMAIN-SUFFIX,beaconevents.com
+  - DOMAIN-SUFFIX,bearteach.com
   - DOMAIN-SUFFIX,beascoremodel.com
   - DOMAIN-SUFFIX,beastiegals.com
   - DOMAIN-SUFFIX,beastysexlinks.com
@@ -4784,6 +4785,7 @@ payload:
   - DOMAIN-SUFFIX,c4assets.com
   - DOMAIN-SUFFIX,c4slive.com
   - DOMAIN-SUFFIX,cabletvdirectv.com
+  - DOMAIN-SUFFIX,cachefly.com
   - DOMAIN-SUFFIX,cachinese.com
   - DOMAIN-SUFFIX,cacnw.com
   - DOMAIN-SUFFIX,cactusvpn.com
@@ -13758,6 +13760,7 @@ payload:
   - DOMAIN-SUFFIX,texture.com
   - DOMAIN-SUFFIX,tferwq.com
   - DOMAIN-SUFFIX,tfiflve.com
+  - DOMAIN-SUFFIX,tg-me.com
   - DOMAIN-SUFFIX,tgirlcentral.com
   - DOMAIN-SUFFIX,tgirlpostop.com
   - DOMAIN-SUFFIX,tgp6.com
@@ -16563,6 +16566,7 @@ payload:
   - DOMAIN-SUFFIX,player.fm
   - DOMAIN-SUFFIX,radiomango.fm
   - DOMAIN-SUFFIX,sextube.fm
+  - DOMAIN-SUFFIX,soundon.fm
   - DOMAIN-SUFFIX,turntable.fm
   - DOMAIN-SUFFIX,tweetmylast.fm
   - DOMAIN-SUFFIX,yahoo.fm
@@ -21556,6 +21560,7 @@ payload:
   - DOMAIN-SUFFIX,mastercard.om
   - DOMAIN-SUFFIX,volvobuses.om
   - DOMAIN-SUFFIX,10c10qoo.one
+  - DOMAIN-SUFFIX,2047.one
   - DOMAIN-SUFFIX,4ertik.one
   - DOMAIN-SUFFIX,4hu.one
   - DOMAIN-SUFFIX,52av.one
@@ -22099,6 +22104,7 @@ payload:
   - DOMAIN-SUFFIX,facebooktv.org
   - DOMAIN-SUFFIX,facecbook.org
   - DOMAIN-SUFFIX,facecook.org
+  - DOMAIN-SUFFIX,factchecklab.org
   - DOMAIN-SUFFIX,factpedia.org
   - DOMAIN-SUFFIX,factwire.org
   - DOMAIN-SUFFIX,faith100.org
@@ -22204,6 +22210,7 @@ payload:
   - DOMAIN-SUFFIX,gardennetworks.org
   - DOMAIN-SUFFIX,gatedata.org
   - DOMAIN-SUFFIX,gayheaven.org
+  - DOMAIN-SUFFIX,gdaily.org
   - DOMAIN-SUFFIX,gdzf.org
   - DOMAIN-SUFFIX,geek-squad.org
   - DOMAIN-SUFFIX,geeksquadprotectionplan.org
@@ -22217,6 +22224,7 @@ payload:
   - DOMAIN-SUFFIX,getfoxyproxy.org
   - DOMAIN-SUFFIX,getlantern.org
   - DOMAIN-SUFFIX,getoutline.org
+  - DOMAIN-SUFFIX,getsession.org
   - DOMAIN-SUFFIX,getzola.org
   - DOMAIN-SUFFIX,gfwatch.org
   - DOMAIN-SUFFIX,ghidra-sre.org
@@ -23504,6 +23512,7 @@ payload:
   - DOMAIN-SUFFIX,barss1207.pro
   - DOMAIN-SUFFIX,binancezh.pro
   - DOMAIN-SUFFIX,bsxm1213.pro
+  - DOMAIN-SUFFIX,cutout.pro
   - DOMAIN-SUFFIX,cylink.pro
   - DOMAIN-SUFFIX,dyndns.pro
   - DOMAIN-SUFFIX,gayporn.pro
@@ -23843,7 +23852,6 @@ payload:
   - DOMAIN-SUFFIX,yahoo.ru
   - DOMAIN-SUFFIX,yandex.ru
   - DOMAIN-SUFFIX,youtube.ru
-  - DOMAIN-SUFFIX,feedly.comfastgpt.run
   - DOMAIN-SUFFIX,esm.run
   - DOMAIN-SUFFIX,fastgpt.run
   - DOMAIN-SUFFIX,mangmang.run
