@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-15 03:06:43
-# RuleCount：278
+# UpdateTime：2025-03-16 03:06:45
+# RuleCount：274
 payload:
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.mywaifu.best
@@ -46,7 +46,6 @@ payload:
   - DOMAIN,tracker.yemekyedim.com
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,ipv4announce.sktorrent.eu
-  - DOMAIN,tr.abir.ga
   - DOMAIN,open.free-tracker.ga
   - DOMAIN,tracker.gmi.gd
   - DOMAIN,tracker.itscraftsoftware.my.id
@@ -65,7 +64,6 @@ payload:
   - DOMAIN,tracker.bjut.jp
   - DOMAIN,tracker.leechshield.link
   - DOMAIN,tracker.aburaya.live
-  - DOMAIN,bt.rer.lol
   - DOMAIN,ipv6.rer.lol
   - DOMAIN,tracker.kuroy.me
   - DOMAIN,retracker.lanta.me
@@ -73,7 +71,6 @@ payload:
   - DOMAIN,tracker.moeking.me
   - DOMAIN,tracker.nitrix.me
   - DOMAIN,lucke.fenesisu.moe
-  - DOMAIN,leet-tracker.moe
   - DOMAIN,tracker.waaa.moe
   - DOMAIN,tracker.yume-hatsuyuki.moe
   - DOMAIN,0d.kebhana.mx
@@ -88,7 +85,6 @@ payload:
   - DOMAIN,shubt.net
   - DOMAIN,tracker.theoks.net
   - DOMAIN,wepzone.net
-  - DOMAIN,torrent.i.ng
   - DOMAIN,fleira.no
   - DOMAIN,tracker.corpscorp.online
   - DOMAIN,concen.org
@@ -112,7 +108,6 @@ payload:
   - DOMAIN,tr.zukizuki.org
   - DOMAIN,tracker.moxing.party
   - DOMAIN,ftp.pet
-  - DOMAIN,tracker.breizh.pm
   - DOMAIN,tracker.bittor.pw
   - DOMAIN,tr.nyacat.pw
   - DOMAIN,ch3oh.ru
@@ -123,7 +118,6 @@ payload:
   - DOMAIN,servandroidkino.ru
   - DOMAIN,retracker.spark-rostov.ru
   - DOMAIN,taciturn-shadow.spb.ru
-  - DOMAIN,tr2.trkb.ru
   - DOMAIN,retracker.x2k.ru
   - DOMAIN,tracker.darkness.services
   - DOMAIN,t.jaekr.sh
@@ -139,11 +133,13 @@ payload:
   - DOMAIN,utracker.ghostchu-services.top
   - DOMAIN,highteahop.top
   - DOMAIN,tracker.kmzs123.top
+  - DOMAIN,tracker.netmap.top
   - DOMAIN,tracker.zhuqiy.top
   - DOMAIN,buny.uk
   - DOMAIN,nyaa.tracker.wf
   - DOMAIN,4.tracker.devnak.win
   - DOMAIN,6.tracker.devnak.win
+  - DOMAIN,tracker.iperson.xyz
   - DOMAIN,tracker.privateseedbox.xyz
   - DOMAIN,p2p.publictracker.xyz
   - DOMAIN,tracker810.xyz

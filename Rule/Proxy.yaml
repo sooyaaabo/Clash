@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-15 03:06:37
-# RuleCount：6861
+# UpdateTime：2025-03-16 03:06:38
+# RuleCount：6860
 payload:
   - DOMAIN,developer.apple.com
   - DOMAIN,testflight.apple.com
@@ -6125,7 +6125,6 @@ payload:
   - DOMAIN-SUFFIX,samair.ru
   - DOMAIN-SUFFIX,savetibet.ru
   - DOMAIN-SUFFIX,yandex.ru
-  - DOMAIN-SUFFIX,fastgpt.run
   - DOMAIN-SUFFIX,mangmang.run
   - DOMAIN-SUFFIX,surge.run
   - DOMAIN-SUFFIX,google.rw
