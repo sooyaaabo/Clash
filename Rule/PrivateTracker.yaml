@@ -1,12 +1,11 @@
-# UpdateTime：2025-03-16 03:06:45
-# RuleCount：274
+# UpdateTime：2025-03-17 03:06:36
+# RuleCount：273
 payload:
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.mywaifu.best
   - DOMAIN,t.overflow.biz
   - DOMAIN,tracker.bz
   - DOMAIN,bt1.xxxxbt.cc
-  - DOMAIN,tracker.dump.cl
   - DOMAIN,tracker1.myporn.club
   - DOMAIN,isk.richardsw.club
   - DOMAIN,home.yxgz.club
@@ -17,13 +16,11 @@ payload:
   - DOMAIN,0123456789nonexistent.com
   - DOMAIN,tracker.0x7c0.com
   - DOMAIN,open.acgtracker.com
-  - DOMAIN,ec2-18-191-163-220.us-east-2.compute.amazonaws.com
   - DOMAIN,p4p.arenabg.com
   - DOMAIN,tracker.beeimg.com
   - DOMAIN,tracker.bt-hash.com
   - DOMAIN,tracker.bt4g.com
   - DOMAIN,tr.burnabyhighstar.com
-  - DOMAIN,threads.canofsocks.com
   - DOMAIN,open.demonii.com
   - DOMAIN,exodus.desync.com
   - DOMAIN,tracker.dler.com
@@ -46,7 +43,6 @@ payload:
   - DOMAIN,tracker.yemekyedim.com
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,ipv4announce.sktorrent.eu
-  - DOMAIN,open.free-tracker.ga
   - DOMAIN,tracker.gmi.gd
   - DOMAIN,tracker.itscraftsoftware.my.id
   - DOMAIN,evan.im
@@ -64,13 +60,14 @@ payload:
   - DOMAIN,tracker.bjut.jp
   - DOMAIN,tracker.leechshield.link
   - DOMAIN,tracker.aburaya.live
+  - DOMAIN,bt.rer.lol
   - DOMAIN,ipv6.rer.lol
   - DOMAIN,tracker.kuroy.me
   - DOMAIN,retracker.lanta.me
   - DOMAIN,tracker.lintk.me
-  - DOMAIN,tracker.moeking.me
-  - DOMAIN,tracker.nitrix.me
+  - DOMAIN,tracker.cangku.moe
   - DOMAIN,lucke.fenesisu.moe
+  - DOMAIN,leet-tracker.moe
   - DOMAIN,tracker.waaa.moe
   - DOMAIN,tracker.yume-hatsuyuki.moe
   - DOMAIN,0d.kebhana.mx
@@ -85,6 +82,7 @@ payload:
   - DOMAIN,shubt.net
   - DOMAIN,tracker.theoks.net
   - DOMAIN,wepzone.net
+  - DOMAIN,torrent.i.ng
   - DOMAIN,fleira.no
   - DOMAIN,tracker.corpscorp.online
   - DOMAIN,concen.org
@@ -93,7 +91,6 @@ payload:
   - DOMAIN,tracker.dmcomic.org
   - DOMAIN,tr4ck3r.duckdns.org
   - DOMAIN,tracker.torrent.eu.org
-  - DOMAIN,www.torrent.eu.org
   - DOMAIN,explodie.org
   - DOMAIN,finbytes.org
   - DOMAIN,www.genesis-sp.org
@@ -108,7 +105,9 @@ payload:
   - DOMAIN,tr.zukizuki.org
   - DOMAIN,tracker.moxing.party
   - DOMAIN,ftp.pet
+  - DOMAIN,tracker.breizh.pm
   - DOMAIN,tracker.bittor.pw
+  - DOMAIN,discord.heihachi.pw
   - DOMAIN,tr.nyacat.pw
   - DOMAIN,ch3oh.ru
   - DOMAIN,retracker.hotplug.ru
@@ -118,7 +117,6 @@ payload:
   - DOMAIN,servandroidkino.ru
   - DOMAIN,retracker.spark-rostov.ru
   - DOMAIN,taciturn-shadow.spb.ru
-  - DOMAIN,retracker.x2k.ru
   - DOMAIN,tracker.darkness.services
   - DOMAIN,t.jaekr.sh
   - DOMAIN,open.stealth.si
@@ -134,6 +132,7 @@ payload:
   - DOMAIN,highteahop.top
   - DOMAIN,tracker.kmzs123.top
   - DOMAIN,tracker.netmap.top
+  - DOMAIN,tr3.ysagin.top
   - DOMAIN,tracker.zhuqiy.top
   - DOMAIN,buny.uk
   - DOMAIN,nyaa.tracker.wf
