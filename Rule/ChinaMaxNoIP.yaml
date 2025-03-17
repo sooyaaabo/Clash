@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-17 03:06:45
-# RuleCount：96530
+# UpdateTime：2025-03-18 03:06:45
+# RuleCount：96528
 payload:
   - DOMAIN,livecdnh2.tvanywhere.ae
   - DOMAIN,ip.istatmenus.app
@@ -20323,7 +20323,6 @@ payload:
   - DOMAIN-SUFFIX,cqrcb.com
   - DOMAIN-SUFFIX,cqrcdsc.com
   - DOMAIN-SUFFIX,cqrfym.com
-  - DOMAIN-SUFFIX,cqrjx.com
   - DOMAIN-SUFFIX,cqrm.com
   - DOMAIN-SUFFIX,cqrmb.com
   - DOMAIN-SUFFIX,cqsckj02.com
@@ -41905,7 +41904,6 @@ payload:
   - DOMAIN-SUFFIX,jjjaaa.com
   - DOMAIN-SUFFIX,jjjllk.com
   - DOMAIN-SUFFIX,jjjpv.com
-  - DOMAIN-SUFFIX,jjjx9.com
   - DOMAIN-SUFFIX,jjkeq.com
   - DOMAIN-SUFFIX,jjkjnet.com
   - DOMAIN-SUFFIX,jjkucunxie.com
@@ -42686,6 +42684,7 @@ payload:
   - DOMAIN-SUFFIX,jswebcall.com
   - DOMAIN-SUFFIX,jsweixiu.com
   - DOMAIN-SUFFIX,jswel.com
+  - DOMAIN-SUFFIX,jswenjin.com
   - DOMAIN-SUFFIX,jswmw.com
   - DOMAIN-SUFFIX,jswonderful.com
   - DOMAIN-SUFFIX,jswrhjkj.com
@@ -45254,7 +45253,6 @@ payload:
   - DOMAIN-SUFFIX,lacaoshi.com
   - DOMAIN-SUFFIX,lacesar.com
   - DOMAIN-SUFFIX,lacocrea.com
-  - DOMAIN-SUFFIX,lacyw.com
   - DOMAIN-SUFFIX,ladiyoga.com
   - DOMAIN-SUFFIX,ladjzs.com
   - DOMAIN-SUFFIX,lady75.com
@@ -67750,7 +67748,6 @@ payload:
   - DOMAIN-SUFFIX,tzsti.com
   - DOMAIN-SUFFIX,tzsucai.com
   - DOMAIN-SUFFIX,tzswatch.com
-  - DOMAIN-SUFFIX,tzswll.com
   - DOMAIN-SUFFIX,tztrzjt.com
   - DOMAIN-SUFFIX,tztusi.com
   - DOMAIN-SUFFIX,tzujian.com
@@ -68880,6 +68877,7 @@ payload:
   - DOMAIN-SUFFIX,viewstock.com
   - DOMAIN-SUFFIX,viewtool.com
   - DOMAIN-SUFFIX,viewtrans.com
+  - DOMAIN-SUFFIX,vifaka.com
   - DOMAIN-SUFFIX,vigtm-meeting-tencent.com
   - DOMAIN-SUFFIX,viigee.com
   - DOMAIN-SUFFIX,viisan.com

@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-17 03:06:29
-# RuleCount：6860
+# UpdateTime：2025-03-18 03:06:30
+# RuleCount：6862
 payload:
   - DOMAIN,developer.apple.com
   - DOMAIN,testflight.apple.com
@@ -5156,6 +5156,7 @@ payload:
   - DOMAIN-SUFFIX,antd.org
   - DOMAIN-SUFFIX,ao3.org
   - DOMAIN-SUFFIX,aojiao.org
+  - DOMAIN-SUFFIX,aomedia.org
   - DOMAIN-SUFFIX,ap.org
   - DOMAIN-SUFFIX,apache.org
   - DOMAIN-SUFFIX,apat1989.org
@@ -5705,6 +5706,7 @@ payload:
   - DOMAIN-SUFFIX,pornbase.org
   - DOMAIN-SUFFIX,postimg.org
   - DOMAIN-SUFFIX,powerphoto.org
+  - DOMAIN-SUFFIX,prcleader.org
   - DOMAIN-SUFFIX,prism-break.org
   - DOMAIN-SUFFIX,privoxy.org
   - DOMAIN-SUFFIX,project-syndicate.org

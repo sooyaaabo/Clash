@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-17 03:06:41
-# RuleCount：116969
+# UpdateTime：2025-03-18 03:06:42
+# RuleCount：116963
 payload:
   - DOMAIN,livecdnh2.tvanywhere.ae
   - DOMAIN,ip.istatmenus.app
@@ -20296,7 +20296,6 @@ payload:
   - DOMAIN-SUFFIX,cqrcb.com
   - DOMAIN-SUFFIX,cqrcdsc.com
   - DOMAIN-SUFFIX,cqrfym.com
-  - DOMAIN-SUFFIX,cqrjx.com
   - DOMAIN-SUFFIX,cqrm.com
   - DOMAIN-SUFFIX,cqrmb.com
   - DOMAIN-SUFFIX,cqsckj02.com
@@ -41865,7 +41864,6 @@ payload:
   - DOMAIN-SUFFIX,jjjaaa.com
   - DOMAIN-SUFFIX,jjjllk.com
   - DOMAIN-SUFFIX,jjjpv.com
-  - DOMAIN-SUFFIX,jjjx9.com
   - DOMAIN-SUFFIX,jjkeq.com
   - DOMAIN-SUFFIX,jjkjnet.com
   - DOMAIN-SUFFIX,jjkucunxie.com
@@ -42645,6 +42643,7 @@ payload:
   - DOMAIN-SUFFIX,jswebcall.com
   - DOMAIN-SUFFIX,jsweixiu.com
   - DOMAIN-SUFFIX,jswel.com
+  - DOMAIN-SUFFIX,jswenjin.com
   - DOMAIN-SUFFIX,jswmw.com
   - DOMAIN-SUFFIX,jswonderful.com
   - DOMAIN-SUFFIX,jswrhjkj.com
@@ -45210,7 +45209,6 @@ payload:
   - DOMAIN-SUFFIX,lacaoshi.com
   - DOMAIN-SUFFIX,lacesar.com
   - DOMAIN-SUFFIX,lacocrea.com
-  - DOMAIN-SUFFIX,lacyw.com
   - DOMAIN-SUFFIX,ladiyoga.com
   - DOMAIN-SUFFIX,ladjzs.com
   - DOMAIN-SUFFIX,lady75.com
@@ -67691,7 +67689,6 @@ payload:
   - DOMAIN-SUFFIX,tzsti.com
   - DOMAIN-SUFFIX,tzsucai.com
   - DOMAIN-SUFFIX,tzswatch.com
-  - DOMAIN-SUFFIX,tzswll.com
   - DOMAIN-SUFFIX,tztrzjt.com
   - DOMAIN-SUFFIX,tztusi.com
   - DOMAIN-SUFFIX,tzujian.com
@@ -68820,6 +68817,7 @@ payload:
   - DOMAIN-SUFFIX,viewstock.com
   - DOMAIN-SUFFIX,viewtool.com
   - DOMAIN-SUFFIX,viewtrans.com
+  - DOMAIN-SUFFIX,vifaka.com
   - DOMAIN-SUFFIX,vigtm-meeting-tencent.com
   - DOMAIN-SUFFIX,viigee.com
   - DOMAIN-SUFFIX,viisan.com
@@ -98868,7 +98866,6 @@ payload:
   - IP-CIDR,185.255.152.0/24
   - IP-CIDR,185.255.55.0/24
   - IP-CIDR,185.248.86.0/24
-  - IP-CIDR,185.243.43.0/24
   - IP-CIDR,185.234.212.0/24
   - IP-CIDR,185.217.122.0/24
   - IP-CIDR,185.194.148.0/24
@@ -98957,7 +98954,6 @@ payload:
   - IP-CIDR,156.59.65.0/24
   - IP-CIDR,156.59.61.0/24
   - IP-CIDR,154.209.251.0/24
-  - IP-CIDR,154.209.2.0/24
   - IP-CIDR,154.197.248.0/24
   - IP-CIDR,154.197.240.0/24
   - IP-CIDR,154.197.232.0/24
@@ -99230,7 +99226,6 @@ payload:
   - IP-CIDR,45.202.212.0/24
   - IP-CIDR,45.202.209.0/24
   - IP-CIDR,45.199.167.0/24
-  - IP-CIDR,45.195.198.0/24
   - IP-CIDR,45.195.6.0/24
   - IP-CIDR,45.157.88.0/24
   - IP-CIDR,45.154.244.0/24
@@ -101869,7 +101864,6 @@ payload:
   - IP-CIDR,103.1.20.0/22
   - IP-CIDR,103.1.8.0/22
   - IP-CIDR,102.220.88.0/22
-  - IP-CIDR,102.141.200.0/22
   - IP-CIDR,102.134.56.0/22
   - IP-CIDR,102.134.32.0/22
   - IP-CIDR,101.251.0.0/22

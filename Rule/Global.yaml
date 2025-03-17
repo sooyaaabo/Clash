@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-17 03:06:32
-# RuleCount：31954
+# UpdateTime：2025-03-18 03:06:32
+# RuleCount：31955
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -22731,6 +22731,7 @@ payload:
   - DOMAIN-SUFFIX,postimages.org
   - DOMAIN-SUFFIX,postimg.org
   - DOMAIN-SUFFIX,powerphoto.org
+  - DOMAIN-SUFFIX,prcleader.org
   - DOMAIN-SUFFIX,priceless.org
   - DOMAIN-SUFFIX,primevideo.org
   - DOMAIN-SUFFIX,prism-break.org

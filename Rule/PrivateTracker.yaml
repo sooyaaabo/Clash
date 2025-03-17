@@ -1,13 +1,13 @@
-# UpdateTime：2025-03-17 03:06:36
-# RuleCount：273
+# UpdateTime：2025-03-18 03:06:36
+# RuleCount：270
 payload:
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.mywaifu.best
   - DOMAIN,t.overflow.biz
   - DOMAIN,tracker.bz
   - DOMAIN,bt1.xxxxbt.cc
+  - DOMAIN,tracker.dump.cl
   - DOMAIN,tracker1.myporn.club
-  - DOMAIN,isk.richardsw.club
   - DOMAIN,home.yxgz.club
   - DOMAIN,tracker.home.kmzs123.cn
   - DOMAIN,tracker.kmzs123.cn
@@ -43,6 +43,7 @@ payload:
   - DOMAIN,tracker.yemekyedim.com
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,ipv4announce.sktorrent.eu
+  - DOMAIN,tr.abir.ga
   - DOMAIN,tracker.gmi.gd
   - DOMAIN,tracker.itscraftsoftware.my.id
   - DOMAIN,evan.im
@@ -65,7 +66,6 @@ payload:
   - DOMAIN,tracker.kuroy.me
   - DOMAIN,retracker.lanta.me
   - DOMAIN,tracker.lintk.me
-  - DOMAIN,tracker.cangku.moe
   - DOMAIN,lucke.fenesisu.moe
   - DOMAIN,leet-tracker.moe
   - DOMAIN,tracker.waaa.moe
@@ -104,7 +104,6 @@ payload:
   - DOMAIN,tracker.tryhackx.org
   - DOMAIN,tr.zukizuki.org
   - DOMAIN,tracker.moxing.party
-  - DOMAIN,ftp.pet
   - DOMAIN,tracker.breizh.pm
   - DOMAIN,tracker.bittor.pw
   - DOMAIN,discord.heihachi.pw
@@ -128,7 +127,6 @@ payload:
   - DOMAIN,tracker.gcrenwp.top
   - DOMAIN,sparkle.ghostchu-services.top
   - DOMAIN,tracker.ghostchu-services.top
-  - DOMAIN,utracker.ghostchu-services.top
   - DOMAIN,highteahop.top
   - DOMAIN,tracker.kmzs123.top
   - DOMAIN,tracker.netmap.top
@@ -137,7 +135,6 @@ payload:
   - DOMAIN,buny.uk
   - DOMAIN,nyaa.tracker.wf
   - DOMAIN,4.tracker.devnak.win
-  - DOMAIN,6.tracker.devnak.win
   - DOMAIN,tracker.iperson.xyz
   - DOMAIN,tracker.privateseedbox.xyz
   - DOMAIN,p2p.publictracker.xyz
