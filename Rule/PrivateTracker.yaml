@@ -1,15 +1,13 @@
-# UpdateTime：2025-03-18 03:06:36
-# RuleCount：270
+# UpdateTime：2025-03-19 03:06:40
+# RuleCount：269
 payload:
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.mywaifu.best
   - DOMAIN,t.overflow.biz
   - DOMAIN,tracker.bz
   - DOMAIN,bt1.xxxxbt.cc
-  - DOMAIN,tracker.dump.cl
-  - DOMAIN,tracker1.myporn.club
+  - DOMAIN,isk.richardsw.club
   - DOMAIN,home.yxgz.club
-  - DOMAIN,tracker.home.kmzs123.cn
   - DOMAIN,tracker.kmzs123.cn
   - DOMAIN,tracker.foreverpirates.co
   - DOMAIN,tracker.vanitycore.co
@@ -37,17 +35,15 @@ payload:
   - DOMAIN,tracker.srv00.com
   - DOMAIN,tracker.tiny-vps.com
   - DOMAIN,torrentsmd.com
-  - DOMAIN,tracker.torrust-demo.com
   - DOMAIN,www.wareztorrent.com
-  - DOMAIN,ns-1.x-fins.com
   - DOMAIN,tracker.yemekyedim.com
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,ipv4announce.sktorrent.eu
   - DOMAIN,tr.abir.ga
+  - DOMAIN,open.free-tracker.ga
   - DOMAIN,tracker.gmi.gd
   - DOMAIN,tracker.itscraftsoftware.my.id
   - DOMAIN,evan.im
-  - DOMAIN,torrent.hificode.in
   - DOMAIN,1337.abcvg.info
   - DOMAIN,tracker-udp.gbitt.info
   - DOMAIN,share.hkg-fansub.info
@@ -89,6 +85,7 @@ payload:
   - DOMAIN,tracker.dler.org
   - DOMAIN,tracker2.dler.org
   - DOMAIN,tracker.dmcomic.org
+  - DOMAIN,tracker.guguan.dpdns.org
   - DOMAIN,tr4ck3r.duckdns.org
   - DOMAIN,tracker.torrent.eu.org
   - DOMAIN,explodie.org
@@ -112,6 +109,7 @@ payload:
   - DOMAIN,retracker.hotplug.ru
   - DOMAIN,tracker.ipv6tracker.ru
   - DOMAIN,bt.okmp3.ru
+  - DOMAIN,files.project-cataclysm.ru
   - DOMAIN,d40969.acod.regrucolo.ru
   - DOMAIN,servandroidkino.ru
   - DOMAIN,retracker.spark-rostov.ru
@@ -127,6 +125,7 @@ payload:
   - DOMAIN,tracker.gcrenwp.top
   - DOMAIN,sparkle.ghostchu-services.top
   - DOMAIN,tracker.ghostchu-services.top
+  - DOMAIN,utracker.ghostchu-services.top
   - DOMAIN,highteahop.top
   - DOMAIN,tracker.kmzs123.top
   - DOMAIN,tracker.netmap.top
