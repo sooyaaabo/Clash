@@ -1,7 +1,6 @@
-# UpdateTime：2025-03-20 03:06:39
-# RuleCount：270
+# UpdateTime：2025-03-21 03:06:43
+# RuleCount：273
 payload:
-  - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.mywaifu.best
   - DOMAIN,t.overflow.biz
   - DOMAIN,tracker.bz
@@ -9,7 +8,6 @@ payload:
   - DOMAIN,tracker.dump.cl
   - DOMAIN,tracker.edkj.club
   - DOMAIN,tracker1.myporn.club
-  - DOMAIN,isk.richardsw.club
   - DOMAIN,home.yxgz.club
   - DOMAIN,tracker.home.kmzs123.cn
   - DOMAIN,tracker.kmzs123.cn
@@ -17,6 +15,7 @@ payload:
   - DOMAIN,tracker.vanitycore.co
   - DOMAIN,0123456789nonexistent.com
   - DOMAIN,tracker.0x7c0.com
+  - DOMAIN,admin.52ywp.com
   - DOMAIN,open.acgtracker.com
   - DOMAIN,p4p.arenabg.com
   - DOMAIN,tracker.beeimg.com
@@ -41,14 +40,14 @@ payload:
   - DOMAIN,torrentsmd.com
   - DOMAIN,tracker.torrust-demo.com
   - DOMAIN,www.wareztorrent.com
+  - DOMAIN,ns-1.x-fins.com
   - DOMAIN,tracker.yemekyedim.com
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,ipv4announce.sktorrent.eu
-  - DOMAIN,tr.abir.ga
+  - DOMAIN,open.free-tracker.ga
   - DOMAIN,tracker.gmi.gd
   - DOMAIN,tracker.itscraftsoftware.my.id
   - DOMAIN,evan.im
-  - DOMAIN,torrent.hificode.in
   - DOMAIN,1337.abcvg.info
   - DOMAIN,tracker-udp.gbitt.info
   - DOMAIN,share.hkg-fansub.info
@@ -62,6 +61,7 @@ payload:
   - DOMAIN,tracker.bjut.jp
   - DOMAIN,tracker.leechshield.link
   - DOMAIN,tracker.aburaya.live
+  - DOMAIN,bt.rer.lol
   - DOMAIN,ipv6.rer.lol
   - DOMAIN,tracker.kuroy.me
   - DOMAIN,retracker.lanta.me
@@ -71,7 +71,6 @@ payload:
   - DOMAIN,tracker.waaa.moe
   - DOMAIN,tracker.yume-hatsuyuki.moe
   - DOMAIN,0d.kebhana.mx
-  - DOMAIN,torrenttracker.nwc.acsalaska.net
   - DOMAIN,www.all4nothin.net
   - DOMAIN,retracker01-msk-virt.corbina.net
   - DOMAIN,tracker.ddunlimited.net
@@ -107,6 +106,7 @@ payload:
   - DOMAIN,tracker.moxing.party
   - DOMAIN,tracker.breizh.pm
   - DOMAIN,tracker.bittor.pw
+  - DOMAIN,discord.heihachi.pw
   - DOMAIN,tr.nyacat.pw
   - DOMAIN,ch3oh.ru
   - DOMAIN,retracker.hotplug.ru
@@ -119,6 +119,7 @@ payload:
   - DOMAIN,tracker.darkness.services
   - DOMAIN,t.jaekr.sh
   - DOMAIN,open.stealth.si
+  - DOMAIN,tracker.lyretain.site
   - DOMAIN,tracker.skynetcloud.site
   - DOMAIN,tracker.ololosh.space
   - DOMAIN,tracker.pmman.tech
@@ -127,9 +128,11 @@ payload:
   - DOMAIN,tracker.gcrenwp.top
   - DOMAIN,sparkle.ghostchu-services.top
   - DOMAIN,tracker.ghostchu-services.top
+  - DOMAIN,utracker.ghostchu-services.top
   - DOMAIN,highteahop.top
   - DOMAIN,tracker.kmzs123.top
   - DOMAIN,tracker.netmap.top
+  - DOMAIN,tr3.ysagin.top
   - DOMAIN,tracker.zhuqiy.top
   - DOMAIN,buny.uk
   - DOMAIN,nyaa.tracker.wf
