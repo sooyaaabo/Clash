@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-23 03:06:42
-# RuleCount：6862
+# UpdateTime：2025-03-24 03:06:50
+# RuleCount：6863
 payload:
   - DOMAIN,developer.apple.com
   - DOMAIN,testflight.apple.com
@@ -935,6 +935,7 @@ payload:
   - DOMAIN-SUFFIX,collateralmurder.com
   - DOMAIN-SUFFIX,comedycentral.com
   - DOMAIN-SUFFIX,comefromchina.com
+  - DOMAIN-SUFFIX,fangeming.comffvpn.com
   - DOMAIN-SUFFIX,commandarms.com
   - DOMAIN-SUFFIX,commentshk.com
   - DOMAIN-SUFFIX,communitychoicecu.com
