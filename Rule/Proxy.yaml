@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-24 03:06:50
-# RuleCount：6863
+# UpdateTime：2025-03-25 03:06:53
+# RuleCount：6867
 payload:
   - DOMAIN,developer.apple.com
   - DOMAIN,testflight.apple.com
@@ -924,6 +924,7 @@ payload:
   - DOMAIN-SUFFIX,codeplex.com
   - DOMAIN-SUFFIX,coinbase.com
   - DOMAIN-SUFFIX,coinbene.com
+  - DOMAIN-SUFFIX,coincarp.com
   - DOMAIN-SUFFIX,coinegg.com
   - DOMAIN-SUFFIX,coinex.com
   - DOMAIN-SUFFIX,coingecko.com
@@ -1373,6 +1374,7 @@ payload:
   - DOMAIN-SUFFIX,geekerhome.com
   - DOMAIN-SUFFIX,gekikame.com
   - DOMAIN-SUFFIX,gelbooru.com
+  - DOMAIN-SUFFIX,gemini.com
   - DOMAIN-SUFFIX,genius.com
   - DOMAIN-SUFFIX,geocities.com
   - DOMAIN-SUFFIX,getastrill.com
@@ -4489,6 +4491,7 @@ payload:
   - DOMAIN-SUFFIX,10beasts.net
   - DOMAIN-SUFFIX,12vpn.net
   - DOMAIN-SUFFIX,1e100.net
+  - DOMAIN-SUFFIX,2mdn.net
   - DOMAIN-SUFFIX,3-a.net
   - DOMAIN-SUFFIX,3tui.net
   - DOMAIN-SUFFIX,4sqi.net
@@ -5109,6 +5112,7 @@ payload:
   - DOMAIN-SUFFIX,big.one
   - DOMAIN-SUFFIX,wiki.metacubex.one
   - DOMAIN-SUFFIX,mixin.one
+  - DOMAIN-SUFFIX,one.one.one.one
   - DOMAIN-SUFFIX,slashine.onl
   - DOMAIN-SUFFIX,mastodon.online
   - DOMAIN-SUFFIX,100ke.org
