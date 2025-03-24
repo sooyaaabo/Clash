@@ -1,7 +1,13 @@
-<html>
-<head><title>504 Gateway Time-out</title></head>
-<body>
-<center><h1>504 Gateway Time-out</h1></center>
-<hr><center>cloudflare</center>
-</body>
-</html>
+# UpdateTime：2025-03-24 03:06:51
+# RuleCount：10
+payload:
+  - DOMAIN-SUFFIX,styledata.cn
+  - DOMAIN-SUFFIX,juangua.com
+  - DOMAIN-SUFFIX,meili-inc.com
+  - DOMAIN-SUFFIX,mogu.com
+  - DOMAIN-SUFFIX,mogucdn.com
+  - DOMAIN-SUFFIX,mogujie.com
+  - DOMAIN-SUFFIX,mogujielive.com
+  - DOMAIN-SUFFIX,uniny.com
+  - DOMAIN-SUFFIX,xdgogogo.com
+  - DOMAIN-SUFFIX,linkeye.net
