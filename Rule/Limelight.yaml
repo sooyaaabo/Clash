@@ -1,7 +1,11 @@
-<html>
-<head><title>504 Gateway Time-out</title></head>
-<body>
-<center><h1>504 Gateway Time-out</h1></center>
-<hr><center>cloudflare</center>
-</body>
-</html>
+# UpdateTime：2025-03-24 03:06:53
+# RuleCount：8
+payload:
+  - DOMAIN-SUFFIX,delvenetworks.com
+  - DOMAIN-SUFFIX,limelight.com
+  - DOMAIN-SUFFIX,llnw.com
+  - DOMAIN-SUFFIX,llnw-trials.com
+  - DOMAIN-SUFFIX,lldns.net
+  - DOMAIN-SUFFIX,llnw.net
+  - DOMAIN-SUFFIX,llnwd.net
+  - DOMAIN-SUFFIX,llnwi.net
