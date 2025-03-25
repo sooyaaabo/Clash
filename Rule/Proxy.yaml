@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-25 03:06:53
-# RuleCount：6867
+# UpdateTime：2025-03-26 03:06:52
+# RuleCount：6866
 payload:
   - DOMAIN,developer.apple.com
   - DOMAIN,testflight.apple.com
@@ -4491,7 +4491,6 @@ payload:
   - DOMAIN-SUFFIX,10beasts.net
   - DOMAIN-SUFFIX,12vpn.net
   - DOMAIN-SUFFIX,1e100.net
-  - DOMAIN-SUFFIX,2mdn.net
   - DOMAIN-SUFFIX,3-a.net
   - DOMAIN-SUFFIX,3tui.net
   - DOMAIN-SUFFIX,4sqi.net
