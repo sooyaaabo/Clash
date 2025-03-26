@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-26 03:06:53
-# RuleCount：31941
+# UpdateTime：2025-03-27 03:07:28
+# RuleCount：31942
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -3240,6 +3240,7 @@ payload:
   - DOMAIN-SUFFIX,apole.com
   - DOMAIN-SUFFIX,aporntv.com
   - DOMAIN-SUFFIX,apornvideo.com
+  - DOMAIN-SUFFIX,app-analytics-services.com
   - DOMAIN-SUFFIX,app-dynamics.com
   - DOMAIN-SUFFIX,app-measurement-cn.com
   - DOMAIN-SUFFIX,app0le.com

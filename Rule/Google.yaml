@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-26 03:06:55
-# RuleCount：716
+# UpdateTime：2025-03-27 03:07:29
+# RuleCount：717
 payload:
   - DOMAIN,lens.l.google.com
   - DOMAIN,mtalk.google.com
@@ -115,6 +115,7 @@ payload:
   - DOMAIN-SUFFIX,androidify.com
   - DOMAIN-SUFFIX,androidtv.com
   - DOMAIN-SUFFIX,apigee.com
+  - DOMAIN-SUFFIX,app-analytics-services.com
   - DOMAIN-SUFFIX,app-measurement.com
   - DOMAIN-SUFFIX,app-measurement-cn.com
   - DOMAIN-SUFFIX,appspot.com

@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-26 03:06:59
-# RuleCount：141
+# UpdateTime：2025-03-27 03:07:33
+# RuleCount：142
 payload:
   - DOMAIN-SUFFIX,mi0.cc
   - DOMAIN-SUFFIX,mi1.cc
@@ -81,6 +81,7 @@ payload:
   - DOMAIN-SUFFIX,mi-img4.com
   - DOMAIN-SUFFIX,mi-img5.com
   - DOMAIN-SUFFIX,mi-static.com
+  - DOMAIN-SUFFIX,migames.com
   - DOMAIN-SUFFIX,mikge.com
   - DOMAIN-SUFFIX,miliao.com
   - DOMAIN-SUFFIX,milliant.com
