@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-27 03:07:33
-# RuleCount：270
+# UpdateTime：2025-03-28 03:06:54
+# RuleCount：274
 payload:
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.mywaifu.best
@@ -8,8 +8,10 @@ payload:
   - DOMAIN,bt1.xxxxbt.cc
   - DOMAIN,tracker.dump.cl
   - DOMAIN,tracker.edkj.club
+  - DOMAIN,tracker1.myporn.club
   - DOMAIN,isk.richardsw.club
   - DOMAIN,home.yxgz.club
+  - DOMAIN,tracker.home.kmzs123.cn
   - DOMAIN,tracker.kmzs123.cn
   - DOMAIN,tracker.foreverpirates.co
   - DOMAIN,tracker.vanitycore.co
@@ -32,22 +34,24 @@ payload:
   - DOMAIN,tracker3.itzmx.com
   - DOMAIN,tracker4.itzmx.com
   - DOMAIN,bt.ktrackers.com
+  - DOMAIN,tracker.linvk.com
   - DOMAIN,ttk2.nbaonlineservice.com
   - DOMAIN,tracker.openwebtorrent.com
   - DOMAIN,tracker.sbsub.com
   - DOMAIN,tracker.srv00.com
   - DOMAIN,tracker.tiny-vps.com
   - DOMAIN,torrentsmd.com
+  - DOMAIN,tracker.torrust-demo.com
   - DOMAIN,public.tracker.vraphim.com
   - DOMAIN,www.wareztorrent.com
   - DOMAIN,ns-1.x-fins.com
   - DOMAIN,tracker.yemekyedim.com
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,ipv4announce.sktorrent.eu
+  - DOMAIN,tr.abir.ga
   - DOMAIN,open.free-tracker.ga
   - DOMAIN,tracker.gmi.gd
   - DOMAIN,evan.im
-  - DOMAIN,torrent.hificode.in
   - DOMAIN,1337.abcvg.info
   - DOMAIN,tracker-udp.gbitt.info
   - DOMAIN,share.hkg-fansub.info
@@ -67,6 +71,7 @@ payload:
   - DOMAIN,retracker.lanta.me
   - DOMAIN,tracker.lintk.me
   - DOMAIN,lucke.fenesisu.moe
+  - DOMAIN,leet-tracker.moe
   - DOMAIN,tracker.waaa.moe
   - DOMAIN,tracker.yume-hatsuyuki.moe
   - DOMAIN,0d.kebhana.mx
@@ -79,9 +84,9 @@ payload:
   - DOMAIN,tk.greedland.net
   - DOMAIN,tracker.renfei.net
   - DOMAIN,shubt.net
+  - DOMAIN,tracker.theoks.net
   - DOMAIN,wepzone.net
   - DOMAIN,torrent.i.ng
-  - DOMAIN,fleira.no
   - DOMAIN,tracker.corpscorp.online
   - DOMAIN,concen.org
   - DOMAIN,tracker.dler.org
@@ -120,14 +125,13 @@ payload:
   - DOMAIN,t.jaekr.sh
   - DOMAIN,open.stealth.si
   - DOMAIN,tracker.lyretain.site
-  - DOMAIN,tracker.pmman.tech
+  - DOMAIN,tracker.ololosh.space
   - DOMAIN,tracker.valete.tf
   - DOMAIN,tracker.23794.top
   - DOMAIN,tr.abiir.top
   - DOMAIN,tracker.gcrenwp.top
   - DOMAIN,sparkle.ghostchu-services.top
   - DOMAIN,tracker.ghostchu-services.top
-  - DOMAIN,utracker.ghostchu-services.top
   - DOMAIN,highteahop.top
   - DOMAIN,tracker.kmzs123.top
   - DOMAIN,tracker.netmap.top

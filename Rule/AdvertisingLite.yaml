@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-27 03:07:39
-# RuleCount：38040
+# UpdateTime：2025-03-28 03:06:59
+# RuleCount：38041
 payload:
   - DOMAIN,tube.ac
   - DOMAIN,bonzai.ad
@@ -2353,7 +2353,6 @@ payload:
   - DOMAIN,5755ac539651fe8f366.com
   - DOMAIN,57e3ascxh1.com
   - DOMAIN,57fd2911f09b76.com
-  - DOMAIN,tracklog.58.com
   - DOMAIN,58040d4c01949f0c1.com
   - DOMAIN,58b14921719ec.com
   - DOMAIN,58b291f917728a2.com
@@ -26781,6 +26780,7 @@ payload:
   - DOMAIN-SUFFIX,jump.luna.58.com
   - DOMAIN-SUFFIX,news.58.com
   - DOMAIN-SUFFIX,track.58.com
+  - DOMAIN-SUFFIX,tracklog.58.com
   - DOMAIN-SUFFIX,zzpush.58.com
   - DOMAIN-SUFFIX,5814889.com
   - DOMAIN-SUFFIX,gk1.582582.com
@@ -32149,6 +32149,7 @@ payload:
   - DOMAIN-SUFFIX,ptdrw.com
   - DOMAIN-SUFFIX,gg.ptfish.com
   - DOMAIN-SUFFIX,ptgezc.com
+  - DOMAIN-SUFFIX,deliver.ptgncdn.com
   - DOMAIN-SUFFIX,ptiftoud.com
   - DOMAIN-SUFFIX,ptkhy.com
   - DOMAIN-SUFFIX,js.ptmind.com
@@ -32411,7 +32412,6 @@ payload:
   - DOMAIN-SUFFIX,img1.sj.qq.com
   - DOMAIN-SUFFIX,t.sj.qq.com
   - DOMAIN-SUFFIX,ws.sj.qq.com
-  - DOMAIN-SUFFIX,snowflake.qq.com
   - DOMAIN-SUFFIX,setting.snswin.qq.com
   - DOMAIN-SUFFIX,news.ssp.qq.com
   - DOMAIN-SUFFIX,stdl.qq.com
@@ -35199,6 +35199,7 @@ payload:
   - DOMAIN-SUFFIX,tr.werkenntwen.de
   - DOMAIN-SUFFIX,pap.zalando.de
   - DOMAIN-SUFFIX,cc.zeit.de
+  - DOMAIN-SUFFIX,snowplow.swm.digital
   - DOMAIN-SUFFIX,jppolid-track.trackprod.integration.jppol.dk
   - DOMAIN-SUFFIX,ea.pixmania.dk
   - DOMAIN-SUFFIX,metrigo.zalan.do

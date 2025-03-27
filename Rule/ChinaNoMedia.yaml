@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-27 03:07:29
-# RuleCount：3655
+# UpdateTime：2025-03-28 03:06:51
+# RuleCount：3659
 payload:
   - DOMAIN,ip.istatmenus.app
   - DOMAIN,client.amplifi.com
@@ -8,6 +8,8 @@ payload:
   - DOMAIN,download.jetbrains.com
   - DOMAIN,kc.kexinshe.com
   - DOMAIN,www.libvideo.com
+  - DOMAIN,download.microsoft.com
+  - DOMAIN,ntservicepack.microsoft.com
   - DOMAIN,images-cn.ssl-images-amazon.com
   - DOMAIN,analytics.strava.com
   - DOMAIN,weixin.com
@@ -1871,7 +1873,9 @@ payload:
   - DOMAIN-SUFFIX,miaopai.com
   - DOMAIN-SUFFIX,miaostreet.com
   - DOMAIN-SUFFIX,miaozhen.com
-  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
+  - DOMAIN-SUFFIX,update.microsoft.com
+  - DOMAIN-SUFFIX,windowsupdate.microsoft.com
   - DOMAIN-SUFFIX,microsoftonline.com
   - DOMAIN-SUFFIX,midasbuy.com
   - DOMAIN-SUFFIX,miercn.com
