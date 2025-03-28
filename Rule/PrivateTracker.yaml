@@ -1,4 +1,4 @@
-# UpdateTime：2025-03-28 03:06:54
+# UpdateTime：2025-03-29 03:06:53
 # RuleCount：274
 payload:
   - DOMAIN,tracker.qu.ax
@@ -7,9 +7,10 @@ payload:
   - DOMAIN,tracker.bz
   - DOMAIN,bt1.xxxxbt.cc
   - DOMAIN,tracker.dump.cl
+  - DOMAIN,tracker.opendev.cloud
+  - DOMAIN,tracker-v6.opendev.cloud
   - DOMAIN,tracker.edkj.club
   - DOMAIN,tracker1.myporn.club
-  - DOMAIN,isk.richardsw.club
   - DOMAIN,home.yxgz.club
   - DOMAIN,tracker.home.kmzs123.cn
   - DOMAIN,tracker.kmzs123.cn
@@ -48,10 +49,10 @@ payload:
   - DOMAIN,tracker.yemekyedim.com
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,ipv4announce.sktorrent.eu
-  - DOMAIN,tr.abir.ga
   - DOMAIN,open.free-tracker.ga
   - DOMAIN,tracker.gmi.gd
   - DOMAIN,evan.im
+  - DOMAIN,torrent.hificode.in
   - DOMAIN,1337.abcvg.info
   - DOMAIN,tracker-udp.gbitt.info
   - DOMAIN,share.hkg-fansub.info
@@ -94,7 +95,6 @@ payload:
   - DOMAIN,tracker.dmcomic.org
   - DOMAIN,tr4ck3r.duckdns.org
   - DOMAIN,tracker.torrent.eu.org
-  - DOMAIN,www.torrent.eu.org
   - DOMAIN,explodie.org
   - DOMAIN,finbytes.org
   - DOMAIN,www.genesis-sp.org
@@ -111,7 +111,6 @@ payload:
   - DOMAIN,tracker.moxing.party
   - DOMAIN,tracker.breizh.pm
   - DOMAIN,tracker.bittor.pw
-  - DOMAIN,discord.heihachi.pw
   - DOMAIN,tr.nyacat.pw
   - DOMAIN,ch3oh.ru
   - DOMAIN,retracker.hotplug.ru
@@ -132,6 +131,7 @@ payload:
   - DOMAIN,tracker.gcrenwp.top
   - DOMAIN,sparkle.ghostchu-services.top
   - DOMAIN,tracker.ghostchu-services.top
+  - DOMAIN,utracker.ghostchu-services.top
   - DOMAIN,highteahop.top
   - DOMAIN,tracker.kmzs123.top
   - DOMAIN,tracker.netmap.top

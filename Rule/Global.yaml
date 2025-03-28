@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-28 03:06:51
-# RuleCount：31959
+# UpdateTime：2025-03-29 03:06:47
+# RuleCount：31977
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -167,6 +167,7 @@ payload:
   - DOMAIN,ebay-25-assets.s3-us-west-1.amazonaws.com
   - DOMAIN,notary-submissions-prod.s3.us-west-2.amazonaws.com
   - DOMAIN,vsmarketplacebadge.apphb.com
+  - DOMAIN,apple-tv-plus-press.apple.com
   - DOMAIN,books.apple.com
   - DOMAIN,developer.apple.com
   - DOMAIN,time.euro.apple.com
@@ -181,6 +182,7 @@ payload:
   - DOMAIN,testflight.apple.com
   - DOMAIN,time.apple.com
   - DOMAIN,tv.apple.com
+  - DOMAIN,tv.applemusic.com
   - DOMAIN,database.asahi.com
   - DOMAIN,espn.api.edge.bamgrid.com
   - DOMAIN,hulu.playback.edge.bamgrid.com
@@ -1474,6 +1476,7 @@ payload:
   - DOMAIN-SUFFIX,yahoo.com.bz
   - DOMAIN-SUFFIX,iask.bz
   - DOMAIN-SUFFIX,tube.bz
+  - DOMAIN-SUFFIX,1password.ca
   - DOMAIN-SUFFIX,24hrs.ca
   - DOMAIN-SUFFIX,3ren.ca
   - DOMAIN-SUFFIX,51.ca
@@ -2666,6 +2669,7 @@ payload:
   - DOMAIN-SUFFIX,aabb1802.com
   - DOMAIN-SUFFIX,aabb1803.com
   - DOMAIN-SUFFIX,aadmv.com
+  - DOMAIN-SUFFIX,aadrm.com
   - DOMAIN-SUFFIX,aamacau.com
   - DOMAIN-SUFFIX,aanaan.com
   - DOMAIN-SUFFIX,aave.com
@@ -2865,6 +2869,7 @@ payload:
   - DOMAIN-SUFFIX,aga-expo.com
   - DOMAIN-SUFFIX,agdbank.com
   - DOMAIN-SUFFIX,agendaweek.com
+  - DOMAIN-SUFFIX,agilebits.com
   - DOMAIN-SUFFIX,agoogleaday.com
   - DOMAIN-SUFFIX,agzy1.com
   - DOMAIN-SUFFIX,ah-me.com
@@ -6389,6 +6394,7 @@ payload:
   - DOMAIN-SUFFIX,entermap.com
   - DOMAIN-SUFFIX,enterprisepaging.com
   - DOMAIN-SUFFIX,enterprisessl.com
+  - DOMAIN-SUFFIX,entrust.com
   - DOMAIN-SUFFIX,entrustdatacard.com
   - DOMAIN-SUFFIX,epicbrowser.com
   - DOMAIN-SUFFIX,epicgames.com
@@ -9012,6 +9018,7 @@ payload:
   - DOMAIN-SUFFIX,iwork.com
   - DOMAIN-SUFFIX,iwyn138.com
   - DOMAIN-SUFFIX,ixquick.com
+  - DOMAIN-SUFFIX,ixsystems.com
   - DOMAIN-SUFFIX,ixxx.com
   - DOMAIN-SUFFIX,iyalc.com
   - DOMAIN-SUFFIX,iyottube.com
@@ -10055,6 +10062,7 @@ payload:
   - DOMAIN-SUFFIX,microsoftadvertising.com
   - DOMAIN-SUFFIX,microsoftadvertisingregionalawards.com
   - DOMAIN-SUFFIX,microsoftaffiliates.com
+  - DOMAIN-SUFFIX,microsoftazuread-sso.com
   - DOMAIN-SUFFIX,microsoftazuresponsorships.com
   - DOMAIN-SUFFIX,microsoftcloud.com
   - DOMAIN-SUFFIX,microsoftcloudsummit.com
@@ -11455,6 +11463,7 @@ payload:
   - DOMAIN-SUFFIX,oyghan.com
   - DOMAIN-SUFFIX,ozchinese.com
   - DOMAIN-SUFFIX,ozeex.com
+  - DOMAIN-SUFFIX,ozonusercontent.com
   - DOMAIN-SUFFIX,ozxw.com
   - DOMAIN-SUFFIX,ozyoyo.com
   - DOMAIN-SUFFIX,pa9pal.com
@@ -11777,6 +11786,8 @@ payload:
   - DOMAIN-SUFFIX,playboy.com
   - DOMAIN-SUFFIX,playboyplus.com
   - DOMAIN-SUFFIX,playbydurex.com
+  - DOMAIN-SUFFIX,playfab.com
+  - DOMAIN-SUFFIX,playfabapi.com
   - DOMAIN-SUFFIX,playforceone.com
   - DOMAIN-SUFFIX,playhearthstone.com
   - DOMAIN-SUFFIX,playmation.com
@@ -14082,6 +14093,7 @@ payload:
   - DOMAIN-SUFFIX,truebim.com
   - DOMAIN-SUFFIX,truedepth3d.com
   - DOMAIN-SUFFIX,truedwg.com
+  - DOMAIN-SUFFIX,truenas.com
   - DOMAIN-SUFFIX,trulyergonomic.com
   - DOMAIN-SUFFIX,trunest.com
   - DOMAIN-SUFFIX,trust-provider.com
@@ -14613,6 +14625,7 @@ payload:
   - DOMAIN-SUFFIX,visa-atm.com
   - DOMAIN-SUFFIX,visabg.com
   - DOMAIN-SUFFIX,visabusinessinsights.com
+  - DOMAIN-SUFFIX,visaca.com
   - DOMAIN-SUFFIX,visacarddesignlab.com
   - DOMAIN-SUFFIX,visacards.com
   - DOMAIN-SUFFIX,visaconciergelac.com
@@ -16379,6 +16392,7 @@ payload:
   - DOMAIN-SUFFIX,youtube.es
   - DOMAIN-SUFFIX,google.com.et
   - DOMAIN-SUFFIX,1lib.eu
+  - DOMAIN-SUFFIX,1password.eu
   - DOMAIN-SUFFIX,aboutamazon.eu
   - DOMAIN-SUFFIX,agrd.eu
   - DOMAIN-SUFFIX,airport.eu
@@ -16396,6 +16410,7 @@ payload:
   - DOMAIN-SUFFIX,dabr.eu
   - DOMAIN-SUFFIX,dajiyuan.eu
   - DOMAIN-SUFFIX,deepfreeze.eu
+  - DOMAIN-SUFFIX,digicert.eu
   - DOMAIN-SUFFIX,epochtimes.eu
   - DOMAIN-SUFFIX,europa.eu
   - DOMAIN-SUFFIX,faronics.eu
@@ -18146,6 +18161,7 @@ payload:
   - DOMAIN-SUFFIX,crypton.co.jp
   - DOMAIN-SUFFIX,cybertrust.co.jp
   - DOMAIN-SUFFIX,cygames.co.jp
+  - DOMAIN-SUFFIX,digicert.co.jp
   - DOMAIN-SUFFIX,disney.co.jp
   - DOMAIN-SUFFIX,dmm.co.jp
   - DOMAIN-SUFFIX,drweb.co.jp
@@ -23768,6 +23784,8 @@ payload:
   - DOMAIN-SUFFIX,nvidia.ru
   - DOMAIN-SUFFIX,ok.ru
   - DOMAIN-SUFFIX,onlyprime.ru
+  - DOMAIN-SUFFIX,ozon.ru
+  - DOMAIN-SUFFIX,ozone.ru
   - DOMAIN-SUFFIX,pinterest.ru
   - DOMAIN-SUFFIX,pornocd.ru
   - DOMAIN-SUFFIX,pornofiles.ru

@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-28 03:06:48
-# RuleCount：221
+# UpdateTime：2025-03-29 03:06:47
+# RuleCount：218
 payload:
   - DOMAIN,ad.12306.cn
   - DOMAIN,bdtj.tagtic.cn
@@ -69,7 +69,6 @@ payload:
   - DOMAIN-SUFFIX,btschool.club
   - DOMAIN-SUFFIX,dicmusic.club
   - DOMAIN-SUFFIX,hdatmos.club
-  - DOMAIN-SUFFIX,hdstreet.club
   - DOMAIN-SUFFIX,ourbits.club
   - DOMAIN-SUFFIX,ptsbao.club
   - DOMAIN-SUFFIX,soulvoice.club
@@ -161,7 +160,6 @@ payload:
   - DOMAIN-SUFFIX,hdhome.org
   - DOMAIN-SUFFIX,hdroute.org
   - DOMAIN-SUFFIX,hdtime.org
-  - DOMAIN-SUFFIX,hitpt.org
   - DOMAIN-SUFFIX,icetorrent.org
   - DOMAIN-SUFFIX,ieee.org
   - DOMAIN-SUFFIX,jstor.org
@@ -180,7 +178,6 @@ payload:
   - DOMAIN-SUFFIX,privatehd.to
   - DOMAIN-SUFFIX,hdpost.top
   - DOMAIN-SUFFIX,animebytes.tv
-  - DOMAIN-SUFFIX,morethan.tv
   - DOMAIN-SUFFIX,classix-unlimited.co.uk
   - DOMAIN-SUFFIX,hdbd.us
   - DOMAIN-SUFFIX,msg.vg
