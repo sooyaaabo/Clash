@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-29 03:06:53
-# RuleCount：274
+# UpdateTime：2025-03-30 03:06:59
+# RuleCount：271
 payload:
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.mywaifu.best
@@ -7,10 +7,8 @@ payload:
   - DOMAIN,tracker.bz
   - DOMAIN,bt1.xxxxbt.cc
   - DOMAIN,tracker.dump.cl
-  - DOMAIN,tracker.opendev.cloud
-  - DOMAIN,tracker-v6.opendev.cloud
-  - DOMAIN,tracker.edkj.club
   - DOMAIN,tracker1.myporn.club
+  - DOMAIN,isk.richardsw.club
   - DOMAIN,home.yxgz.club
   - DOMAIN,tracker.home.kmzs123.cn
   - DOMAIN,tracker.kmzs123.cn
@@ -18,7 +16,6 @@ payload:
   - DOMAIN,tracker.vanitycore.co
   - DOMAIN,0123456789nonexistent.com
   - DOMAIN,tracker.0x7c0.com
-  - DOMAIN,admin.52ywp.com
   - DOMAIN,open.acgtracker.com
   - DOMAIN,ec2-18-191-163-220.us-east-2.compute.amazonaws.com
   - DOMAIN,p4p.arenabg.com
@@ -31,6 +28,7 @@ payload:
   - DOMAIN,tracker.dler.com
   - DOMAIN,tracker.filemail.com
   - DOMAIN,ismaarino.com
+  - DOMAIN,tracker1.itzmx.com
   - DOMAIN,tracker2.itzmx.com
   - DOMAIN,tracker3.itzmx.com
   - DOMAIN,tracker4.itzmx.com
@@ -49,7 +47,7 @@ payload:
   - DOMAIN,tracker.yemekyedim.com
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,ipv4announce.sktorrent.eu
-  - DOMAIN,open.free-tracker.ga
+  - DOMAIN,tr.abir.ga
   - DOMAIN,tracker.gmi.gd
   - DOMAIN,evan.im
   - DOMAIN,torrent.hificode.in
@@ -71,6 +69,7 @@ payload:
   - DOMAIN,tracker.kuroy.me
   - DOMAIN,retracker.lanta.me
   - DOMAIN,tracker.lintk.me
+  - DOMAIN,tracker.cangku.moe
   - DOMAIN,lucke.fenesisu.moe
   - DOMAIN,leet-tracker.moe
   - DOMAIN,tracker.waaa.moe
@@ -85,7 +84,6 @@ payload:
   - DOMAIN,tk.greedland.net
   - DOMAIN,tracker.renfei.net
   - DOMAIN,shubt.net
-  - DOMAIN,tracker.theoks.net
   - DOMAIN,wepzone.net
   - DOMAIN,torrent.i.ng
   - DOMAIN,tracker.corpscorp.online
@@ -95,6 +93,7 @@ payload:
   - DOMAIN,tracker.dmcomic.org
   - DOMAIN,tr4ck3r.duckdns.org
   - DOMAIN,tracker.torrent.eu.org
+  - DOMAIN,www.torrent.eu.org
   - DOMAIN,explodie.org
   - DOMAIN,finbytes.org
   - DOMAIN,www.genesis-sp.org
@@ -111,6 +110,7 @@ payload:
   - DOMAIN,tracker.moxing.party
   - DOMAIN,tracker.breizh.pm
   - DOMAIN,tracker.bittor.pw
+  - DOMAIN,discord.heihachi.pw
   - DOMAIN,tr.nyacat.pw
   - DOMAIN,ch3oh.ru
   - DOMAIN,retracker.hotplug.ru
@@ -124,14 +124,12 @@ payload:
   - DOMAIN,t.jaekr.sh
   - DOMAIN,open.stealth.si
   - DOMAIN,tracker.lyretain.site
-  - DOMAIN,tracker.ololosh.space
   - DOMAIN,tracker.valete.tf
   - DOMAIN,tracker.23794.top
   - DOMAIN,tr.abiir.top
   - DOMAIN,tracker.gcrenwp.top
   - DOMAIN,sparkle.ghostchu-services.top
   - DOMAIN,tracker.ghostchu-services.top
-  - DOMAIN,utracker.ghostchu-services.top
   - DOMAIN,highteahop.top
   - DOMAIN,tracker.kmzs123.top
   - DOMAIN,tracker.netmap.top
@@ -139,7 +137,6 @@ payload:
   - DOMAIN,tracker.zhuqiy.top
   - DOMAIN,buny.uk
   - DOMAIN,nyaa.tracker.wf
-  - DOMAIN,tracker.iperson.xyz
   - DOMAIN,tracker.privateseedbox.xyz
   - DOMAIN,p2p.publictracker.xyz
   - DOMAIN,tracker810.xyz

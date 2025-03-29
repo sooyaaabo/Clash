@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-29 03:06:47
-# RuleCount：2300
+# UpdateTime：2025-03-30 03:06:52
+# RuleCount：2324
 payload:
   - DOMAIN,ktpx.amazon.com
   - DOMAIN,gspe1-ssl.ls.apple.com
@@ -7,8 +7,15 @@ payload:
   - DOMAIN,news-edge.apple.com
   - DOMAIN,news-events.apple.com
   - DOMAIN,ocvideo.apple.com
+  - DOMAIN,sydney.bing.com
   - DOMAIN,apple.comscoreresearch.com
+  - DOMAIN,api.githubcopilot.com
+  - DOMAIN,copilot-proxy.githubusercontent.com
+  - DOMAIN,generativelanguage.googleapis.com
+  - DOMAIN,api.groq.com
+  - DOMAIN,console.groq.com
   - DOMAIN,rpg.pic-imges.com
+  - DOMAIN,ai.google.dev
   - DOMAIN,e13252.dscg.akamaiedge.net
   - DOMAIN,bcbolt446c5271-a.akamaihd.net
   - DOMAIN,itvpnpmobile-a.akamaihd.net
@@ -28,8 +35,14 @@ payload:
   - DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
   - DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
   - DOMAIN,api.okzy.tv
+  - DOMAIN,api.together.xyz
   - DOMAIN-SUFFIX,youtube.co.ae
   - DOMAIN-SUFFIX,youtube.ae
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,grazie.ai
+  - DOMAIN-SUFFIX,meta.ai
+  - DOMAIN-SUFFIX,mistral.ai
+  - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,youtube.al
   - DOMAIN-SUFFIX,youtube.am
   - DOMAIN-SUFFIX,nebula.app
@@ -133,10 +146,12 @@ payload:
   - DOMAIN-SUFFIX,amerikayidzayn.com
   - DOMAIN-SUFFIX,amerikiskhma.com
   - DOMAIN-SUFFIX,anidom.com
+  - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,tv.apple.com
   - DOMAIN-SUFFIX,applemusic.com
   - DOMAIN-SUFFIX,atttvnow.com
   - DOMAIN-SUFFIX,attwatchtv.com
+  - DOMAIN-SUFFIX,ai.azure.com
   - DOMAIN-SUFFIX,babble.com
   - DOMAIN-SUFFIX,babyzone.com
   - DOMAIN-SUFFIX,bamgrid.com
@@ -401,8 +416,11 @@ payload:
   - DOMAIN-SUFFIX,go-disneyworldgo.com
   - DOMAIN-SUFFIX,golosameriki.com
   - DOMAIN-SUFFIX,gooddaychicago.com
+  - DOMAIN-SUFFIX,bard.google.com
+  - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,wide-youtube.l.google.com
   - DOMAIN-SUFFIX,youtube-ui.l.google.com
+  - DOMAIN-SUFFIX,makersuite.google.com
   - DOMAIN-SUFFIX,video.google.com
   - DOMAIN-SUFFIX,youtube.googleapis.com
   - DOMAIN-SUFFIX,youtubeembeddedplayer.googleapis.com
@@ -505,6 +523,7 @@ payload:
   - DOMAIN-SUFFIX,twemoji.maxcdn.com
   - DOMAIN-SUFFIX,maxgo.com
   - DOMAIN-SUFFIX,media-amazon.com
+  - DOMAIN-SUFFIX,copilot.microsoft.com
   - DOMAIN-SUFFIX,moviesanywhere.com
   - DOMAIN-SUFFIX,msnbc.com
   - DOMAIN-SUFFIX,mtvnservices.com
@@ -645,6 +664,7 @@ payload:
   - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,soccermatchpass.com
   - DOMAIN-SUFFIX,socdm.com
+  - DOMAIN-SUFFIX,sora.com
   - DOMAIN-SUFFIX,sorcerersarena.com
   - DOMAIN-SUFFIX,soundcloud.com
   - DOMAIN-SUFFIX,soundcloudmail.com
@@ -971,6 +991,7 @@ payload:
   - DOMAIN-SUFFIX,nytcn.me
   - DOMAIN-SUFFIX,youtube.me
   - DOMAIN-SUFFIX,hayabusa.media
+  - DOMAIN-SUFFIX,copilot.cloud.microsoft
   - DOMAIN-SUFFIX,youtube.com.mk
   - DOMAIN-SUFFIX,youtube.mk
   - DOMAIN-SUFFIX,youtube.mn
@@ -1038,6 +1059,7 @@ payload:
   - DOMAIN-SUFFIX,glasamerike.net
   - DOMAIN-SUFFIX,nbc-sports.go-vip.net
   - DOMAIN-SUFFIX,hinet.net
+  - DOMAIN-SUFFIX,grazie.aws.intellij.net
   - DOMAIN-SUFFIX,japonx.net
   - DOMAIN-SUFFIX,japronx.net
   - DOMAIN-SUFFIX,jtvnw.net
@@ -1287,6 +1309,7 @@ payload:
   - DOMAIN-KEYWORD,nivod
   - DOMAIN-KEYWORD,ttvnw
   - DOMAIN-KEYWORD,bbcfmt
+  - DOMAIN-KEYWORD,claude
   - DOMAIN-KEYWORD,japonx
   - DOMAIN-KEYWORD,olevod
   - DOMAIN-KEYWORD,japronx
@@ -1296,6 +1319,7 @@ payload:
   - DOMAIN-KEYWORD,youtube
   - DOMAIN-KEYWORD,nowtv100
   - DOMAIN-KEYWORD,rthklive
+  - DOMAIN-KEYWORD,anthropic
   - DOMAIN-KEYWORD,avoddashs
   - DOMAIN-KEYWORD,hbogoasia
   - DOMAIN-KEYWORD,tiktokcdn
