@@ -1,4 +1,4 @@
-# UpdateTime：2025-03-30 03:06:59
+# UpdateTime：2025-03-31 03:07:04
 # RuleCount：271
 payload:
   - DOMAIN,tracker.qu.ax
@@ -6,7 +6,7 @@ payload:
   - DOMAIN,t.overflow.biz
   - DOMAIN,tracker.bz
   - DOMAIN,bt1.xxxxbt.cc
-  - DOMAIN,tracker.dump.cl
+  - DOMAIN,tracker.edkj.club
   - DOMAIN,tracker1.myporn.club
   - DOMAIN,isk.richardsw.club
   - DOMAIN,home.yxgz.club
@@ -16,6 +16,7 @@ payload:
   - DOMAIN,tracker.vanitycore.co
   - DOMAIN,0123456789nonexistent.com
   - DOMAIN,tracker.0x7c0.com
+  - DOMAIN,admin.52ywp.com
   - DOMAIN,open.acgtracker.com
   - DOMAIN,ec2-18-191-163-220.us-east-2.compute.amazonaws.com
   - DOMAIN,p4p.arenabg.com
@@ -40,14 +41,13 @@ payload:
   - DOMAIN,tracker.srv00.com
   - DOMAIN,tracker.tiny-vps.com
   - DOMAIN,torrentsmd.com
-  - DOMAIN,tracker.torrust-demo.com
   - DOMAIN,public.tracker.vraphim.com
   - DOMAIN,www.wareztorrent.com
-  - DOMAIN,ns-1.x-fins.com
   - DOMAIN,tracker.yemekyedim.com
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,ipv4announce.sktorrent.eu
   - DOMAIN,tr.abir.ga
+  - DOMAIN,open.free-tracker.ga
   - DOMAIN,tracker.gmi.gd
   - DOMAIN,evan.im
   - DOMAIN,torrent.hificode.in
@@ -57,7 +57,6 @@ payload:
   - DOMAIN,www.torrentsnipe.info
   - DOMAIN,open.tracker.ink
   - DOMAIN,bandito.byterunner.io
-  - DOMAIN,open.dstud.io
   - DOMAIN,opentracker.io
   - DOMAIN,tracker.cyberia.is
   - DOMAIN,tracker1.520.jp
@@ -69,7 +68,6 @@ payload:
   - DOMAIN,tracker.kuroy.me
   - DOMAIN,retracker.lanta.me
   - DOMAIN,tracker.lintk.me
-  - DOMAIN,tracker.cangku.moe
   - DOMAIN,lucke.fenesisu.moe
   - DOMAIN,leet-tracker.moe
   - DOMAIN,tracker.waaa.moe
@@ -84,6 +82,7 @@ payload:
   - DOMAIN,tk.greedland.net
   - DOMAIN,tracker.renfei.net
   - DOMAIN,shubt.net
+  - DOMAIN,tracker.theoks.net
   - DOMAIN,wepzone.net
   - DOMAIN,torrent.i.ng
   - DOMAIN,tracker.corpscorp.online
@@ -94,7 +93,6 @@ payload:
   - DOMAIN,tr4ck3r.duckdns.org
   - DOMAIN,tracker.torrent.eu.org
   - DOMAIN,www.torrent.eu.org
-  - DOMAIN,explodie.org
   - DOMAIN,finbytes.org
   - DOMAIN,www.genesis-sp.org
   - DOMAIN,tracker.ipv6tracker.org
@@ -108,9 +106,9 @@ payload:
   - DOMAIN,tracker.tryhackx.org
   - DOMAIN,tr.zukizuki.org
   - DOMAIN,tracker.moxing.party
+  - DOMAIN,ftp.pet
   - DOMAIN,tracker.breizh.pm
   - DOMAIN,tracker.bittor.pw
-  - DOMAIN,discord.heihachi.pw
   - DOMAIN,tr.nyacat.pw
   - DOMAIN,ch3oh.ru
   - DOMAIN,retracker.hotplug.ru
@@ -124,19 +122,21 @@ payload:
   - DOMAIN,t.jaekr.sh
   - DOMAIN,open.stealth.si
   - DOMAIN,tracker.lyretain.site
+  - DOMAIN,tracker.ololosh.space
   - DOMAIN,tracker.valete.tf
   - DOMAIN,tracker.23794.top
   - DOMAIN,tr.abiir.top
   - DOMAIN,tracker.gcrenwp.top
   - DOMAIN,sparkle.ghostchu-services.top
   - DOMAIN,tracker.ghostchu-services.top
+  - DOMAIN,utracker.ghostchu-services.top
   - DOMAIN,highteahop.top
   - DOMAIN,tracker.kmzs123.top
-  - DOMAIN,tracker.netmap.top
   - DOMAIN,tr3.ysagin.top
   - DOMAIN,tracker.zhuqiy.top
   - DOMAIN,buny.uk
   - DOMAIN,nyaa.tracker.wf
+  - DOMAIN,tracker.iperson.xyz
   - DOMAIN,tracker.privateseedbox.xyz
   - DOMAIN,p2p.publictracker.xyz
   - DOMAIN,tracker810.xyz

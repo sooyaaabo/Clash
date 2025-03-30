@@ -1,5 +1,5 @@
-# UpdateTime：2025-03-30 03:06:53
-# RuleCount：31977
+# UpdateTime：2025-03-31 03:07:00
+# RuleCount：31976
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -484,7 +484,6 @@ payload:
   - DOMAIN,spotify.com.edgesuite.net
   - DOMAIN,lastfm.freetls.fastly.net
   - DOMAIN,nytimes.map.fastly.net
-  - DOMAIN,reddit.map.fastly.net
   - DOMAIN,spotify.map.fastly.net
   - DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
   - DOMAIN,github.global.ssl.fastly.net
