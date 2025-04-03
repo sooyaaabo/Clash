@@ -1,5 +1,5 @@
-# UpdateTime：2025-04-03 03:07:06
-# RuleCount：31982
+# UpdateTime：2025-04-04 03:07:09
+# RuleCount：31983
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -19721,6 +19721,7 @@ payload:
   - DOMAIN-SUFFIX,brightcove.net
   - DOMAIN-SUFFIX,brucewang.net
   - DOMAIN-SUFFIX,btbit.net
+  - DOMAIN-SUFFIX,bttzyw.net
   - DOMAIN-SUFFIX,buhidoh.net
   - DOMAIN-SUFFIX,bumingbai.net
   - DOMAIN-SUFFIX,bumptop.net

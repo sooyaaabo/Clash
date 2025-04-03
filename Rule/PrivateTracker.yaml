@@ -1,4 +1,4 @@
-# UpdateTime：2025-04-03 03:07:12
+# UpdateTime：2025-04-04 03:07:13
 # RuleCount：277
 payload:
   - DOMAIN,tracker.qu.ax
@@ -6,9 +6,10 @@ payload:
   - DOMAIN,t.overflow.biz
   - DOMAIN,tracker.bz
   - DOMAIN,bt1.xxxxbt.cc
-  - DOMAIN,tracker.dump.cl
   - DOMAIN,thouvenin.cloud
+  - DOMAIN,tracker.edkj.club
   - DOMAIN,tracker1.myporn.club
+  - DOMAIN,isk.richardsw.club
   - DOMAIN,home.yxgz.club
   - DOMAIN,tracker.home.kmzs123.cn
   - DOMAIN,tracker.kmzs123.cn
@@ -42,13 +43,13 @@ payload:
   - DOMAIN,tracker.srv00.com
   - DOMAIN,tracker.tiny-vps.com
   - DOMAIN,torrentsmd.com
-  - DOMAIN,tracker.torrust-demo.com
   - DOMAIN,public.tracker.vraphim.com
   - DOMAIN,www.wareztorrent.com
   - DOMAIN,ns-1.x-fins.com
   - DOMAIN,tracker.yemekyedim.com
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,ipv4announce.sktorrent.eu
+  - DOMAIN,tr.abir.ga
   - DOMAIN,open.free-tracker.ga
   - DOMAIN,tracker.gmi.gd
   - DOMAIN,evan.im
@@ -65,12 +66,12 @@ payload:
   - DOMAIN,tracker1.520.jp
   - DOMAIN,tracker.bjut.jp
   - DOMAIN,tracker.leechshield.link
+  - DOMAIN,tracker.aburaya.live
   - DOMAIN,ipv6.rer.lol
   - DOMAIN,tracker.kuroy.me
   - DOMAIN,retracker.lanta.me
   - DOMAIN,tracker.lintk.me
   - DOMAIN,lucke.fenesisu.moe
-  - DOMAIN,leet-tracker.moe
   - DOMAIN,tracker.waaa.moe
   - DOMAIN,tracker.yume-hatsuyuki.moe
   - DOMAIN,0d.kebhana.mx
@@ -83,6 +84,7 @@ payload:
   - DOMAIN,tk.greedland.net
   - DOMAIN,tracker.renfei.net
   - DOMAIN,shubt.net
+  - DOMAIN,tracker.theoks.net
   - DOMAIN,wepzone.net
   - DOMAIN,torrent.i.ng
   - DOMAIN,tracker.corpscorp.online
@@ -108,9 +110,7 @@ payload:
   - DOMAIN,tr.zukizuki.org
   - DOMAIN,tracker.moxing.party
   - DOMAIN,ftp.pet
-  - DOMAIN,tracker.breizh.pm
   - DOMAIN,tracker.bittor.pw
-  - DOMAIN,discord.heihachi.pw
   - DOMAIN,tr.nyacat.pw
   - DOMAIN,ch3oh.ru
   - DOMAIN,retracker.hotplug.ru
