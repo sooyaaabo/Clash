@@ -1,5 +1,5 @@
-# UpdateTime：2025-04-04 03:07:09
-# RuleCount：31983
+# UpdateTime：2025-04-05 03:07:25
+# RuleCount：31982
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -31723,7 +31723,6 @@ payload:
   - DOMAIN-SUFFIX,xsava.xyz
   - DOMAIN-SUFFIX,xsvod.xyz
   - DOMAIN-SUFFIX,xtegvk.xyz
-  - DOMAIN-SUFFIX,xxfbiaa.xyz
   - DOMAIN-SUFFIX,xxxyaom.xyz
   - DOMAIN-SUFFIX,yaole91.xyz
   - DOMAIN-SUFFIX,yayadizhi.xyz
