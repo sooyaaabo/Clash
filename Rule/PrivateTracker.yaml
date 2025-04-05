@@ -1,14 +1,15 @@
-# UpdateTime：2025-04-05 03:07:32
-# RuleCount：278
+# UpdateTime：2025-04-06 03:07:09
+# RuleCount：276
 payload:
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.mywaifu.best
   - DOMAIN,t.overflow.biz
   - DOMAIN,tracker.bz
   - DOMAIN,bt1.xxxxbt.cc
-  - DOMAIN,tracker.dump.cl
+  - DOMAIN,tracker-v6.opendev.cloud
   - DOMAIN,thouvenin.cloud
-  - DOMAIN,tracker.edkj.club
+  - DOMAIN,tracker1.myporn.club
+  - DOMAIN,isk.richardsw.club
   - DOMAIN,home.yxgz.club
   - DOMAIN,tracker.home.kmzs123.cn
   - DOMAIN,tracker.kmzs123.cn
@@ -42,17 +43,13 @@ payload:
   - DOMAIN,tracker.srv00.com
   - DOMAIN,tracker.tiny-vps.com
   - DOMAIN,torrentsmd.com
-  - DOMAIN,tracker.torrust-demo.com
   - DOMAIN,public.tracker.vraphim.com
   - DOMAIN,www.wareztorrent.com
   - DOMAIN,tracker.yemekyedim.com
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,ipv4announce.sktorrent.eu
-  - DOMAIN,tr.abir.ga
-  - DOMAIN,open.free-tracker.ga
   - DOMAIN,tracker.gmi.gd
   - DOMAIN,evan.im
-  - DOMAIN,torrent.hificode.in
   - DOMAIN,1337.abcvg.info
   - DOMAIN,tracker-udp.gbitt.info
   - DOMAIN,share.hkg-fansub.info
@@ -72,9 +69,7 @@ payload:
   - DOMAIN,tracker.kuroy.me
   - DOMAIN,retracker.lanta.me
   - DOMAIN,tracker.lintk.me
-  - DOMAIN,tracker.cangku.moe
   - DOMAIN,lucke.fenesisu.moe
-  - DOMAIN,leet-tracker.moe
   - DOMAIN,tracker.waaa.moe
   - DOMAIN,tracker.yume-hatsuyuki.moe
   - DOMAIN,0d.kebhana.mx
@@ -88,6 +83,8 @@ payload:
   - DOMAIN,new-line.net
   - DOMAIN,tracker.renfei.net
   - DOMAIN,shubt.net
+  - DOMAIN,tracker.skyts.net
+  - DOMAIN,tracker.theoks.net
   - DOMAIN,wepzone.net
   - DOMAIN,torrent.i.ng
   - DOMAIN,tracker.corpscorp.online
@@ -114,6 +111,7 @@ payload:
   - DOMAIN,tracker.moxing.party
   - DOMAIN,ftp.pet
   - DOMAIN,tracker.bittor.pw
+  - DOMAIN,discord.heihachi.pw
   - DOMAIN,tr.nyacat.pw
   - DOMAIN,ch3oh.ru
   - DOMAIN,retracker.hotplug.ru
@@ -134,6 +132,7 @@ payload:
   - DOMAIN,tracker.gcrenwp.top
   - DOMAIN,sparkle.ghostchu-services.top
   - DOMAIN,tracker.ghostchu-services.top
+  - DOMAIN,utracker.ghostchu-services.top
   - DOMAIN,highteahop.top
   - DOMAIN,tracker.kmzs123.top
   - DOMAIN,tracker.netmap.top
@@ -143,7 +142,6 @@ payload:
   - DOMAIN,nyaa.tracker.wf
   - DOMAIN,4.tracker.devnak.win
   - DOMAIN,6.tracker.devnak.win
-  - DOMAIN,tracker.iperson.xyz
   - DOMAIN,tracker.privateseedbox.xyz
   - DOMAIN,p2p.publictracker.xyz
   - DOMAIN,tracker810.xyz

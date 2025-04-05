@@ -1,5 +1,5 @@
-# UpdateTime：2025-04-05 03:07:26
-# RuleCount：4161
+# UpdateTime：2025-04-06 03:07:02
+# RuleCount：4162
 payload:
   - IP-CIDR,223.252.222.0/24
   - IP-CIDR,223.252.221.0/24
@@ -2044,6 +2044,7 @@ payload:
   - IP-CIDR,101.50.56.0/22
   - IP-CIDR,101.2.172.0/22
   - IP-CIDR,101.1.0.0/22
+  - IP-CIDR,98.158.28.0/22
   - IP-CIDR,93.187.128.0/22
   - IP-CIDR,81.173.20.0/22
   - IP-CIDR,72.163.248.0/22

@@ -1,5 +1,5 @@
-# UpdateTime：2025-04-05 03:07:25
-# RuleCount：6801
+# UpdateTime：2025-04-06 03:07:02
+# RuleCount：6803
 payload:
   - DOMAIN,developer.apple.com
   - DOMAIN,testflight.apple.com
@@ -2309,6 +2309,7 @@ payload:
   - DOMAIN-SUFFIX,ontrac.com
   - DOMAIN-SUFFIX,oopsforum.com
   - DOMAIN-SUFFIX,ooyala.com
+  - DOMAIN-SUFFIX,auth.openai.com
   - DOMAIN-SUFFIX,chat.openai.com
   - DOMAIN-SUFFIX,openallweb.com
   - DOMAIN-SUFFIX,openwebster.com
@@ -5626,6 +5627,7 @@ payload:
   - DOMAIN-SUFFIX,omct.org
   - DOMAIN-SUFFIX,omnitalk.org
   - DOMAIN-SUFFIX,onmypc.org
+  - DOMAIN-SUFFIX,opendesktop.org
   - DOMAIN-SUFFIX,openleaks.org
   - DOMAIN-SUFFIX,openstreetmap.org
   - DOMAIN-SUFFIX,openvpn.org

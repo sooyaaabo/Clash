@@ -1,5 +1,5 @@
-# UpdateTime：2025-04-05 03:07:25
-# RuleCount：31982
+# UpdateTime：2025-04-06 03:07:05
+# RuleCount：31983
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -22653,6 +22653,7 @@ payload:
   - DOMAIN-SUFFIX,onmypc.org
   - DOMAIN-SUFFIX,ooni.org
   - DOMAIN-SUFFIX,opencreate.org
+  - DOMAIN-SUFFIX,opendesktop.org
   - DOMAIN-SUFFIX,opendroneid.org
   - DOMAIN-SUFFIX,opengraphprotocol.org
   - DOMAIN-SUFFIX,openjsf.org
