@@ -1,5 +1,5 @@
-# UpdateTime：2025-04-06 03:07:17
-# RuleCount：106338
+# UpdateTime：2025-04-07 03:07:15
+# RuleCount：106345
 payload:
   - DOMAIN,livecdnh2.tvanywhere.ae
   - DOMAIN,ip.istatmenus.app
@@ -89,6 +89,7 @@ payload:
   - DOMAIN,www.soundvideostar.com
   - DOMAIN,images-cn.ssl-images-amazon.com
   - DOMAIN,images-cn-8.ssl-images-amazon.com
+  - DOMAIN,alibaba.cdn.steampipe.steamcontent.com
   - DOMAIN,analytics.strava.com
   - DOMAIN,gpb-hls.streamguys1.com
   - DOMAIN,kcrw.streamguys1.com
@@ -29403,6 +29404,7 @@ payload:
   - DOMAIN-SUFFIX,foresl.com
   - DOMAIN-SUFFIX,forestfood.com
   - DOMAIN-SUFFIX,forestmusicnanjing.com
+  - DOMAIN-SUFFIX,forevernine.com
   - DOMAIN-SUFFIX,foreveross.com
   - DOMAIN-SUFFIX,foreweld.com
   - DOMAIN-SUFFIX,forface3d.com
@@ -32416,6 +32418,8 @@ payload:
   - DOMAIN-SUFFIX,golenpower.com
   - DOMAIN-SUFFIX,golfvv.com
   - DOMAIN-SUFFIX,golink.com
+  - DOMAIN-SUFFIX,golinkapi.com
+  - DOMAIN-SUFFIX,golinkcn.com
   - DOMAIN-SUFFIX,golinksworld.com
   - DOMAIN-SUFFIX,golive-tv.com
   - DOMAIN-SUFFIX,goluckcity.com
@@ -42924,6 +42928,7 @@ payload:
   - DOMAIN-SUFFIX,imlianai.com
   - DOMAIN-SUFFIX,imliuyi.com
   - DOMAIN-SUFFIX,immeee.com
+  - DOMAIN-SUFFIX,immersivetranslate.com
   - DOMAIN-SUFFIX,immfast.com
   - DOMAIN-SUFFIX,immi520.com
   - DOMAIN-SUFFIX,immiexpo.com
@@ -99418,6 +99423,7 @@ payload:
   - DOMAIN-SUFFIX,rlnk.net
   - DOMAIN-SUFFIX,rlsofa.net
   - DOMAIN-SUFFIX,rlyl.net
+  - DOMAIN-SUFFIX,rmbgame.net
   - DOMAIN-SUFFIX,rmbrate.net
   - DOMAIN-SUFFIX,rmzs.net
   - DOMAIN-SUFFIX,rnhy.net
@@ -106120,6 +106126,7 @@ payload:
   - DOMAIN-SUFFIX,soloknight.xyz
   - DOMAIN-SUFFIX,ssnm.xyz
   - DOMAIN-SUFFIX,statsinstall.xyz
+  - DOMAIN-SUFFIX,steam302.xyz
   - DOMAIN-SUFFIX,stymqd.xyz
   - DOMAIN-SUFFIX,sukoshi.xyz
   - DOMAIN-SUFFIX,sunjiadai.xyz

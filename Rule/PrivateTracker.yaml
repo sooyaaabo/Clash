@@ -1,4 +1,4 @@
-# UpdateTime：2025-04-06 03:07:09
+# UpdateTime：2025-04-07 03:07:06
 # RuleCount：276
 payload:
   - DOMAIN,tracker.qu.ax
@@ -6,9 +6,8 @@ payload:
   - DOMAIN,t.overflow.biz
   - DOMAIN,tracker.bz
   - DOMAIN,bt1.xxxxbt.cc
-  - DOMAIN,tracker-v6.opendev.cloud
   - DOMAIN,thouvenin.cloud
-  - DOMAIN,tracker1.myporn.club
+  - DOMAIN,tracker.edkj.club
   - DOMAIN,isk.richardsw.club
   - DOMAIN,home.yxgz.club
   - DOMAIN,tracker.home.kmzs123.cn
@@ -17,7 +16,6 @@ payload:
   - DOMAIN,tracker.vanitycore.co
   - DOMAIN,0123456789nonexistent.com
   - DOMAIN,tracker.0x7c0.com
-  - DOMAIN,admin.52ywp.com
   - DOMAIN,open.acgtracker.com
   - DOMAIN,ec2-18-191-163-220.us-east-2.compute.amazonaws.com
   - DOMAIN,p4p.arenabg.com
@@ -43,11 +41,12 @@ payload:
   - DOMAIN,tracker.srv00.com
   - DOMAIN,tracker.tiny-vps.com
   - DOMAIN,torrentsmd.com
-  - DOMAIN,public.tracker.vraphim.com
   - DOMAIN,www.wareztorrent.com
+  - DOMAIN,ns-1.x-fins.com
   - DOMAIN,tracker.yemekyedim.com
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,ipv4announce.sktorrent.eu
+  - DOMAIN,tr.abir.ga
   - DOMAIN,tracker.gmi.gd
   - DOMAIN,evan.im
   - DOMAIN,1337.abcvg.info
@@ -69,7 +68,9 @@ payload:
   - DOMAIN,tracker.kuroy.me
   - DOMAIN,retracker.lanta.me
   - DOMAIN,tracker.lintk.me
+  - DOMAIN,tracker.nitrix.me
   - DOMAIN,lucke.fenesisu.moe
+  - DOMAIN,leet-tracker.moe
   - DOMAIN,tracker.waaa.moe
   - DOMAIN,tracker.yume-hatsuyuki.moe
   - DOMAIN,0d.kebhana.mx
@@ -109,14 +110,11 @@ payload:
   - DOMAIN,tracker.tryhackx.org
   - DOMAIN,tr.zukizuki.org
   - DOMAIN,tracker.moxing.party
-  - DOMAIN,ftp.pet
   - DOMAIN,tracker.bittor.pw
-  - DOMAIN,discord.heihachi.pw
   - DOMAIN,tr.nyacat.pw
   - DOMAIN,ch3oh.ru
   - DOMAIN,retracker.hotplug.ru
   - DOMAIN,tracker.ipv6tracker.ru
-  - DOMAIN,bt.okmp3.ru
   - DOMAIN,d40969.acod.regrucolo.ru
   - DOMAIN,servandroidkino.ru
   - DOMAIN,retracker.spark-rostov.ru
@@ -125,6 +123,7 @@ payload:
   - DOMAIN,t.jaekr.sh
   - DOMAIN,open.stealth.si
   - DOMAIN,tracker.lyretain.site
+  - DOMAIN,tracker.ololosh.space
   - DOMAIN,tracker.pmman.tech
   - DOMAIN,tracker.valete.tf
   - DOMAIN,tracker.23794.top
@@ -142,6 +141,7 @@ payload:
   - DOMAIN,nyaa.tracker.wf
   - DOMAIN,4.tracker.devnak.win
   - DOMAIN,6.tracker.devnak.win
+  - DOMAIN,tracker.iperson.xyz
   - DOMAIN,tracker.privateseedbox.xyz
   - DOMAIN,p2p.publictracker.xyz
   - DOMAIN,tracker810.xyz

@@ -1,5 +1,5 @@
-# UpdateTime：2025-04-06 03:07:05
-# RuleCount：31983
+# UpdateTime：2025-04-07 03:07:02
+# RuleCount：31984
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -501,6 +501,7 @@ payload:
   - DOMAIN,scc.ott.hinet.net
   - DOMAIN,rink.hockeyapp.net
   - DOMAIN,f3b7q2p3.ssl.hwcdn.net
+  - DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
   - DOMAIN,brightcove.imgix.net
   - DOMAIN,cdn.jsdelivr.net
   - DOMAIN,az416426.vo.msecnd.net
