@@ -1,5 +1,5 @@
-# UpdateTime：2025-04-12 03:07:05
-# RuleCount：3756
+# UpdateTime：2025-04-13 03:07:12
+# RuleCount：3754
 payload:
   - DOMAIN,ip.istatmenus.app
   - DOMAIN,client.amplifi.com
@@ -3158,7 +3158,6 @@ payload:
   - DOMAIN-SUFFIX,cmf.ltd
   - DOMAIN-SUFFIX,me1.ltd
   - DOMAIN-SUFFIX,icbc.lu
-  - DOMAIN-SUFFIX,musical.ly
   - DOMAIN-SUFFIX,500d.me
   - DOMAIN-SUFFIX,51ym.me
   - DOMAIN-SUFFIX,animetorrents.me
@@ -3168,7 +3167,6 @@ payload:
   - DOMAIN-SUFFIX,coding.me
   - DOMAIN-SUFFIX,ele.me
   - DOMAIN-SUFFIX,empornium.me
-  - DOMAIN-SUFFIX,hdsky.me
   - DOMAIN-SUFFIX,lrts.me
   - DOMAIN-SUFFIX,oppoer.me
   - DOMAIN-SUFFIX,passthepopcorn.me

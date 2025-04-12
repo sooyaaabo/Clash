@@ -1,9 +1,8 @@
-# UpdateTime：2025-04-12 03:07:17
-# RuleCount：423
+# UpdateTime：2025-04-13 03:07:23
+# RuleCount：440
 payload:
   - DOMAIN,112-81-125-43.dhost.00cdn.com
   - DOMAIN,api.iplay.163.com
-  - DOMAIN,p.bstarstatic.com
   - DOMAIN,yoo.gtimg.com
   - DOMAIN,113-219-145-1.ksyungslb.com
   - DOMAIN,114-236-92-129.ksyungslb.com
@@ -65,15 +64,13 @@ payload:
   - DOMAIN,v.streaming.qq.com
   - DOMAIN,aqqmusic.tc.qq.com
   - DOMAIN,ts.qq.com
-  - DOMAIN,p-bstarstatic.akamaized.net
-  - DOMAIN,upos-bstar-mirrorakam.akamaized.net
-  - DOMAIN,upos-bstar1-mirrorakam.akamaized.net
   - DOMAIN,00713915daab0be43def5c338c02c80b.dlied1.cdntips.net
   - DOMAIN,17caa75e77d31e1f5a7841e0b3374569.dlied1.cdntips.net
   - DOMAIN,ins-eeww7kom.ias.tencent-cloud.net
   - DOMAIN,apd-pcdnvodstat.teg.tencent-cloud.net
   - DOMAIN-SUFFIX,71.am
   - DOMAIN-SUFFIX,bilibili.cc
+  - DOMAIN-SUFFIX,domesticmedia.cc
   - DOMAIN-SUFFIX,gamenow.club
   - DOMAIN-SUFFIX,0co3geye.cn
   - DOMAIN-SUFFIX,2isbbess.cn
@@ -117,6 +114,9 @@ payload:
   - DOMAIN-SUFFIX,ukoo.com.cn
   - DOMAIN-SUFFIX,youku.com.cn
   - DOMAIN-SUFFIX,zggbdszt.com.cn
+  - DOMAIN-SUFFIX,domesticmedia.cn
+  - DOMAIN-SUFFIX,domesticmediagame.cn
+  - DOMAIN-SUFFIX,domesticmediapay.cn
   - DOMAIN-SUFFIX,gitv.cn
   - DOMAIN-SUFFIX,gjgbdszt.cn
   - DOMAIN-SUFFIX,pgdt.gtimg.cn
@@ -153,6 +153,8 @@ payload:
   - DOMAIN-SUFFIX,bilibiligame.co
   - DOMAIN-SUFFIX,biligame.co
   - DOMAIN-SUFFIX,biliintl.co
+  - DOMAIN-SUFFIX,domesticmedia.co
+  - DOMAIN-SUFFIX,domesticmediagame.co
   - DOMAIN-SUFFIX,music.163.com
   - DOMAIN-SUFFIX,56.com
   - DOMAIN-SUFFIX,71edge.com
@@ -182,11 +184,14 @@ payload:
   - DOMAIN-SUFFIX,biliintl.com
   - DOMAIN-SUFFIX,biliplus.com
   - DOMAIN-SUFFIX,bilivideo.com
+  - DOMAIN-SUFFIX,p.bstarstatic.com
   - DOMAIN-SUFFIX,cctv.com
   - DOMAIN-SUFFIX,cctvpic.com
   - DOMAIN-SUFFIX,chinalive.com
   - DOMAIN-SUFFIX,corari.com
   - DOMAIN-SUFFIX,dmhmusic.com
+  - DOMAIN-SUFFIX,domesticmedia.com
+  - DOMAIN-SUFFIX,domesticmediapay.com
   - DOMAIN-SUFFIX,androidgo.duapp.com
   - DOMAIN-SUFFIX,noxagile.duapp.com
   - DOMAIN-SUFFIX,dyhgames.com
@@ -245,6 +250,7 @@ payload:
   - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,sohu.com
   - DOMAIN-SUFFIX,soku.com
+  - DOMAIN-SUFFIX,v1d.szbdyd.com
   - DOMAIN-SUFFIX,taihe.com
   - DOMAIN-SUFFIX,tazai.com
   - DOMAIN-SUFFIX,tencentmusic.com
@@ -272,6 +278,9 @@ payload:
   - DOMAIN-SUFFIX,music.126.net
   - DOMAIN-SUFFIX,71edge.net
   - DOMAIN-SUFFIX,aiqiyicloud.net
+  - DOMAIN-SUFFIX,p-bstarstatic.akamaized.net
+  - DOMAIN-SUFFIX,upos-bstar-mirrorakam.akamaized.net
+  - DOMAIN-SUFFIX,upos-bstar1-mirrorakam.akamaized.net
   - DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
   - DOMAIN-SUFFIX,anitama.net
   - DOMAIN-SUFFIX,biliapi.net
@@ -280,6 +289,8 @@ payload:
   - DOMAIN-SUFFIX,biligame.net
   - DOMAIN-SUFFIX,bilivideo.net
   - DOMAIN-SUFFIX,cibntv.net
+  - DOMAIN-SUFFIX,domesticmedia.net
+  - DOMAIN-SUFFIX,domesticmediagame.net
   - DOMAIN-SUFFIX,hdslb.net
   - DOMAIN-SUFFIX,ipanda.net
   - DOMAIN-SUFFIX,iqiyiedge.net
@@ -299,6 +310,7 @@ payload:
   - DOMAIN-SUFFIX,acg.tv
   - DOMAIN-SUFFIX,b23.tv
   - DOMAIN-SUFFIX,bilibili.tv
+  - DOMAIN-SUFFIX,domesticmedia.tv
   - DOMAIN-SUFFIX,gitv.tv
   - DOMAIN-SUFFIX,imgo.tv
   - DOMAIN-SUFFIX,kumiao.tv
@@ -355,10 +367,13 @@ payload:
   - IP-CIDR,203.74.95.139/32
   - IP-CIDR,203.74.95.131/32
   - IP-CIDR,193.112.159.225/32
+  - IP-CIDR,164.52.76.18/32
+  - IP-CIDR,150.116.92.250/32
   - IP-CIDR,134.175.207.130/32
   - IP-CIDR,120.92.153.217/32
   - IP-CIDR,120.92.113.99/32
   - IP-CIDR,120.92.108.182/32
+  - IP-CIDR,119.29.29.29/32
   - IP-CIDR,119.3.238.64/32
   - IP-CIDR,118.24.63.156/32
   - IP-CIDR,115.236.121.1/32
@@ -381,12 +396,14 @@ payload:
   - IP-CIDR,58.49.111.79/32
   - IP-CIDR,47.100.127.239/32
   - IP-CIDR,45.254.48.1/32
+  - IP-CIDR,45.43.32.234/32
   - IP-CIDR,39.105.63.80/32
   - IP-CIDR,23.211.15.99/32
   - IP-CIDR,23.53.32.88/32
   - IP-CIDR,23.40.242.10/32
   - IP-CIDR,23.40.241.251/32
   - IP-CIDR,223.252.199.66/31
+  - IP-CIDR,128.1.62.200/31
   - IP-CIDR,103.126.92.132/31
   - IP-CIDR,203.107.1.0/24
   - IP-CIDR,118.26.120.0/24
