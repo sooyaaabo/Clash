@@ -1,5 +1,5 @@
-# UpdateTime：2025-04-13 03:07:17
-# RuleCount：39463
+# UpdateTime：2025-04-14 03:07:21
+# RuleCount：39465
 payload:
   - DOMAIN,ios-pclog.i4.cn
   - DOMAIN,opencloud.wostore.cn
@@ -21181,6 +21181,7 @@ payload:
   - DOMAIN-SUFFIX,trck.repesta.com
   - DOMAIN-SUFFIX,e.replacementdevicelawsuit.com
   - DOMAIN-SUFFIX,a.replaytheseries.com
+  - DOMAIN-SUFFIX,tw.reppublika.com
   - DOMAIN-SUFFIX,stats.reprage.com
   - DOMAIN-SUFFIX,dc.repsol.com
   - DOMAIN-SUFFIX,data.mailing.repsol.com
@@ -34228,6 +34229,7 @@ payload:
   - DOMAIN-SUFFIX,response.approva.net
   - DOMAIN-SUFFIX,share.appsaround.net
   - DOMAIN-SUFFIX,a8cv.araiba.net
+  - DOMAIN-SUFFIX,bi-metrics.aramuz.net
   - DOMAIN-SUFFIX,marketing.arenasports.net
   - DOMAIN-SUFFIX,analytics.arunraghavan.net
   - DOMAIN-SUFFIX,stats.asmodee.net

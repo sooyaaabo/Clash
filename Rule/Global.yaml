@@ -1,5 +1,5 @@
-# UpdateTime：2025-04-13 03:07:15
-# RuleCount：32134
+# UpdateTime：2025-04-14 03:07:19
+# RuleCount：32135
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -3500,6 +3500,7 @@ payload:
   - DOMAIN-SUFFIX,audiencenetwork.com
   - DOMAIN-SUFFIX,audiobeatsau.com
   - DOMAIN-SUFFIX,audiobeatsbydre.com
+  - DOMAIN-SUFFIX,audiomack.com
   - DOMAIN-SUFFIX,audiomonsterbeatsonline.com
   - DOMAIN-SUFFIX,audionow.com
   - DOMAIN-SUFFIX,auntymaza.com
