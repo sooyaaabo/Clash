@@ -1,5 +1,5 @@
-# UpdateTime：2025-04-14 03:07:19
-# RuleCount：7077
+# UpdateTime：2025-04-15 03:07:21
+# RuleCount：7088
 payload:
   - DOMAIN,developer.apple.com
   - DOMAIN,testflight.apple.com
@@ -927,6 +927,7 @@ payload:
   - DOMAIN-SUFFIX,cloakpoint.com
   - DOMAIN-SUFFIX,cloudcone.com
   - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,cloudflare-dns.com
   - DOMAIN-SUFFIX,cloudflare-ipfs.com
   - DOMAIN-SUFFIX,cloudmagic.com
   - DOMAIN-SUFFIX,club1069.com
@@ -1237,6 +1238,7 @@ payload:
   - DOMAIN-SUFFIX,fangongheike.com
   - DOMAIN-SUFFIX,fanhaodang.com
   - DOMAIN-SUFFIX,fanhaolou.com
+  - DOMAIN-SUFFIX,fani.com
   - DOMAIN-SUFFIX,fanqiangdang.com
   - DOMAIN-SUFFIX,fanqianghou.com
   - DOMAIN-SUFFIX,fanqiangzhe.com
@@ -1251,6 +1253,7 @@ payload:
   - DOMAIN-SUFFIX,fastmail.com
   - DOMAIN-SUFFIX,fastssh.com
   - DOMAIN-SUFFIX,fatbtc.com
+  - DOMAIN-SUFFIX,favcomic.com
   - DOMAIN-SUFFIX,faydao.com
   - DOMAIN-SUFFIX,fb.com
   - DOMAIN-SUFFIX,fbaddins.com
@@ -1542,6 +1545,7 @@ payload:
   - DOMAIN-SUFFIX,gvt3.com
   - DOMAIN-SUFFIX,gyalwarinpoche.com
   - DOMAIN-SUFFIX,gyatsostudio.com
+  - DOMAIN-SUFFIX,h-ciyuan.com
   - DOMAIN-SUFFIX,h-moe.com
   - DOMAIN-SUFFIX,h528.com
   - DOMAIN-SUFFIX,h5dm.com
@@ -2865,6 +2869,7 @@ payload:
   - DOMAIN-SUFFIX,sophos.com
   - DOMAIN-SUFFIX,sorting-algorithms.com
   - DOMAIN-SUFFIX,sosreader.com
+  - DOMAIN-SUFFIX,sotwe.com
   - DOMAIN-SUFFIX,soubory.com
   - DOMAIN-SUFFIX,soundcloud.com
   - DOMAIN-SUFFIX,soupofmedia.com
@@ -3869,6 +3874,7 @@ payload:
   - DOMAIN-SUFFIX,tibetan.fr
   - DOMAIN-SUFFIX,ultravpn.fr
   - DOMAIN-SUFFIX,sosad.fun
+  - DOMAIN-SUFFIX,ssm.fun
   - DOMAIN-SUFFIX,opentech.fund
   - DOMAIN-SUFFIX,google.ga
   - DOMAIN-SUFFIX,radio.garden
@@ -3889,6 +3895,7 @@ payload:
   - DOMAIN-SUFFIX,pki.goog
   - DOMAIN-SUFFIX,translate.goog
   - DOMAIN-SUFFIX,usercontent.goog
+  - DOMAIN-SUFFIX,8888.google
   - DOMAIN-SUFFIX,about.google
   - DOMAIN-SUFFIX,ai.google
   - DOMAIN-SUFFIX,blog.google
@@ -4494,6 +4501,7 @@ payload:
   - DOMAIN-SUFFIX,llss.me
   - DOMAIN-SUFFIX,m.me
   - DOMAIN-SUFFIX,mangafox.me
+  - DOMAIN-SUFFIX,manwa.me
   - DOMAIN-SUFFIX,me.me
   - DOMAIN-SUFFIX,mikanani.me
   - DOMAIN-SUFFIX,monocloud.me
@@ -5195,6 +5203,7 @@ payload:
   - DOMAIN-SUFFIX,zophar.net
   - DOMAIN-SUFFIX,bsky.network
   - DOMAIN-SUFFIX,fanqiang.network
+  - DOMAIN-SUFFIX,v2.hysteria.network
   - DOMAIN-SUFFIX,deck.new
   - DOMAIN-SUFFIX,doc.new
   - DOMAIN-SUFFIX,docs.new
@@ -5930,6 +5939,7 @@ payload:
   - DOMAIN-SUFFIX,rtycminnesota.org
   - DOMAIN-SUFFIX,rukor.org
   - DOMAIN-SUFFIX,s-dragon.org
+  - DOMAIN-SUFFIX,sing-box.sagernet.org
   - DOMAIN-SUFFIX,sakya.org
   - DOMAIN-SUFFIX,sambhota.org
   - DOMAIN-SUFFIX,savetibet.org
@@ -6503,6 +6513,7 @@ payload:
   - DOMAIN-SUFFIX,periscope.tv
   - DOMAIN-SUFFIX,pipii.tv
   - DOMAIN-SUFFIX,pscp.tv
+  - DOMAIN-SUFFIX,thotsbay.tv
   - DOMAIN-SUFFIX,tibetonline.tv
   - DOMAIN-SUFFIX,top.tv
   - DOMAIN-SUFFIX,torrentkitty.tv

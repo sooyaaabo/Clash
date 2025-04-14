@@ -1,5 +1,5 @@
-# UpdateTime：2025-04-14 03:07:19
-# RuleCount：32135
+# UpdateTime：2025-04-15 03:07:22
+# RuleCount：32144
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -6817,6 +6817,7 @@ payload:
   - DOMAIN-SUFFIX,fanhaodang.com
   - DOMAIN-SUFFIX,fanhaodian.com
   - DOMAIN-SUFFIX,fanhaolou.com
+  - DOMAIN-SUFFIX,fani.com
   - DOMAIN-SUFFIX,fanleakstoday.com
   - DOMAIN-SUFFIX,fanqiangdang.com
   - DOMAIN-SUFFIX,fanqianghou.com
@@ -6881,6 +6882,7 @@ payload:
   - DOMAIN-SUFFIX,fatbtc.com
   - DOMAIN-SUFFIX,fatstube.com
   - DOMAIN-SUFFIX,fau11.com
+  - DOMAIN-SUFFIX,favcomic.com
   - DOMAIN-SUFFIX,favebook.com
   - DOMAIN-SUFFIX,favelaporno.com
   - DOMAIN-SUFFIX,favepornmovs.com
@@ -7917,6 +7919,7 @@ payload:
   - DOMAIN-SUFFIX,gyalwarinpoche.com
   - DOMAIN-SUFFIX,gyatsostudio.com
   - DOMAIN-SUFFIX,gyutto.com
+  - DOMAIN-SUFFIX,h-ciyuan.com
   - DOMAIN-SUFFIX,h-flash.com
   - DOMAIN-SUFFIX,h-moe.com
   - DOMAIN-SUFFIX,h-webtoon.com
@@ -13292,6 +13295,7 @@ payload:
   - DOMAIN-SUFFIX,sos44.com
   - DOMAIN-SUFFIX,soso7778.com
   - DOMAIN-SUFFIX,sosreader.com
+  - DOMAIN-SUFFIX,sotwe.com
   - DOMAIN-SUFFIX,soubory.com
   - DOMAIN-SUFFIX,soundcloud.com
   - DOMAIN-SUFFIX,soupofmedia.com
@@ -16745,6 +16749,7 @@ payload:
   - DOMAIN-SUFFIX,similar-porn.fun
   - DOMAIN-SUFFIX,soirt4.fun
   - DOMAIN-SUFFIX,sosad.fun
+  - DOMAIN-SUFFIX,ssm.fun
   - DOMAIN-SUFFIX,static.fun
   - DOMAIN-SUFFIX,erodou.tousatu.fun
   - DOMAIN-SUFFIX,toutoupa1024.fun
@@ -16831,6 +16836,7 @@ payload:
   - DOMAIN-SUFFIX,telephony.goog
   - DOMAIN-SUFFIX,translate.goog
   - DOMAIN-SUFFIX,usercontent.goog
+  - DOMAIN-SUFFIX,8888.google
   - DOMAIN-SUFFIX,about.google
   - DOMAIN-SUFFIX,ai.google
   - DOMAIN-SUFFIX,blog.google
@@ -19046,6 +19052,7 @@ payload:
   - DOMAIN-SUFFIX,mangafox.me
   - DOMAIN-SUFFIX,mangahentai.me
   - DOMAIN-SUFFIX,manhwahentai.me
+  - DOMAIN-SUFFIX,manwa.me
   - DOMAIN-SUFFIX,mask.me
   - DOMAIN-SUFFIX,me.me
   - DOMAIN-SUFFIX,mikanani.me
@@ -21376,6 +21383,7 @@ payload:
   - DOMAIN-SUFFIX,test-ipv6.epic.network
   - DOMAIN-SUFFIX,fanqiang.network
   - DOMAIN-SUFFIX,hath.network
+  - DOMAIN-SUFFIX,v2.hysteria.network
   - DOMAIN-SUFFIX,mk.shrimpia.network
   - DOMAIN-SUFFIX,stripe.network
   - DOMAIN-SUFFIX,tracker.network
@@ -24979,6 +24987,7 @@ payload:
   - DOMAIN-SUFFIX,swoosh.tv
   - DOMAIN-SUFFIX,tabooporn.tv
   - DOMAIN-SUFFIX,thotbook.tv
+  - DOMAIN-SUFFIX,thotsbay.tv
   - DOMAIN-SUFFIX,tibetonline.tv
   - DOMAIN-SUFFIX,top.tv
   - DOMAIN-SUFFIX,torrentkitty.tv
