@@ -1,5 +1,5 @@
-# UpdateTime：2025-04-15 03:07:38
-# RuleCount：118272
+# UpdateTime：2025-04-16 03:07:39
+# RuleCount：118275
 payload:
   - DOMAIN,livecdnh2.tvanywhere.ae
   - DOMAIN,ip.istatmenus.app
@@ -30892,6 +30892,7 @@ payload:
   - DOMAIN-SUFFIX,eszzxxz.com
   - DOMAIN-SUFFIX,et-api.com
   - DOMAIN-SUFFIX,et-fine.com
+  - DOMAIN-SUFFIX,et001.com
   - DOMAIN-SUFFIX,et59.com
   - DOMAIN-SUFFIX,et998.com
   - DOMAIN-SUFFIX,etagrfid.com
@@ -36999,6 +37000,7 @@ payload:
   - DOMAIN-SUFFIX,guahaowang.com
   - DOMAIN-SUFFIX,guaiguai.com
   - DOMAIN-SUFFIX,guaihou.com
+  - DOMAIN-SUFFIX,guaiku.com
   - DOMAIN-SUFFIX,guaileicp.com
   - DOMAIN-SUFFIX,guailuo.com
   - DOMAIN-SUFFIX,guailuzi.com
@@ -116197,6 +116199,7 @@ payload:
   - DOMAIN-SUFFIX,iqunix.store
   - DOMAIN-SUFFIX,ktuner.store
   - DOMAIN-SUFFIX,linzhou.store
+  - DOMAIN-SUFFIX,mingxuan.store
   - DOMAIN-SUFFIX,mochai.store
   - DOMAIN-SUFFIX,mussgirl.store
   - DOMAIN-SUFFIX,ninomiya.store

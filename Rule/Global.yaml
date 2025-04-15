@@ -1,5 +1,5 @@
-# UpdateTime：2025-04-15 03:07:22
-# RuleCount：32144
+# UpdateTime：2025-04-16 03:07:22
+# RuleCount：32161
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -184,6 +184,7 @@ payload:
   - DOMAIN,tv.apple.com
   - DOMAIN,tv.applemusic.com
   - DOMAIN,database.asahi.com
+  - DOMAIN,time.aws.com
   - DOMAIN,espn.api.edge.bamgrid.com
   - DOMAIN,hulu.playback.edge.bamgrid.com
   - DOMAIN,dl.begellhouse.com
@@ -625,6 +626,7 @@ payload:
   - DOMAIN-SUFFIX,bitz.ai
   - DOMAIN-SUFFIX,censorship.ai
   - DOMAIN-SUFFIX,character.ai
+  - DOMAIN-SUFFIX,chutes.ai
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,clova.ai
   - DOMAIN-SUFFIX,google.com.ai
@@ -644,6 +646,7 @@ payload:
   - DOMAIN-SUFFIX,karechat.ai
   - DOMAIN-SUFFIX,meta.ai
   - DOMAIN-SUFFIX,missav.ai
+  - DOMAIN-SUFFIX,mistral.ai
   - DOMAIN-SUFFIX,mlc.ai
   - DOMAIN-SUFFIX,openart.ai
   - DOMAIN-SUFFIX,openrouter.ai
@@ -2117,6 +2120,7 @@ payload:
   - DOMAIN-SUFFIX,gateway.pinata.cloud
   - DOMAIN-SUFFIX,renzhe.cloud
   - DOMAIN-SUFFIX,unirule.cloud
+  - DOMAIN-SUFFIX,youtrack.cloud
   - DOMAIN-SUFFIX,zind.cloud
   - DOMAIN-SUFFIX,04647.club
   - DOMAIN-SUFFIX,17mimei.club
@@ -2515,6 +2519,7 @@ payload:
   - DOMAIN-SUFFIX,3dsexvilla.com
   - DOMAIN-SUFFIX,3dstudio.com
   - DOMAIN-SUFFIX,3dtin.com
+  - DOMAIN-SUFFIX,3lateral.com
   - DOMAIN-SUFFIX,3movs.com
   - DOMAIN-SUFFIX,3naked.com
   - DOMAIN-SUFFIX,3pornhere.com
@@ -2758,6 +2763,7 @@ payload:
   - DOMAIN-SUFFIX,adguard-dns.com
   - DOMAIN-SUFFIX,adguard-mail.com
   - DOMAIN-SUFFIX,adguard-vpn.com
+  - DOMAIN-SUFFIX,adguardaccount.com
   - DOMAIN-SUFFIX,adguardvpn.com
   - DOMAIN-SUFFIX,adhelpnews.com
   - DOMAIN-SUFFIX,adidas.com
@@ -3685,6 +3691,7 @@ payload:
   - DOMAIN-SUFFIX,awayoutgame.com
   - DOMAIN-SUFFIX,aweencore.com
   - DOMAIN-SUFFIX,awetv.com
+  - DOMAIN-SUFFIX,aws.com
   - DOMAIN-SUFFIX,aws-iot-hackathon.com
   - DOMAIN-SUFFIX,awsautopilot.com
   - DOMAIN-SUFFIX,awsautoscaling.com
@@ -4868,6 +4875,7 @@ payload:
   - DOMAIN-SUFFIX,capitalg.com
   - DOMAIN-SUFFIX,capitalgames.com
   - DOMAIN-SUFFIX,capitaliq.com
+  - DOMAIN-SUFFIX,capturingreality.com
   - DOMAIN-SUFFIX,carabinasypistolas.com
   - DOMAIN-SUFFIX,carbon.com
   - DOMAIN-SUFFIX,carebay.com
@@ -5468,6 +5476,7 @@ payload:
   - DOMAIN-SUFFIX,csnjcbnxdnb.com
   - DOMAIN-SUFFIX,ctotires.com
   - DOMAIN-SUFFIX,ctwant.com
+  - DOMAIN-SUFFIX,cubicmotion.com
   - DOMAIN-SUFFIX,cuckfilmswifefuck.com
   - DOMAIN-SUFFIX,cuckold69.com
   - DOMAIN-SUFFIX,cuckoldfuck.com
@@ -6598,6 +6607,7 @@ payload:
   - DOMAIN-SUFFIX,faacebook.com
   - DOMAIN-SUFFIX,faapy.com
   - DOMAIN-SUFFIX,faasbook.com
+  - DOMAIN-SUFFIX,fab.com
   - DOMAIN-SUFFIX,fabhairypussy.com
   - DOMAIN-SUFFIX,fabuyemian.com
   - DOMAIN-SUFFIX,facbebook.com
@@ -8569,6 +8579,7 @@ payload:
   - DOMAIN-SUFFIX,hypnotube.com
   - DOMAIN-SUFFIX,hypodermic-injection.com
   - DOMAIN-SUFFIX,hypodermicinjectiononline.com
+  - DOMAIN-SUFFIX,hyprsense.com
   - DOMAIN-SUFFIX,hyu2.com
   - DOMAIN-SUFFIX,i-123-hp.com
   - DOMAIN-SUFFIX,i-book.com
@@ -12367,6 +12378,7 @@ payload:
   - DOMAIN-SUFFIX,quip.com
   - DOMAIN-SUFFIX,quip-cdn.com
   - DOMAIN-SUFFIX,quipelements.com
+  - DOMAIN-SUFFIX,quixel.com
   - DOMAIN-SUFFIX,qumingwz.com
   - DOMAIN-SUFFIX,quora.com
   - DOMAIN-SUFFIX,quotable.com
@@ -12384,6 +12396,7 @@ payload:
   - DOMAIN-SUFFIX,rabbitsreviews.com
   - DOMAIN-SUFFIX,racked.com
   - DOMAIN-SUFFIX,radeon.com
+  - DOMAIN-SUFFIX,radgametools.com
   - DOMAIN-SUFFIX,radian6.com
   - DOMAIN-SUFFIX,radiofarda.com
   - DOMAIN-SUFFIX,radiomarsho.com
@@ -12476,6 +12489,7 @@ payload:
   - DOMAIN-SUFFIX,realgfporn.com
   - DOMAIN-SUFFIX,reality-computing.com
   - DOMAIN-SUFFIX,realitykings.com
+  - DOMAIN-SUFFIX,realityscan.com
   - DOMAIN-SUFFIX,reallesbianexposed.com
   - DOMAIN-SUFFIX,realmaturesfuck.com
   - DOMAIN-SUFFIX,realmilwaukeenow.com
@@ -13138,6 +13152,7 @@ payload:
   - DOMAIN-SUFFIX,sketchbookmobile.com
   - DOMAIN-SUFFIX,sketchbooknews.com
   - DOMAIN-SUFFIX,sketchbookpro.com
+  - DOMAIN-SUFFIX,sketchfab.com
   - DOMAIN-SUFFIX,skillshare.com
   - DOMAIN-SUFFIX,skimtube.com
   - DOMAIN-SUFFIX,skokka.com
@@ -14313,6 +14328,7 @@ payload:
   - DOMAIN-SUFFIX,twindexx.com
   - DOMAIN-SUFFIX,twinkspornos.com
   - DOMAIN-SUFFIX,twinkybf.com
+  - DOMAIN-SUFFIX,twinmotion.com
   - DOMAIN-SUFFIX,twinprime.com
   - DOMAIN-SUFFIX,twishort.com
   - DOMAIN-SUFFIX,twisterio.com
@@ -24073,6 +24089,7 @@ payload:
   - DOMAIN-SUFFIX,pearsonassessment.se
   - DOMAIN-SUFFIX,pearsonclinical.se
   - DOMAIN-SUFFIX,pinterest.se
+  - DOMAIN-SUFFIX,quixel.se
   - DOMAIN-SUFFIX,sci-hub.se
   - DOMAIN-SUFFIX,share-videos.se
   - DOMAIN-SUFFIX,singlelogin.se
