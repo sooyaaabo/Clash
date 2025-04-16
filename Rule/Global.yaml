@@ -1,5 +1,5 @@
-# UpdateTime：2025-04-16 03:07:22
-# RuleCount：32161
+# UpdateTime：2025-04-17 03:07:31
+# RuleCount：32162
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -24361,6 +24361,7 @@ payload:
   - DOMAIN-SUFFIX,chaos.social
   - DOMAIN-SUFFIX,counter.social
   - DOMAIN-SUFFIX,g0v.social
+  - DOMAIN-SUFFIX,hetzner.social
   - DOMAIN-SUFFIX,mastodon.social
   - DOMAIN-SUFFIX,mstdn.social
   - DOMAIN-SUFFIX,airhorn.solutions
