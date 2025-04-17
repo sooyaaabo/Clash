@@ -1,5 +1,5 @@
-# UpdateTime：2025-04-17 03:07:31
-# RuleCount：32162
+# UpdateTime：2025-04-18 03:07:17
+# RuleCount：32170
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -16800,6 +16800,7 @@ payload:
   - DOMAIN-SUFFIX,tl.gd
   - DOMAIN-SUFFIX,v.gd
   - DOMAIN-SUFFIX,visa.gd
+  - DOMAIN-SUFFIX,z-lib.gd
   - DOMAIN-SUFFIX,canon.ge
   - DOMAIN-SUFFIX,bmw.com.ge
   - DOMAIN-SUFFIX,mastercard.com.ge
@@ -16942,6 +16943,7 @@ payload:
   - DOMAIN-SUFFIX,signal.group
   - DOMAIN-SUFFIX,intel.gs
   - DOMAIN-SUFFIX,ip.gs
+  - DOMAIN-SUFFIX,z-lib.gs
   - DOMAIN-SUFFIX,12diasderegalosdeitunes.gt
   - DOMAIN-SUFFIX,bmw-motorrad.gt
   - DOMAIN-SUFFIX,bmw.com.gt
@@ -20657,6 +20659,7 @@ payload:
   - DOMAIN-SUFFIX,msedge.net
   - DOMAIN-SUFFIX,msft.net
   - DOMAIN-SUFFIX,msftauth.net
+  - DOMAIN-SUFFIX,mshome.net
   - DOMAIN-SUFFIX,msn.net
   - DOMAIN-SUFFIX,msnewskids.net
   - DOMAIN-SUFFIX,mucinex.net
@@ -23677,6 +23680,7 @@ payload:
   - DOMAIN-SUFFIX,google.ps
   - DOMAIN-SUFFIX,volvotrucks.ps
   - DOMAIN-SUFFIX,yahoo.ps
+  - DOMAIN-SUFFIX,z-lib.ps
   - DOMAIN-SUFFIX,airwick.pt
   - DOMAIN-SUFFIX,alphabet.pt
   - DOMAIN-SUFFIX,apple.pt
@@ -24310,6 +24314,7 @@ payload:
   - DOMAIN-SUFFIX,tiaz.site
   - DOMAIN-SUFFIX,wingy.site
   - DOMAIN-SUFFIX,zobry.site
+  - DOMAIN-SUFFIX,1lib.sk
   - DOMAIN-SUFFIX,airwick.sk
   - DOMAIN-SUFFIX,apple.sk
   - DOMAIN-SUFFIX,blogspot.sk
@@ -24318,10 +24323,12 @@ payload:
   - DOMAIN-SUFFIX,bmw-motorrad.sk
   - DOMAIN-SUFFIX,canon.sk
   - DOMAIN-SUFFIX,finish.sk
+  - DOMAIN-SUFFIX,go-to-library.sk
   - DOMAIN-SUFFIX,google.sk
   - DOMAIN-SUFFIX,icloud.sk
   - DOMAIN-SUFFIX,ikea.sk
   - DOMAIN-SUFFIX,intel.sk
+  - DOMAIN-SUFFIX,italian-books.sk
   - DOMAIN-SUFFIX,mastercard.sk
   - DOMAIN-SUFFIX,mini.sk
   - DOMAIN-SUFFIX,nurofen.sk
@@ -24336,6 +24343,7 @@ payload:
   - DOMAIN-SUFFIX,yadi.sk
   - DOMAIN-SUFFIX,yahoo.sk
   - DOMAIN-SUFFIX,youtube.sk
+  - DOMAIN-SUFFIX,z-library.sk
   - DOMAIN-SUFFIX,sushi.ski
   - DOMAIN-SUFFIX,pzforever.skin
   - DOMAIN-SUFFIX,google.com.sl

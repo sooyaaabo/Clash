@@ -1,5 +1,5 @@
-# UpdateTime：2025-04-17 03:07:36
-# RuleCount：275
+# UpdateTime：2025-04-18 03:07:22
+# RuleCount：269
 payload:
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.mywaifu.best
@@ -8,7 +8,6 @@ payload:
   - DOMAIN,bt1.xxxxbt.cc
   - DOMAIN,tracker.dump.cl
   - DOMAIN,thouvenin.cloud
-  - DOMAIN,tracker1.myporn.club
   - DOMAIN,isk.richardsw.club
   - DOMAIN,home.yxgz.club
   - DOMAIN,tracker.kmzs123.cn
@@ -41,18 +40,14 @@ payload:
   - DOMAIN,tracker.tiny-vps.com
   - DOMAIN,torrentsmd.com
   - DOMAIN,tracker.torrust-demo.com
-  - DOMAIN,public.tracker.vraphim.com
   - DOMAIN,www.wareztorrent.com
-  - DOMAIN,ns-1.x-fins.com
   - DOMAIN,tracker.yemekyedim.com
   - DOMAIN,chihaya.de
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,ipv4announce.sktorrent.eu
-  - DOMAIN,tr.abir.ga
   - DOMAIN,open.free-tracker.ga
   - DOMAIN,tracker.gmi.gd
   - DOMAIN,evan.im
-  - DOMAIN,torrent.hificode.in
   - DOMAIN,1337.abcvg.info
   - DOMAIN,tracker-udp.gbitt.info
   - DOMAIN,share.hkg-fansub.info
@@ -85,8 +80,8 @@ payload:
   - DOMAIN,tracker.renfei.net
   - DOMAIN,shubt.net
   - DOMAIN,tracker.skyts.net
-  - DOMAIN,tracker.theoks.net
   - DOMAIN,wepzone.net
+  - DOMAIN,torrent.i.ng
   - DOMAIN,tracker.corpscorp.online
   - DOMAIN,concen.org
   - DOMAIN,tracker.dler.org
@@ -110,7 +105,6 @@ payload:
   - DOMAIN,tracker.tryhackx.org
   - DOMAIN,tr.zukizuki.org
   - DOMAIN,tracker.moxing.party
-  - DOMAIN,tracker.breizh.pm
   - DOMAIN,tracker.bittor.pw
   - DOMAIN,tr.nyacat.pw
   - DOMAIN,ch3oh.ru
@@ -124,7 +118,7 @@ payload:
   - DOMAIN,tracker.darkness.services
   - DOMAIN,t.jaekr.sh
   - DOMAIN,open.stealth.si
-  - DOMAIN,tracker.ololosh.space
+  - DOMAIN,tracker.lyretain.site
   - DOMAIN,tracker.pmman.tech
   - DOMAIN,tracker.valete.tf
   - DOMAIN,tracker.23794.top
@@ -135,11 +129,11 @@ payload:
   - DOMAIN,tracker.ghostchu-services.top
   - DOMAIN,highteahop.top
   - DOMAIN,tracker.kmzs123.top
+  - DOMAIN,tracker.netmap.top
   - DOMAIN,tr3.ysagin.top
   - DOMAIN,tracker.zhuqiy.top
   - DOMAIN,buny.uk
   - DOMAIN,nyaa.tracker.wf
-  - DOMAIN,4.tracker.devnak.win
   - DOMAIN,tracker.iperson.xyz
   - DOMAIN,tracker.privateseedbox.xyz
   - DOMAIN,p2p.publictracker.xyz
