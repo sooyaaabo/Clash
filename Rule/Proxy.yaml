@@ -1,5 +1,5 @@
-# UpdateTime：2025-04-18 03:07:15
-# RuleCount：7137
+# UpdateTime：2025-04-19 03:07:17
+# RuleCount：7135
 payload:
   - DOMAIN,developer.apple.com
   - DOMAIN,testflight.apple.com
@@ -1560,7 +1560,6 @@ payload:
   - DOMAIN-SUFFIX,haiwaikan.com
   - DOMAIN-SUFFIX,hanunyi.com
   - DOMAIN-SUFFIX,ae.hao123.com
-  - DOMAIN-SUFFIX,ar.hao123.com
   - DOMAIN-SUFFIX,br.hao123.com
   - DOMAIN-SUFFIX,en.hao123.com
   - DOMAIN-SUFFIX,id.hao123.com
@@ -5004,7 +5003,6 @@ payload:
   - DOMAIN-SUFFIX,old-cat.net
   - DOMAIN-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net
   - DOMAIN-SUFFIX,onmoon.net
-  - DOMAIN-SUFFIX,onmypc.net
   - DOMAIN-SUFFIX,opendemocracy.net
   - DOMAIN-SUFFIX,openid.net
   - DOMAIN-SUFFIX,openvpn.net
@@ -5231,7 +5229,7 @@ payload:
   - DOMAIN-SUFFIX,zophar.net
   - DOMAIN-SUFFIX,bsky.network
   - DOMAIN-SUFFIX,fanqiang.network
-  - DOMAIN-SUFFIX,v2.hysteria.network
+  - DOMAIN-SUFFIX,hysteria.network
   - DOMAIN-SUFFIX,deck.new
   - DOMAIN-SUFFIX,doc.new
   - DOMAIN-SUFFIX,docs.new
@@ -5974,7 +5972,7 @@ payload:
   - DOMAIN-SUFFIX,rtycminnesota.org
   - DOMAIN-SUFFIX,rukor.org
   - DOMAIN-SUFFIX,s-dragon.org
-  - DOMAIN-SUFFIX,sing-box.sagernet.org
+  - DOMAIN-SUFFIX,sagernet.org
   - DOMAIN-SUFFIX,sakya.org
   - DOMAIN-SUFFIX,sambhota.org
   - DOMAIN-SUFFIX,savetibet.org

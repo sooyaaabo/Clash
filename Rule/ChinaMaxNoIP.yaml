@@ -1,5 +1,5 @@
-# UpdateTime：2025-04-18 03:07:33
-# RuleCount：118145
+# UpdateTime：2025-04-19 03:07:35
+# RuleCount：118122
 payload:
   - DOMAIN,livecdnh2.tvanywhere.ae
   - DOMAIN,ip.istatmenus.app
@@ -770,7 +770,6 @@ payload:
   - DOMAIN-SUFFIX,7914.cc
   - DOMAIN-SUFFIX,7mo.cc
   - DOMAIN-SUFFIX,7net.cc
-  - DOMAIN-SUFFIX,7x.cc
   - DOMAIN-SUFFIX,80000.cc
   - DOMAIN-SUFFIX,80txt.cc
   - DOMAIN-SUFFIX,80wifi.cc
@@ -3727,7 +3726,6 @@ payload:
   - DOMAIN-SUFFIX,0xsky.com
   - DOMAIN-SUFFIX,0xue.com
   - DOMAIN-SUFFIX,1-123.com
-  - DOMAIN-SUFFIX,1-bmo-client-login.com
   - DOMAIN-SUFFIX,1-luxury.com
   - DOMAIN-SUFFIX,100.com
   - DOMAIN-SUFFIX,100-tong.com
@@ -10568,7 +10566,6 @@ payload:
   - DOMAIN-SUFFIX,96090090.com
   - DOMAIN-SUFFIX,96096kp.com
   - DOMAIN-SUFFIX,960rc.com
-  - DOMAIN-SUFFIX,961.com
   - DOMAIN-SUFFIX,9610.com
   - DOMAIN-SUFFIX,9611111.com
   - DOMAIN-SUFFIX,96189.com
@@ -15837,7 +15834,6 @@ payload:
   - DOMAIN-SUFFIX,bhycjdyp.com
   - DOMAIN-SUFFIX,bhyintan.com
   - DOMAIN-SUFFIX,bhyueda.com
-  - DOMAIN-SUFFIX,bhyuu.com
   - DOMAIN-SUFFIX,bhzd88.com
   - DOMAIN-SUFFIX,bhzhu203.com
   - DOMAIN-SUFFIX,bhzpw.com
@@ -17860,7 +17856,6 @@ payload:
   - DOMAIN-SUFFIX,butongshe.com
   - DOMAIN-SUFFIX,butonly.com
   - DOMAIN-SUFFIX,butterapis.com
-  - DOMAIN-SUFFIX,butterdogchange.com
   - DOMAIN-SUFFIX,button-nt.com
   - DOMAIN-SUFFIX,buttonsintime.com
   - DOMAIN-SUFFIX,buxian8.com
@@ -27239,7 +27234,6 @@ payload:
   - DOMAIN-SUFFIX,dhkqmz.com
   - DOMAIN-SUFFIX,dhkqyy.com
   - DOMAIN-SUFFIX,dhl-ch.com
-  - DOMAIN-SUFFIX,dhlmyorder82662-info-can.com
   - DOMAIN-SUFFIX,dhmeri.com
   - DOMAIN-SUFFIX,dhmsnyy.com
   - DOMAIN-SUFFIX,dhppa.com
@@ -32206,7 +32200,6 @@ payload:
   - DOMAIN-SUFFIX,fengxing007.com
   - DOMAIN-SUFFIX,fengxinglihua.com
   - DOMAIN-SUFFIX,fengyeholding.com
-  - DOMAIN-SUFFIX,fengyixin.com
   - DOMAIN-SUFFIX,fengyuangufen.com
   - DOMAIN-SUFFIX,fengyubf.com
   - DOMAIN-SUFFIX,fengyuncad.com
@@ -45603,7 +45596,6 @@ payload:
   - DOMAIN-SUFFIX,hundsun.com
   - DOMAIN-SUFFIX,hundx.com
   - DOMAIN-SUFFIX,hunger-valley.com
-  - DOMAIN-SUFFIX,hungfei.com
   - DOMAIN-SUFFIX,hunjuwang.com
   - DOMAIN-SUFFIX,hunli100.com
   - DOMAIN-SUFFIX,hunlian100.com
@@ -48603,7 +48595,6 @@ payload:
   - DOMAIN-SUFFIX,issjj.com
   - DOMAIN-SUFFIX,issks.com
   - DOMAIN-SUFFIX,ist-zl.com
-  - DOMAIN-SUFFIX,istartsurf.com
   - DOMAIN-SUFFIX,istcw.com
   - DOMAIN-SUFFIX,istimer.com
   - DOMAIN-SUFFIX,istpei.com
@@ -61166,7 +61157,6 @@ payload:
   - DOMAIN-SUFFIX,download.visualstudio.microsoft.com
   - DOMAIN-SUFFIX,windowsupdate.microsoft.com
   - DOMAIN-SUFFIX,www.microsoft.com
-  - DOMAIN-SUFFIX,microsoft-ware.com
   - DOMAIN-SUFFIX,microstarsoft.com
   - DOMAIN-SUFFIX,microstern.com
   - DOMAIN-SUFFIX,microtrading.com
@@ -62802,7 +62792,6 @@ payload:
   - DOMAIN-SUFFIX,myhongzuan.com
   - DOMAIN-SUFFIX,myhopu.com
   - DOMAIN-SUFFIX,myhscodes.com
-  - DOMAIN-SUFFIX,myhst2024.com
   - DOMAIN-SUFFIX,myhuaweicloud.com
   - DOMAIN-SUFFIX,myhuaweicloud-custom.com
   - DOMAIN-SUFFIX,myhuaweicloud-koodrive.com
@@ -66475,7 +66464,6 @@ payload:
   - DOMAIN-SUFFIX,oushiyimulayou.com
   - DOMAIN-SUFFIX,ousweixin.com
   - DOMAIN-SUFFIX,outdoorarmysurplus.com
-  - DOMAIN-SUFFIX,outerinfo.com
   - DOMAIN-SUFFIX,outes.com
   - DOMAIN-SUFFIX,outfit7.com
   - DOMAIN-SUFFIX,outletcn.com
@@ -66656,7 +66644,6 @@ payload:
   - DOMAIN-SUFFIX,pailitao.com
   - DOMAIN-SUFFIX,pailixiang.com
   - DOMAIN-SUFFIX,paimaprint.com
-  - DOMAIN-SUFFIX,paime.com
   - DOMAIN-SUFFIX,paiorg.com
   - DOMAIN-SUFFIX,paipai.com
   - DOMAIN-SUFFIX,paipai123.com
@@ -67325,7 +67312,6 @@ payload:
   - DOMAIN-SUFFIX,phonertech.com
   - DOMAIN-SUFFIX,phonthing.com
   - DOMAIN-SUFFIX,phopic.com
-  - DOMAIN-SUFFIX,phormchina.com
   - DOMAIN-SUFFIX,phosphatechina.com
   - DOMAIN-SUFFIX,phosun.com
   - DOMAIN-SUFFIX,photc.com
@@ -77315,7 +77301,6 @@ payload:
   - DOMAIN-SUFFIX,so666gslb.com
   - DOMAIN-SUFFIX,so8848.com
   - DOMAIN-SUFFIX,soar-chem.com
-  - DOMAIN-SUFFIX,soarpower.com
   - DOMAIN-SUFFIX,soarwatch.com
   - DOMAIN-SUFFIX,soaryoof.com
   - DOMAIN-SUFFIX,soauto.com
@@ -77488,7 +77473,6 @@ payload:
   - DOMAIN-SUFFIX,sometracking.com
   - DOMAIN-SUFFIX,somode.com
   - DOMAIN-SUFFIX,somsds.com
-  - DOMAIN-SUFFIX,somuchrain.com
   - DOMAIN-SUFFIX,sonbest.com
   - DOMAIN-SUFFIX,soncci.com
   - DOMAIN-SUFFIX,songcn.com
@@ -78408,7 +78392,6 @@ payload:
   - DOMAIN-SUFFIX,suchugao.com
   - DOMAIN-SUFFIX,suchz.com
   - DOMAIN-SUFFIX,sucjg.com
-  - DOMAIN-SUFFIX,suckdude.com
   - DOMAIN-SUFFIX,sucop.com
   - DOMAIN-SUFFIX,sucoupon.com
   - DOMAIN-SUFFIX,sudaizhijia.com
@@ -81050,7 +81033,6 @@ payload:
   - DOMAIN-SUFFIX,tel139.com
   - DOMAIN-SUFFIX,telaideyouxue.com
   - DOMAIN-SUFFIX,telecok.com
-  - DOMAIN-SUFFIX,telecom-info.com
   - DOMAIN-SUFFIX,telecomhb.com
   - DOMAIN-SUFFIX,telecomhr.com
   - DOMAIN-SUFFIX,telecomjs.com
@@ -84476,7 +84458,6 @@ payload:
   - DOMAIN-SUFFIX,uqude.com
   - DOMAIN-SUFFIX,uqufin.com
   - DOMAIN-SUFFIX,uqulive.com
-  - DOMAIN-SUFFIX,uqz.com
   - DOMAIN-SUFFIX,urbanmatters.com
   - DOMAIN-SUFFIX,urbanwy.com
   - DOMAIN-SUFFIX,urbetter.com
@@ -92054,7 +92035,6 @@ payload:
   - DOMAIN-SUFFIX,xmkanshu.com
   - DOMAIN-SUFFIX,xmkingsolar.com
   - DOMAIN-SUFFIX,xmldz4.com
-  - DOMAIN-SUFFIX,xmlheads.com
   - DOMAIN-SUFFIX,xmlhifi.com
   - DOMAIN-SUFFIX,xmlulub.com
   - DOMAIN-SUFFIX,xmlvbarcode.com
@@ -107720,7 +107700,6 @@ payload:
   - DOMAIN-SUFFIX,geliqi.net
   - DOMAIN-SUFFIX,gemini530.net
   - DOMAIN-SUFFIX,genway.net
-  - DOMAIN-SUFFIX,geocounter.net
   - DOMAIN-SUFFIX,gequdaquan.net
   - DOMAIN-SUFFIX,geshitong.net
   - DOMAIN-SUFFIX,getquicker.net
@@ -109619,7 +109598,6 @@ payload:
   - DOMAIN-SUFFIX,lxway.net
   - DOMAIN-SUFFIX,lycheer.net
   - DOMAIN-SUFFIX,lydezx.net
-  - DOMAIN-SUFFIX,lydownload.net
   - DOMAIN-SUFFIX,lyfz.net
   - DOMAIN-SUFFIX,lyg01.net
   - DOMAIN-SUFFIX,lyghs.net
@@ -113423,7 +113401,6 @@ payload:
   - DOMAIN-SUFFIX,21gold.org
   - DOMAIN-SUFFIX,2288.org
   - DOMAIN-SUFFIX,298028.org
-  - DOMAIN-SUFFIX,2girls1finger.org
   - DOMAIN-SUFFIX,2kxs.org
   - DOMAIN-SUFFIX,2muslim.org
   - DOMAIN-SUFFIX,2yq.org

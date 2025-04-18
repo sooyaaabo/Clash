@@ -1,4 +1,4 @@
-# UpdateTime：2025-04-18 03:07:17
+# UpdateTime：2025-04-19 03:07:19
 # RuleCount：32170
 payload:
   - DOMAIN,practivate.adobe
@@ -21402,7 +21402,7 @@ payload:
   - DOMAIN-SUFFIX,test-ipv6.epic.network
   - DOMAIN-SUFFIX,fanqiang.network
   - DOMAIN-SUFFIX,hath.network
-  - DOMAIN-SUFFIX,v2.hysteria.network
+  - DOMAIN-SUFFIX,hysteria.network
   - DOMAIN-SUFFIX,mk.shrimpia.network
   - DOMAIN-SUFFIX,stripe.network
   - DOMAIN-SUFFIX,tracker.network
