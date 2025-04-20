@@ -1,14 +1,13 @@
-# UpdateTime：2025-04-20 03:07:37
-# RuleCount：119503
+# UpdateTime：2025-04-21 03:07:44
+# RuleCount：119491
 payload:
   - DOMAIN,ip.istatmenus.app
-  - DOMAIN,play.1ucrs.com
-  - DOMAIN,support.1ucrs.com
   - DOMAIN,265.com
   - DOMAIN,c.admob.com
   - DOMAIN,admob-cn.com
   - DOMAIN,client.amplifi.com
   - DOMAIN,cdn.angruo.com
+  - DOMAIN,app-analytics-services.com
   - DOMAIN,app-measurement.com
   - DOMAIN,app-measurement-cn.com
   - DOMAIN,emoi-cncdn.bing.com
@@ -55,12 +54,9 @@ payload:
   - DOMAIN,service.urchin.com
   - DOMAIN,cn.widevine.com
   - DOMAIN,cdn.marketplaceimages.windowsphone.com
-  - DOMAIN,xn--9kr7l.com
-  - DOMAIN,settings.xn--9trs65b.com
   - DOMAIN,xn--flw351e.com
   - DOMAIN,redirector.xn--ngstr-lra8j.com
   - DOMAIN,redirector.c.youtubeeducation.com
-  - DOMAIN,ai.ytimg.com
   - DOMAIN,www.yxssp.com
   - DOMAIN,redirector.bdn.dev
   - DOMAIN,prod.databe.floonet.goog
@@ -89,36 +85,18 @@ payload:
   - DOMAIN,doubleclick-cn.net
   - DOMAIN,gonglchuangl.net
   - DOMAIN,gongyichuangyi.net
-  - DOMAIN,distribution.qatp1.net
   - DOMAIN,download.qatp1.net
-  - DOMAIN,monitoring.qatp1.net
   - DOMAIN,qagpublic.qatp1.net
-  - DOMAIN,qgadmin.qatp1.net
   - DOMAIN,qualysapi.qatp1.net
-  - DOMAIN,qualysguard.qatp1.net
-  - DOMAIN,scanservice1.qatp1.net
-  - DOMAIN,distribution.qcpp1.net
-  - DOMAIN,download.qcpp1.net
-  - DOMAIN,monitoring.qcpp1.net
-  - DOMAIN,qagpublic.qcpp1.net
   - DOMAIN,qgadmin.qcpp1.net
-  - DOMAIN,qualysapi.qcpp1.net
-  - DOMAIN,qualysguard.qcpp1.net
   - DOMAIN,scanservice1.qcpp1.net
-  - DOMAIN,distribution.qpdp1.net
-  - DOMAIN,download.qpdp1.net
   - DOMAIN,monitoring.qpdp1.net
-  - DOMAIN,qagpublic.qpdp1.net
-  - DOMAIN,qgadmin.qpdp1.net
-  - DOMAIN,qualysapi.qpdp1.net
   - DOMAIN,qualysguard.qpdp1.net
-  - DOMAIN,scanservice1.qpdp1.net
   - DOMAIN,recaptcha.net
   - DOMAIN,www.recaptcha.net
   - DOMAIN,recaptcha-cn.net
   - DOMAIN,time.xtracloud.net
   - DOMAIN,cdn.ampproject.org
-  - DOMAIN,test.bugs-qa.chromium.org
   - DOMAIN,test.gbugs-qa.chromium.org
   - DOMAIN-SUFFIX,astron.ac
   - DOMAIN-SUFFIX,bog.ac
@@ -20921,6 +20899,7 @@ payload:
   - DOMAIN-SUFFIX,cheshipin.com
   - DOMAIN-SUFFIX,cheshirex.com
   - DOMAIN-SUFFIX,cheshizh.com
+  - DOMAIN-SUFFIX,chesicc.com
   - DOMAIN-SUFFIX,chesir.com
   - DOMAIN-SUFFIX,chestercharles.com
   - DOMAIN-SUFFIX,chesthospital.com
@@ -35543,6 +35522,7 @@ payload:
   - DOMAIN-SUFFIX,gf7979cn.com
   - DOMAIN-SUFFIX,gfan.com
   - DOMAIN-SUFFIX,gfanstore.com
+  - DOMAIN-SUFFIX,gfbzb.com
   - DOMAIN-SUFFIX,gfcity.com
   - DOMAIN-SUFFIX,gfcname.com
   - DOMAIN-SUFFIX,gfcvisa.com
@@ -45397,6 +45377,7 @@ payload:
   - DOMAIN-SUFFIX,huaweicloud.com
   - DOMAIN-SUFFIX,huaweicloud-dns.com
   - DOMAIN-SUFFIX,huaweicloud-idme.com
+  - DOMAIN-SUFFIX,huaweicloud-koophone.com
   - DOMAIN-SUFFIX,huaweicloud-smn.com
   - DOMAIN-SUFFIX,huaweicloudapis.com
   - DOMAIN-SUFFIX,huaweicloudlive.com
@@ -62385,6 +62366,7 @@ payload:
   - DOMAIN-SUFFIX,modao.com
   - DOMAIN-SUFFIX,modaogz.com
   - DOMAIN-SUFFIX,modelarts-infer.com
+  - DOMAIN-SUFFIX,modelarts-maas.com
   - DOMAIN-SUFFIX,modelevel.com
   - DOMAIN-SUFFIX,modelltd.com
   - DOMAIN-SUFFIX,modelones.com
@@ -103607,6 +103589,7 @@ payload:
   - DOMAIN-SUFFIX,6efgcdcjr000.fun
   - DOMAIN-SUFFIX,7tc.fun
   - DOMAIN-SUFFIX,91ios.fun
+  - DOMAIN-SUFFIX,ac.fun
   - DOMAIN-SUFFIX,aeryt111.fun
   - DOMAIN-SUFFIX,alexpad.fun
   - DOMAIN-SUFFIX,avemaria.fun
@@ -106658,6 +106641,7 @@ payload:
   - DOMAIN-SUFFIX,accessads.net
   - DOMAIN-SUFFIX,acctdns.net
   - DOMAIN-SUFFIX,acewill.net
+  - DOMAIN-SUFFIX,acfun.net
   - DOMAIN-SUFFIX,acfunchina.net
   - DOMAIN-SUFFIX,acgdoge.net
   - DOMAIN-SUFFIX,acgpic.net
@@ -107535,6 +107519,7 @@ payload:
   - DOMAIN-SUFFIX,chengyucidian.net
   - DOMAIN-SUFFIX,chengzhou.net
   - DOMAIN-SUFFIX,chenruo.net
+  - DOMAIN-SUFFIX,chesicc.net
   - DOMAIN-SUFFIX,chesir.net
   - DOMAIN-SUFFIX,chetuanwang.net
   - DOMAIN-SUFFIX,chexiaoliang.net
@@ -108891,6 +108876,7 @@ payload:
   - DOMAIN-SUFFIX,getui.net
   - DOMAIN-SUFFIX,gezipu8.net
   - DOMAIN-SUFFIX,gfbk.net
+  - DOMAIN-SUFFIX,gfbzb.net
   - DOMAIN-SUFFIX,gfdns.net
   - DOMAIN-SUFFIX,gfdsa.net
   - DOMAIN-SUFFIX,gfedu.net
@@ -111694,6 +111680,7 @@ payload:
   - DOMAIN-SUFFIX,qfxhjxc.net
   - DOMAIN-SUFFIX,qg.net
   - DOMAIN-SUFFIX,qgyyzs.net
+  - DOMAIN-SUFFIX,qgzb.net
   - DOMAIN-SUFFIX,qhd.net
   - DOMAIN-SUFFIX,qhfx.net
   - DOMAIN-SUFFIX,qhgy.net
@@ -114188,6 +114175,7 @@ payload:
   - DOMAIN-SUFFIX,zasv.net
   - DOMAIN-SUFFIX,zb18.net
   - DOMAIN-SUFFIX,zbbar.net
+  - DOMAIN-SUFFIX,zbbm.net
   - DOMAIN-SUFFIX,zbgl.net
   - DOMAIN-SUFFIX,zbinfo.net
   - DOMAIN-SUFFIX,zbkszx.net

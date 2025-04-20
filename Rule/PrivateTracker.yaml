@@ -1,5 +1,5 @@
-# UpdateTime：2025-04-20 03:07:36
-# RuleCount：272
+# UpdateTime：2025-04-21 03:07:40
+# RuleCount：276
 payload:
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.mywaifu.best
@@ -9,7 +9,6 @@ payload:
   - DOMAIN,tracker.dump.cl
   - DOMAIN,thouvenin.cloud
   - DOMAIN,tracker1.myporn.club
-  - DOMAIN,isk.richardsw.club
   - DOMAIN,home.yxgz.club
   - DOMAIN,tracker.kmzs123.cn
   - DOMAIN,tracker.moeblog.cn
@@ -17,6 +16,7 @@ payload:
   - DOMAIN,tracker.vanitycore.co
   - DOMAIN,0123456789nonexistent.com
   - DOMAIN,tracker.0x7c0.com
+  - DOMAIN,admin.52ywp.com
   - DOMAIN,open.acgtracker.com
   - DOMAIN,ec2-18-191-163-220.us-east-2.compute.amazonaws.com
   - DOMAIN,p4p.arenabg.com
@@ -46,6 +46,7 @@ payload:
   - DOMAIN,chihaya.de
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,ipv4announce.sktorrent.eu
+  - DOMAIN,open.free-tracker.ga
   - DOMAIN,tracker.gmi.gd
   - DOMAIN,evan.im
   - DOMAIN,torrent.hificode.in
@@ -110,7 +111,7 @@ payload:
   - DOMAIN,tracker.moxing.party
   - DOMAIN,tracker.breizh.pm
   - DOMAIN,tracker.bittor.pw
-  - DOMAIN,tr.nyacat.pw
+  - DOMAIN,discord.heihachi.pw
   - DOMAIN,ch3oh.ru
   - DOMAIN,retracker.hotplug.ru
   - DOMAIN,tracker.ipv6tracker.ru
@@ -123,17 +124,20 @@ payload:
   - DOMAIN,t.jaekr.sh
   - DOMAIN,open.stealth.si
   - DOMAIN,tracker.lyretain.site
-  - DOMAIN,tracker.pmman.tech
+  - DOMAIN,tracker.ololosh.space
   - DOMAIN,tracker.valete.tf
   - DOMAIN,tracker.therarbg.to
   - DOMAIN,tracker.23794.top
+  - DOMAIN,tr.abiir.top
   - DOMAIN,tracker.expli.top
   - DOMAIN,tracker.gcrenwp.top
   - DOMAIN,sparkle.ghostchu-services.top
   - DOMAIN,tracker.ghostchu-services.top
+  - DOMAIN,utracker.ghostchu-services.top
   - DOMAIN,highteahop.top
   - DOMAIN,tracker.kmzs123.top
   - DOMAIN,tracker.netmap.top
+  - DOMAIN,tr3.ysagin.top
   - DOMAIN,tracker.zhuqiy.top
   - DOMAIN,buny.uk
   - DOMAIN,nyaa.tracker.wf
