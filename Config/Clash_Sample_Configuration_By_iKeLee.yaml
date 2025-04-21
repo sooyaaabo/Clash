@@ -65,6 +65,16 @@ tun:
   auto-route: true
   auto-detect-interface: true
 
+# P2P下载端口
+listeners:
+- name: socks5-in-1
+  type: socks
+  port: 10808
+  listen: 0.0.0.0
+  udp: true
+  users: []
+  proxy: DIRECT
+
 dns:
   enable: true
   listen: 0.0.0.0:1053
