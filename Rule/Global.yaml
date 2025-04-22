@@ -1,5 +1,5 @@
-# UpdateTime：2025-04-22 02:51:32
-# RuleCount：32189
+# UpdateTime：2025-04-23 02:44:25
+# RuleCount：32197
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -183,6 +183,7 @@ payload:
   - DOMAIN,testflight.apple.com
   - DOMAIN,time.apple.com
   - DOMAIN,tv.apple.com
+  - DOMAIN,ingest.apple-studies.com
   - DOMAIN,tv.applemusic.com
   - DOMAIN,database.asahi.com
   - DOMAIN,time.aws.com
@@ -2649,6 +2650,7 @@ payload:
   - DOMAIN-SUFFIX,8teenxxx.com
   - DOMAIN-SUFFIX,8thstreetlatinas.com
   - DOMAIN-SUFFIX,9001700.com
+  - DOMAIN-SUFFIX,91-cg.com
   - DOMAIN-SUFFIX,91avfuli.com
   - DOMAIN-SUFFIX,91beiyong.com
   - DOMAIN-SUFFIX,91jinman.com
@@ -6145,6 +6147,7 @@ payload:
   - DOMAIN-SUFFIX,dwheeler.com
   - DOMAIN-SUFFIX,dwnews.com
   - DOMAIN-SUFFIX,dxiong.com
+  - DOMAIN-SUFFIX,dxk4h.com
   - DOMAIN-SUFFIX,dykycl.com
   - DOMAIN-SUFFIX,dynacw.com
   - DOMAIN-SUFFIX,dynafleetonline.com
@@ -19114,6 +19117,7 @@ payload:
   - DOMAIN-SUFFIX,porndigger.me
   - DOMAIN-SUFFIX,pornmovies2.me
   - DOMAIN-SUFFIX,pornoslon.me
+  - DOMAIN-SUFFIX,pornvr.me
   - DOMAIN-SUFFIX,proton.me
   - DOMAIN-SUFFIX,qdiehzz7.me
   - DOMAIN-SUFFIX,qi-gong.me
@@ -22383,6 +22387,7 @@ payload:
   - DOMAIN-SUFFIX,goodsexporn.org
   - DOMAIN-SUFFIX,google.org
   - DOMAIN-SUFFIX,got-game.org
+  - DOMAIN-SUFFIX,gotquestions.org
   - DOMAIN-SUFFIX,grandtrial.org
   - DOMAIN-SUFFIX,grangorz.org
   - DOMAIN-SUFFIX,graph.org
@@ -24093,6 +24098,7 @@ payload:
   - DOMAIN-SUFFIX,go-to-zlibrary.se
   - DOMAIN-SUFFIX,google.se
   - DOMAIN-SUFFIX,icloud.se
+  - DOMAIN-SUFFIX,idope.se
   - DOMAIN-SUFFIX,intel.se
   - DOMAIN-SUFFIX,iphoto.se
   - DOMAIN-SUFFIX,ipredator.se
@@ -25029,6 +25035,7 @@ payload:
   - DOMAIN-SUFFIX,showup.tv
   - DOMAIN-SUFFIX,softbank.tv
   - DOMAIN-SUFFIX,sourcingforebay.tv
+  - DOMAIN-SUFFIX,subhd.tv
   - DOMAIN-SUFFIX,swoosh.tv
   - DOMAIN-SUFFIX,tabooporn.tv
   - DOMAIN-SUFFIX,thotbook.tv
@@ -31795,6 +31802,7 @@ payload:
   - DOMAIN-SUFFIX,guifw.xyz
   - DOMAIN-SUFFIX,h-doujinshi.xyz
   - DOMAIN-SUFFIX,haha888.xyz
+  - DOMAIN-SUFFIX,hanime.xyz
   - DOMAIN-SUFFIX,hao21.xyz
   - DOMAIN-SUFFIX,hao62.xyz
   - DOMAIN-SUFFIX,hexieshe.xyz

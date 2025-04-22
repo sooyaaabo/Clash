@@ -1,5 +1,5 @@
-# UpdateTime：2025-04-22 02:50:59
-# RuleCount：7135
+# UpdateTime：2025-04-23 02:43:55
+# RuleCount：7136
 payload:
   - DOMAIN,developer.apple.com
   - DOMAIN,testflight.apple.com
@@ -878,7 +878,6 @@ payload:
   - DOMAIN-SUFFIX,chaoex.com
   - DOMAIN-SUFFIX,chapm25.com
   - DOMAIN-SUFFIX,chatnook.com
-  - DOMAIN-SUFFIX,chaturbate.com
   - DOMAIN-SUFFIX,checkgfw.com
   - DOMAIN-SUFFIX,chengmingmag.com
   - DOMAIN-SUFFIX,chenguangcheng.com
@@ -2400,7 +2399,6 @@ payload:
   - DOMAIN-SUFFIX,ontrac.com
   - DOMAIN-SUFFIX,oopsforum.com
   - DOMAIN-SUFFIX,ooyala.com
-  - DOMAIN-SUFFIX,auth.openai.com
   - DOMAIN-SUFFIX,chat.openai.com
   - DOMAIN-SUFFIX,openallweb.com
   - DOMAIN-SUFFIX,openbase.com
@@ -5657,6 +5655,7 @@ payload:
   - DOMAIN-SUFFIX,goodnewsnetwork.org
   - DOMAIN-SUFFIX,google.org
   - DOMAIN-SUFFIX,got-game.org
+  - DOMAIN-SUFFIX,gotquestions.org
   - DOMAIN-SUFFIX,grandtrial.org
   - DOMAIN-SUFFIX,grangorz.org
   - DOMAIN-SUFFIX,graph.org
@@ -6377,6 +6376,7 @@ payload:
   - DOMAIN-SUFFIX,facebook.se
   - DOMAIN-SUFFIX,go-to-zlibrary.se
   - DOMAIN-SUFFIX,google.se
+  - DOMAIN-SUFFIX,idope.se
   - DOMAIN-SUFFIX,ipredator.se
   - DOMAIN-SUFFIX,nobel.se
   - DOMAIN-SUFFIX,pinterest.se
@@ -6557,6 +6557,7 @@ payload:
   - DOMAIN-SUFFIX,periscope.tv
   - DOMAIN-SUFFIX,pipii.tv
   - DOMAIN-SUFFIX,pscp.tv
+  - DOMAIN-SUFFIX,subhd.tv
   - DOMAIN-SUFFIX,thotsbay.tv
   - DOMAIN-SUFFIX,tibetonline.tv
   - DOMAIN-SUFFIX,top.tv

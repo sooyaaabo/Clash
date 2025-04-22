@@ -1,5 +1,5 @@
-# UpdateTime：2025-04-22 02:52:25
-# RuleCount：981
+# UpdateTime：2025-04-23 02:45:23
+# RuleCount：980
 payload:
   - DOMAIN,books.apple.com
   - DOMAIN,beta.music.apple.com
@@ -134,7 +134,6 @@ payload:
   - DOMAIN-SUFFIX,buzzsprout.com
   - DOMAIN-SUFFIX,bybit.com
   - DOMAIN-SUFFIX,celestrak.com
-  - DOMAIN-SUFFIX,chaturbate.com
   - DOMAIN-SUFFIX,chinatimes.com
   - DOMAIN-SUFFIX,cloudcone.com
   - DOMAIN-SUFFIX,cloudflare.com
