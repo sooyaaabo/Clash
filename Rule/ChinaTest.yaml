@@ -1,5 +1,5 @@
-# UpdateTime：2025-04-23 02:46:30
-# RuleCount：119527
+# UpdateTime：2025-04-24 03:02:25
+# RuleCount：119537
 payload:
   - DOMAIN,ip.istatmenus.app
   - DOMAIN,265.com
@@ -41437,7 +41437,10 @@ payload:
   - DOMAIN-SUFFIX,hapco-cn.com
   - DOMAIN-SUFFIX,hapg-hitachi.com
   - DOMAIN-SUFFIX,hapids.com
+  - DOMAIN-SUFFIX,hapierxia.com
   - DOMAIN-SUFFIX,hapingapp.com
+  - DOMAIN-SUFFIX,hapipixia.com
+  - DOMAIN-SUFFIX,hapiyixia.com
   - DOMAIN-SUFFIX,happi123.com
   - DOMAIN-SUFFIX,happigo.com
   - DOMAIN-SUFFIX,happiness9999.com
@@ -53887,6 +53890,7 @@ payload:
   - DOMAIN-SUFFIX,kaimg.com
   - DOMAIN-SUFFIX,kaimitech.com
   - DOMAIN-SUFFIX,kaipanla.com
+  - DOMAIN-SUFFIX,kaipuyun.com
   - DOMAIN-SUFFIX,kaiqiancq.com
   - DOMAIN-SUFFIX,kaiqsz.com
   - DOMAIN-SUFFIX,kaiquan.com
@@ -55500,6 +55504,7 @@ payload:
   - DOMAIN-SUFFIX,kuailedo.com
   - DOMAIN-SUFFIX,kuailekaishi.com
   - DOMAIN-SUFFIX,kuailelunwen.com
+  - DOMAIN-SUFFIX,kuailepipixia.com
   - DOMAIN-SUFFIX,kuailetongyao.com
   - DOMAIN-SUFFIX,kuailexs.com
   - DOMAIN-SUFFIX,kuailexue.com
@@ -68156,6 +68161,7 @@ payload:
   - DOMAIN-SUFFIX,pipishu.com
   - DOMAIN-SUFFIX,pipiti.com
   - DOMAIN-SUFFIX,pipix.com
+  - DOMAIN-SUFFIX,pipixiaha.com
   - DOMAIN-SUFFIX,pipiyo.com
   - DOMAIN-SUFFIX,pipsemi.com
   - DOMAIN-SUFFIX,pipuda.com
@@ -68692,9 +68698,12 @@ payload:
   - DOMAIN-SUFFIX,ppwwyyxx.com
   - DOMAIN-SUFFIX,ppx520.com
   - DOMAIN-SUFFIX,ppxclub.com
+  - DOMAIN-SUFFIX,ppxhhh.com
   - DOMAIN-SUFFIX,ppxiaoshuowang.com
+  - DOMAIN-SUFFIX,ppximg.com
   - DOMAIN-SUFFIX,ppxm.com
   - DOMAIN-SUFFIX,ppxmw.com
+  - DOMAIN-SUFFIX,ppxstatic.com
   - DOMAIN-SUFFIX,ppxvod.com
   - DOMAIN-SUFFIX,ppxwo.com
   - DOMAIN-SUFFIX,ppxyy.com
@@ -110340,6 +110349,7 @@ payload:
   - DOMAIN-SUFFIX,kagirl.net
   - DOMAIN-SUFFIX,kai-lun.net
   - DOMAIN-SUFFIX,kaijiudian.net
+  - DOMAIN-SUFFIX,kaipuyun.net
   - DOMAIN-SUFFIX,kaixindou.net
   - DOMAIN-SUFFIX,kaixinguopiaowu.net
   - DOMAIN-SUFFIX,kaixinhui.net

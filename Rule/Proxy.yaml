@@ -1,5 +1,5 @@
-# UpdateTime：2025-04-23 02:43:55
-# RuleCount：7136
+# UpdateTime：2025-04-24 02:59:53
+# RuleCount：7137
 payload:
   - DOMAIN,developer.apple.com
   - DOMAIN,testflight.apple.com
@@ -878,6 +878,7 @@ payload:
   - DOMAIN-SUFFIX,chaoex.com
   - DOMAIN-SUFFIX,chapm25.com
   - DOMAIN-SUFFIX,chatnook.com
+  - DOMAIN-SUFFIX,chaturbate.com
   - DOMAIN-SUFFIX,checkgfw.com
   - DOMAIN-SUFFIX,chengmingmag.com
   - DOMAIN-SUFFIX,chenguangcheng.com

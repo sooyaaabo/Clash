@@ -1,5 +1,5 @@
-# UpdateTime：2025-04-23 02:47:07
-# RuleCount：126824
+# UpdateTime：2025-04-24 03:03:06
+# RuleCount：126833
 payload:
   - DOMAIN,livecdnh2.tvanywhere.ae
   - DOMAIN,ip.istatmenus.app
@@ -41397,7 +41397,10 @@ payload:
   - DOMAIN-SUFFIX,hapco-cn.com
   - DOMAIN-SUFFIX,hapg-hitachi.com
   - DOMAIN-SUFFIX,hapids.com
+  - DOMAIN-SUFFIX,hapierxia.com
   - DOMAIN-SUFFIX,hapingapp.com
+  - DOMAIN-SUFFIX,hapipixia.com
+  - DOMAIN-SUFFIX,hapiyixia.com
   - DOMAIN-SUFFIX,happi123.com
   - DOMAIN-SUFFIX,happigo.com
   - DOMAIN-SUFFIX,happiness9999.com
@@ -53736,6 +53739,7 @@ payload:
   - DOMAIN-SUFFIX,kaimg.com
   - DOMAIN-SUFFIX,kaimitech.com
   - DOMAIN-SUFFIX,kaipanla.com
+  - DOMAIN-SUFFIX,kaipuyun.com
   - DOMAIN-SUFFIX,kaiqiancq.com
   - DOMAIN-SUFFIX,kaiqsz.com
   - DOMAIN-SUFFIX,kaiquan.com
@@ -55345,6 +55349,7 @@ payload:
   - DOMAIN-SUFFIX,kuailedo.com
   - DOMAIN-SUFFIX,kuailekaishi.com
   - DOMAIN-SUFFIX,kuailelunwen.com
+  - DOMAIN-SUFFIX,kuailepipixia.com
   - DOMAIN-SUFFIX,kuailetongyao.com
   - DOMAIN-SUFFIX,kuailexs.com
   - DOMAIN-SUFFIX,kuailexue.com
@@ -67872,6 +67877,7 @@ payload:
   - DOMAIN-SUFFIX,pipishu.com
   - DOMAIN-SUFFIX,pipiti.com
   - DOMAIN-SUFFIX,pipix.com
+  - DOMAIN-SUFFIX,pipixiaha.com
   - DOMAIN-SUFFIX,pipiyo.com
   - DOMAIN-SUFFIX,pipsemi.com
   - DOMAIN-SUFFIX,pipuda.com
@@ -68400,9 +68406,12 @@ payload:
   - DOMAIN-SUFFIX,ppwwyyxx.com
   - DOMAIN-SUFFIX,ppx520.com
   - DOMAIN-SUFFIX,ppxclub.com
+  - DOMAIN-SUFFIX,ppxhhh.com
   - DOMAIN-SUFFIX,ppxiaoshuowang.com
+  - DOMAIN-SUFFIX,ppximg.com
   - DOMAIN-SUFFIX,ppxm.com
   - DOMAIN-SUFFIX,ppxmw.com
+  - DOMAIN-SUFFIX,ppxstatic.com
   - DOMAIN-SUFFIX,ppxvod.com
   - DOMAIN-SUFFIX,ppxwo.com
   - DOMAIN-SUFFIX,ppxyy.com
@@ -109470,6 +109479,7 @@ payload:
   - DOMAIN-SUFFIX,kagirl.net
   - DOMAIN-SUFFIX,kai-lun.net
   - DOMAIN-SUFFIX,kaijiudian.net
+  - DOMAIN-SUFFIX,kaipuyun.net
   - DOMAIN-SUFFIX,kaixindou.net
   - DOMAIN-SUFFIX,kaixinguopiaowu.net
   - DOMAIN-SUFFIX,kaixinhui.net
@@ -121133,7 +121143,6 @@ payload:
   - IP-CIDR,118.143.215.0/24
   - IP-CIDR,118.107.63.0/24
   - IP-CIDR,118.107.60.0/24
-  - IP-CIDR,118.107.43.0/24
   - IP-CIDR,118.107.41.0/24
   - IP-CIDR,118.107.32.0/24
   - IP-CIDR,118.107.11.0/24
@@ -121195,7 +121204,6 @@ payload:
   - IP-CIDR,103.134.12.0/24
   - IP-CIDR,103.130.152.0/24
   - IP-CIDR,103.121.250.0/24
-  - IP-CIDR,103.121.228.0/24
   - IP-CIDR,103.120.76.0/24
   - IP-CIDR,103.119.115.0/24
   - IP-CIDR,103.118.173.0/24
@@ -121335,6 +121343,7 @@ payload:
   - IP-CIDR,44.32.188.0/24
   - IP-CIDR,44.32.143.0/24
   - IP-CIDR,44.31.216.0/24
+  - IP-CIDR,44.31.96.0/24
   - IP-CIDR,44.31.81.0/24
   - IP-CIDR,44.31.42.0/24
   - IP-CIDR,44.31.28.0/24
