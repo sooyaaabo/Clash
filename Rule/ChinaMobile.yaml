@@ -1,4 +1,4 @@
-# UpdateTime：2025-04-25 02:45:13
+# UpdateTime：2025-04-26 02:55:44
 # RuleCount：36
 payload:
   - DOMAIN-SUFFIX,10086.cn
@@ -36,4 +36,4 @@ payload:
   - DOMAIN-SUFFIX,warmchina121.com
   - DOMAIN-SUFFIX,zdsdp.com
   - DOMAIN-SUFFIX,andfx.net
-  - IP-CIDR,117.161.2.5
+  - IP-CIDR,117.161.2.5/32

@@ -1,5 +1,5 @@
-# UpdateTime：2025-04-25 02:45:58
-# RuleCount：32197
+# UpdateTime：2025-04-26 02:56:22
+# RuleCount：32195
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -18634,6 +18634,7 @@ payload:
   - DOMAIN-SUFFIX,mcdonalds.co.kr
   - DOMAIN-SUFFIX,megamon.co.kr
   - DOMAIN-SUFFIX,mini.co.kr
+  - DOMAIN-SUFFIX,news.mt.co.kr
   - DOMAIN-SUFFIX,nexoncdn.co.kr
   - DOMAIN-SUFFIX,nintendo.co.kr
   - DOMAIN-SUFFIX,ntdtv.co.kr
@@ -22387,7 +22388,6 @@ payload:
   - DOMAIN-SUFFIX,goodsexporn.org
   - DOMAIN-SUFFIX,google.org
   - DOMAIN-SUFFIX,got-game.org
-  - DOMAIN-SUFFIX,gotquestions.org
   - DOMAIN-SUFFIX,grandtrial.org
   - DOMAIN-SUFFIX,grangorz.org
   - DOMAIN-SUFFIX,graph.org
@@ -24098,7 +24098,6 @@ payload:
   - DOMAIN-SUFFIX,go-to-zlibrary.se
   - DOMAIN-SUFFIX,google.se
   - DOMAIN-SUFFIX,icloud.se
-  - DOMAIN-SUFFIX,idope.se
   - DOMAIN-SUFFIX,intel.se
   - DOMAIN-SUFFIX,iphoto.se
   - DOMAIN-SUFFIX,ipredator.se
@@ -25035,7 +25034,6 @@ payload:
   - DOMAIN-SUFFIX,showup.tv
   - DOMAIN-SUFFIX,softbank.tv
   - DOMAIN-SUFFIX,sourcingforebay.tv
-  - DOMAIN-SUFFIX,subhd.tv
   - DOMAIN-SUFFIX,swoosh.tv
   - DOMAIN-SUFFIX,tabooporn.tv
   - DOMAIN-SUFFIX,thotbook.tv
