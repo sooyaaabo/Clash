@@ -1,5 +1,5 @@
-# UpdateTime：2025-04-27 02:49:10
-# RuleCount：278
+# UpdateTime：2025-04-28 02:54:36
+# RuleCount：275
 payload:
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.mywaifu.best
@@ -7,8 +7,6 @@ payload:
   - DOMAIN,tracker.bz
   - DOMAIN,bt1.xxxxbt.cc
   - DOMAIN,thouvenin.cloud
-  - DOMAIN,tracker1.myporn.club
-  - DOMAIN,isk.richardsw.club
   - DOMAIN,home.yxgz.club
   - DOMAIN,tracker.kmzs123.cn
   - DOMAIN,tracker.moeblog.cn
@@ -43,18 +41,17 @@ payload:
   - DOMAIN,tracker.torrust-demo.com
   - DOMAIN,public.tracker.vraphim.com
   - DOMAIN,www.wareztorrent.com
+  - DOMAIN,ns-1.x-fins.com
   - DOMAIN,tracker.yemekyedim.com
   - DOMAIN,chihaya.de
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,ipv4announce.sktorrent.eu
-  - DOMAIN,tr.abir.ga
   - DOMAIN,open.free-tracker.ga
   - DOMAIN,tracker.gmi.gd
   - DOMAIN,tracker.itscraftsoftware.my.id
   - DOMAIN,evan.im
   - DOMAIN,torrent.hificode.in
   - DOMAIN,1337.abcvg.info
-  - DOMAIN,tracker-udp.gbitt.info
   - DOMAIN,share.hkg-fansub.info
   - DOMAIN,www.torrentsnipe.info
   - DOMAIN,bandito.byterunner.io
@@ -90,7 +87,6 @@ payload:
   - DOMAIN,wepzone.net
   - DOMAIN,torrent.i.ng
   - DOMAIN,tracker.corpscorp.online
-  - DOMAIN,concen.org
   - DOMAIN,tracker.dler.org
   - DOMAIN,tracker2.dler.org
   - DOMAIN,tracker.dmcomic.org
@@ -116,9 +112,7 @@ payload:
   - DOMAIN,tracker.moxing.party
   - DOMAIN,tracker.breizh.pm
   - DOMAIN,tracker.bittor.pw
-  - DOMAIN,discord.heihachi.pw
   - DOMAIN,tr.nyacat.pw
-  - DOMAIN,ch3oh.ru
   - DOMAIN,retracker.hotplug.ru
   - DOMAIN,tracker.ipv6tracker.ru
   - DOMAIN,bt.okmp3.ru
@@ -129,6 +123,8 @@ payload:
   - DOMAIN,tracker.darkness.services
   - DOMAIN,t.jaekr.sh
   - DOMAIN,open.stealth.si
+  - DOMAIN,tracker.lyretain.site
+  - DOMAIN,tracker.ololosh.space
   - DOMAIN,tracker.valete.tf
   - DOMAIN,tracker.therarbg.to
   - DOMAIN,tracker.23794.top
@@ -137,6 +133,7 @@ payload:
   - DOMAIN,tracker.gcrenwp.top
   - DOMAIN,sparkle.ghostchu-services.top
   - DOMAIN,tracker.ghostchu-services.top
+  - DOMAIN,utracker.ghostchu-services.top
   - DOMAIN,highteahop.top
   - DOMAIN,tracker.kmzs123.top
   - DOMAIN,tr3.ysagin.top
