@@ -1,14 +1,14 @@
-# UpdateTime：2025-04-29 02:49:19
-# RuleCount：272
+# UpdateTime：2025-04-30 02:51:13
+# RuleCount：278
 payload:
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.mywaifu.best
   - DOMAIN,t.overflow.biz
   - DOMAIN,tracker.bz
   - DOMAIN,bt1.xxxxbt.cc
+  - DOMAIN,tracker.dump.cl
   - DOMAIN,thouvenin.cloud
   - DOMAIN,tracker1.myporn.club
-  - DOMAIN,isk.richardsw.club
   - DOMAIN,home.yxgz.club
   - DOMAIN,tracker.kmzs123.cn
   - DOMAIN,tracker.moeblog.cn
@@ -27,6 +27,7 @@ payload:
   - DOMAIN,tracker.dler.com
   - DOMAIN,tracker.filemail.com
   - DOMAIN,fosstorrents.com
+  - DOMAIN,ismaarino.com
   - DOMAIN,tracker1.itzmx.com
   - DOMAIN,tracker2.itzmx.com
   - DOMAIN,tracker3.itzmx.com
@@ -42,7 +43,6 @@ payload:
   - DOMAIN,tracker.torrust-demo.com
   - DOMAIN,public.tracker.vraphim.com
   - DOMAIN,www.wareztorrent.com
-  - DOMAIN,ns-1.x-fins.com
   - DOMAIN,tracker.yemekyedim.com
   - DOMAIN,chihaya.de
   - DOMAIN,martin-gebhardt.eu
@@ -53,6 +53,7 @@ payload:
   - DOMAIN,tracker.itscraftsoftware.my.id
   - DOMAIN,evan.im
   - DOMAIN,1337.abcvg.info
+  - DOMAIN,tracker-udp.gbitt.info
   - DOMAIN,share.hkg-fansub.info
   - DOMAIN,www.torrentsnipe.info
   - DOMAIN,bandito.byterunner.io
@@ -99,6 +100,7 @@ payload:
   - DOMAIN,tracker.ipv6tracker.org
   - DOMAIN,tracker.jdx3.org
   - DOMAIN,tracker.lilithraws.org
+  - DOMAIN,ns3109441.mypdns.org
   - DOMAIN,opentor.org
   - DOMAIN,tracker.opentrackr.org
   - DOMAIN,bt.poletracker.org
@@ -110,8 +112,8 @@ payload:
   - DOMAIN,tr.zukizuki.org
   - DOMAIN,tracker.ducks.party
   - DOMAIN,tracker.moxing.party
-  - DOMAIN,tracker.breizh.pm
   - DOMAIN,tracker.bittor.pw
+  - DOMAIN,discord.heihachi.pw
   - DOMAIN,tr.nyacat.pw
   - DOMAIN,retracker.hotplug.ru
   - DOMAIN,tracker.ipv6tracker.ru
@@ -123,6 +125,8 @@ payload:
   - DOMAIN,tracker.darkness.services
   - DOMAIN,t.jaekr.sh
   - DOMAIN,open.stealth.si
+  - DOMAIN,tracker.lyretain.site
+  - DOMAIN,tracker.ololosh.space
   - DOMAIN,tracker.valete.tf
   - DOMAIN,tracker.therarbg.to
   - DOMAIN,tracker.23794.top
@@ -131,8 +135,10 @@ payload:
   - DOMAIN,tracker.gcrenwp.top
   - DOMAIN,sparkle.ghostchu-services.top
   - DOMAIN,tracker.ghostchu-services.top
+  - DOMAIN,utracker.ghostchu-services.top
   - DOMAIN,highteahop.top
   - DOMAIN,tracker.kmzs123.top
+  - DOMAIN,tracker.netmap.top
   - DOMAIN,tr3.ysagin.top
   - DOMAIN,tracker.zhuqiy.top
   - DOMAIN,buny.uk

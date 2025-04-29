@@ -1,5 +1,5 @@
-# UpdateTime：2025-04-29 02:50:07
-# RuleCount：32195
+# UpdateTime：2025-04-30 02:52:09
+# RuleCount：32196
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -13968,6 +13968,7 @@ payload:
   - DOMAIN-SUFFIX,thottok.com
   - DOMAIN-SUFFIX,thotvids.com
   - DOMAIN-SUFFIX,threadreaderapp.com
+  - DOMAIN-SUFFIX,threads.com
   - DOMAIN-SUFFIX,threatchaos.com
   - DOMAIN-SUFFIX,thrixxx.com
   - DOMAIN-SUFFIX,throughnightsfire.com
