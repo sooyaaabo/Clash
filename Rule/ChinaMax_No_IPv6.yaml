@@ -1,5 +1,5 @@
-# UpdateTime：2025-04-30 02:54:47
-# RuleCount：126662
+# UpdateTime：2025-05-01 02:57:16
+# RuleCount：126663
 payload:
   - DOMAIN,livecdnh2.tvanywhere.ae
   - DOMAIN,ip.istatmenus.app
@@ -120949,6 +120949,7 @@ payload:
   - IP-CIDR,138.113.108.0/24
   - IP-CIDR,138.113.96.0/24
   - IP-CIDR,138.113.16.0/24
+  - IP-CIDR,138.94.43.0/24
   - IP-CIDR,138.32.244.0/24
   - IP-CIDR,137.59.59.0/24
   - IP-CIDR,136.0.133.0/24
