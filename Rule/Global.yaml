@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-01 02:54:36
-# RuleCount：32196
+# UpdateTime：2025-05-02 02:50:33
+# RuleCount：32199
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -710,6 +710,7 @@ payload:
   - DOMAIN-SUFFIX,rsshub.app
   - DOMAIN-SUFFIX,run.app
   - DOMAIN-SUFFIX,shop.app
+  - DOMAIN-SUFFIX,sing-box.app
   - DOMAIN-SUFFIX,singlelogin.app
   - DOMAIN-SUFFIX,ss7.app
   - DOMAIN-SUFFIX,vercel.app
@@ -4690,6 +4691,7 @@ payload:
   - DOMAIN-SUFFIX,brni.com
   - DOMAIN-SUFFIX,broadbandreports.com
   - DOMAIN-SUFFIX,broadbook.com
+  - DOMAIN-SUFFIX,broadcom.com
   - DOMAIN-SUFFIX,broadpressinc.com
   - DOMAIN-SUFFIX,brocaproject.com
   - DOMAIN-SUFFIX,brockbbs.com
@@ -10521,6 +10523,7 @@ payload:
   - DOMAIN-SUFFIX,msftncsi.com
   - DOMAIN-SUFFIX,msgamesresearch.com
   - DOMAIN-SUFFIX,msguancha.com
+  - DOMAIN-SUFFIX,msi.com
   - DOMAIN-SUFFIX,msidentity.com
   - DOMAIN-SUFFIX,msinnovationchallenge.com
   - DOMAIN-SUFFIX,msn.com

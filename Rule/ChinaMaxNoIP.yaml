@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-01 02:56:53
-# RuleCount：117991
+# UpdateTime：2025-05-02 02:52:54
+# RuleCount：117993
 payload:
   - DOMAIN,livecdnh2.tvanywhere.ae
   - DOMAIN,ip.istatmenus.app
@@ -27702,6 +27702,7 @@ payload:
   - DOMAIN-SUFFIX,dji.com
   - DOMAIN-SUFFIX,djiavip.com
   - DOMAIN-SUFFIX,djicdn.com
+  - DOMAIN-SUFFIX,djiits.com
   - DOMAIN-SUFFIX,djiops.com
   - DOMAIN-SUFFIX,www.djivideos.com
   - DOMAIN-SUFFIX,djjgj.com
@@ -62015,6 +62016,7 @@ payload:
   - DOMAIN-SUFFIX,mored.com
   - DOMAIN-SUFFIX,moredian.com
   - DOMAIN-SUFFIX,morefood.com
+  - DOMAIN-SUFFIX,morefreegame.com
   - DOMAIN-SUFFIX,morefun-philippines.com
   - DOMAIN-SUFFIX,moregy.com
   - DOMAIN-SUFFIX,moremeat.com
