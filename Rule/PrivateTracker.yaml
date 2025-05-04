@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-04 02:52:04
-# RuleCount：273
+# UpdateTime：2025-05-05 02:54:27
+# RuleCount：271
 payload:
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.mywaifu.best
@@ -8,7 +8,7 @@ payload:
   - DOMAIN,bt1.xxxxbt.cc
   - DOMAIN,tracker.dump.cl
   - DOMAIN,thouvenin.cloud
-  - DOMAIN,isk.richardsw.club
+  - DOMAIN,tracker1.myporn.club
   - DOMAIN,home.yxgz.club
   - DOMAIN,tracker.kmzs123.cn
   - DOMAIN,tracker.moeblog.cn
@@ -46,8 +46,8 @@ payload:
   - DOMAIN,chihaya.de
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,ipv4announce.sktorrent.eu
+  - DOMAIN,tr.abir.ga
   - DOMAIN,tracker.gmi.gd
-  - DOMAIN,tracker.tritan.gg
   - DOMAIN,tracker.itscraftsoftware.my.id
   - DOMAIN,evan.im
   - DOMAIN,1337.abcvg.info
@@ -69,13 +69,11 @@ payload:
   - DOMAIN,retracker.lanta.me
   - DOMAIN,tracker.lintk.me
   - DOMAIN,lucke.fenesisu.moe
-  - DOMAIN,leet-tracker.moe
   - DOMAIN,tracker.waaa.moe
   - DOMAIN,tracker.yume-hatsuyuki.moe
   - DOMAIN,0d.kebhana.mx
   - DOMAIN,www.all4nothin.net
   - DOMAIN,retracker01-msk-virt.corbina.net
-  - DOMAIN,tracker.ddunlimited.net
   - DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
   - DOMAIN,tracker.fnix.net
   - DOMAIN,tracker.gigantino.net
@@ -116,7 +114,6 @@ payload:
   - DOMAIN,tr.nyacat.pw
   - DOMAIN,retracker.hotplug.ru
   - DOMAIN,tracker.ipv6tracker.ru
-  - DOMAIN,bt.okmp3.ru
   - DOMAIN,d40969.acod.regrucolo.ru
   - DOMAIN,servandroidkino.ru
   - DOMAIN,retracker.spark-rostov.ru
@@ -136,10 +133,11 @@ payload:
   - DOMAIN,highteahop.top
   - DOMAIN,tracker.kmzs123.top
   - DOMAIN,tracker.netmap.top
+  - DOMAIN,tr3.ysagin.top
   - DOMAIN,tracker.zhuqiy.top
   - DOMAIN,buny.uk
   - DOMAIN,nyaa.tracker.wf
-  - DOMAIN,tracker.privateseedbox.xyz
+  - DOMAIN,tracker.iperson.xyz
   - DOMAIN,p2p.publictracker.xyz
   - DOMAIN,tracker810.xyz
   - DOMAIN,open.trackerlist.xyz

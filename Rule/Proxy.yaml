@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-04 02:52:21
-# RuleCount：7137
+# UpdateTime：2025-05-05 02:54:41
+# RuleCount：7141
 payload:
   - DOMAIN,developer.apple.com
   - DOMAIN,testflight.apple.com
@@ -2314,6 +2314,7 @@ payload:
   - DOMAIN-SUFFIX,nlfreevpn.com
   - DOMAIN-SUFFIX,bit.no.com
   - DOMAIN-SUFFIX,no-ip.com
+  - DOMAIN-SUFFIX,nodeloc.com
   - DOMAIN-SUFFIX,nodeseek.com
   - DOMAIN-SUFFIX,nodesnoop.com
   - DOMAIN-SUFFIX,nokola.com
@@ -2400,7 +2401,6 @@ payload:
   - DOMAIN-SUFFIX,ontrac.com
   - DOMAIN-SUFFIX,oopsforum.com
   - DOMAIN-SUFFIX,ooyala.com
-  - DOMAIN-SUFFIX,auth.openai.com
   - DOMAIN-SUFFIX,chat.openai.com
   - DOMAIN-SUFFIX,openallweb.com
   - DOMAIN-SUFFIX,openbase.com
@@ -3065,6 +3065,7 @@ payload:
   - DOMAIN-SUFFIX,thisav.com
   - DOMAIN-SUFFIX,thongdreams.com
   - DOMAIN-SUFFIX,threadreaderapp.com
+  - DOMAIN-SUFFIX,threads.com
   - DOMAIN-SUFFIX,threatchaos.com
   - DOMAIN-SUFFIX,throughnightsfire.com
   - DOMAIN-SUFFIX,thuhole.com
@@ -5658,6 +5659,7 @@ payload:
   - DOMAIN-SUFFIX,goodnewsnetwork.org
   - DOMAIN-SUFFIX,google.org
   - DOMAIN-SUFFIX,got-game.org
+  - DOMAIN-SUFFIX,gotquestions.org
   - DOMAIN-SUFFIX,grandtrial.org
   - DOMAIN-SUFFIX,grangorz.org
   - DOMAIN-SUFFIX,graph.org
@@ -6379,6 +6381,7 @@ payload:
   - DOMAIN-SUFFIX,facebook.se
   - DOMAIN-SUFFIX,go-to-zlibrary.se
   - DOMAIN-SUFFIX,google.se
+  - DOMAIN-SUFFIX,idope.se
   - DOMAIN-SUFFIX,ipredator.se
   - DOMAIN-SUFFIX,nobel.se
   - DOMAIN-SUFFIX,pinterest.se
@@ -6559,6 +6562,7 @@ payload:
   - DOMAIN-SUFFIX,periscope.tv
   - DOMAIN-SUFFIX,pipii.tv
   - DOMAIN-SUFFIX,pscp.tv
+  - DOMAIN-SUFFIX,subhd.tv
   - DOMAIN-SUFFIX,thotsbay.tv
   - DOMAIN-SUFFIX,tibetonline.tv
   - DOMAIN-SUFFIX,top.tv
