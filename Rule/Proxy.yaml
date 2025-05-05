@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-05 02:54:41
-# RuleCount：7141
+# UpdateTime：2025-05-06 02:44:04
+# RuleCount：7147
 payload:
   - DOMAIN,developer.apple.com
   - DOMAIN,testflight.apple.com
@@ -315,6 +315,7 @@ payload:
   - DOMAIN-SUFFIX,wikileaks.ch
   - DOMAIN-SUFFIX,crisp.chat
   - DOMAIN-SUFFIX,rocket.chat
+  - DOMAIN-SUFFIX,simplex.chat
   - DOMAIN-SUFFIX,social.edu.ci
   - DOMAIN-SUFFIX,google.ci
   - DOMAIN-SUFFIX,ns.ci
@@ -3768,6 +3769,7 @@ payload:
   - DOMAIN-SUFFIX,google.dev
   - DOMAIN-SUFFIX,pages.dev
   - DOMAIN-SUFFIX,tfhub.dev
+  - DOMAIN-SUFFIX,tg.dev
   - DOMAIN-SUFFIX,unlock-music.dev
   - DOMAIN-SUFFIX,web.dev
   - DOMAIN-SUFFIX,workers.dev
@@ -4508,6 +4510,7 @@ payload:
   - DOMAIN-SUFFIX,google.me
   - DOMAIN-SUFFIX,h5galgame.me
   - DOMAIN-SUFFIX,hacg.me
+  - DOMAIN-SUFFIX,hanime1.me
   - DOMAIN-SUFFIX,hdlt.me
   - DOMAIN-SUFFIX,hdsky.me
   - DOMAIN-SUFFIX,hide.me
@@ -5306,6 +5309,7 @@ payload:
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,mixin.one
   - DOMAIN-SUFFIX,one.one
+  - DOMAIN-SUFFIX,telega.one
   - DOMAIN-SUFFIX,slashine.onl
   - DOMAIN-SUFFIX,mastodon.online
   - DOMAIN-SUFFIX,100ke.org
@@ -6968,6 +6972,7 @@ payload:
   - DOMAIN-SUFFIX,bookshome.world
   - DOMAIN-SUFFIX,google.ws
   - DOMAIN-SUFFIX,localdomain.ws
+  - DOMAIN-SUFFIX,missav.ws
   - DOMAIN-SUFFIX,rmbl.ws
   - DOMAIN-SUFFIX,shiksha.ws
   - DOMAIN-SUFFIX,top81.ws
@@ -7001,6 +7006,7 @@ payload:
   - DOMAIN-SUFFIX,uvwxyz.xyz
   - DOMAIN-SUFFIX,whodns.xyz
   - DOMAIN-SUFFIX,yyjlymb.xyz
+  - DOMAIN-SUFFIX,zodgame.xyz
   - DOMAIN-SUFFIX,unblocker.yt
   - DOMAIN-SUFFIX,google.co.za
   - DOMAIN-SUFFIX,qq.co.za
