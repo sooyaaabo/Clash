@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-06 02:43:49
-# RuleCount：278
+# UpdateTime：2025-05-07 02:43:34
+# RuleCount：281
 payload:
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.mywaifu.best
@@ -118,6 +118,7 @@ payload:
   - DOMAIN,tracker.breizh.pm
   - DOMAIN,tracker.bittor.pw
   - DOMAIN,discord.heihachi.pw
+  - DOMAIN,tr.nyacat.pw
   - DOMAIN,retracker.hotplug.ru
   - DOMAIN,tracker.ipv6tracker.ru
   - DOMAIN,bt.okmp3.ru
@@ -128,18 +129,20 @@ payload:
   - DOMAIN,tracker.darkness.services
   - DOMAIN,t.jaekr.sh
   - DOMAIN,open.stealth.si
+  - DOMAIN,tracker.lyretain.site
   - DOMAIN,tracker.ololosh.space
   - DOMAIN,tracker.valete.tf
   - DOMAIN,tracker.therarbg.to
+  - DOMAIN,tracker.23794.top
   - DOMAIN,tr.abiir.top
   - DOMAIN,tracker.expli.top
   - DOMAIN,tracker.gcrenwp.top
   - DOMAIN,sparkle.ghostchu-services.top
   - DOMAIN,tracker.ghostchu-services.top
+  - DOMAIN,utracker.ghostchu-services.top
   - DOMAIN,highteahop.top
   - DOMAIN,tracker.kmzs123.top
   - DOMAIN,tracker.netmap.top
-  - DOMAIN,tr3.ysagin.top
   - DOMAIN,tracker.zhuqiy.top
   - DOMAIN,buny.uk
   - DOMAIN,nyaa.tracker.wf
