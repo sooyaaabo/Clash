@@ -1,10 +1,11 @@
-# UpdateTime：2025-05-07 02:43:34
-# RuleCount：281
+# UpdateTime：2025-05-08 02:43:39
+# RuleCount：278
 payload:
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.mywaifu.best
   - DOMAIN,t.overflow.biz
   - DOMAIN,tracker.bz
+  - DOMAIN,region.nl1.privex.cc
   - DOMAIN,bt1.xxxxbt.cc
   - DOMAIN,tracker.dump.cl
   - DOMAIN,thouvenin.cloud
@@ -32,7 +33,6 @@ payload:
   - DOMAIN,tracker3.itzmx.com
   - DOMAIN,tracker4.itzmx.com
   - DOMAIN,bt.ktrackers.com
-  - DOMAIN,tracker.linvk.com
   - DOMAIN,ttk2.nbaonlineservice.com
   - DOMAIN,tracker.openwebtorrent.com
   - DOMAIN,tracker.sbsub.com
@@ -42,7 +42,6 @@ payload:
   - DOMAIN,tracker.torrust-demo.com
   - DOMAIN,public.tracker.vraphim.com
   - DOMAIN,www.wareztorrent.com
-  - DOMAIN,ns-1.x-fins.com
   - DOMAIN,tracker.yemekyedim.com
   - DOMAIN,chihaya.de
   - DOMAIN,martin-gebhardt.eu
@@ -79,14 +78,13 @@ payload:
   - DOMAIN,0d.kebhana.mx
   - DOMAIN,www.all4nothin.net
   - DOMAIN,retracker01-msk-virt.corbina.net
-  - DOMAIN,tracker.ddunlimited.net
-  - DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
   - DOMAIN,tracker.fnix.net
   - DOMAIN,tracker.gigantino.net
   - DOMAIN,tk.greedland.net
   - DOMAIN,tracker.renfei.net
   - DOMAIN,shubt.net
   - DOMAIN,tracker.skyts.net
+  - DOMAIN,tracker.theoks.net
   - DOMAIN,wepzone.net
   - DOMAIN,torrent.i.ng
   - DOMAIN,tracker.deadorbit.nl
@@ -129,7 +127,6 @@ payload:
   - DOMAIN,tracker.darkness.services
   - DOMAIN,t.jaekr.sh
   - DOMAIN,open.stealth.si
-  - DOMAIN,tracker.lyretain.site
   - DOMAIN,tracker.ololosh.space
   - DOMAIN,tracker.valete.tf
   - DOMAIN,tracker.therarbg.to
@@ -139,10 +136,10 @@ payload:
   - DOMAIN,tracker.gcrenwp.top
   - DOMAIN,sparkle.ghostchu-services.top
   - DOMAIN,tracker.ghostchu-services.top
-  - DOMAIN,utracker.ghostchu-services.top
   - DOMAIN,highteahop.top
   - DOMAIN,tracker.kmzs123.top
   - DOMAIN,tracker.netmap.top
+  - DOMAIN,tr3.ysagin.top
   - DOMAIN,tracker.zhuqiy.top
   - DOMAIN,buny.uk
   - DOMAIN,nyaa.tracker.wf
