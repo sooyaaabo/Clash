@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-08 02:44:28
-# RuleCount：32199
+# UpdateTime：2025-05-09 02:48:08
+# RuleCount：32201
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -13252,6 +13252,7 @@ payload:
   - DOMAIN-SUFFIX,sndcdn.com
   - DOMAIN-SUFFIX,sneaker666.com
   - DOMAIN-SUFFIX,sneakerskick.com
+  - DOMAIN-SUFFIX,snjulebu.com
   - DOMAIN-SUFFIX,snowcorp.com
   - DOMAIN-SUFFIX,snowlionpub.com
   - DOMAIN-SUFFIX,snowmiku.com
@@ -20651,6 +20652,7 @@ payload:
   - DOMAIN-SUFFIX,milph.net
   - DOMAIN-SUFFIX,mimiai.net
   - DOMAIN-SUFFIX,minecraft.net
+  - DOMAIN-SUFFIX,minecraft-services.net
   - DOMAIN-SUFFIX,minhhue.net
   - DOMAIN-SUFFIX,minneapolisbmw.net
   - DOMAIN-SUFFIX,minzhuhua.net
