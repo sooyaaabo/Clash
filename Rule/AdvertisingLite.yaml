@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-09 02:48:53
-# RuleCount：38041
+# UpdateTime：2025-05-10 02:45:35
+# RuleCount：38044
 payload:
   - DOMAIN,tube.ac
   - DOMAIN,bonzai.ad
@@ -20226,6 +20226,9 @@ payload:
   - DOMAIN,chuanmen.mobi
   - DOMAIN,cntdy.mobi
   - DOMAIN,assets.cntdy.mobi
+  - DOMAIN,ddfs-public.ddimg.mobi
+  - DOMAIN,rttrack.ddxq.mobi
+  - DOMAIN,trackercollect.ddxq.mobi
   - DOMAIN,dhouse.mobi
   - DOMAIN,diaoguoshi.mobi
   - DOMAIN,dnjj.mobi
