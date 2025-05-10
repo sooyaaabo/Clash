@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-10 02:43:59
-# RuleCount：278
+# UpdateTime：2025-05-11 02:43:56
+# RuleCount：280
 payload:
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.mywaifu.best
@@ -54,6 +54,7 @@ payload:
   - DOMAIN,tracker.tritan.gg
   - DOMAIN,tracker.itscraftsoftware.my.id
   - DOMAIN,evan.im
+  - DOMAIN,torrent.hificode.in
   - DOMAIN,1337.abcvg.info
   - DOMAIN,tracker-udp.gbitt.info
   - DOMAIN,share.hkg-fansub.info
@@ -79,6 +80,8 @@ payload:
   - DOMAIN,0d.kebhana.mx
   - DOMAIN,www.all4nothin.net
   - DOMAIN,retracker01-msk-virt.corbina.net
+  - DOMAIN,extracker.dahrkael.net
+  - DOMAIN,tracker.ddunlimited.net
   - DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
   - DOMAIN,tracker.fnix.net
   - DOMAIN,tracker.gigantino.net
@@ -109,8 +112,6 @@ payload:
   - DOMAIN,bt.poletracker.org
   - DOMAIN,udp.tracker.projectk.org
   - DOMAIN,seeders-paradise.org
-  - DOMAIN,trackarr.org
-  - DOMAIN,tracker.trackarr.org
   - DOMAIN,tracker.tryhackx.org
   - DOMAIN,tr.zukizuki.org
   - DOMAIN,tracker.ducks.party
@@ -120,6 +121,7 @@ payload:
   - DOMAIN,discord.heihachi.pw
   - DOMAIN,tr.nyacat.pw
   - DOMAIN,retracker.hotplug.ru
+  - DOMAIN,tracker.ipv6tracker.ru
   - DOMAIN,bt.okmp3.ru
   - DOMAIN,d40969.acod.regrucolo.ru
   - DOMAIN,servandroidkino.ru
@@ -128,13 +130,13 @@ payload:
   - DOMAIN,tracker.darkness.services
   - DOMAIN,t.jaekr.sh
   - DOMAIN,open.stealth.si
+  - DOMAIN,tracker.ololosh.space
   - DOMAIN,tracker.valete.tf
   - DOMAIN,tracker.therarbg.to
   - DOMAIN,tracker.23794.top
   - DOMAIN,tr.abiir.top
   - DOMAIN,tracker.expli.top
   - DOMAIN,tracker.gcrenwp.top
-  - DOMAIN,sparkle.ghostchu-services.top
   - DOMAIN,tracker.ghostchu-services.top
   - DOMAIN,highteahop.top
   - DOMAIN,tracker.kmzs123.top
