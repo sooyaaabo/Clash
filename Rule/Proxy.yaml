@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-11 02:44:12
-# RuleCount：7147
+# UpdateTime：2025-05-12 02:51:20
+# RuleCount：7157
 payload:
   - DOMAIN,developer.apple.com
   - DOMAIN,testflight.apple.com
@@ -131,6 +131,7 @@ payload:
   - DOMAIN-SUFFIX,skynet.be
   - DOMAIN-SUFFIX,youtu.be
   - DOMAIN-SUFFIX,yt.be
+  - DOMAIN-SUFFIX,i.111666.best
   - DOMAIN-SUFFIX,google.bf
   - DOMAIN-SUFFIX,blogspot.bg
   - DOMAIN-SUFFIX,free.bg
@@ -1469,6 +1470,7 @@ payload:
   - DOMAIN-SUFFIX,gmiddle.com
   - DOMAIN-SUFFIX,gmocloud.com
   - DOMAIN-SUFFIX,gmodules.com
+  - DOMAIN-SUFFIX,gmp4.com
   - DOMAIN-SUFFIX,go.com
   - DOMAIN-SUFFIX,go-pki.com
   - DOMAIN-SUFFIX,go141.com
@@ -2627,6 +2629,7 @@ payload:
   - DOMAIN-SUFFIX,qianglie.com
   - DOMAIN-SUFFIX,qiangwaikan.com
   - DOMAIN-SUFFIX,qkshare.com
+  - DOMAIN-SUFFIX,qmp4.com
   - DOMAIN-SUFFIX,qmzdd.com
   - DOMAIN-SUFFIX,qoos.com
   - DOMAIN-SUFFIX,qpoe.com
@@ -2704,6 +2707,7 @@ payload:
   - DOMAIN-SUFFIX,rssing.com
   - DOMAIN-SUFFIX,rssmeme.com
   - DOMAIN-SUFFIX,ruanyifeng.com
+  - DOMAIN-SUFFIX,rule34video.com
   - DOMAIN-SUFFIX,rumble.com
   - DOMAIN-SUFFIX,runbtx.com
   - DOMAIN-SUFFIX,rushbee.com
@@ -3117,6 +3121,7 @@ payload:
   - DOMAIN-SUFFIX,tmdfish.com
   - DOMAIN-SUFFIX,tnaflix.com
   - DOMAIN-SUFFIX,tngrnow.com
+  - DOMAIN-SUFFIX,rtm.tnt-ea.com
   - DOMAIN-SUFFIX,to-porno.com
   - DOMAIN-SUFFIX,todoist.com
   - DOMAIN-SUFFIX,togetter.com
@@ -3871,7 +3876,9 @@ payload:
   - DOMAIN-SUFFIX,soundon.fm
   - DOMAIN-SUFFIX,turntable.fm
   - DOMAIN-SUFFIX,tweetmylast.fm
+  - DOMAIN-SUFFIX,z-lib.fm
   - DOMAIN-SUFFIX,archive.fo
+  - DOMAIN-SUFFIX,z-lib.fo
   - DOMAIN-SUFFIX,savethedate.foo
   - DOMAIN-SUFFIX,agnesb.fr
   - DOMAIN-SUFFIX,blogspot.fr
@@ -3907,6 +3914,7 @@ payload:
   - DOMAIN-SUFFIX,google.com.gi
   - DOMAIN-SUFFIX,goo.gl
   - DOMAIN-SUFFIX,google.gl
+  - DOMAIN-SUFFIX,z-lib.gl
   - DOMAIN-SUFFIX,goo.gle
   - DOMAIN-SUFFIX,b-ok.global
   - DOMAIN-SUFFIX,google.gm
@@ -3930,6 +3938,7 @@ payload:
   - DOMAIN-SUFFIX,nic.google
   - DOMAIN-SUFFIX,opensource.google
   - DOMAIN-SUFFIX,passwords.google
+  - DOMAIN-SUFFIX,play.google
   - DOMAIN-SUFFIX,pride.google
   - DOMAIN-SUFFIX,registry.google
   - DOMAIN-SUFFIX,research.google
@@ -5932,6 +5941,7 @@ payload:
   - DOMAIN-SUFFIX,project-syndicate.org
   - DOMAIN-SUFFIX,proxy.org
   - DOMAIN-SUFFIX,pttvan.org
+  - DOMAIN-SUFFIX,puredns.org
   - DOMAIN-SUFFIX,pureinsight.org
   - DOMAIN-SUFFIX,purplelotus.org
   - DOMAIN-SUFFIX,pussthecat.org

@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-11 02:43:56
-# RuleCount：280
+# UpdateTime：2025-05-12 02:51:04
+# RuleCount：275
 payload:
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.mywaifu.best
@@ -8,7 +8,6 @@ payload:
   - DOMAIN,bt1.xxxxbt.cc
   - DOMAIN,tracker.dump.cl
   - DOMAIN,thouvenin.cloud
-  - DOMAIN,tracker1.myporn.club
   - DOMAIN,isk.richardsw.club
   - DOMAIN,home.yxgz.club
   - DOMAIN,tracker.kmzs123.cn
@@ -17,7 +16,6 @@ payload:
   - DOMAIN,tracker.vanitycore.co
   - DOMAIN,0123456789nonexistent.com
   - DOMAIN,tracker.0x7c0.com
-  - DOMAIN,admin.52ywp.com
   - DOMAIN,p4p.arenabg.com
   - DOMAIN,tracker.beeimg.com
   - DOMAIN,tracker.bt-hash.com
@@ -41,14 +39,12 @@ payload:
   - DOMAIN,tracker.tiny-vps.com
   - DOMAIN,torrentsmd.com
   - DOMAIN,tracker.torrust-demo.com
-  - DOMAIN,public.tracker.vraphim.com
   - DOMAIN,www.wareztorrent.com
   - DOMAIN,ns-1.x-fins.com
   - DOMAIN,tracker.yemekyedim.com
   - DOMAIN,chihaya.de
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,ipv4announce.sktorrent.eu
-  - DOMAIN,tr.abir.ga
   - DOMAIN,open.free-tracker.ga
   - DOMAIN,tracker.gmi.gd
   - DOMAIN,tracker.tritan.gg
@@ -81,7 +77,6 @@ payload:
   - DOMAIN,www.all4nothin.net
   - DOMAIN,retracker01-msk-virt.corbina.net
   - DOMAIN,extracker.dahrkael.net
-  - DOMAIN,tracker.ddunlimited.net
   - DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
   - DOMAIN,tracker.fnix.net
   - DOMAIN,tracker.gigantino.net
@@ -106,7 +101,6 @@ payload:
   - DOMAIN,tracker.ipv6tracker.org
   - DOMAIN,tracker.jdx3.org
   - DOMAIN,tracker.lilithraws.org
-  - DOMAIN,ns3109441.mypdns.org
   - DOMAIN,opentor.org
   - DOMAIN,tracker.opentrackr.org
   - DOMAIN,bt.poletracker.org
@@ -137,6 +131,7 @@ payload:
   - DOMAIN,tr.abiir.top
   - DOMAIN,tracker.expli.top
   - DOMAIN,tracker.gcrenwp.top
+  - DOMAIN,sparkle.ghostchu-services.top
   - DOMAIN,tracker.ghostchu-services.top
   - DOMAIN,highteahop.top
   - DOMAIN,tracker.kmzs123.top
