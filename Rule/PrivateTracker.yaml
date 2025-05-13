@@ -1,11 +1,12 @@
-# UpdateTime：2025-05-13 02:54:27
-# RuleCount：266
+# UpdateTime：2025-05-14 02:43:50
+# RuleCount：277
 payload:
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.mywaifu.best
   - DOMAIN,t.overflow.biz
   - DOMAIN,tracker.bz
   - DOMAIN,bt1.xxxxbt.cc
+  - DOMAIN,tracker.dump.cl
   - DOMAIN,thouvenin.cloud
   - DOMAIN,tracker1.myporn.club
   - DOMAIN,isk.richardsw.club
@@ -16,7 +17,6 @@ payload:
   - DOMAIN,tracker.vanitycore.co
   - DOMAIN,0123456789nonexistent.com
   - DOMAIN,tracker.0x7c0.com
-  - DOMAIN,admin.52ywp.com
   - DOMAIN,p4p.arenabg.com
   - DOMAIN,tracker.beeimg.com
   - DOMAIN,tracker.bt-hash.com
@@ -69,10 +69,12 @@ payload:
   - DOMAIN,ipv6.rer.lol
   - DOMAIN,tracker.kuroy.me
   - DOMAIN,retracker.lanta.me
+  - DOMAIN,tracker.lintk.me
   - DOMAIN,lucke.fenesisu.moe
   - DOMAIN,leet-tracker.moe
   - DOMAIN,tracker.waaa.moe
   - DOMAIN,tracker.yume-hatsuyuki.moe
+  - DOMAIN,0d.kebhana.mx
   - DOMAIN,www.all4nothin.net
   - DOMAIN,retracker01-msk-virt.corbina.net
   - DOMAIN,extracker.dahrkael.net
@@ -82,10 +84,13 @@ payload:
   - DOMAIN,tracker.gigantino.net
   - DOMAIN,tk.greedland.net
   - DOMAIN,tracker.renfei.net
+  - DOMAIN,shubt.net
   - DOMAIN,tracker.skyts.net
+  - DOMAIN,tracker.theoks.net
   - DOMAIN,wepzone.net
   - DOMAIN,torrent.i.ng
   - DOMAIN,tracker.deadorbit.nl
+  - DOMAIN,tracker.corpscorp.online
   - DOMAIN,tracker.dler.org
   - DOMAIN,tracker2.dler.org
   - DOMAIN,tracker.dmcomic.org
@@ -107,8 +112,10 @@ payload:
   - DOMAIN,tracker.tryhackx.org
   - DOMAIN,tr.zukizuki.org
   - DOMAIN,tracker.ducks.party
+  - DOMAIN,tracker.moxing.party
   - DOMAIN,tracker.breizh.pm
   - DOMAIN,tracker.bittor.pw
+  - DOMAIN,discord.heihachi.pw
   - DOMAIN,tr.nyacat.pw
   - DOMAIN,retracker.hotplug.ru
   - DOMAIN,tracker.ipv6tracker.ru
@@ -131,11 +138,15 @@ payload:
   - DOMAIN,highteahop.top
   - DOMAIN,tracker.kmzs123.top
   - DOMAIN,tracker.netmap.top
+  - DOMAIN,tr3.ysagin.top
   - DOMAIN,tracker.zhuqiy.top
+  - DOMAIN,buny.uk
   - DOMAIN,nyaa.tracker.wf
+  - DOMAIN,tracker.iperson.xyz
   - DOMAIN,tracker.privateseedbox.xyz
   - DOMAIN,p2p.publictracker.xyz
   - DOMAIN,tracker810.xyz
+  - DOMAIN,open.trackerlist.xyz
   - DOMAIN,tracker.xiaoduola.xyz
   - DOMAIN-SUFFIX,moecat.best
   - DOMAIN-SUFFIX,alpharatio.cc

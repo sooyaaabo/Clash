@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-13 02:54:42
-# RuleCount：7157
+# UpdateTime：2025-05-14 02:44:06
+# RuleCount：7162
 payload:
   - DOMAIN,developer.apple.com
   - DOMAIN,testflight.apple.com
@@ -2305,6 +2305,9 @@ payload:
   - DOMAIN-SUFFIX,nianticlabs.com
   - DOMAIN-SUFFIX,nightlife141.com
   - DOMAIN-SUFFIX,nike.com
+  - DOMAIN-SUFFIX,nikke-en.com
+  - DOMAIN-SUFFIX,nikke-jp.com
+  - DOMAIN-SUFFIX,nikke-kr.com
   - DOMAIN-SUFFIX,nikkei.com
   - DOMAIN-SUFFIX,nikonpc.com
   - DOMAIN-SUFFIX,ninecommentaries.com
@@ -3936,6 +3939,7 @@ payload:
   - DOMAIN-SUFFIX,grow.google
   - DOMAIN-SUFFIX,lers.google
   - DOMAIN-SUFFIX,nic.google
+  - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN-SUFFIX,opensource.google
   - DOMAIN-SUFFIX,passwords.google
   - DOMAIN-SUFFIX,play.google
@@ -6764,6 +6768,7 @@ payload:
   - DOMAIN-SUFFIX,tipo.gov.tw
   - DOMAIN-SUFFIX,wda.gov.tw
   - DOMAIN-SUFFIX,greatroc.tw
+  - DOMAIN-SUFFIX,nikke.hotcool.tw
   - DOMAIN-SUFFIX,hwadzan.tw
   - DOMAIN-SUFFIX,idv.tw
   - DOMAIN-SUFFIX,im88.tw

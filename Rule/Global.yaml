@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-13 02:55:14
-# RuleCount：32210
+# UpdateTime：2025-05-14 02:44:42
+# RuleCount：32215
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -11133,6 +11133,9 @@ payload:
   - DOMAIN-SUFFIX,nikezoom.com
   - DOMAIN-SUFFIX,nikkan-gendai.com
   - DOMAIN-SUFFIX,nikkansports.com
+  - DOMAIN-SUFFIX,nikke-en.com
+  - DOMAIN-SUFFIX,nikke-jp.com
+  - DOMAIN-SUFFIX,nikke-kr.com
   - DOMAIN-SUFFIX,nikkei.com
   - DOMAIN-SUFFIX,nikkei4946.com
   - DOMAIN-SUFFIX,nikonpc.com
@@ -16893,6 +16896,7 @@ payload:
   - DOMAIN-SUFFIX,grow.google
   - DOMAIN-SUFFIX,lers.google
   - DOMAIN-SUFFIX,nic.google
+  - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN-SUFFIX,opensource.google
   - DOMAIN-SUFFIX,passwords.google
   - DOMAIN-SUFFIX,play.google
@@ -25364,6 +25368,7 @@ payload:
   - DOMAIN-SUFFIX,wda.gov.tw
   - DOMAIN-SUFFIX,greatroc.tw
   - DOMAIN-SUFFIX,hbogoasia.tw
+  - DOMAIN-SUFFIX,nikke.hotcool.tw
   - DOMAIN-SUFFIX,hwadzan.tw
   - DOMAIN-SUFFIX,idv.tw
   - DOMAIN-SUFFIX,im88.tw
