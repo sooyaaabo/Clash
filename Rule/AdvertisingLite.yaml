@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-14 02:45:29
-# RuleCount：38044
+# UpdateTime：2025-05-15 02:45:38
+# RuleCount：38045
 payload:
   - DOMAIN,tube.ac
   - DOMAIN,bonzai.ad
@@ -17436,6 +17436,7 @@ payload:
   - DOMAIN,api.developer.xiaomi.com
   - DOMAIN,data.mistat.intl.xiaomi.com
   - DOMAIN,video.market.xiaomi.com
+  - DOMAIN,mistat.xiaomi.com
   - DOMAIN,starfish.pandora.xiaomi.com
   - DOMAIN,tat.pandora.xiaomi.com
   - DOMAIN,xiaomiaoquan.com

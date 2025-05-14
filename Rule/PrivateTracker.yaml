@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-14 02:43:50
-# RuleCount：277
+# UpdateTime：2025-05-15 02:44:06
+# RuleCount：273
 payload:
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.mywaifu.best
@@ -17,6 +17,7 @@ payload:
   - DOMAIN,tracker.vanitycore.co
   - DOMAIN,0123456789nonexistent.com
   - DOMAIN,tracker.0x7c0.com
+  - DOMAIN,admin.52ywp.com
   - DOMAIN,p4p.arenabg.com
   - DOMAIN,tracker.beeimg.com
   - DOMAIN,tracker.bt-hash.com
@@ -46,12 +47,10 @@ payload:
   - DOMAIN,chihaya.de
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,ipv4announce.sktorrent.eu
-  - DOMAIN,open.free-tracker.ga
+  - DOMAIN,tr.abir.ga
   - DOMAIN,tracker.gmi.gd
-  - DOMAIN,tracker.tritan.gg
   - DOMAIN,tracker.itscraftsoftware.my.id
   - DOMAIN,evan.im
-  - DOMAIN,torrent.hificode.in
   - DOMAIN,1337.abcvg.info
   - DOMAIN,tracker-udp.gbitt.info
   - DOMAIN,share.hkg-fansub.info
@@ -71,14 +70,12 @@ payload:
   - DOMAIN,retracker.lanta.me
   - DOMAIN,tracker.lintk.me
   - DOMAIN,lucke.fenesisu.moe
-  - DOMAIN,leet-tracker.moe
   - DOMAIN,tracker.waaa.moe
   - DOMAIN,tracker.yume-hatsuyuki.moe
   - DOMAIN,0d.kebhana.mx
   - DOMAIN,www.all4nothin.net
   - DOMAIN,retracker01-msk-virt.corbina.net
   - DOMAIN,extracker.dahrkael.net
-  - DOMAIN,tracker.ddunlimited.net
   - DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
   - DOMAIN,tracker.fnix.net
   - DOMAIN,tracker.gigantino.net
@@ -91,6 +88,7 @@ payload:
   - DOMAIN,torrent.i.ng
   - DOMAIN,tracker.deadorbit.nl
   - DOMAIN,tracker.corpscorp.online
+  - DOMAIN,concen.org
   - DOMAIN,tracker.dler.org
   - DOMAIN,tracker2.dler.org
   - DOMAIN,tracker.dmcomic.org
@@ -113,7 +111,6 @@ payload:
   - DOMAIN,tr.zukizuki.org
   - DOMAIN,tracker.ducks.party
   - DOMAIN,tracker.moxing.party
-  - DOMAIN,tracker.breizh.pm
   - DOMAIN,tracker.bittor.pw
   - DOMAIN,discord.heihachi.pw
   - DOMAIN,tr.nyacat.pw
@@ -143,7 +140,6 @@ payload:
   - DOMAIN,buny.uk
   - DOMAIN,nyaa.tracker.wf
   - DOMAIN,tracker.iperson.xyz
-  - DOMAIN,tracker.privateseedbox.xyz
   - DOMAIN,p2p.publictracker.xyz
   - DOMAIN,tracker810.xyz
   - DOMAIN,open.trackerlist.xyz
