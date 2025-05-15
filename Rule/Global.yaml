@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-15 02:45:00
-# RuleCount：32215
+# UpdateTime：2025-05-16 02:44:44
+# RuleCount：32201
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -1109,7 +1109,7 @@ payload:
   - DOMAIN-SUFFIX,applepay.berlin
   - DOMAIN-SUFFIX,applepaysupplies.berlin
   - DOMAIN-SUFFIX,google.berlin
-  - DOMAIN-SUFFIX,i.111666.best
+  - DOMAIN-SUFFIX,111666.best
   - DOMAIN-SUFFIX,91porn.best
   - DOMAIN-SUFFIX,dleris.best
   - DOMAIN-SUFFIX,ecuatorianas.best
@@ -3517,7 +3517,6 @@ payload:
   - DOMAIN-SUFFIX,audiencenetwork.com
   - DOMAIN-SUFFIX,audiobeatsau.com
   - DOMAIN-SUFFIX,audiobeatsbydre.com
-  - DOMAIN-SUFFIX,audiomack.com
   - DOMAIN-SUFFIX,audiomonsterbeatsonline.com
   - DOMAIN-SUFFIX,audionow.com
   - DOMAIN-SUFFIX,auntymaza.com
@@ -6841,7 +6840,6 @@ payload:
   - DOMAIN-SUFFIX,fanhaodang.com
   - DOMAIN-SUFFIX,fanhaodian.com
   - DOMAIN-SUFFIX,fanhaolou.com
-  - DOMAIN-SUFFIX,fani.com
   - DOMAIN-SUFFIX,fanleakstoday.com
   - DOMAIN-SUFFIX,fanqiangdang.com
   - DOMAIN-SUFFIX,fanqianghou.com
@@ -6906,7 +6904,6 @@ payload:
   - DOMAIN-SUFFIX,fatbtc.com
   - DOMAIN-SUFFIX,fatstube.com
   - DOMAIN-SUFFIX,fau11.com
-  - DOMAIN-SUFFIX,favcomic.com
   - DOMAIN-SUFFIX,favebook.com
   - DOMAIN-SUFFIX,favelaporno.com
   - DOMAIN-SUFFIX,favepornmovs.com
@@ -7944,7 +7941,6 @@ payload:
   - DOMAIN-SUFFIX,gyalwarinpoche.com
   - DOMAIN-SUFFIX,gyatsostudio.com
   - DOMAIN-SUFFIX,gyutto.com
-  - DOMAIN-SUFFIX,h-ciyuan.com
   - DOMAIN-SUFFIX,h-flash.com
   - DOMAIN-SUFFIX,h-moe.com
   - DOMAIN-SUFFIX,h-webtoon.com
@@ -13334,7 +13330,6 @@ payload:
   - DOMAIN-SUFFIX,sos44.com
   - DOMAIN-SUFFIX,soso7778.com
   - DOMAIN-SUFFIX,sosreader.com
-  - DOMAIN-SUFFIX,sotwe.com
   - DOMAIN-SUFFIX,soubory.com
   - DOMAIN-SUFFIX,soundcloud.com
   - DOMAIN-SUFFIX,soupofmedia.com
@@ -16793,7 +16788,6 @@ payload:
   - DOMAIN-SUFFIX,similar-porn.fun
   - DOMAIN-SUFFIX,soirt4.fun
   - DOMAIN-SUFFIX,sosad.fun
-  - DOMAIN-SUFFIX,ssm.fun
   - DOMAIN-SUFFIX,static.fun
   - DOMAIN-SUFFIX,erodou.tousatu.fun
   - DOMAIN-SUFFIX,toutoupa1024.fun
@@ -16882,7 +16876,6 @@ payload:
   - DOMAIN-SUFFIX,telephony.goog
   - DOMAIN-SUFFIX,translate.goog
   - DOMAIN-SUFFIX,usercontent.goog
-  - DOMAIN-SUFFIX,8888.google
   - DOMAIN-SUFFIX,about.google
   - DOMAIN-SUFFIX,ai.google
   - DOMAIN-SUFFIX,blog.google
@@ -16974,7 +16967,6 @@ payload:
   - DOMAIN-SUFFIX,signal.group
   - DOMAIN-SUFFIX,intel.gs
   - DOMAIN-SUFFIX,ip.gs
-  - DOMAIN-SUFFIX,z-lib.gs
   - DOMAIN-SUFFIX,12diasderegalosdeitunes.gt
   - DOMAIN-SUFFIX,bmw-motorrad.gt
   - DOMAIN-SUFFIX,bmw.com.gt
@@ -18651,7 +18643,7 @@ payload:
   - DOMAIN-SUFFIX,mcdonalds.co.kr
   - DOMAIN-SUFFIX,megamon.co.kr
   - DOMAIN-SUFFIX,mini.co.kr
-  - DOMAIN-SUFFIX,news.mt.co.kr
+  - DOMAIN-SUFFIX,mt.co.kr
   - DOMAIN-SUFFIX,nexoncdn.co.kr
   - DOMAIN-SUFFIX,nintendo.co.kr
   - DOMAIN-SUFFIX,ntdtv.co.kr
@@ -19105,7 +19097,6 @@ payload:
   - DOMAIN-SUFFIX,mangafox.me
   - DOMAIN-SUFFIX,mangahentai.me
   - DOMAIN-SUFFIX,manhwahentai.me
-  - DOMAIN-SUFFIX,manwa.me
   - DOMAIN-SUFFIX,mask.me
   - DOMAIN-SUFFIX,me.me
   - DOMAIN-SUFFIX,mikanani.me
@@ -21442,7 +21433,6 @@ payload:
   - DOMAIN-SUFFIX,test-ipv6.epic.network
   - DOMAIN-SUFFIX,fanqiang.network
   - DOMAIN-SUFFIX,hath.network
-  - DOMAIN-SUFFIX,hysteria.network
   - DOMAIN-SUFFIX,mk.shrimpia.network
   - DOMAIN-SUFFIX,stripe.network
   - DOMAIN-SUFFIX,tracker.network
@@ -23723,7 +23713,6 @@ payload:
   - DOMAIN-SUFFIX,google.ps
   - DOMAIN-SUFFIX,volvotrucks.ps
   - DOMAIN-SUFFIX,yahoo.ps
-  - DOMAIN-SUFFIX,z-lib.ps
   - DOMAIN-SUFFIX,airwick.pt
   - DOMAIN-SUFFIX,alphabet.pt
   - DOMAIN-SUFFIX,apple.pt
@@ -24367,12 +24356,10 @@ payload:
   - DOMAIN-SUFFIX,bmw-motorrad.sk
   - DOMAIN-SUFFIX,canon.sk
   - DOMAIN-SUFFIX,finish.sk
-  - DOMAIN-SUFFIX,go-to-library.sk
   - DOMAIN-SUFFIX,google.sk
   - DOMAIN-SUFFIX,icloud.sk
   - DOMAIN-SUFFIX,ikea.sk
   - DOMAIN-SUFFIX,intel.sk
-  - DOMAIN-SUFFIX,italian-books.sk
   - DOMAIN-SUFFIX,mastercard.sk
   - DOMAIN-SUFFIX,mini.sk
   - DOMAIN-SUFFIX,nurofen.sk
@@ -25060,7 +25047,6 @@ payload:
   - DOMAIN-SUFFIX,swoosh.tv
   - DOMAIN-SUFFIX,tabooporn.tv
   - DOMAIN-SUFFIX,thotbook.tv
-  - DOMAIN-SUFFIX,thotsbay.tv
   - DOMAIN-SUFFIX,tibetonline.tv
   - DOMAIN-SUFFIX,top.tv
   - DOMAIN-SUFFIX,torrentkitty.tv
@@ -25368,7 +25354,7 @@ payload:
   - DOMAIN-SUFFIX,wda.gov.tw
   - DOMAIN-SUFFIX,greatroc.tw
   - DOMAIN-SUFFIX,hbogoasia.tw
-  - DOMAIN-SUFFIX,nikke.hotcool.tw
+  - DOMAIN-SUFFIX,hotcool.tw
   - DOMAIN-SUFFIX,hwadzan.tw
   - DOMAIN-SUFFIX,idv.tw
   - DOMAIN-SUFFIX,im88.tw
