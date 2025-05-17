@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-17 02:44:11
-# RuleCount：273
+# UpdateTime：2025-05-18 02:44:14
+# RuleCount：269
 payload:
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.mywaifu.best
@@ -8,8 +8,6 @@ payload:
   - DOMAIN,bt1.xxxxbt.cc
   - DOMAIN,tracker.dump.cl
   - DOMAIN,thouvenin.cloud
-  - DOMAIN,tracker1.myporn.club
-  - DOMAIN,isk.richardsw.club
   - DOMAIN,home.yxgz.club
   - DOMAIN,tracker.kmzs123.cn
   - DOMAIN,tracker.moeblog.cn
@@ -26,6 +24,7 @@ payload:
   - DOMAIN,exodus.desync.com
   - DOMAIN,tracker.dler.com
   - DOMAIN,tracker.filemail.com
+  - DOMAIN,tracker1.itzmx.com
   - DOMAIN,tracker2.itzmx.com
   - DOMAIN,tracker3.itzmx.com
   - DOMAIN,tracker4.itzmx.com
@@ -38,16 +37,14 @@ payload:
   - DOMAIN,torrentsmd.com
   - DOMAIN,tracker.torrust-demo.com
   - DOMAIN,www.wareztorrent.com
-  - DOMAIN,ns-1.x-fins.com
   - DOMAIN,tracker.yemekyedim.com
-  - DOMAIN,chihaya.de
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,ipv4announce.sktorrent.eu
   - DOMAIN,open.free-tracker.ga
   - DOMAIN,tracker.gmi.gd
   - DOMAIN,tracker.tritan.gg
-  - DOMAIN,tracker.itscraftsoftware.my.id
   - DOMAIN,evan.im
+  - DOMAIN,torrent.hificode.in
   - DOMAIN,1337.abcvg.info
   - DOMAIN,tracker-udp.gbitt.info
   - DOMAIN,share.hkg-fansub.info
@@ -61,12 +58,12 @@ payload:
   - DOMAIN,tracker.leechshield.link
   - DOMAIN,tracker.aburaya.live
   - DOMAIN,bt.rer.lol
+  - DOMAIN,ipv4.rer.lol
   - DOMAIN,ipv6.rer.lol
   - DOMAIN,tracker.kuroy.me
   - DOMAIN,retracker.lanta.me
   - DOMAIN,tracker.lintk.me
   - DOMAIN,lucke.fenesisu.moe
-  - DOMAIN,leet-tracker.moe
   - DOMAIN,tracker.waaa.moe
   - DOMAIN,tracker.yume-hatsuyuki.moe
   - DOMAIN,0d.kebhana.mx
@@ -122,7 +119,6 @@ payload:
   - DOMAIN,tracker.darkness.services
   - DOMAIN,t.jaekr.sh
   - DOMAIN,open.stealth.si
-  - DOMAIN,tracker.ololosh.space
   - DOMAIN,tracker.valete.tf
   - DOMAIN,tracker.therarbg.to
   - DOMAIN,tracker.23794.top
