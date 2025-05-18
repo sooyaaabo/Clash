@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-18 02:44:29
-# RuleCount：7102
+# UpdateTime：2025-05-19 02:44:31
+# RuleCount：7107
 payload:
   - DOMAIN,developer.apple.com
   - DOMAIN,testflight.apple.com
@@ -3087,6 +3087,7 @@ payload:
   - DOMAIN-SUFFIX,tigervpn.com
   - DOMAIN-SUFFIX,tiktok.com
   - DOMAIN-SUFFIX,tiktokcdn.com
+  - DOMAIN-SUFFIX,tiktokcdn-eu.com
   - DOMAIN-SUFFIX,tiktokcdn-us.com
   - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-SUFFIX,tiltbrush.com
@@ -4925,6 +4926,7 @@ payload:
   - DOMAIN-SUFFIX,kqes.net
   - DOMAIN-SUFFIX,kyohk.net
   - DOMAIN-SUFFIX,laqingdan.net
+  - DOMAIN-SUFFIX,ldplayer.net
   - DOMAIN-SUFFIX,leafyvpn.net
   - DOMAIN-SUFFIX,lecloud.net
   - DOMAIN-SUFFIX,letscorp.net
@@ -4965,6 +4967,7 @@ payload:
   - DOMAIN-SUFFIX,mynetav.net
   - DOMAIN-SUFFIX,mypop3.net
   - DOMAIN-SUFFIX,naitik.net
+  - DOMAIN-SUFFIX,bbs.naixi.net
   - DOMAIN-SUFFIX,nekoslovakia.net
   - DOMAIN-SUFFIX,neowin.net
   - DOMAIN-SUFFIX,netflix.net
@@ -5948,6 +5951,7 @@ payload:
   - DOMAIN-SUFFIX,rukor.org
   - DOMAIN-SUFFIX,rutracker.org
   - DOMAIN-SUFFIX,s-dragon.org
+  - DOMAIN-SUFFIX,sagernet.org
   - DOMAIN-SUFFIX,sakya.org
   - DOMAIN-SUFFIX,sambhota.org
   - DOMAIN-SUFFIX,savetibet.org
@@ -6715,6 +6719,7 @@ payload:
   - DOMAIN-SUFFIX,idv.tw
   - DOMAIN-SUFFIX,im88.tw
   - DOMAIN-SUFFIX,inote.tw
+  - DOMAIN-SUFFIX,ldplayer.tw
   - DOMAIN-SUFFIX,memes.tw
   - DOMAIN-SUFFIX,moptt.tw
   - DOMAIN-SUFFIX,murmur.tw

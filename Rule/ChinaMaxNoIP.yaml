@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-18 02:47:23
-# RuleCount：120486
+# UpdateTime：2025-05-19 02:47:30
+# RuleCount：120485
 payload:
   - DOMAIN,livecdnh2.tvanywhere.ae
   - DOMAIN,ip.istatmenus.app
@@ -111449,7 +111449,6 @@ payload:
   - DOMAIN-SUFFIX,lcyp.net
   - DOMAIN-SUFFIX,lddgo.net
   - DOMAIN-SUFFIX,ldmap.net
-  - DOMAIN-SUFFIX,ldplayer.net
   - DOMAIN-SUFFIX,ldszpx.net
   - DOMAIN-SUFFIX,leadal.net
   - DOMAIN-SUFFIX,leadmap.net

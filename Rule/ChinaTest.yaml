@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-18 02:47:01
-# RuleCount：121860
+# UpdateTime：2025-05-19 02:47:04
+# RuleCount：121859
 payload:
   - DOMAIN,ip.istatmenus.app
   - DOMAIN,265.com
@@ -112664,7 +112664,6 @@ payload:
   - DOMAIN-SUFFIX,lcyp.net
   - DOMAIN-SUFFIX,lddgo.net
   - DOMAIN-SUFFIX,ldmap.net
-  - DOMAIN-SUFFIX,ldplayer.net
   - DOMAIN-SUFFIX,ldszpx.net
   - DOMAIN-SUFFIX,leadal.net
   - DOMAIN-SUFFIX,leadmap.net

@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-18 02:44:14
-# RuleCount：269
+# UpdateTime：2025-05-19 02:44:15
+# RuleCount：267
 payload:
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.mywaifu.best
@@ -29,6 +29,7 @@ payload:
   - DOMAIN,tracker3.itzmx.com
   - DOMAIN,tracker4.itzmx.com
   - DOMAIN,bt.ktrackers.com
+  - DOMAIN,tracker.linvk.com
   - DOMAIN,ttk2.nbaonlineservice.com
   - DOMAIN,tracker.openwebtorrent.com
   - DOMAIN,tracker.sbsub.com
@@ -40,9 +41,10 @@ payload:
   - DOMAIN,tracker.yemekyedim.com
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,ipv4announce.sktorrent.eu
-  - DOMAIN,open.free-tracker.ga
+  - DOMAIN,tr.abir.ga
   - DOMAIN,tracker.gmi.gd
   - DOMAIN,tracker.tritan.gg
+  - DOMAIN,tracker.itscraftsoftware.my.id
   - DOMAIN,evan.im
   - DOMAIN,torrent.hificode.in
   - DOMAIN,1337.abcvg.info
@@ -77,7 +79,6 @@ payload:
   - DOMAIN,tracker.renfei.net
   - DOMAIN,shubt.net
   - DOMAIN,tracker.skyts.net
-  - DOMAIN,tracker.theoks.net
   - DOMAIN,wepzone.net
   - DOMAIN,torrent.i.ng
   - DOMAIN,tracker.deadorbit.nl
@@ -105,7 +106,6 @@ payload:
   - DOMAIN,tr.zukizuki.org
   - DOMAIN,tracker.ducks.party
   - DOMAIN,tracker.moxing.party
-  - DOMAIN,tracker.breizh.pm
   - DOMAIN,tracker.bittor.pw
   - DOMAIN,discord.heihachi.pw
   - DOMAIN,tr.nyacat.pw
@@ -119,7 +119,7 @@ payload:
   - DOMAIN,tracker.darkness.services
   - DOMAIN,t.jaekr.sh
   - DOMAIN,open.stealth.si
-  - DOMAIN,tracker.valete.tf
+  - DOMAIN,tracker.ololosh.space
   - DOMAIN,tracker.therarbg.to
   - DOMAIN,tracker.23794.top
   - DOMAIN,tr.abiir.top
@@ -134,8 +134,6 @@ payload:
   - DOMAIN,tracker.zhuqiy.top
   - DOMAIN,buny.uk
   - DOMAIN,nyaa.tracker.wf
-  - DOMAIN,tracker.iperson.xyz
-  - DOMAIN,tracker.privateseedbox.xyz
   - DOMAIN,p2p.publictracker.xyz
   - DOMAIN,tracker810.xyz
   - DOMAIN,open.trackerlist.xyz

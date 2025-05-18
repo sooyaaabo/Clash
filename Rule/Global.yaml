@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-18 02:45:07
-# RuleCount：32201
+# UpdateTime：2025-05-19 02:45:00
+# RuleCount：32204
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -20555,6 +20555,7 @@ payload:
   - DOMAIN-SUFFIX,launchpad.net
   - DOMAIN-SUFFIX,launchpadcontent.net
   - DOMAIN-SUFFIX,launchpadlibrarian.net
+  - DOMAIN-SUFFIX,ldplayer.net
   - DOMAIN-SUFFIX,leafyvpn.net
   - DOMAIN-SUFFIX,leagueoflegends.net
   - DOMAIN-SUFFIX,lecloud.net
@@ -20724,6 +20725,7 @@ payload:
   - DOMAIN-SUFFIX,n3ro.net
   - DOMAIN-SUFFIX,na-att-idns.net
   - DOMAIN-SUFFIX,naitik.net
+  - DOMAIN-SUFFIX,bbs.naixi.net
   - DOMAIN-SUFFIX,naver.net
   - DOMAIN-SUFFIX,navisworks.net
   - DOMAIN-SUFFIX,nbabot.net
@@ -25365,6 +25367,7 @@ payload:
   - DOMAIN-SUFFIX,isexlove.tw
   - DOMAIN-SUFFIX,itunesradio.tw
   - DOMAIN-SUFFIX,jc11.tw
+  - DOMAIN-SUFFIX,ldplayer.tw
   - DOMAIN-SUFFIX,limedia.tw
   - DOMAIN-SUFFIX,limer.tw
   - DOMAIN-SUFFIX,linetv.tw
