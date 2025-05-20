@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-20 02:45:13
-# RuleCount：32222
+# UpdateTime：2025-05-21 02:47:10
+# RuleCount：32223
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -20706,6 +20706,7 @@ payload:
   - DOMAIN-SUFFIX,msedge.net
   - DOMAIN-SUFFIX,msft.net
   - DOMAIN-SUFFIX,msftauth.net
+  - DOMAIN-SUFFIX,msftauthimages.net
   - DOMAIN-SUFFIX,mshome.net
   - DOMAIN-SUFFIX,msn.net
   - DOMAIN-SUFFIX,msnewskids.net
