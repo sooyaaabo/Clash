@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-21 02:48:00
-# RuleCount：38045
+# UpdateTime：2025-05-22 02:45:52
+# RuleCount：38047
 payload:
   - DOMAIN,tube.ac
   - DOMAIN,bonzai.ad
@@ -27216,6 +27216,7 @@ payload:
   - DOMAIN-SUFFIX,adups.com
   - DOMAIN-SUFFIX,wallet.advcash.com
   - DOMAIN-SUFFIX,advertising.com
+  - DOMAIN-SUFFIX,adwangmai.com
   - DOMAIN-SUFFIX,adwetec.com
   - DOMAIN-SUFFIX,adwhirl.com
   - DOMAIN-SUFFIX,adwo.com
@@ -34567,6 +34568,7 @@ payload:
   - DOMAIN-SUFFIX,yezijizhang.com
   - DOMAIN-SUFFIX,yezilm.com
   - DOMAIN-SUFFIX,yf898.com
+  - DOMAIN-SUFFIX,yfanads.com
   - DOMAIN-SUFFIX,yfano.com
   - DOMAIN-SUFFIX,n.yfi8.com
   - DOMAIN-SUFFIX,yfxixi.com
@@ -35806,7 +35808,7 @@ payload:
   - DOMAIN-SUFFIX,e.1919388.net
   - DOMAIN-SUFFIX,m.1919388.net
   - DOMAIN-SUFFIX,1d1px.net
-  - DOMAIN-SUFFIX,zlsdk.1rtb.net
+  - DOMAIN-SUFFIX,1rtb.net
   - DOMAIN-SUFFIX,wm.20150.net
   - DOMAIN-SUFFIX,235123.net
   - DOMAIN-SUFFIX,24haitao.net

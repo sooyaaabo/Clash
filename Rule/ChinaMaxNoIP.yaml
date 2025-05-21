@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-21 02:49:35
-# RuleCount：120701
+# UpdateTime：2025-05-22 02:47:36
+# RuleCount：120699
 payload:
   - DOMAIN,livecdnh2.tvanywhere.ae
   - DOMAIN,ip.istatmenus.app
@@ -11466,7 +11466,6 @@ payload:
   - DOMAIN-SUFFIX,advisionhorizon.com
   - DOMAIN-SUFFIX,advlion.com
   - DOMAIN-SUFFIX,advuser.com
-  - DOMAIN-SUFFIX,adwangmai.com
   - DOMAIN-SUFFIX,adwanji.com
   - DOMAIN-SUFFIX,adwebcloud.com
   - DOMAIN-SUFFIX,adwep.com
@@ -107152,7 +107151,6 @@ payload:
   - DOMAIN-SUFFIX,1m.net
   - DOMAIN-SUFFIX,1paibao.net
   - DOMAIN-SUFFIX,1qianbao.net
-  - DOMAIN-SUFFIX,1rtb.net
   - DOMAIN-SUFFIX,1stacks.net
   - DOMAIN-SUFFIX,2-mm.net
   - DOMAIN-SUFFIX,2000y.net

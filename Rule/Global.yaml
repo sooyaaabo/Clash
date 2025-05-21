@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-21 02:47:10
-# RuleCount：32223
+# UpdateTime：2025-05-22 02:45:08
+# RuleCount：32226
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -444,6 +444,7 @@ payload:
   - DOMAIN,anime-rule34-world.b-cdn.net
   - DOMAIN,servd-anthropic-website.b-cdn.net
   - DOMAIN,tmdb-image-prod.b-cdn.net
+  - DOMAIN,bbs.boingboing.net
   - DOMAIN,dtlgalleryint.cloudapp.net
   - DOMAIN,poshtestgallery.cloudapp.net
   - DOMAIN,psg-int-centralus.cloudapp.net
@@ -9533,6 +9534,7 @@ payload:
   - DOMAIN-SUFFIX,docs.cfw.lbyczf.com
   - DOMAIN-SUFFIX,lcgirls.com
   - DOMAIN-SUFFIX,lcsmerch.com
+  - DOMAIN-SUFFIX,ldstatic.com
   - DOMAIN-SUFFIX,le-vpn.com
   - DOMAIN-SUFFIX,leaguehighschool.com
   - DOMAIN-SUFFIX,leagueoflegends.com
@@ -16310,6 +16312,7 @@ payload:
   - DOMAIN-SUFFIX,yahoo.com.do
   - DOMAIN-SUFFIX,youtube.com.do
   - DOMAIN-SUFFIX,ikea.do
+  - DOMAIN-SUFFIX,linux.do
   - DOMAIN-SUFFIX,esu.dog
   - DOMAIN-SUFFIX,jav.dog
   - DOMAIN-SUFFIX,muncloud.dog
