@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-23 02:48:09
-# RuleCount：129022
+# UpdateTime：2025-05-24 02:48:03
+# RuleCount：129020
 payload:
   - DOMAIN,livecdnh2.tvanywhere.ae
   - DOMAIN,ip.istatmenus.app
@@ -6236,6 +6236,7 @@ payload:
   - DOMAIN-SUFFIX,365355157.com
   - DOMAIN-SUFFIX,36543.com
   - DOMAIN-SUFFIX,365500.com
+  - DOMAIN-SUFFIX,3656.com
   - DOMAIN-SUFFIX,365639355.com
   - DOMAIN-SUFFIX,36578.com
   - DOMAIN-SUFFIX,365960.com
@@ -48613,6 +48614,7 @@ payload:
   - DOMAIN-SUFFIX,ijunhai.com
   - DOMAIN-SUFFIX,ijunxun.com
   - DOMAIN-SUFFIX,ijuzhong.com
+  - DOMAIN-SUFFIX,ijxuitr.com
   - DOMAIN-SUFFIX,ijycnd.com
   - DOMAIN-SUFFIX,ijzhang.com
   - DOMAIN-SUFFIX,ik123.com
@@ -55443,6 +55445,7 @@ payload:
   - DOMAIN-SUFFIX,kingdomfishing.com
   - DOMAIN-SUFFIX,kingdraw.com
   - DOMAIN-SUFFIX,kingexplorer.com
+  - DOMAIN-SUFFIX,kingfu-china.com
   - DOMAIN-SUFFIX,kingfulai.com
   - DOMAIN-SUFFIX,kinggoo.com
   - DOMAIN-SUFFIX,kinggrid.com
@@ -68249,6 +68252,7 @@ payload:
   - DOMAIN-SUFFIX,pbiso.com
   - DOMAIN-SUFFIX,pbkrs.com
   - DOMAIN-SUFFIX,pblie.com
+  - DOMAIN-SUFFIX,pbqdhty.com
   - DOMAIN-SUFFIX,pbsvpn.com
   - DOMAIN-SUFFIX,pbtcw.com
   - DOMAIN-SUFFIX,pbtlpm.com
@@ -80764,6 +80768,7 @@ payload:
   - DOMAIN-SUFFIX,sxbdf.com
   - DOMAIN-SUFFIX,sxbest.com
   - DOMAIN-SUFFIX,sxbjedu.com
+  - DOMAIN-SUFFIX,sxbpa.com
   - DOMAIN-SUFFIX,sxbuszp.com
   - DOMAIN-SUFFIX,sxbychem.com
   - DOMAIN-SUFFIX,sxcahosp.com
@@ -92761,6 +92766,7 @@ payload:
   - DOMAIN-SUFFIX,xiawan8.com
   - DOMAIN-SUFFIX,xiawuyouke.com
   - DOMAIN-SUFFIX,xiayijian.com
+  - DOMAIN-SUFFIX,xiayixing.com
   - DOMAIN-SUFFIX,xiayx.com
   - DOMAIN-SUFFIX,xiazai126.com
   - DOMAIN-SUFFIX,xiazai16.com
@@ -98336,6 +98342,7 @@ payload:
   - DOMAIN-SUFFIX,youxiaju.com
   - DOMAIN-SUFFIX,youxiake.com
   - DOMAIN-SUFFIX,youxiamotors.com
+  - DOMAIN-SUFFIX,youxiangclub.com
   - DOMAIN-SUFFIX,youxiangyx.com
   - DOMAIN-SUFFIX,youxiaoge.com
   - DOMAIN-SUFFIX,youxiaohou.com
@@ -123097,7 +123104,6 @@ payload:
   - IP-CIDR,188.241.80.0/24
   - IP-CIDR,188.190.2.0/24
   - IP-CIDR,188.190.1.0/24
-  - IP-CIDR,185.255.152.0/24
   - IP-CIDR,185.255.55.0/24
   - IP-CIDR,185.248.86.0/24
   - IP-CIDR,185.234.212.0/24
@@ -123121,8 +123127,6 @@ payload:
   - IP-CIDR,182.160.62.0/24
   - IP-CIDR,178.236.232.0/24
   - IP-CIDR,176.56.38.0/24
-  - IP-CIDR,175.29.108.0/24
-  - IP-CIDR,175.29.107.0/24
   - IP-CIDR,174.136.239.0/24
   - IP-CIDR,174.35.117.0/24
   - IP-CIDR,173.44.6.0/24
@@ -123218,7 +123222,6 @@ payload:
   - IP-CIDR,154.197.130.0/24
   - IP-CIDR,154.197.128.0/24
   - IP-CIDR,154.91.34.0/24
-  - IP-CIDR,154.89.49.0/24
   - IP-CIDR,154.72.47.0/24
   - IP-CIDR,154.72.44.0/24
   - IP-CIDR,154.72.42.0/24
@@ -123455,7 +123458,6 @@ payload:
   - IP-CIDR,61.28.212.0/24
   - IP-CIDR,60.254.173.0/24
   - IP-CIDR,59.153.159.0/24
-  - IP-CIDR,59.153.30.0/24
   - IP-CIDR,54.240.241.0/24
   - IP-CIDR,54.240.224.0/24
   - IP-CIDR,52.119.248.0/24
@@ -123899,7 +123901,6 @@ payload:
   - IP-CIDR,185.201.226.0/23
   - IP-CIDR,182.160.60.0/23
   - IP-CIDR,180.92.176.0/23
-  - IP-CIDR,175.29.110.0/23
   - IP-CIDR,175.29.22.0/23
   - IP-CIDR,174.35.58.0/23
   - IP-CIDR,173.223.100.0/23
@@ -123998,7 +123999,6 @@ payload:
   - IP-CIDR,154.197.136.0/23
   - IP-CIDR,154.91.158.0/23
   - IP-CIDR,154.91.32.0/23
-  - IP-CIDR,154.89.50.0/23
   - IP-CIDR,154.36.92.0/23
   - IP-CIDR,154.19.86.0/23
   - IP-CIDR,151.249.90.0/23
@@ -124788,7 +124788,6 @@ payload:
   - IP-CIDR,156.0.92.0/22
   - IP-CIDR,154.213.176.0/22
   - IP-CIDR,154.208.140.0/22
-  - IP-CIDR,154.89.52.0/22
   - IP-CIDR,154.38.104.0/22
   - IP-CIDR,154.19.80.0/22
   - IP-CIDR,154.9.244.0/22
@@ -126675,7 +126674,6 @@ payload:
   - IP-CIDR,157.119.8.0/21
   - IP-CIDR,157.66.88.0/21
   - IP-CIDR,154.208.160.0/21
-  - IP-CIDR,154.89.56.0/21
   - IP-CIDR,154.19.88.0/21
   - IP-CIDR,150.242.240.0/21
   - IP-CIDR,150.242.232.0/21

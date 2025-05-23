@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-23 02:47:28
-# RuleCount：121651
+# UpdateTime：2025-05-24 02:47:16
+# RuleCount：121658
 payload:
   - DOMAIN,ip.istatmenus.app
   - DOMAIN,265.com
@@ -6230,6 +6230,7 @@ payload:
   - DOMAIN-SUFFIX,365355157.com
   - DOMAIN-SUFFIX,36543.com
   - DOMAIN-SUFFIX,365500.com
+  - DOMAIN-SUFFIX,3656.com
   - DOMAIN-SUFFIX,365639355.com
   - DOMAIN-SUFFIX,36578.com
   - DOMAIN-SUFFIX,365960.com
@@ -48680,6 +48681,7 @@ payload:
   - DOMAIN-SUFFIX,ijunhai.com
   - DOMAIN-SUFFIX,ijunxun.com
   - DOMAIN-SUFFIX,ijuzhong.com
+  - DOMAIN-SUFFIX,ijxuitr.com
   - DOMAIN-SUFFIX,ijycnd.com
   - DOMAIN-SUFFIX,ijzhang.com
   - DOMAIN-SUFFIX,ik123.com
@@ -55583,6 +55585,7 @@ payload:
   - DOMAIN-SUFFIX,kingdomfishing.com
   - DOMAIN-SUFFIX,kingdraw.com
   - DOMAIN-SUFFIX,kingexplorer.com
+  - DOMAIN-SUFFIX,kingfu-china.com
   - DOMAIN-SUFFIX,kingfulai.com
   - DOMAIN-SUFFIX,kinggoo.com
   - DOMAIN-SUFFIX,kinggrid.com
@@ -68505,6 +68508,7 @@ payload:
   - DOMAIN-SUFFIX,pbiso.com
   - DOMAIN-SUFFIX,pbkrs.com
   - DOMAIN-SUFFIX,pblie.com
+  - DOMAIN-SUFFIX,pbqdhty.com
   - DOMAIN-SUFFIX,pbsvpn.com
   - DOMAIN-SUFFIX,pbtcw.com
   - DOMAIN-SUFFIX,pbtlpm.com
@@ -81088,6 +81092,7 @@ payload:
   - DOMAIN-SUFFIX,sxbdf.com
   - DOMAIN-SUFFIX,sxbest.com
   - DOMAIN-SUFFIX,sxbjedu.com
+  - DOMAIN-SUFFIX,sxbpa.com
   - DOMAIN-SUFFIX,sxbuszp.com
   - DOMAIN-SUFFIX,sxbychem.com
   - DOMAIN-SUFFIX,sxcahosp.com
@@ -93219,6 +93224,7 @@ payload:
   - DOMAIN-SUFFIX,xiawan8.com
   - DOMAIN-SUFFIX,xiawuyouke.com
   - DOMAIN-SUFFIX,xiayijian.com
+  - DOMAIN-SUFFIX,xiayixing.com
   - DOMAIN-SUFFIX,xiayx.com
   - DOMAIN-SUFFIX,xiazai126.com
   - DOMAIN-SUFFIX,xiazai16.com
@@ -98843,6 +98849,7 @@ payload:
   - DOMAIN-SUFFIX,youxiaju.com
   - DOMAIN-SUFFIX,youxiake.com
   - DOMAIN-SUFFIX,youxiamotors.com
+  - DOMAIN-SUFFIX,youxiangclub.com
   - DOMAIN-SUFFIX,youxiangyx.com
   - DOMAIN-SUFFIX,youxiaoad.com
   - DOMAIN-SUFFIX,youxiaoge.com

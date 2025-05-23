@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-23 02:45:25
-# RuleCount：32226
+# UpdateTime：2025-05-24 02:45:16
+# RuleCount：32233
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -14181,6 +14181,13 @@ payload:
   - DOMAIN-SUFFIX,trendyporn.com
   - DOMAIN-SUFFIX,trikepatrol.com
   - DOMAIN-SUFFIX,triokini.com
+  - DOMAIN-SUFFIX,ak-p.tripcdn.com
+  - DOMAIN-SUFFIX,ak-s.tripcdn.com
+  - DOMAIN-SUFFIX,ak-s-cw.tripcdn.com
+  - DOMAIN-SUFFIX,akatest.tripcdn.com
+  - DOMAIN-SUFFIX,aw-d.tripcdn.com
+  - DOMAIN-SUFFIX,aw-p.tripcdn.com
+  - DOMAIN-SUFFIX,aw-s.tripcdn.com
   - DOMAIN-SUFFIX,tristatebmw.com
   - DOMAIN-SUFFIX,trixhentai.com
   - DOMAIN-SUFFIX,trmini.com
