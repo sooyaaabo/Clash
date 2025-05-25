@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-25 02:45:25
-# RuleCount：7107
+# UpdateTime：2025-05-26 02:47:31
+# RuleCount：7108
 payload:
   - DOMAIN,developer.apple.com
   - DOMAIN,testflight.apple.com
@@ -2658,6 +2658,7 @@ payload:
   - DOMAIN-SUFFIX,reason.com
   - DOMAIN-SUFFIX,redbubble.com
   - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,reddithelp.com
   - DOMAIN-SUFFIX,redditlist.com
   - DOMAIN-SUFFIX,redditmedia.com
   - DOMAIN-SUFFIX,redditspace.com
