@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-26 02:48:01
-# RuleCount：32234
+# UpdateTime：2025-05-27 02:50:34
+# RuleCount：32254
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -193,6 +193,7 @@ payload:
   - DOMAIN,dl.begellhouse.com
   - DOMAIN,homebrew.bintray.com
   - DOMAIN,public-us-pingsx.api.clonoth.com
+  - DOMAIN,time.cloudflare.com
   - DOMAIN,docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
   - DOMAIN,pplx-res.cloudinary.com
   - DOMAIN,apple.comscoreresearch.com
@@ -288,6 +289,8 @@ payload:
   - DOMAIN,medone-education.thieme.com
   - DOMAIN,tesla-cdn.thron.com
   - DOMAIN,rtm.tnt-ea.com
+  - DOMAIN,ntp.ubuntu.com
+  - DOMAIN,time.windows.com
   - DOMAIN,assets1.xboxlive.com
   - DOMAIN,assets2.xboxlive.com
   - DOMAIN,disk.yandex.com
@@ -903,6 +906,7 @@ payload:
   - DOMAIN-SUFFIX,hometrack.com.au
   - DOMAIN-SUFFIX,hsbc.com.au
   - DOMAIN-SUFFIX,huffingtonpost.com.au
+  - DOMAIN-SUFFIX,ibkr.com.au
   - DOMAIN-SUFFIX,ikea.com.au
   - DOMAIN-SUFFIX,illawarramercury.com.au
   - DOMAIN-SUFFIX,intel.com.au
@@ -1569,6 +1573,7 @@ payload:
   - DOMAIN-SUFFIX,hsbc.ca
   - DOMAIN-SUFFIX,huffingtonpost.ca
   - DOMAIN-SUFFIX,iask.ca
+  - DOMAIN-SUFFIX,ibkr.ca
   - DOMAIN-SUFFIX,identi.ca
   - DOMAIN-SUFFIX,ieee.ca
   - DOMAIN-SUFFIX,ikea.ca
@@ -8615,6 +8620,7 @@ payload:
   - DOMAIN-SUFFIX,ibeats-uk.com
   - DOMAIN-SUFFIX,ibeatsbydre.com
   - DOMAIN-SUFFIX,ibkr.com
+  - DOMAIN-SUFFIX,ibkrguides.com
   - DOMAIN-SUFFIX,iblist.com
   - DOMAIN-SUFFIX,ibllc.com
   - DOMAIN-SUFFIX,ibm.com
@@ -16546,6 +16552,7 @@ payload:
   - DOMAIN-SUFFIX,hentaiworld.eu
   - DOMAIN-SUFFIX,hotmail.eu
   - DOMAIN-SUFFIX,hugoroy.eu
+  - DOMAIN-SUFFIX,ibkr.eu
   - DOMAIN-SUFFIX,ibm.eu
   - DOMAIN-SUFFIX,ibook.eu
   - DOMAIN-SUFFIX,idvd.eu
@@ -17090,6 +17097,7 @@ payload:
   - DOMAIN-SUFFIX,hkbn.com.hk
   - DOMAIN-SUFFIX,hkdailynews.com.hk
   - DOMAIN-SUFFIX,hsbc.com.hk
+  - DOMAIN-SUFFIX,ibkr.com.hk
   - DOMAIN-SUFFIX,ifastfinancial.com.hk
   - DOMAIN-SUFFIX,ifastgp.com.hk
   - DOMAIN-SUFFIX,ikea.com.hk
@@ -17436,6 +17444,7 @@ payload:
   - DOMAIN-SUFFIX,epochtimes.ie
   - DOMAIN-SUFFIX,gettyimages.ie
   - DOMAIN-SUFFIX,google.ie
+  - DOMAIN-SUFFIX,ibkr.ie
   - DOMAIN-SUFFIX,icloud.ie
   - DOMAIN-SUFFIX,ikea.ie
   - DOMAIN-SUFFIX,intel.ie
@@ -17539,6 +17548,7 @@ payload:
   - DOMAIN-SUFFIX,google.co.in
   - DOMAIN-SUFFIX,harpercollins.co.in
   - DOMAIN-SUFFIX,hsbc.co.in
+  - DOMAIN-SUFFIX,ibkr.co.in
   - DOMAIN-SUFFIX,ichat.co.in
   - DOMAIN-SUFFIX,ifastfinancial.co.in
   - DOMAIN-SUFFIX,interactivebrokers.co.in
@@ -19978,6 +19988,7 @@ payload:
   - DOMAIN-SUFFIX,cloudfunctions.net
   - DOMAIN-SUFFIX,cloudinary.net
   - DOMAIN-SUFFIX,cloupia.net
+  - DOMAIN-SUFFIX,yandex-images.clstorage.net
   - DOMAIN-SUFFIX,coinalyze.net
   - DOMAIN-SUFFIX,colacloud.net
   - DOMAIN-SUFFIX,comodo.net
@@ -20714,6 +20725,7 @@ payload:
   - DOMAIN-SUFFIX,movidius.net
   - DOMAIN-SUFFIX,mozgcp.net
   - DOMAIN-SUFFIX,mozilla.net
+  - DOMAIN-SUFFIX,mradx.net
   - DOMAIN-SUFFIX,msedge.net
   - DOMAIN-SUFFIX,msft.net
   - DOMAIN-SUFFIX,msftauth.net
@@ -21422,7 +21434,10 @@ payload:
   - DOMAIN-SUFFIX,yahoo.net
   - DOMAIN-SUFFIX,yahoodns.net
   - DOMAIN-SUFFIX,yandex.net
+  - DOMAIN-SUFFIX,yandex-bank.net
+  - DOMAIN-SUFFIX,yandexadexchange.net
   - DOMAIN-SUFFIX,yandexcloud.net
+  - DOMAIN-SUFFIX,yandexcom.net
   - DOMAIN-SUFFIX,yasarang.net
   - DOMAIN-SUFFIX,yastatic.net
   - DOMAIN-SUFFIX,yecl.net
@@ -23047,6 +23062,7 @@ payload:
   - DOMAIN-SUFFIX,rocksdb.org
   - DOMAIN-SUFFIX,rolfoundation.org
   - DOMAIN-SUFFIX,rolsociety.org
+  - DOMAIN-SUFFIX,rostaxi.org
   - DOMAIN-SUFFIX,royalsocietypublishing.org
   - DOMAIN-SUFFIX,rpmfusion.org
   - DOMAIN-SUFFIX,rsf.org
@@ -23463,6 +23479,7 @@ payload:
   - DOMAIN-SUFFIX,xysblogs.org
   - DOMAIN-SUFFIX,yabang.org
   - DOMAIN-SUFFIX,yandex.org
+  - DOMAIN-SUFFIX,yandexwebcache.org
   - DOMAIN-SUFFIX,yibei.org
   - DOMAIN-SUFFIX,yinlei.org
   - DOMAIN-SUFFIX,yiqiedoushiganggangkaishi.org
@@ -24034,6 +24051,7 @@ payload:
   - DOMAIN-SUFFIX,veet.ru
   - DOMAIN-SUFFIX,vfsco.ru
   - DOMAIN-SUFFIX,vk.ru
+  - DOMAIN-SUFFIX,vk-analytics.ru
   - DOMAIN-SUFFIX,vk-apps.ru
   - DOMAIN-SUFFIX,vkontakte.ru
   - DOMAIN-SUFFIX,vkuseraudio.ru
@@ -24231,6 +24249,7 @@ payload:
   - DOMAIN-SUFFIX,google.com.sg
   - DOMAIN-SUFFIX,hewlett-packard.com.sg
   - DOMAIN-SUFFIX,hsbc.com.sg
+  - DOMAIN-SUFFIX,ibkr.com.sg
   - DOMAIN-SUFFIX,ikea.com.sg
   - DOMAIN-SUFFIX,interactivebrokers.com.sg
   - DOMAIN-SUFFIX,ipod.com.sg
@@ -31170,6 +31189,7 @@ payload:
   - DOMAIN-SUFFIX,howtogetmo.co.uk
   - DOMAIN-SUFFIX,hsbc.co.uk
   - DOMAIN-SUFFIX,huffingtonpost.co.uk
+  - DOMAIN-SUFFIX,ibkr.co.uk
   - DOMAIN-SUFFIX,identrust.co.uk
   - DOMAIN-SUFFIX,ikea.co.uk
   - DOMAIN-SUFFIX,independent.co.uk
