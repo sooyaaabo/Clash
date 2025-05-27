@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-27 02:51:15
-# RuleCount：38047
+# UpdateTime：2025-05-28 02:52:59
+# RuleCount：38052
 payload:
   - DOMAIN,tube.ac
   - DOMAIN,bonzai.ad
@@ -1484,6 +1484,11 @@ payload:
   - DOMAIN,sjdjcn.cn
   - DOMAIN,skyjh.cn
   - DOMAIN,a.slsbc.cn
+  - DOMAIN,hc-ssp.sm.cn
+  - DOMAIN,dns.m.sm.cn
+  - DOMAIN,order.sm.cn
+  - DOMAIN,video-ad.sm.cn
+  - DOMAIN,wolong-dsp.sm.cn
   - DOMAIN,smmx3.cn
   - DOMAIN,ujm.snackmachinery.cn
   - DOMAIN,snmi.cn
@@ -25728,7 +25733,7 @@ payload:
   - DOMAIN-SUFFIX,sjmwkj.cn
   - DOMAIN-SUFFIX,slivercommander.cn
   - DOMAIN-SUFFIX,slygzsc.cn
-  - DOMAIN-SUFFIX,sm.cn
+  - DOMAIN-SUFFIX,image.zzd.sm.cn
   - DOMAIN-SUFFIX,smckii.cn
   - DOMAIN-SUFFIX,smdhek58726.cn
   - DOMAIN-SUFFIX,smf82.cn

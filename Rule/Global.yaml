@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-27 02:50:34
-# RuleCount：32254
+# UpdateTime：2025-05-28 02:52:23
+# RuleCount：32256
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -252,6 +252,7 @@ payload:
   - DOMAIN,preprod-publicca.googleapis.com
   - DOMAIN,publicca.googleapis.com
   - DOMAIN,discord-attachments-uploads-prd.storage.googleapis.com
+  - DOMAIN,android.googlesource.com
   - DOMAIN,scholar.googleusercontent.com
   - DOMAIN,deutschewelle.h-cdn.com
   - DOMAIN,wego.here.com
@@ -16912,6 +16913,7 @@ payload:
   - DOMAIN-SUFFIX,dns.google
   - DOMAIN-SUFFIX,domains.google
   - DOMAIN-SUFFIX,environment.google
+  - DOMAIN-SUFFIX,gemini.google
   - DOMAIN-SUFFIX,grow.google
   - DOMAIN-SUFFIX,lers.google
   - DOMAIN-SUFFIX,nic.google

@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-27 02:52:21
-# RuleCount：121335
+# UpdateTime：2025-05-28 02:54:15
+# RuleCount：121355
 payload:
   - DOMAIN,ip.istatmenus.app
   - DOMAIN,265.com
@@ -2655,12 +2655,14 @@ payload:
   - DOMAIN-SUFFIX,cqtally.co
   - DOMAIN-SUFFIX,cscan.co
   - DOMAIN-SUFFIX,cttv.co
+  - DOMAIN-SUFFIX,dewu.co
   - DOMAIN-SUFFIX,dgjoy.co
   - DOMAIN-SUFFIX,dm456.co
   - DOMAIN-SUFFIX,dnsplus.co
   - DOMAIN-SUFFIX,douban.co
   - DOMAIN-SUFFIX,dskb.co
   - DOMAIN-SUFFIX,duohui.co
+  - DOMAIN-SUFFIX,dw2.co
   - DOMAIN-SUFFIX,dw4.co
   - DOMAIN-SUFFIX,dxgg.co
   - DOMAIN-SUFFIX,e3j.co
@@ -27666,8 +27668,13 @@ payload:
   - DOMAIN-SUFFIX,devzeng.com
   - DOMAIN-SUFFIX,deweier.com
   - DOMAIN-SUFFIX,dewu.com
+  - DOMAIN-SUFFIX,dewu-inc.com
+  - DOMAIN-SUFFIX,dewu-inner.com
   - DOMAIN-SUFFIX,dewucdn.com
+  - DOMAIN-SUFFIX,dewuhd.com
+  - DOMAIN-SUFFIX,dewuhui.com
   - DOMAIN-SUFFIX,dewumall.com
+  - DOMAIN-SUFFIX,dewuyouhui.com
   - DOMAIN-SUFFIX,dexejhyxh.com
   - DOMAIN-SUFFIX,dexingroup.com
   - DOMAIN-SUFFIX,dexingrv.com
@@ -29881,6 +29888,7 @@ payload:
   - DOMAIN-SUFFIX,dwgbj.com
   - DOMAIN-SUFFIX,dwgszc.com
   - DOMAIN-SUFFIX,dwgwatch.com
+  - DOMAIN-SUFFIX,dwhhd.com
   - DOMAIN-SUFFIX,dwhut.com
   - DOMAIN-SUFFIX,dwidc.com
   - DOMAIN-SUFFIX,dwinput.com
@@ -36202,6 +36210,8 @@ payload:
   - DOMAIN-SUFFIX,giffox.com
   - DOMAIN-SUFFIX,gifhome.com
   - DOMAIN-SUFFIX,gifshow.com
+  - DOMAIN-SUFFIX,giftatdw.com
+  - DOMAIN-SUFFIX,giftattoday.com
   - DOMAIN-SUFFIX,giftres.com
   - DOMAIN-SUFFIX,giftsbeijing.com
   - DOMAIN-SUFFIX,gifu-pr.com
@@ -68115,6 +68125,7 @@ payload:
   - DOMAIN-SUFFIX,pandagreen.com
   - DOMAIN-SUFFIX,pandaminer.com
   - DOMAIN-SUFFIX,pandaremit.com
+  - DOMAIN-SUFFIX,pandarzli.com
   - DOMAIN-SUFFIX,pandateacher.com
   - DOMAIN-SUFFIX,pandatv.com
   - DOMAIN-SUFFIX,panel-cn.com
@@ -68569,6 +68580,7 @@ payload:
   - DOMAIN-SUFFIX,pengyaou.com
   - DOMAIN-SUFFIX,pengyihotel.com
   - DOMAIN-SUFFIX,pengyou.com
+  - DOMAIN-SUFFIX,pengyoudewu.com
   - DOMAIN-SUFFIX,pengyoukan.com
   - DOMAIN-SUFFIX,pengyuanled.com
   - DOMAIN-SUFFIX,pengyucpa.com
@@ -69292,6 +69304,8 @@ payload:
   - DOMAIN-SUFFIX,point-memory.com
   - DOMAIN-SUFFIX,poiuytw.com
   - DOMAIN-SUFFIX,poizon.com
+  - DOMAIN-SUFFIX,poizon-inner.com
+  - DOMAIN-SUFFIX,poizon-support.com
   - DOMAIN-SUFFIX,pojianyunfu.com
   - DOMAIN-SUFFIX,poke203.com
   - DOMAIN-SUFFIX,poke88.com
@@ -90482,6 +90496,7 @@ payload:
   - DOMAIN-SUFFIX,womeifilm.com
   - DOMAIN-SUFFIX,womeimenye.com
   - DOMAIN-SUFFIX,women-heart.com
+  - DOMAIN-SUFFIX,womendedw.com
   - DOMAIN-SUFFIX,womenjie.com
   - DOMAIN-SUFFIX,wonadea.com
   - DOMAIN-SUFFIX,wondercv.com
@@ -106838,6 +106853,7 @@ payload:
   - DOMAIN-SUFFIX,dacang.ltd
   - DOMAIN-SUFFIX,decoration.ltd
   - DOMAIN-SUFFIX,downloads.ltd
+  - DOMAIN-SUFFIX,du8.ltd
   - DOMAIN-SUFFIX,fanhangame.ltd
   - DOMAIN-SUFFIX,frt.ltd
   - DOMAIN-SUFFIX,gaisen.ltd
@@ -109759,6 +109775,7 @@ payload:
   - DOMAIN-SUFFIX,deweisi.net
   - DOMAIN-SUFFIX,dewmobile.net
   - DOMAIN-SUFFIX,dewu.net
+  - DOMAIN-SUFFIX,dewu-inner.net
   - DOMAIN-SUFFIX,dewx.net
   - DOMAIN-SUFFIX,deyi.net
   - DOMAIN-SUFFIX,dfcms.net
@@ -113265,6 +113282,8 @@ payload:
   - DOMAIN-SUFFIX,pnol.net
   - DOMAIN-SUFFIX,pobaby.net
   - DOMAIN-SUFFIX,pocketuni.net
+  - DOMAIN-SUFFIX,poizon.net
+  - DOMAIN-SUFFIX,poizon-inner.net
   - DOMAIN-SUFFIX,pokerbros.net
   - DOMAIN-SUFFIX,pokermate.net
   - DOMAIN-SUFFIX,polyv.net
@@ -113829,6 +113848,7 @@ payload:
   - DOMAIN-SUFFIX,shiyanbar.net
   - DOMAIN-SUFFIX,shiyebian.net
   - DOMAIN-SUFFIX,shiyedanwei.net
+  - DOMAIN-SUFFIX,shizhuang-inc.net
   - DOMAIN-SUFFIX,shjcpf.net
   - DOMAIN-SUFFIX,shjt.net
   - DOMAIN-SUFFIX,shjtxx.net
