@@ -1,4 +1,4 @@
-# UpdateTime：2025-05-28 02:52:23
+# UpdateTime：2025-05-29 02:57:11
 # RuleCount：32256
 payload:
   - DOMAIN,practivate.adobe
@@ -13687,6 +13687,7 @@ payload:
   - DOMAIN-SUFFIX,sydneytoday.com
   - DOMAIN-SUFFIX,syhacked.com
   - DOMAIN-SUFFIX,symantec.com
+  - DOMAIN-SUFFIX,symantecliveupdate.com
   - DOMAIN-SUFFIX,symauth.com
   - DOMAIN-SUFFIX,symcb.com
   - DOMAIN-SUFFIX,symcd.com
@@ -16913,7 +16914,6 @@ payload:
   - DOMAIN-SUFFIX,dns.google
   - DOMAIN-SUFFIX,domains.google
   - DOMAIN-SUFFIX,environment.google
-  - DOMAIN-SUFFIX,gemini.google
   - DOMAIN-SUFFIX,grow.google
   - DOMAIN-SUFFIX,lers.google
   - DOMAIN-SUFFIX,nic.google

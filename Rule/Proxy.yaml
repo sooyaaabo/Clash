@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-28 02:51:43
-# RuleCount：7109
+# UpdateTime：2025-05-29 02:56:38
+# RuleCount：7108
 payload:
   - DOMAIN,developer.apple.com
   - DOMAIN,testflight.apple.com
@@ -3912,7 +3912,6 @@ payload:
   - DOMAIN-SUFFIX,dns.google
   - DOMAIN-SUFFIX,domains.google
   - DOMAIN-SUFFIX,environment.google
-  - DOMAIN-SUFFIX,gemini.google
   - DOMAIN-SUFFIX,grow.google
   - DOMAIN-SUFFIX,lers.google
   - DOMAIN-SUFFIX,nic.google
