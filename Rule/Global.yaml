@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-29 02:57:11
-# RuleCount：32256
+# UpdateTime：2025-05-30 02:54:42
+# RuleCount：32375
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -2911,6 +2911,7 @@ payload:
   - DOMAIN-SUFFIX,agendaweek.com
   - DOMAIN-SUFFIX,agilebits.com
   - DOMAIN-SUFFIX,agoogleaday.com
+  - DOMAIN-SUFFIX,agri-bank.com
   - DOMAIN-SUFFIX,agzy1.com
   - DOMAIN-SUFFIX,ah-me.com
   - DOMAIN-SUFFIX,ahcathyxxx.com
@@ -3242,6 +3243,7 @@ payload:
   - DOMAIN-SUFFIX,ipfs.anonymize.com
   - DOMAIN-SUFFIX,anonymizer.com
   - DOMAIN-SUFFIX,anpopo.com
+  - DOMAIN-SUFFIX,ansarbank.com
   - DOMAIN-SUFFIX,antarvasnaclips.com
   - DOMAIN-SUFFIX,antarvasnax.com
   - DOMAIN-SUFFIX,anthemgame.com
@@ -4404,6 +4406,7 @@ payload:
   - DOMAIN-SUFFIX,blpcareers.com
   - DOMAIN-SUFFIX,blpevents.com
   - DOMAIN-SUFFIX,blpprofessional.com
+  - DOMAIN-SUFFIX,blubank.com
   - DOMAIN-SUFFIX,blubrry.com
   - DOMAIN-SUFFIX,blueangellive.com
   - DOMAIN-SUFFIX,bluefootcms.com
@@ -8196,6 +8199,7 @@ payload:
   - DOMAIN-SUFFIX,hh-content.com
   - DOMAIN-SUFFIX,hhtdq17.com
   - DOMAIN-SUFFIX,hhvm.com
+  - DOMAIN-SUFFIX,hibank24.com
   - DOMAIN-SUFFIX,hibdontire.com
   - DOMAIN-SUFFIX,hicairo.com
   - DOMAIN-SUFFIX,hiccears.com
@@ -10782,6 +10786,7 @@ payload:
   - DOMAIN-SUFFIX,myyoungmomisnude.com
   - DOMAIN-SUFFIX,myyoungwifeisnude.com
   - DOMAIN-SUFFIX,mzed.com
+  - DOMAIN-SUFFIX,n26.com
   - DOMAIN-SUFFIX,naaktevrouwenporno.com
   - DOMAIN-SUFFIX,nabble.com
   - DOMAIN-SUFFIX,naiadsystems.com
@@ -11607,6 +11612,7 @@ payload:
   - DOMAIN-SUFFIX,parler.com
   - DOMAIN-SUFFIX,parse.com
   - DOMAIN-SUFFIX,parsevideo.com
+  - DOMAIN-SUFFIX,parsian-bank.com
   - DOMAIN-SUFFIX,parstream.com
   - DOMAIN-SUFFIX,partmaker.com
   - DOMAIN-SUFFIX,partycasino.com
@@ -12775,6 +12781,7 @@ payload:
   - DOMAIN-SUFFIX,savoycomputing.com
   - DOMAIN-SUFFIX,saynow.com
   - DOMAIN-SUFFIX,sb-cd.com
+  - DOMAIN-SUFFIX,sb24.com
   - DOMAIN-SUFFIX,sbitravelcard.com
   - DOMAIN-SUFFIX,sbnation.com
   - DOMAIN-SUFFIX,sbuxcard.com
@@ -16137,6 +16144,7 @@ payload:
   - DOMAIN-SUFFIX,netcup-wiki.de
   - DOMAIN-SUFFIX,nicesrv.de
   - DOMAIN-SUFFIX,nintendo.de
+  - DOMAIN-SUFFIX,number26.de
   - DOMAIN-SUFFIX,nurofen.de
   - DOMAIN-SUFFIX,nvidia.de
   - DOMAIN-SUFFIX,otto.de
@@ -16165,6 +16173,7 @@ payload:
   - DOMAIN-SUFFIX,starbucks.de
   - DOMAIN-SUFFIX,sueddeutsche.de
   - DOMAIN-SUFFIX,supersrv.de
+  - DOMAIN-SUFFIX,tech26.de
   - DOMAIN-SUFFIX,telekom.de
   - DOMAIN-SUFFIX,telesec.de
   - DOMAIN-SUFFIX,testipv6.de
@@ -18102,11 +18111,37 @@ payload:
   - DOMAIN-SUFFIX,google.iq
   - DOMAIN-SUFFIX,youtube.iq
   - DOMAIN-SUFFIX,ac.ir
+  - DOMAIN-SUFFIX,bank-maskan.ir
+  - DOMAIN-SUFFIX,bankmellat.ir
+  - DOMAIN-SUFFIX,banksepah.ir
+  - DOMAIN-SUFFIX,bim.ir
+  - DOMAIN-SUFFIX,bmi.ir
+  - DOMAIN-SUFFIX,bpi.ir
+  - DOMAIN-SUFFIX,bsi.ir
+  - DOMAIN-SUFFIX,cbi.ir
+  - DOMAIN-SUFFIX,day24.ir
+  - DOMAIN-SUFFIX,edbi.ir
   - DOMAIN-SUFFIX,edu.ir
+  - DOMAIN-SUFFIX,enbank.ir
+  - DOMAIN-SUFFIX,ghbi.ir
   - DOMAIN-SUFFIX,iranlms.ir
   - DOMAIN-SUFFIX,irib.ir
+  - DOMAIN-SUFFIX,izbank.ir
   - DOMAIN-SUFFIX,jtt.ir
+  - DOMAIN-SUFFIX,karafarinbank.ir
+  - DOMAIN-SUFFIX,mebank.ir
+  - DOMAIN-SUFFIX,mresalat.ir
+  - DOMAIN-SUFFIX,postbank.ir
+  - DOMAIN-SUFFIX,qmb.ir
+  - DOMAIN-SUFFIX,rb24.ir
+  - DOMAIN-SUFFIX,refah-bank.ir
+  - DOMAIN-SUFFIX,rqbank.ir
+  - DOMAIN-SUFFIX,sbank.ir
+  - DOMAIN-SUFFIX,shahr-bank.ir
+  - DOMAIN-SUFFIX,shaparak.ir
   - DOMAIN-SUFFIX,sharif.ir
+  - DOMAIN-SUFFIX,sinabank.ir
+  - DOMAIN-SUFFIX,tejaratbank.ir
   - DOMAIN-SUFFIX,1337x.is
   - DOMAIN-SUFFIX,apple.is
   - DOMAIN-SUFFIX,archive.is
@@ -18238,6 +18273,7 @@ payload:
   - DOMAIN-SUFFIX,20thcenturystudios.jp
   - DOMAIN-SUFFIX,47gyosei.jp
   - DOMAIN-SUFFIX,47news.jp
+  - DOMAIN-SUFFIX,a-bank.jp
   - DOMAIN-SUFFIX,aboutamazon.jp
   - DOMAIN-SUFFIX,abow.jp
   - DOMAIN-SUFFIX,s2csntp.miz.nao.ac.jp
@@ -18302,23 +18338,36 @@ payload:
   - DOMAIN-SUFFIX,ciscospark.jp
   - DOMAIN-SUFFIX,clannad-movie.jp
   - DOMAIN-SUFFIX,cloudgarage.jp
+  - DOMAIN-SUFFIX,114bank.co.jp
+  - DOMAIN-SUFFIX,77bank.co.jp
+  - DOMAIN-SUFFIX,82bank.co.jp
   - DOMAIN-SUFFIX,abematv.co.jp
   - DOMAIN-SUFFIX,acaric.co.jp
+  - DOMAIN-SUFFIX,akita-bank.co.jp
   - DOMAIN-SUFFIX,alicejapan.co.jp
   - DOMAIN-SUFFIX,amazon.co.jp
+  - DOMAIN-SUFFIX,aozorabank.co.jp
   - DOMAIN-SUFFIX,apple.co.jp
   - DOMAIN-SUFFIX,applestore.co.jp
   - DOMAIN-SUFFIX,asakonet.co.jp
+  - DOMAIN-SUFFIX,ashikagabank.co.jp
+  - DOMAIN-SUFFIX,awabank.co.jp
   - DOMAIN-SUFFIX,bloomberg.co.jp
   - DOMAIN-SUFFIX,bmw.co.jp
   - DOMAIN-SUFFIX,bridgestone.co.jp
   - DOMAIN-SUFFIX,bsw.co.jp
   - DOMAIN-SUFFIX,btcbox.co.jp
   - DOMAIN-SUFFIX,centervillage.co.jp
+  - DOMAIN-SUFFIX,chibabank.co.jp
+  - DOMAIN-SUFFIX,chibakogyo-bank.co.jp
+  - DOMAIN-SUFFIX,chikubank.co.jp
+  - DOMAIN-SUFFIX,chugokubank.co.jp
+  - DOMAIN-SUFFIX,citibank.co.jp
   - DOMAIN-SUFFIX,coat.co.jp
   - DOMAIN-SUFFIX,crypton.co.jp
   - DOMAIN-SUFFIX,cybertrust.co.jp
   - DOMAIN-SUFFIX,cygames.co.jp
+  - DOMAIN-SUFFIX,daiichibank.co.jp
   - DOMAIN-SUFFIX,digicert.co.jp
   - DOMAIN-SUFFIX,disney.co.jp
   - DOMAIN-SUFFIX,dmm.co.jp
@@ -18327,52 +18376,102 @@ payload:
   - DOMAIN-SUFFIX,exblog.co.jp
   - DOMAIN-SUFFIX,excite.co.jp
   - DOMAIN-SUFFIX,family.co.jp
+  - DOMAIN-SUFFIX,fukuibank.co.jp
+  - DOMAIN-SUFFIX,fukuokabank.co.jp
   - DOMAIN-SUFFIX,geocities.co.jp
   - DOMAIN-SUFFIX,gettyimages.co.jp
   - DOMAIN-SUFFIX,google.co.jp
+  - DOMAIN-SUFFIX,gunmabank.co.jp
+  - DOMAIN-SUFFIX,higobank.co.jp
+  - DOMAIN-SUFFIX,hiroshimabank.co.jp
   - DOMAIN-SUFFIX,hmv.co.jp
+  - DOMAIN-SUFFIX,hokkoku.co.jp
+  - DOMAIN-SUFFIX,hokuetsubank.co.jp
+  - DOMAIN-SUFFIX,hokutobank.co.jp
+  - DOMAIN-SUFFIX,hokuyobank.co.jp
   - DOMAIN-SUFFIX,hsbc.co.jp
+  - DOMAIN-SUFFIX,hyakugo.co.jp
   - DOMAIN-SUFFIX,ikea.co.jp
+  - DOMAIN-SUFFIX,ikedashinsen.co.jp
   - DOMAIN-SUFFIX,illusion.co.jp
   - DOMAIN-SUFFIX,indies-av.co.jp
   - DOMAIN-SUFFIX,intel.co.jp
   - DOMAIN-SUFFIX,interactivebrokers.co.jp
+  - DOMAIN-SUFFIX,iwatebank.co.jp
+  - DOMAIN-SUFFIX,iyobank.co.jp
   - DOMAIN-SUFFIX,japantimes.co.jp
+  - DOMAIN-SUFFIX,jibunbank.co.jp
   - DOMAIN-SUFFIX,jiyu-kobo.co.jp
+  - DOMAIN-SUFFIX,joyobank.co.jp
+  - DOMAIN-SUFFIX,juhachibank.co.jp
+  - DOMAIN-SUFFIX,juroku.co.jp
   - DOMAIN-SUFFIX,kadokawa.co.jp
+  - DOMAIN-SUFFIX,kagobank.co.jp
   - DOMAIN-SUFFIX,kindle.co.jp
+  - DOMAIN-SUFFIX,kinki.co.jp
+  - DOMAIN-SUFFIX,kitakyushubank.co.jp
+  - DOMAIN-SUFFIX,kiyobank.co.jp
   - DOMAIN-SUFFIX,kk-whys.co.jp
   - DOMAIN-SUFFIX,knowswho.co.jp
+  - DOMAIN-SUFFIX,kyotobank.co.jp
   - DOMAIN-SUFFIX,logicool.co.jp
   - DOMAIN-SUFFIX,mastercard.co.jp
   - DOMAIN-SUFFIX,mcd-holdings.co.jp
   - DOMAIN-SUFFIX,mcdonalds.co.jp
   - DOMAIN-SUFFIX,melonbooks.co.jp
+  - DOMAIN-SUFFIX,michinokubank.co.jp
+  - DOMAIN-SUFFIX,mie.co.jp
+  - DOMAIN-SUFFIX,miyazakibank.co.jp
+  - DOMAIN-SUFFIX,mizuhobank.co.jp
   - DOMAIN-SUFFIX,morisawa.co.jp
+  - DOMAIN-SUFFIX,musashinobank.co.jp
+  - DOMAIN-SUFFIX,nantobank.co.jp
   - DOMAIN-SUFFIX,nexon.co.jp
   - DOMAIN-SUFFIX,next11.co.jp
   - DOMAIN-SUFFIX,nikkei.co.jp
   - DOMAIN-SUFFIX,nikkei-cnbc.co.jp
   - DOMAIN-SUFFIX,nikkeibp.co.jp
   - DOMAIN-SUFFIX,nintendo.co.jp
+  - DOMAIN-SUFFIX,nishinipponbank.co.jp
   - DOMAIN-SUFFIX,nvidia.co.jp
+  - DOMAIN-SUFFIX,ogakikyoritsu.co.jp
+  - DOMAIN-SUFFIX,oitabank.co.jp
+  - DOMAIN-SUFFIX,okinawabank.co.jp
   - DOMAIN-SUFFIX,oricon.co.jp
+  - DOMAIN-SUFFIX,paypay-bank.co.jp
   - DOMAIN-SUFFIX,pearson.co.jp
   - DOMAIN-SUFFIX,pixiv.co.jp
   - DOMAIN-SUFFIX,product.co.jp
   - DOMAIN-SUFFIX,pubmatic.co.jp
   - DOMAIN-SUFFIX,qualcomm.co.jp
   - DOMAIN-SUFFIX,rakuten.co.jp
+  - DOMAIN-SUFFIX,rakuten-bank.co.jp
   - DOMAIN-SUFFIX,realtype.co.jp
+  - DOMAIN-SUFFIX,resonabank.co.jp
   - DOMAIN-SUFFIX,ryokoyomiuri.co.jp
+  - DOMAIN-SUFFIX,ryukyubank.co.jp
+  - DOMAIN-SUFFIX,sagabank.co.jp
+  - DOMAIN-SUFFIX,saitama-resona.co.jp
   - DOMAIN-SUFFIX,sandisk.co.jp
+  - DOMAIN-SUFFIX,saninbank.co.jp
   - DOMAIN-SUFFIX,sankei.co.jp
   - DOMAIN-SUFFIX,sankei-books.co.jp
   - DOMAIN-SUFFIX,sankei-digital.co.jp
   - DOMAIN-SUFFIX,sankei-eiga.co.jp
   - DOMAIN-SUFFIX,sankei-kaihatsu.co.jp
+  - DOMAIN-SUFFIX,sbishinseibank.co.jp
   - DOMAIN-SUFFIX,secom.co.jp
+  - DOMAIN-SUFFIX,sevenbank.co.jp
+  - DOMAIN-SUFFIX,shigagin.co.jp
+  - DOMAIN-SUFFIX,shikokubank.co.jp
+  - DOMAIN-SUFFIX,shimizubank.co.jp
+  - DOMAIN-SUFFIX,shinwabank.co.jp
+  - DOMAIN-SUFFIX,shizuokabank.co.jp
+  - DOMAIN-SUFFIX,shokochukin.co.jp
+  - DOMAIN-SUFFIX,shonai.co.jp
   - DOMAIN-SUFFIX,skyperfectv.co.jp
+  - DOMAIN-SUFFIX,smbc.co.jp
+  - DOMAIN-SUFFIX,smbctb.co.jp
   - DOMAIN-SUFFIX,snk-corp.co.jp
   - DOMAIN-SUFFIX,sod.co.jp
   - DOMAIN-SUFFIX,softether.co.jp
@@ -18386,14 +18485,27 @@ payload:
   - DOMAIN-SUFFIX,sonytc.co.jp
   - DOMAIN-SUFFIX,sponichi.co.jp
   - DOMAIN-SUFFIX,starbucks.co.jp
+  - DOMAIN-SUFFIX,surugabank.co.jp
+  - DOMAIN-SUFFIX,tajimabank.co.jp
   - DOMAIN-SUFFIX,thomsonreuters.co.jp
   - DOMAIN-SUFFIX,tma.co.jp
+  - DOMAIN-SUFFIX,tochigibank.co.jp
+  - DOMAIN-SUFFIX,tohobank.co.jp
+  - DOMAIN-SUFFIX,tohoku-bank.co.jp
   - DOMAIN-SUFFIX,tokyo-sports.co.jp
+  - DOMAIN-SUFFIX,tomibank.co.jp
+  - DOMAIN-SUFFIX,tottoribank.co.jp
+  - DOMAIN-SUFFIX,toyobank.co.jp
   - DOMAIN-SUFFIX,travelex.co.jp
+  - DOMAIN-SUFFIX,tsukubabank.co.jp
   - DOMAIN-SUFFIX,tver.co.jp
   - DOMAIN-SUFFIX,visa.co.jp
   - DOMAIN-SUFFIX,webex.co.jp
   - DOMAIN-SUFFIX,yahoo.co.jp
+  - DOMAIN-SUFFIX,yamagatabank.co.jp
+  - DOMAIN-SUFFIX,yamaguchibank.co.jp
+  - DOMAIN-SUFFIX,yamanashibank.co.jp
+  - DOMAIN-SUFFIX,yokohamabank.co.jp
   - DOMAIN-SUFFIX,yomiuri.co.jp
   - DOMAIN-SUFFIX,yomiuri-johkai.co.jp
   - DOMAIN-SUFFIX,yomiuri-ryokou.co.jp
@@ -18434,6 +18546,7 @@ payload:
   - DOMAIN-SUFFIX,giga-web.jp
   - DOMAIN-SUFFIX,ginzasonypark.jp
   - DOMAIN-SUFFIX,go.jp
+  - DOMAIN-SUFFIX,jfc.go.jp
   - DOMAIN-SUFFIX,jma.go.jp
   - DOMAIN-SUFFIX,jstage.jst.go.jp
   - DOMAIN-SUFFIX,npa.go.jp
@@ -18463,6 +18576,7 @@ payload:
   - DOMAIN-SUFFIX,intel.jp
   - DOMAIN-SUFFIX,ipadair.jp
   - DOMAIN-SUFFIX,ironna.jp
+  - DOMAIN-SUFFIX,jp-bank.japanpost.jp
   - DOMAIN-SUFFIX,kakaotalk.jp
   - DOMAIN-SUFFIX,kamisama-day.jp
   - DOMAIN-SUFFIX,kawaiikawaii.jp
@@ -18495,6 +18609,7 @@ payload:
   - DOMAIN-SUFFIX,mixi.jp
   - DOMAIN-SUFFIX,mostly.jp
   - DOMAIN-SUFFIX,mr-tireman.jp
+  - DOMAIN-SUFFIX,bk.mufg.jp
   - DOMAIN-SUFFIX,mvg.jp
   - DOMAIN-SUFFIX,mi.nakn.jp
   - DOMAIN-SUFFIX,naver.jp
@@ -18530,7 +18645,9 @@ payload:
   - DOMAIN-SUFFIX,adult-doujin-free-information-bureau.officialblog.jp
   - DOMAIN-SUFFIX,omni7.jp
   - DOMAIN-SUFFIX,omorashi.jp
+  - DOMAIN-SUFFIX,boj.or.jp
   - DOMAIN-SUFFIX,nhk.or.jp
+  - DOMAIN-SUFFIX,nochubank.or.jp
   - DOMAIN-SUFFIX,ntp1.plala.or.jp
   - DOMAIN-SUFFIX,ntp2.plala.or.jp
   - DOMAIN-SUFFIX,raizoji.or.jp
@@ -18565,8 +18682,10 @@ payload:
   - DOMAIN-SUFFIX,shadowverse.jp
   - DOMAIN-SUFFIX,showtime.jp
   - DOMAIN-SUFFIX,simg.jp
+  - DOMAIN-SUFFIX,smtb.jp
   - DOMAIN-SUFFIX,softbank.jp
   - DOMAIN-SUFFIX,softbankhawksstore.jp
+  - DOMAIN-SUFFIX,sonybank.jp
   - DOMAIN-SUFFIX,sonybuilding.jp
   - DOMAIN-SUFFIX,sonyglobalsolutions.jp
   - DOMAIN-SUFFIX,sonykigyo.jp
