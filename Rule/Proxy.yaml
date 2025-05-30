@@ -1,4 +1,4 @@
-# UpdateTime：2025-05-30 02:54:07
+# UpdateTime：2025-05-31 02:54:21
 # RuleCount：7108
 payload:
   - DOMAIN,developer.apple.com
@@ -3579,7 +3579,7 @@ payload:
   - DOMAIN-SUFFIX,yahoosandbox.com
   - DOMAIN-SUFFIX,yakbutterblues.com
   - DOMAIN-SUFFIX,yam.com
-  - DOMAIN-SUFFIX,yandex.com
+  - DOMAIN-SUFFIX,disk.yandex.com
   - DOMAIN-SUFFIX,yanghengjun.com
   - DOMAIN-SUFFIX,yangjianli.com
   - DOMAIN-SUFFIX,yayabay.com
