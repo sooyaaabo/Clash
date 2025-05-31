@@ -1,4 +1,4 @@
-# UpdateTime：2025-05-31 02:55:48
+# UpdateTime：2025-06-01 02:50:01
 # RuleCount：981
 payload:
   - DOMAIN,books.apple.com
@@ -16,7 +16,6 @@ payload:
   - DOMAIN,cdp.cloud.unity3d.com
   - DOMAIN,assets1.xboxlive.com
   - DOMAIN,assets2.xboxlive.com
-  - DOMAIN,disk.yandex.com
   - DOMAIN,api.waqi.info
   - DOMAIN,search.yahoo.co.jp
   - DOMAIN,lab.skk.moe
@@ -554,6 +553,7 @@ payload:
   - DOMAIN-SUFFIX,xvideos-cdn.com
   - DOMAIN-SUFFIX,yahoo.com
   - DOMAIN-SUFFIX,yahooapis.com
+  - DOMAIN-SUFFIX,yandex.com
   - DOMAIN-SUFFIX,ycombinator.com
   - DOMAIN-SUFFIX,yeeyi.com
   - DOMAIN-SUFFIX,yes-news.com

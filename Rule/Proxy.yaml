@@ -1,5 +1,5 @@
-# UpdateTime：2025-05-31 02:54:21
-# RuleCount：7108
+# UpdateTime：2025-06-01 02:48:31
+# RuleCount：7107
 payload:
   - DOMAIN,developer.apple.com
   - DOMAIN,testflight.apple.com
@@ -698,7 +698,6 @@ payload:
   - DOMAIN-SUFFIX,bestvpnservice.com
   - DOMAIN-SUFFIX,bestvpnusa.com
   - DOMAIN-SUFFIX,bet365.com
-  - DOMAIN-SUFFIX,betfair.com
   - DOMAIN-SUFFIX,bettervpn.com
   - DOMAIN-SUFFIX,bettween.com
   - DOMAIN-SUFFIX,betvictor.com
@@ -3579,7 +3578,7 @@ payload:
   - DOMAIN-SUFFIX,yahoosandbox.com
   - DOMAIN-SUFFIX,yakbutterblues.com
   - DOMAIN-SUFFIX,yam.com
-  - DOMAIN-SUFFIX,disk.yandex.com
+  - DOMAIN-SUFFIX,yandex.com
   - DOMAIN-SUFFIX,yanghengjun.com
   - DOMAIN-SUFFIX,yangjianli.com
   - DOMAIN-SUFFIX,yayabay.com
