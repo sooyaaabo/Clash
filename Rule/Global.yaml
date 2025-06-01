@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-01 02:49:03
-# RuleCount：32375
+# UpdateTime：2025-06-02 02:54:22
+# RuleCount：32379
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -710,6 +710,7 @@ payload:
   - DOMAIN-SUFFIX,gridaware.app
   - DOMAIN-SUFFIX,hdb1.app
   - DOMAIN-SUFFIX,libsolutions.app
+  - DOMAIN-SUFFIX,meawallet.app
   - DOMAIN-SUFFIX,netlify.app
   - DOMAIN-SUFFIX,omaps.app
   - DOMAIN-SUFFIX,one889.app
@@ -1137,6 +1138,7 @@ payload:
   - DOMAIN-SUFFIX,canon.bg
   - DOMAIN-SUFFIX,disney.bg
   - DOMAIN-SUFFIX,epochtimes.bg
+  - DOMAIN-SUFFIX,fibank.bg
   - DOMAIN-SUFFIX,finish.bg
   - DOMAIN-SUFFIX,free.bg
   - DOMAIN-SUFFIX,google.bg
@@ -1144,6 +1146,7 @@ payload:
   - DOMAIN-SUFFIX,intel.bg
   - DOMAIN-SUFFIX,mastercard.bg
   - DOMAIN-SUFFIX,mini.bg
+  - DOMAIN-SUFFIX,myfin.bg
   - DOMAIN-SUFFIX,nurofen.bg
   - DOMAIN-SUFFIX,sony.bg
   - DOMAIN-SUFFIX,starbucks.bg
@@ -4338,6 +4341,7 @@ payload:
   - DOMAIN-SUFFIX,blackfridaydrebeatsshop.com
   - DOMAIN-SUFFIX,blackhomeporn.com
   - DOMAIN-SUFFIX,blacklogic.com
+  - DOMAIN-SUFFIX,blackmagicdesign.com
   - DOMAIN-SUFFIX,blackmonsterterror.com
   - DOMAIN-SUFFIX,blackshemalevideo.com
   - DOMAIN-SUFFIX,blacksonblondes.com

@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-01 02:48:31
-# RuleCount：7107
+# UpdateTime：2025-06-02 02:53:43
+# RuleCount：7108
 payload:
   - DOMAIN,developer.apple.com
   - DOMAIN,testflight.apple.com
@@ -730,6 +730,7 @@ payload:
   - DOMAIN-SUFFIX,bl-doujinsouko.com
   - DOMAIN-SUFFIX,blacked.com
   - DOMAIN-SUFFIX,blacklogic.com
+  - DOMAIN-SUFFIX,blackmagicdesign.com
   - DOMAIN-SUFFIX,blackvpn.com
   - DOMAIN-SUFFIX,blewpass.com
   - DOMAIN-SUFFIX,blinkx.com
