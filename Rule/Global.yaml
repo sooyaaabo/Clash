@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-02 02:54:22
-# RuleCount：32379
+# UpdateTime：2025-06-03 02:55:51
+# RuleCount：32380
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -5505,6 +5505,7 @@ payload:
   - DOMAIN-SUFFIX,cshive.com
   - DOMAIN-SUFFIX,csmonitor.com
   - DOMAIN-SUFFIX,csnjcbnxdnb.com
+  - DOMAIN-SUFFIX,ctinews.com
   - DOMAIN-SUFFIX,ctotires.com
   - DOMAIN-SUFFIX,ctwant.com
   - DOMAIN-SUFFIX,cubicmotion.com

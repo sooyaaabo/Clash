@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-02 02:53:43
-# RuleCount：7108
+# UpdateTime：2025-06-03 02:55:20
+# RuleCount：7110
 payload:
   - DOMAIN,developer.apple.com
   - DOMAIN,testflight.apple.com
@@ -698,6 +698,7 @@ payload:
   - DOMAIN-SUFFIX,bestvpnservice.com
   - DOMAIN-SUFFIX,bestvpnusa.com
   - DOMAIN-SUFFIX,bet365.com
+  - DOMAIN-SUFFIX,betfair.com
   - DOMAIN-SUFFIX,bettervpn.com
   - DOMAIN-SUFFIX,bettween.com
   - DOMAIN-SUFFIX,betvictor.com
@@ -994,6 +995,7 @@ payload:
   - DOMAIN-SUFFIX,cryptographyengineering.com
   - DOMAIN-SUFFIX,csdparty.com
   - DOMAIN-SUFFIX,csmonitor.com
+  - DOMAIN-SUFFIX,ctinews.com
   - DOMAIN-SUFFIX,ctwant.com
   - DOMAIN-SUFFIX,culturedcode.com
   - DOMAIN-SUFFIX,cumlouder.com
