@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-03 02:55:51
-# RuleCount：32380
+# UpdateTime：2025-06-04 02:53:03
+# RuleCount：32385
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -441,6 +441,7 @@ payload:
   - DOMAIN,vs-cmaf-pushb-ww-live.akamaized.net
   - DOMAIN,vs-hls-push-uk-live.akamaized.net
   - DOMAIN,vs-hls-pushb-uk-live.akamaized.net
+  - DOMAIN,flightsimulator.azureedge.net
   - DOMAIN,gigabyte2.azureedge.net
   - DOMAIN,openaiapi-site.azureedge.net
   - DOMAIN,production-openaicom-storage.azureedge.net
@@ -545,6 +546,7 @@ payload:
   - DOMAIN,vscode-sync-insiders.trafficmanager.net
   - DOMAIN,crl.versign.net
   - DOMAIN,openaicomproductionae4b.blob.core.windows.net
+  - DOMAIN,prodforza.blob.core.windows.net
   - DOMAIN,vscode.blob.core.windows.net
   - DOMAIN,vscode.search.windows.net
   - DOMAIN,practivate.adobe.newoa
@@ -3459,6 +3461,7 @@ payload:
   - DOMAIN-SUFFIX,askubuntu.com
   - DOMAIN-SUFFIX,asmhentai.com
   - DOMAIN-SUFFIX,asmrbuluo.com
+  - DOMAIN-SUFFIX,asobostudio.com
   - DOMAIN-SUFFIX,asp-cc.com
   - DOMAIN-SUFFIX,aspenpublishing.com
   - DOMAIN-SUFFIX,aspnetcdn.com
@@ -7105,6 +7108,7 @@ payload:
   - DOMAIN-SUFFIX,flexsig.com
   - DOMAIN-SUFFIX,flickr.com
   - DOMAIN-SUFFIX,flickriver.com
+  - DOMAIN-SUFFIX,flightsimulator.com
   - DOMAIN-SUFFIX,fling.com
   - DOMAIN-SUFFIX,flipboard.com
   - DOMAIN-SUFFIX,flipfap.com
@@ -20360,6 +20364,7 @@ payload:
   - DOMAIN-SUFFIX,hbo.com.c.footprint.net
   - DOMAIN-SUFFIX,aiv-cdn.net.c.footprint.net
   - DOMAIN-SUFFIX,forgecdn.net
+  - DOMAIN-SUFFIX,forza.net
   - DOMAIN-SUFFIX,forzamotorsport.net
   - DOMAIN-SUFFIX,fox51tns.net
   - DOMAIN-SUFFIX,foxcincy.net
