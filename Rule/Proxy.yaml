@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-05 02:32:37
-# RuleCount：7110
+# UpdateTime：2025-06-07 02:33:05
+# RuleCount：7113
 payload:
   - DOMAIN,developer.apple.com
   - DOMAIN,testflight.apple.com
@@ -916,6 +916,7 @@ payload:
   - DOMAIN-SUFFIX,chromestatus.com
   - DOMAIN-SUFFIX,chubold.com
   - DOMAIN-SUFFIX,chubun.com
+  - DOMAIN-SUFFIX,cici.com
   - DOMAIN-SUFFIX,ciciai.com
   - DOMAIN-SUFFIX,cienen.com
   - DOMAIN-SUFFIX,cirosantilli.com
@@ -4682,6 +4683,7 @@ payload:
   - DOMAIN-SUFFIX,appdownloader.net
   - DOMAIN-SUFFIX,apple-dns.net
   - DOMAIN-SUFFIX,appsocks.net
+  - DOMAIN-SUFFIX,cdn.arstechnica.net
   - DOMAIN-SUFFIX,artsy.net
   - DOMAIN-SUFFIX,askynz.net
   - DOMAIN-SUFFIX,avmoo.net
@@ -6448,6 +6450,7 @@ payload:
   - DOMAIN-SUFFIX,1337x.to
   - DOMAIN-SUFFIX,asg.to
   - DOMAIN-SUFFIX,breached.to
+  - DOMAIN-SUFFIX,coffeemanga.to
   - DOMAIN-SUFFIX,compress.to
   - DOMAIN-SUFFIX,danilo.to
   - DOMAIN-SUFFIX,epac.to

@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-05 02:32:30
-# RuleCount：59
+# UpdateTime：2025-06-07 02:32:57
+# RuleCount：63
 payload:
   - DOMAIN,dns.weixin.qq.com.cn
   - DOMAIN,dns.weibo.cn
@@ -10,6 +10,7 @@ payload:
   - DOMAIN,httpdns-api.aliyuncs.com
   - DOMAIN,httpdns-sc.aliyuncs.com
   - DOMAIN,httpdns.bilivideo.com
+  - DOMAIN,httpdns.calorietech.com
   - DOMAIN,httpdns.c.cdnhwc2.com
   - DOMAIN,dns.jd.com
   - DOMAIN,httpdns.meituan.com
@@ -18,19 +19,22 @@ payload:
   - DOMAIN,dns.weixin.qq.com
   - DOMAIN,httpdns.volcengineapi.com
   - DOMAIN,httpdns.yunxindns.com
-  - DOMAIN,kuaishou.httpdns.pro
   - DOMAIN-SUFFIX,httpdns.baidu.com
   - DOMAIN-SUFFIX,httpsdns.baidu.com
   - DOMAIN-SUFFIX,httpdns.baidubce.com
-  - IP-CIDR,186.76.76.200/32
+  - DOMAIN-SUFFIX,httpdns.pro
+  - IP-CIDR,202.90.110.46/32
+  - IP-CIDR,202.90.108.13/32
   - IP-CIDR,182.254.118.119/32
   - IP-CIDR,182.254.116.117/32
+  - IP-CIDR,180.76.76.200/32
   - IP-CIDR,123.151.54.50/32
   - IP-CIDR,122.9.15.129/32
   - IP-CIDR,122.9.13.79/32
   - IP-CIDR,122.9.7.134/32
   - IP-CIDR,121.36.72.124/32
   - IP-CIDR,120.46.169.234/32
+  - IP-CIDR,118.89.204.198/32
   - IP-CIDR,117.185.228.108/32
   - IP-CIDR,117.144.238.29/32
   - IP-CIDR,116.63.10.135/32

@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-05 02:32:40
-# RuleCount：173
+# UpdateTime：2025-06-07 02:33:09
+# RuleCount：174
 payload:
   - DOMAIN-SUFFIX,appleone.audio
   - DOMAIN-SUFFIX,appleid.berlin
@@ -54,6 +54,7 @@ payload:
   - DOMAIN-SUFFIX,icloud.com
   - DOMAIN-SUFFIX,icloud-content.com
   - DOMAIN-SUFFIX,icloud-isupport.com
+  - DOMAIN-SUFFIX,icloud-sandbox.com
   - DOMAIN-SUFFIX,icloude.com
   - DOMAIN-SUFFIX,icloudhome.com
   - DOMAIN-SUFFIX,icloudo.com

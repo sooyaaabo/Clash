@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-05 02:33:19
-# RuleCount：32385
+# UpdateTime：2025-06-07 02:33:41
+# RuleCount：32388
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -5187,6 +5187,7 @@ payload:
   - DOMAIN-SUFFIX,chwr7s8u.com
   - DOMAIN-SUFFIX,chyoa.com
   - DOMAIN-SUFFIX,ciattackers.com
+  - DOMAIN-SUFFIX,cici.com
   - DOMAIN-SUFFIX,ciciai.com
   - DOMAIN-SUFFIX,cienen.com
   - DOMAIN-SUFFIX,cilk.com
@@ -19874,6 +19875,7 @@ payload:
   - DOMAIN-SUFFIX,appsocks.net
   - DOMAIN-SUFFIX,appsonebay.net
   - DOMAIN-SUFFIX,archiveofourown.net
+  - DOMAIN-SUFFIX,cdn.arstechnica.net
   - DOMAIN-SUFFIX,artsy.net
   - DOMAIN-SUFFIX,asextube.net
   - DOMAIN-SUFFIX,asianfreeporn.net
@@ -24757,6 +24759,7 @@ payload:
   - DOMAIN-SUFFIX,asg.to
   - DOMAIN-SUFFIX,babypink.to
   - DOMAIN-SUFFIX,breached.to
+  - DOMAIN-SUFFIX,coffeemanga.to
   - DOMAIN-SUFFIX,compress.to
   - DOMAIN-SUFFIX,cpz.to
   - DOMAIN-SUFFIX,danilo.to

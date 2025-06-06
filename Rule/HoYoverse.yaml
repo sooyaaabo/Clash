@@ -1,11 +1,14 @@
-# UpdateTime：2025-06-05 02:32:55
-# RuleCount：8
+# UpdateTime：2025-06-07 02:33:23
+# RuleCount：11
 payload:
   - DOMAIN-SUFFIX,genshinimpact.com
   - DOMAIN-SUFFIX,honkaiimpact3.com
   - DOMAIN-SUFFIX,honkaistarrail.com
   - DOMAIN-SUFFIX,hoyolab.com
   - DOMAIN-SUFFIX,hoyoverse.com
+  - DOMAIN-SUFFIX,juequling.com
   - DOMAIN-SUFFIX,n0vadesktop.com
+  - DOMAIN-SUFFIX,starrails.com
+  - DOMAIN-SUFFIX,themisweeps.com
   - DOMAIN-SUFFIX,yuanshen.com
   - DOMAIN-SUFFIX,hoyo.link

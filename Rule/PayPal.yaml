@@ -1,6 +1,7 @@
-# UpdateTime：2025-06-05 02:33:58
-# RuleCount：248
+# UpdateTime：2025-06-07 02:34:17
+# RuleCount：249
 payload:
+  - DOMAIN,www.paypal-mktg.com
   - DOMAIN-SUFFIX,paypal.ca
   - DOMAIN-SUFFIX,anfutong.cn
   - DOMAIN-SUFFIX,beibao.cn

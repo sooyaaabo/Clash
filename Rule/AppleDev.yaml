@@ -1,14 +1,18 @@
-# UpdateTime：2025-06-05 02:32:26
-# RuleCount：36
+# UpdateTime：2025-06-07 02:32:53
+# RuleCount：40
 payload:
   - DOMAIN-SUFFIX,researchkit.com.cn
   - DOMAIN-SUFFIX,swiftui.com.cn
   - DOMAIN-SUFFIX,researchkit.cn
   - DOMAIN-SUFFIX,swiftui.cn
+  - DOMAIN-SUFFIX,notary-submissions-prod.s3-accelerate.amazonaws.com
+  - DOMAIN-SUFFIX,notary-submissions-prod.s3.us-west-2.amazonaws.com
   - DOMAIN-SUFFIX,developer.apple.com
+  - DOMAIN-SUFFIX,developerservices2.apple.com
   - DOMAIN-SUFFIX,devimages-cdn.apple.com
   - DOMAIN-SUFFIX,devstreaming-cdn.apple.com
   - DOMAIN-SUFFIX,playgrounds-cdn.apple.com
+  - DOMAIN-SUFFIX,timestamp.apple.com
   - DOMAIN-SUFFIX,apple-cloudkit.com
   - DOMAIN-SUFFIX,apple-mapkit.com
   - DOMAIN-SUFFIX,appleswift.com

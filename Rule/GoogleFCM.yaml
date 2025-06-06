@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-05 02:32:29
-# RuleCount：35
+# UpdateTime：2025-06-07 02:32:56
+# RuleCount：41
 payload:
   - DOMAIN,alt1-mtalk.google.com
   - DOMAIN,alt2-mtalk.google.com
@@ -9,7 +9,13 @@ payload:
   - DOMAIN,alt6-mtalk.google.com
   - DOMAIN,alt7-mtalk.google.com
   - DOMAIN,alt8-mtalk.google.com
+  - DOMAIN,android.apis.google.com
   - DOMAIN,mtalk.google.com
+  - DOMAIN,mtalk-dev.google.com
+  - DOMAIN,mtalk-staging.google.com
+  - DOMAIN,mtalk4.google.com
+  - DOMAIN,device-provisioning.googleapis.com
+  - DOMAIN,firebaseinstallations.googleapis.com
   - IP-CIDR,209.85.233.188/32
   - IP-CIDR,173.194.218.188/32
   - IP-CIDR,173.194.175.188/32

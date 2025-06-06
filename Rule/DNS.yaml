@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-05 02:32:22
-# RuleCount：110
+# UpdateTime：2025-06-07 02:32:49
+# RuleCount：119
 payload:
   - DOMAIN,doh.tiar.app
   - DOMAIN,jp.tiar.app
@@ -27,6 +27,7 @@ payload:
   - DOMAIN,chrome.cloudflare-dns.com
   - DOMAIN,family.cloudflare-dns.com
   - DOMAIN,mozilla.cloudflare-dns.com
+  - DOMAIN,opera.cloudflare-dns.com
   - DOMAIN,security.cloudflare-dns.com
   - DOMAIN,dns.containerpi.com
   - DOMAIN,dns.dns-over-https.com
@@ -69,6 +70,10 @@ payload:
   - DOMAIN,ordns.he.net
   - DOMAIN,dns.hostux.net
   - DOMAIN,doh.mullvad.net
+  - DOMAIN,doh.onedns.net
+  - DOMAIN,doh-pure.onedns.net
+  - DOMAIN,dot.onedns.net
+  - DOMAIN,dot-pure.onedns.net
   - DOMAIN,dns.quad9.net
   - DOMAIN,dns10.quad9.net
   - DOMAIN,dns11.quad9.net
@@ -101,13 +106,17 @@ payload:
   - IP-CIDR,119.29.107.85/32
   - IP-CIDR,119.29.29.29/32
   - IP-CIDR,118.89.110.78/32
+  - IP-CIDR,117.50.22.22/32
   - IP-CIDR,114.114.114.114/32
   - IP-CIDR,101.101.101.101/32
   - IP-CIDR,58.20.127.238/32
   - IP-CIDR,58.20.127.170/32
+  - IP-CIDR,52.80.66.66/32
   - IP-CIDR,47.96.179.163/32
   - IP-CIDR,12.159.2.159/32
   - IP-CIDR,9.9.9.9/32
   - IP-CIDR,8.8.8.8/32
   - IP-CIDR,8.8.4.4/32
   - IP-CIDR,1.1.1.1/32
+  - IP-CIDR,1.1.1.2/31
+  - IP-CIDR,1.0.0.2/31

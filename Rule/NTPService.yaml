@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-05 02:32:27
-# RuleCount：81
+# UpdateTime：2025-06-07 02:32:54
+# RuleCount：82
 payload:
   - DOMAIN-SUFFIX,ntp.sjtu.edu.cn
   - DOMAIN-SUFFIX,s1a.time.edu.cn
@@ -74,6 +74,7 @@ payload:
   - DOMAIN-SUFFIX,time3.cloud.tencent.com
   - DOMAIN-SUFFIX,time4.cloud.tencent.com
   - DOMAIN-SUFFIX,time5.cloud.tencent.com
+  - DOMAIN-SUFFIX,ntp.tencent.com
   - DOMAIN-SUFFIX,time1.tencentyun.com
   - DOMAIN-SUFFIX,time2.tencentyun.com
   - DOMAIN-SUFFIX,time3.tencentyun.com

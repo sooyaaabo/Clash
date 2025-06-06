@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-05 02:32:21
-# RuleCount：200
+# UpdateTime：2025-06-07 02:32:49
+# RuleCount：201
 payload:
   - DOMAIN,token-api.metaswap.codefi.network
   - DOMAIN-SUFFIX,gate.ac
@@ -155,6 +155,7 @@ payload:
   - DOMAIN-SUFFIX,raydium.io
   - DOMAIN-SUFFIX,synthetix.io
   - DOMAIN-SUFFIX,thetie.io
+  - DOMAIN-SUFFIX,unisat.io
   - DOMAIN-SUFFIX,zb.io
   - DOMAIN-SUFFIX,zkscan.io
   - DOMAIN-SUFFIX,zksync.io
