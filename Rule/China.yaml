@@ -1,27 +1,23 @@
-# UpdateTime：2025-06-07 02:33:11
-# RuleCount：3758
+# UpdateTime：2025-06-08 03:46:24
+# RuleCount：3754
 payload:
   - DOMAIN,ip.istatmenus.app
   - DOMAIN,client.amplifi.com
   - DOMAIN,cdn.angruo.com
-  - DOMAIN,ip.bjango.com
   - DOMAIN,sms.imagetasks.com
   - DOMAIN,download.jetbrains.com
   - DOMAIN,kc.kexinshe.com
   - DOMAIN,www.libvideo.com
   - DOMAIN,download.microsoft.com
   - DOMAIN,ntservicepack.microsoft.com
-  - DOMAIN,outlook.office365.com
-  - DOMAIN,smtp.office365.com
-  - DOMAIN,smtp-mail.outlook.com
   - DOMAIN,images-cn.ssl-images-amazon.com
   - DOMAIN,analytics.strava.com
   - DOMAIN,weixin.com
-  - DOMAIN,wustat.windows.com
   - DOMAIN,www.yxssp.com
   - DOMAIN,origin-a.akamaihd.ne
   - DOMAIN,blzddist1-a.akamaihd.net
   - DOMAIN,origin-a.akamaihd.net
+  - DOMAIN,steamcommunity-a.akamaihd.net
   - DOMAIN-SUFFIX,uoj.ac
   - DOMAIN-SUFFIX,icbc.ae
   - DOMAIN-SUFFIX,icbcme.ae

@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-07 02:33:05
-# RuleCount：7113
+# UpdateTime：2025-06-08 03:46:18
+# RuleCount：7114
 payload:
   - DOMAIN,developer.apple.com
   - DOMAIN,testflight.apple.com
@@ -461,6 +461,7 @@ payload:
   - DOMAIN-SUFFIX,8964museum.com
   - DOMAIN-SUFFIX,8teenxxx.com
   - DOMAIN-SUFFIX,9001700.com
+  - DOMAIN-SUFFIX,91dasai.com
   - DOMAIN-SUFFIX,91porn.com
   - DOMAIN-SUFFIX,91porny.com
   - DOMAIN-SUFFIX,92ccav.com

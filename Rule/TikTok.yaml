@@ -1,11 +1,7 @@
-# UpdateTime：2025-06-07 02:34:14
-# RuleCount：32
+# UpdateTime：2025-06-08 03:47:35
+# RuleCount：28
 payload:
   - DOMAIN,lf16-effectcdn.byteeffecttos-g.com
-  - DOMAIN,cdn-tos-ncdn.bytegecko.com
-  - DOMAIN,dcd-cdn-tos.bytegecko.com
-  - DOMAIN,webcast-cdn-tos.bytegecko.com
-  - DOMAIN,webcast-cdn-tos-ncdn.bytegecko.com
   - DOMAIN,lf16-pkgcdn.pitaya-clientai.com
   - DOMAIN,p16-tiktokcdn-com.akamaized.net
   - DOMAIN-SUFFIX,tiktokmusic.app

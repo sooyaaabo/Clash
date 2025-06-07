@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-07 02:33:41
-# RuleCount：32388
+# UpdateTime：2025-06-08 03:46:58
+# RuleCount：32389
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -2673,6 +2673,7 @@ payload:
   - DOMAIN-SUFFIX,91-cg.com
   - DOMAIN-SUFFIX,91avfuli.com
   - DOMAIN-SUFFIX,91beiyong.com
+  - DOMAIN-SUFFIX,91dasai.com
   - DOMAIN-SUFFIX,91jinman.com
   - DOMAIN-SUFFIX,91moxiong.com
   - DOMAIN-SUFFIX,91porn.com
