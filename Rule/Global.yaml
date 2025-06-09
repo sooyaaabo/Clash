@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-08 03:46:58
-# RuleCount：32389
+# UpdateTime：2025-06-10 02:33:09
+# RuleCount：32391
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -1937,7 +1937,9 @@ payload:
   - DOMAIN-SUFFIX,vk.cc
   - DOMAIN-SUFFIX,vocus.cc
   - DOMAIN-SUFFIX,vuku.cc
+  - DOMAIN-SUFFIX,wallhaven.cc
   - DOMAIN-SUFFIX,whatsapp.cc
+  - DOMAIN-SUFFIX,whvn.cc
   - DOMAIN-SUFFIX,wretch.cc
   - DOMAIN-SUFFIX,xjp.cc
   - DOMAIN-SUFFIX,xlydh.cc
