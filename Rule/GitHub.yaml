@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-10 02:32:25
-# RuleCount：30
+# UpdateTime：2025-06-12 02:32:05
+# RuleCount：31
 payload:
   - DOMAIN-SUFFIX,github.blog
   - DOMAIN-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com
@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,githubapp.com
   - DOMAIN-SUFFIX,githubassets.com
+  - DOMAIN-SUFFIX,githubcopilot.com
   - DOMAIN-SUFFIX,githubhackathon.com
   - DOMAIN-SUFFIX,githubnext.com
   - DOMAIN-SUFFIX,githubstatus.com
