@@ -1,9 +1,0 @@
-# UpdateTime：2025-06-12 02:32:09
-# RuleCount：6
-payload:
-  - DOMAIN-SUFFIX,wasu.cn
-  - DOMAIN-SUFFIX,wasumedia.cn
-  - DOMAIN-SUFFIX,hzcnc.com
-  - DOMAIN-SUFFIX,hzman.net
-  - DOMAIN-SUFFIX,hzdtv.tv
-  - DOMAIN-SUFFIX,wasu.tv

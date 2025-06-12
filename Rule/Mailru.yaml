@@ -1,6 +1,0 @@
-# UpdateTime：2025-06-12 02:32:04
-# RuleCount：3
-payload:
-  - DOMAIN-SUFFIX,mycdn.me
-  - DOMAIN-SUFFIX,imgsmail.ru
-  - DOMAIN-SUFFIX,mail.ru

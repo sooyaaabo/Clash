@@ -1,7 +1,0 @@
-# UpdateTime：2025-06-12 02:32:03
-# RuleCount：4
-payload:
-  - DOMAIN,teams.events.data.microsoft.com
-  - DOMAIN-SUFFIX,teams.live.com
-  - DOMAIN-SUFFIX,teams.microsoft.com
-  - DOMAIN-SUFFIX,teams.cdn.live.net

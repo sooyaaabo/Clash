@@ -1,7 +1,0 @@
-# UpdateTime：2025-06-12 02:34:02
-# RuleCount：4
-payload:
-  - DOMAIN-SUFFIX,do.co
-  - DOMAIN-SUFFIX,digitalocean.com
-  - DOMAIN-SUFFIX,digitaloceanspaces.com
-  - DOMAIN-SUFFIX,nginxconfig.io

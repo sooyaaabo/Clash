@@ -1,7 +1,0 @@
-# UpdateTime：2025-06-12 02:32:20
-# RuleCount：4
-payload:
-  - DOMAIN,live-patreon-marketing.pantheonsite.io
-  - DOMAIN-SUFFIX,patreon.com
-  - DOMAIN-SUFFIX,patreoncommunity.com
-  - DOMAIN-SUFFIX,patreonusercontent.com

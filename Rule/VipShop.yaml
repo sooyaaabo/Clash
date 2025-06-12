@@ -1,7 +1,0 @@
-# UpdateTime：2025-06-12 02:33:53
-# RuleCount：4
-payload:
-  - DOMAIN-SUFFIX,appsimg.com
-  - DOMAIN-SUFFIX,appvipshop.com
-  - DOMAIN-SUFFIX,vip.com
-  - DOMAIN-SUFFIX,vipstatic.com

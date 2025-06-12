@@ -1,7 +1,0 @@
-# UpdateTime：2025-06-12 02:32:38
-# RuleCount：4
-payload:
-  - DOMAIN,d349g9zuie06uo.cloudfront.net
-  - DOMAIN-SUFFIX,channel5.com
-  - DOMAIN-SUFFIX,my5.tv
-  - USER-AGENT,My5*

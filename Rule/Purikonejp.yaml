@@ -1,6 +1,0 @@
-# UpdateTime：2025-06-12 02:33:50
-# RuleCount：3
-payload:
-  - DOMAIN-SUFFIX,api-priconne-redive.cygames.jp
-  - DOMAIN-SUFFIX,omotenashi.cygames.jp
-  - DOMAIN-SUFFIX,prd-priconne-redive.akamaized.net

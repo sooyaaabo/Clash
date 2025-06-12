@@ -1,9 +1,0 @@
-# UpdateTime：2025-06-12 02:32:02
-# RuleCount：6
-payload:
-  - DOMAIN,http-inputs-notion.splunkcloud.com
-  - DOMAIN-SUFFIX,notion.com
-  - DOMAIN-SUFFIX,notion-static.com
-  - DOMAIN-SUFFIX,notion.new
-  - DOMAIN-SUFFIX,notion.site
-  - DOMAIN-SUFFIX,notion.so
