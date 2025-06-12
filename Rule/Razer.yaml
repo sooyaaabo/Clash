@@ -1,0 +1,5 @@
+# UpdateTime：2025-06-12 02:32:29
+# RuleCount：2
+payload:
+  - DOMAIN-SUFFIX,razer.com
+  - DOMAIN-SUFFIX,razerzone.com

@@ -1,0 +1,16 @@
+# UpdateTime：2025-06-12 02:32:06
+# RuleCount：13
+payload:
+  - DOMAIN-SUFFIX,vrv.co
+  - DOMAIN-SUFFIX,animedao-tv.com
+  - DOMAIN-SUFFIX,crunchyroll.com
+  - DOMAIN-SUFFIX,funimation.com
+  - DOMAIN-SUFFIX,gogo-load.com
+  - DOMAIN-SUFFIX,hidive.com
+  - DOMAIN-SUFFIX,9anime.cz
+  - DOMAIN-SUFFIX,9anime.id
+  - DOMAIN-SUFFIX,gogocdn.net
+  - DOMAIN-SUFFIX,9anime.to
+  - DOMAIN-SUFFIX,gogoanime.vc
+  - DOMAIN-SUFFIX,gogoanime.wiki
+  - DOMAIN-SUFFIX,9anime.ws

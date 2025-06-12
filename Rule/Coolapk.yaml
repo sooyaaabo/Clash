@@ -1,0 +1,6 @@
+# UpdateTime：2025-06-12 02:33:54
+# RuleCount：3
+payload:
+  - DOMAIN-SUFFIX,coolapk.com
+  - DOMAIN-SUFFIX,coolapkmarket.com
+  - DOMAIN-SUFFIX,coolapkmarket.net

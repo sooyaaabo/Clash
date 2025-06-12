@@ -1,0 +1,22 @@
+# UpdateTime：2025-06-12 02:32:06
+# RuleCount：19
+payload:
+  - DOMAIN,d2f0395ykn6hxb.cloudfront.net
+  - DOMAIN-SUFFIX,dscloud.biz
+  - DOMAIN-SUFFIX,synology.cn
+  - DOMAIN-SUFFIX,dsmunas.com
+  - DOMAIN-SUFFIX,familyds.com
+  - DOMAIN-SUFFIX,myds.com
+  - DOMAIN-SUFFIX,synodns.com
+  - DOMAIN-SUFFIX,synology.com
+  - DOMAIN-SUFFIX,diskstation.me
+  - DOMAIN-SUFFIX,dscloud.me
+  - DOMAIN-SUFFIX,i234.me
+  - DOMAIN-SUFFIX,synology.me
+  - DOMAIN-SUFFIX,dscloud.mobi
+  - DOMAIN-SUFFIX,dsmunas.net
+  - DOMAIN-SUFFIX,familyds.net
+  - DOMAIN-SUFFIX,dsmunas.org
+  - DOMAIN-SUFFIX,familyds.org
+  - DOMAIN-SUFFIX,quickconnect.to
+  - DOMAIN-KEYWORD,synology

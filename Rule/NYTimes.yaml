@@ -1,0 +1,19 @@
+# UpdateTime：2025-06-12 02:32:03
+# RuleCount：16
+payload:
+  - DOMAIN-SUFFIX,nyt.com
+  - DOMAIN-SUFFIX,nytchina.com
+  - DOMAIN-SUFFIX,nytco.com
+  - DOMAIN-SUFFIX,nytimes.com
+  - DOMAIN-SUFFIX,nytimg.com
+  - DOMAIN-SUFFIX,nytlog.com
+  - DOMAIN-SUFFIX,nytstyle.com
+  - DOMAIN-SUFFIX,timestalks.com
+  - DOMAIN-SUFFIX,tynt.com
+  - DOMAIN-SUFFIX,nytcn.me
+  - DOMAIN-SUFFIX,nyti.ms
+  - DOMAIN-SUFFIX,d1f1eryiqyjs0r.cloudfront.net
+  - DOMAIN-SUFFIX,d3lar09xbwlsge.cloudfront.net
+  - DOMAIN-SUFFIX,d3q1qj9jzsu8nw.cloudfront.net
+  - DOMAIN-SUFFIX,dc8xl0ndzn2cb.cloudfront.net
+  - DOMAIN-SUFFIX,nyt.net

@@ -1,0 +1,9 @@
+# UpdateTime：2025-06-12 02:32:05
+# RuleCount：6
+payload:
+  - DOMAIN-SUFFIX,snapkit.co
+  - DOMAIN-SUFFIX,snap.com
+  - DOMAIN-SUFFIX,snapads.com
+  - DOMAIN-SUFFIX,snapchat.com
+  - DOMAIN-SUFFIX,sc-cdn.net
+  - DOMAIN-SUFFIX,snap-dev.net

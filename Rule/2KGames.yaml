@@ -1,0 +1,7 @@
+# UpdateTime：2025-06-12 02:32:09
+# RuleCount：4
+payload:
+  - DOMAIN-SUFFIX,2k.com
+  - DOMAIN-SUFFIX,2kgames.com
+  - DOMAIN-SUFFIX,take2games.com
+  - DOMAIN-SUFFIX,2kcoretech.online

@@ -1,0 +1,28 @@
+# UpdateTime：2025-06-12 02:32:45
+# RuleCount：25
+payload:
+  - DOMAIN-SUFFIX,didiaustralia.blog
+  - DOMAIN-SUFFIX,apptaxi.com.cn
+  - DOMAIN-SUFFIX,diditaxi.com.cn
+  - DOMAIN-SUFFIX,didi.cn
+  - DOMAIN-SUFFIX,didiapp.net.cn
+  - DOMAIN-SUFFIX,xiaojuchefu.cn
+  - DOMAIN-SUFFIX,cxyule.com
+  - DOMAIN-SUFFIX,didi-food.com
+  - DOMAIN-SUFFIX,didialift.com
+  - DOMAIN-SUFFIX,didichuxing.com
+  - DOMAIN-SUFFIX,didiglobal.com
+  - DOMAIN-SUFFIX,didimobility.com
+  - DOMAIN-SUFFIX,didiopenapi.com
+  - DOMAIN-SUFFIX,didiqiche.com
+  - DOMAIN-SUFFIX,didistatic.com
+  - DOMAIN-SUFFIX,diditaxi.com
+  - DOMAIN-SUFFIX,didiwuxian.com
+  - DOMAIN-SUFFIX,didiyun.com
+  - DOMAIN-SUFFIX,didiyunapi.com
+  - DOMAIN-SUFFIX,juyanwenjuan.com
+  - DOMAIN-SUFFIX,udache.com
+  - DOMAIN-SUFFIX,xiaojukeji.com
+  - DOMAIN-SUFFIX,didimobility.co.jp
+  - DOMAIN-SUFFIX,didiyun.org
+  - DOMAIN-SUFFIX,didi.xin

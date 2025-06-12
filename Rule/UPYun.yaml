@@ -1,0 +1,19 @@
+# UpdateTime：2025-06-12 02:32:06
+# RuleCount：16
+payload:
+  - DOMAIN-SUFFIX,zhidian-inc.cn
+  - DOMAIN-SUFFIX,aicdn.com
+  - DOMAIN-SUFFIX,aicdn2.com
+  - DOMAIN-SUFFIX,aicdn3.com
+  - DOMAIN-SUFFIX,aicdn4.com
+  - DOMAIN-SUFFIX,aicdn5.com
+  - DOMAIN-SUFFIX,authbus.com
+  - DOMAIN-SUFFIX,oncdp.com
+  - DOMAIN-SUFFIX,shangketang.com
+  - DOMAIN-SUFFIX,sktcdn.com
+  - DOMAIN-SUFFIX,upai.com
+  - DOMAIN-SUFFIX,upaiyun.com
+  - DOMAIN-SUFFIX,upyun.com
+  - DOMAIN-SUFFIX,yupoo.com
+  - DOMAIN-SUFFIX,upcdn.net
+  - DOMAIN-SUFFIX,shangzhibo.tv

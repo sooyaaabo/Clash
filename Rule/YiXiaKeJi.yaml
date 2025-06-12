@@ -1,0 +1,17 @@
+# UpdateTime：2025-06-12 02:32:02
+# RuleCount：14
+payload:
+  - DOMAIN-SUFFIX,huangka.com
+  - DOMAIN-SUFFIX,miaokan.com
+  - DOMAIN-SUFFIX,miaopai.com
+  - DOMAIN-SUFFIX,vbbobo.com
+  - DOMAIN-SUFFIX,weishipin.com
+  - DOMAIN-SUFFIX,xiaokaxiu.com
+  - DOMAIN-SUFFIX,yixia.com
+  - DOMAIN-SUFFIX,yixiatong.com
+  - DOMAIN-SUFFIX,iyuezhang.net
+  - DOMAIN-SUFFIX,vitamio.net
+  - DOMAIN-SUFFIX,vplayer.net
+  - DOMAIN-SUFFIX,vitamio.org
+  - DOMAIN-SUFFIX,vitamio.tv
+  - DOMAIN-SUFFIX,xiaoka.tv

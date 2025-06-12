@@ -1,0 +1,5 @@
+# UpdateTime：2025-06-12 02:33:24
+# RuleCount：2
+payload:
+  - DOMAIN-SUFFIX,afdiancdn.com
+  - DOMAIN-SUFFIX,afdian.net

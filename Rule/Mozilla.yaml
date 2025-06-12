@@ -1,0 +1,24 @@
+# UpdateTime：2025-06-12 02:32:25
+# RuleCount：21
+payload:
+  - DOMAIN-SUFFIX,media.prod.mdn.mozit.cloud
+  - DOMAIN-SUFFIX,firefox.com.cn
+  - DOMAIN-SUFFIX,extensionworkshop.com
+  - DOMAIN-SUFFIX,firefox.com
+  - DOMAIN-SUFFIX,firefoxusercontent.com
+  - DOMAIN-SUFFIX,getpocket.com
+  - DOMAIN-SUFFIX,mozilla.com
+  - DOMAIN-SUFFIX,pocket-image-cache.com
+  - DOMAIN-SUFFIX,mozilla.community
+  - DOMAIN-SUFFIX,crates.io
+  - DOMAIN-SUFFIX,mofoprod.net
+  - DOMAIN-SUFFIX,sentry.prod.mozaws.net
+  - DOMAIN-SUFFIX,mozilla.net
+  - DOMAIN-SUFFIX,thunderbird.net
+  - DOMAIN-SUFFIX,bugzilla.org
+  - DOMAIN-SUFFIX,mozilla.org
+  - DOMAIN-SUFFIX,mdn.mozillademos.org
+  - DOMAIN-SUFFIX,rust-lang.org
+  - DOMAIN-SUFFIX,seamonkey-project.org
+  - DOMAIN-SUFFIX,docs.rs
+  - DOMAIN-SUFFIX,rustup.rs

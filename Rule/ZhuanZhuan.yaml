@@ -1,0 +1,7 @@
+# UpdateTime：2025-06-12 02:32:29
+# RuleCount：4
+payload:
+  - DOMAIN-SUFFIX,zhuan-zhuan.cn
+  - DOMAIN-SUFFIX,zhuancorp.com
+  - DOMAIN-SUFFIX,zhuanspirit.com
+  - DOMAIN-SUFFIX,zhuanzhuan.com

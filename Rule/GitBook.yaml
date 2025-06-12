@@ -1,0 +1,6 @@
+# UpdateTime：2025-06-12 02:34:00
+# RuleCount：3
+payload:
+  - DOMAIN-SUFFIX,gitbook.com
+  - DOMAIN-SUFFIX,gitbook.zendesk.com
+  - DOMAIN-SUFFIX,gitbook.io

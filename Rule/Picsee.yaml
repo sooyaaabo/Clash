@@ -1,0 +1,9 @@
+# UpdateTime：2025-06-12 02:33:47
+# RuleCount：6
+payload:
+  - DOMAIN-SUFFIX,picsee.co
+  - DOMAIN-SUFFIX,pics.ee
+  - DOMAIN-SUFFIX,pros.ee
+  - DOMAIN-SUFFIX,pse.is
+  - DOMAIN-SUFFIX,picsee.pro
+  - DOMAIN-SUFFIX,pise.pw

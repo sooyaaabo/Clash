@@ -1,0 +1,7 @@
+# UpdateTime：2025-06-12 02:32:04
+# RuleCount：4
+payload:
+  - DOMAIN-SUFFIX,doh.360.cn
+  - DOMAIN-SUFFIX,dns.alidns.com
+  - DOMAIN-SUFFIX,doh.pub
+  - IP-CIDR,1.12.12.12/32

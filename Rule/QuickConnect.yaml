@@ -1,0 +1,9 @@
+# UpdateTime：2025-06-12 02:32:03
+# RuleCount：6
+payload:
+  - DOMAIN,global.quickconnect.cn
+  - DOMAIN,account.synology.com
+  - DOMAIN,sns.synology.com
+  - DOMAIN-SUFFIX,quickconnect.com
+  - DOMAIN-SUFFIX,download.synology.com
+  - DOMAIN-SUFFIX,quickconnect.to

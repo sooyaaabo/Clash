@@ -1,0 +1,6 @@
+# UpdateTime：2025-06-12 02:34:03
+# RuleCount：3
+payload:
+  - DOMAIN,hamifans.emome.net
+  - DOMAIN-SUFFIX,skyking.com.tw
+  - USER-AGENT,TaiwanGood*

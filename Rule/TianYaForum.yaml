@@ -1,0 +1,16 @@
+# UpdateTime：2025-06-12 02:32:06
+# RuleCount：13
+payload:
+  - DOMAIN-SUFFIX,tianya.com.cn
+  - DOMAIN-SUFFIX,hi114.cn
+  - DOMAIN-SUFFIX,laibafile.cn
+  - DOMAIN-SUFFIX,tianya.cn
+  - DOMAIN-SUFFIX,gz12301.com
+  - DOMAIN-SUFFIX,hainan.com
+  - DOMAIN-SUFFIX,hibusiness.com
+  - DOMAIN-SUFFIX,tianyablog.com
+  - DOMAIN-SUFFIX,tianyaclub.com
+  - DOMAIN-SUFFIX,tianyaui.com
+  - DOMAIN-SUFFIX,tysurl.com
+  - DOMAIN-SUFFIX,hainan.net
+  - DOMAIN-SUFFIX,hifortune.net

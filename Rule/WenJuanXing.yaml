@@ -1,0 +1,7 @@
+# UpdateTime：2025-06-12 02:32:06
+# RuleCount：4
+payload:
+  - DOMAIN-SUFFIX,wjx.cn
+  - DOMAIN-SUFFIX,sojump.com
+  - DOMAIN-SUFFIX,wjx.com
+  - DOMAIN-SUFFIX,wjx.top

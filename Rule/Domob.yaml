@@ -1,0 +1,29 @@
+# UpdateTime：2025-06-12 02:32:47
+# RuleCount：26
+payload:
+  - DOMAIN-SUFFIX,domob.com.cn
+  - DOMAIN-SUFFIX,modh.com.cn
+  - DOMAIN-SUFFIX,dmrtb.cn
+  - DOMAIN-SUFFIX,dmvideo.cn
+  - DOMAIN-SUFFIX,domob.cn
+  - DOMAIN-SUFFIX,domob-inc.cn
+  - DOMAIN-SUFFIX,domobcdn.cn
+  - DOMAIN-SUFFIX,duomeng.cn
+  - DOMAIN-SUFFIX,modh.cn
+  - DOMAIN-SUFFIX,moxz.cn
+  - DOMAIN-SUFFIX,ugdesk.cn
+  - DOMAIN-SUFFIX,dmaow.com
+  - DOMAIN-SUFFIX,dmrta.com
+  - DOMAIN-SUFFIX,dmrtb.com
+  - DOMAIN-SUFFIX,dmyouxi.com
+  - DOMAIN-SUFFIX,domob-inc.com
+  - DOMAIN-SUFFIX,domobcdn.com
+  - DOMAIN-SUFFIX,domobnetwork.com
+  - DOMAIN-SUFFIX,ugdesk.com
+  - DOMAIN-SUFFIX,dmvideo.mobi
+  - DOMAIN-SUFFIX,dmvideo.net
+  - DOMAIN-SUFFIX,duomeng.net
+  - DOMAIN-SUFFIX,moxz.net
+  - DOMAIN-SUFFIX,dmvideo.org
+  - DOMAIN-SUFFIX,domob.org
+  - DOMAIN-SUFFIX,duomeng.org

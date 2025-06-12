@@ -1,0 +1,21 @@
+# UpdateTime：2025-06-12 02:32:03
+# RuleCount：18
+payload:
+  - DOMAIN-SUFFIX,huffingtonpost.com.au
+  - DOMAIN-SUFFIX,huffingtonpost.ca
+  - DOMAIN-SUFFIX,huffingtonpost.com
+  - DOMAIN-SUFFIX,huffpost.com
+  - DOMAIN-SUFFIX,huffpostarabi.com
+  - DOMAIN-SUFFIX,huffpostbrasil.com
+  - DOMAIN-SUFFIX,huffpostmaghreb.com
+  - DOMAIN-SUFFIX,huffingtonpost.de
+  - DOMAIN-SUFFIX,huffingtonpost.es
+  - DOMAIN-SUFFIX,huffingtonpost.fr
+  - DOMAIN-SUFFIX,huffingtonpost.gr
+  - DOMAIN-SUFFIX,huffingtonpost.in
+  - DOMAIN-SUFFIX,huffingtonpost.it
+  - DOMAIN-SUFFIX,huffingtonpost.jp
+  - DOMAIN-SUFFIX,huffingtonpost.kr
+  - DOMAIN-SUFFIX,huffingtonpost.com.mx
+  - DOMAIN-SUFFIX,huffingtonpost.co.uk
+  - DOMAIN-SUFFIX,huffingtonpost.co.za

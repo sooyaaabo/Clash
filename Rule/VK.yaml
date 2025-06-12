@@ -1,0 +1,10 @@
+# UpdateTime：2025-06-12 02:32:02
+# RuleCount：7
+payload:
+  - DOMAIN-SUFFIX,vk.cc
+  - DOMAIN-SUFFIX,mvk.com
+  - DOMAIN-SUFFIX,userapi.com
+  - DOMAIN-SUFFIX,vk.com
+  - DOMAIN-SUFFIX,vk-cdn.me
+  - DOMAIN-SUFFIX,vk-cdn.net
+  - DOMAIN-SUFFIX,vk-portal.net

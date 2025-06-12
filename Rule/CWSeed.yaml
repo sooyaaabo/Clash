@@ -1,0 +1,8 @@
+# UpdateTime：2025-06-12 02:32:05
+# RuleCount：5
+payload:
+  - DOMAIN,cwtv-amd-akamai.akamaized.net
+  - DOMAIN,edge.cwtv-vod-ext.top.comcast.net
+  - DOMAIN-SUFFIX,cwseed.com
+  - DOMAIN-SUFFIX,cwtv.com
+  - DOMAIN-SUFFIX,thecwvideo.com

@@ -1,0 +1,6 @@
+# UpdateTime：2025-06-12 02:33:57
+# RuleCount：3
+payload:
+  - DOMAIN-SUFFIX,jquery.com
+  - DOMAIN-SUFFIX,jquerymobile.com
+  - DOMAIN-SUFFIX,jqueryui.com

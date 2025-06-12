@@ -1,0 +1,10 @@
+# UpdateTime：2025-06-12 02:32:08
+# RuleCount：7
+payload:
+  - DOMAIN-SUFFIX,neixin.cn
+  - DOMAIN-SUFFIX,dianping.com
+  - DOMAIN-SUFFIX,maoyan.com
+  - DOMAIN-SUFFIX,meituan.com
+  - DOMAIN-SUFFIX,mtyun.com
+  - DOMAIN-SUFFIX,sankuai.com
+  - DOMAIN-SUFFIX,meituan.net

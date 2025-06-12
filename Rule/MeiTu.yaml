@@ -1,0 +1,7 @@
+# UpdateTime：2025-06-12 02:32:03
+# RuleCount：4
+payload:
+  - DOMAIN-SUFFIX,meipai.com
+  - DOMAIN-SUFFIX,meitu.com
+  - DOMAIN-SUFFIX,meitudata.com
+  - DOMAIN-SUFFIX,meitustat.com

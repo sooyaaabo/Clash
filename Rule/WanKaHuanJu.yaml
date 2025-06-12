@@ -1,0 +1,32 @@
+# UpdateTime：2025-06-12 02:32:03
+# RuleCount：29
+payload:
+  - DOMAIN-SUFFIX,daxianglingke.com.cn
+  - DOMAIN-SUFFIX,daxianglink.com.cn
+  - DOMAIN-SUFFIX,gm825.com.cn
+  - DOMAIN-SUFFIX,mhacn.com.cn
+  - DOMAIN-SUFFIX,wankacn.com.cn
+  - DOMAIN-SUFFIX,daxianglingke.cn
+  - DOMAIN-SUFFIX,daxianglink.cn
+  - DOMAIN-SUFFIX,gm825.cn
+  - DOMAIN-SUFFIX,mhacn.cn
+  - DOMAIN-SUFFIX,quickapp.cn
+  - DOMAIN-SUFFIX,shenyinhudong.cn
+  - DOMAIN-SUFFIX,so-quick.cn
+  - DOMAIN-SUFFIX,wankacn.cn
+  - DOMAIN-SUFFIX,daxianglingke.com
+  - DOMAIN-SUFFIX,daxianglink.com
+  - DOMAIN-SUFFIX,gdsa.com
+  - DOMAIN-SUFFIX,gm825.com
+  - DOMAIN-SUFFIX,ita-alliance.com
+  - DOMAIN-SUFFIX,itgsa.com
+  - DOMAIN-SUFFIX,mhacn.com
+  - DOMAIN-SUFFIX,quickingdata.com
+  - DOMAIN-SUFFIX,quicklyopen.com
+  - DOMAIN-SUFFIX,shenyinhudong.com
+  - DOMAIN-SUFFIX,wankacn.com
+  - DOMAIN-SUFFIX,wankamall.com
+  - DOMAIN-SUFFIX,gm825.net
+  - DOMAIN-SUFFIX,mhacn.net
+  - DOMAIN-SUFFIX,wankacn.net
+  - DOMAIN-SUFFIX,hapjs.org

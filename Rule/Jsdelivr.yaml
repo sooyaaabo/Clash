@@ -1,0 +1,6 @@
+# UpdateTime：2025-06-12 02:32:03
+# RuleCount：3
+payload:
+  - DOMAIN-SUFFIX,jsdelivr.com
+  - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-SUFFIX,esm.run

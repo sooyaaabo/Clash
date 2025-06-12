@@ -1,0 +1,13 @@
+# UpdateTime：2025-06-12 02:32:06
+# RuleCount：10
+payload:
+  - DOMAIN-SUFFIX,niconico.com
+  - DOMAIN-SUFFIX,socdm.com
+  - DOMAIN-SUFFIX,nicodic.jp
+  - DOMAIN-SUFFIX,nicomanga.jp
+  - DOMAIN-SUFFIX,nicoseiga.jp
+  - DOMAIN-SUFFIX,nicovideo.jp
+  - DOMAIN-SUFFIX,nimg.jp
+  - DOMAIN-SUFFIX,simg.jp
+  - DOMAIN-SUFFIX,dmc.nico
+  - USER-AGENT,Niconico*

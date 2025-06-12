@@ -1,0 +1,14 @@
+# UpdateTime：2025-06-12 02:32:03
+# RuleCount：11
+payload:
+  - DOMAIN-SUFFIX,dingtalk.com.cn
+  - DOMAIN-SUFFIX,dg-work.cn
+  - DOMAIN-SUFFIX,dingtalk.cn
+  - DOMAIN-SUFFIX,dingtalk.com
+  - DOMAIN-SUFFIX,dingtalkapps.com
+  - DOMAIN-SUFFIX,laiwang.com
+  - DOMAIN-SUFFIX,dingtalk.net
+  - DOMAIN-SUFFIX,ddurl.to
+  - DOMAIN-SUFFIX,lwurl.to
+  - DOMAIN-SUFFIX,dingding.xin
+  - DOMAIN-SUFFIX,realapp.xin

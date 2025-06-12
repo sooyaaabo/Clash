@@ -1,0 +1,16 @@
+# UpdateTime：2025-06-12 02:32:02
+# RuleCount：13
+payload:
+  - DOMAIN-SUFFIX,eleme.com.cn
+  - DOMAIN-SUFFIX,eleme.cn
+  - DOMAIN-SUFFIX,elemecdn.cn
+  - DOMAIN-SUFFIX,fengniaopaotui.cn
+  - DOMAIN-SUFFIX,fengniaozhongbao.cn
+  - DOMAIN-SUFFIX,youcaishop.cn
+  - DOMAIN-SUFFIX,elemecdn.com
+  - DOMAIN-SUFFIX,xingxuanwaimai.com
+  - DOMAIN-SUFFIX,xyzele.com
+  - DOMAIN-SUFFIX,eleme.io
+  - DOMAIN-SUFFIX,ele.me
+  - DOMAIN-SUFFIX,elenet.me
+  - DOMAIN-SUFFIX,ele.to

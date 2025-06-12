@@ -1,0 +1,6 @@
+# UpdateTime：2025-06-12 02:32:40
+# RuleCount：3
+payload:
+  - DOMAIN-SUFFIX,doodcdn.com
+  - DOMAIN-SUFFIX,dood.so
+  - DOMAIN-SUFFIX,dood.video

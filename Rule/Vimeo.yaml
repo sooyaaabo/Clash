@@ -1,0 +1,19 @@
+# UpdateTime：2025-06-12 02:32:02
+# RuleCount：16
+payload:
+  - DOMAIN-SUFFIX,livestream.com
+  - DOMAIN-SUFFIX,vhxqa1.com
+  - DOMAIN-SUFFIX,vhxqa2.com
+  - DOMAIN-SUFFIX,vhxqa3.com
+  - DOMAIN-SUFFIX,vhxqa4.com
+  - DOMAIN-SUFFIX,vhxqa6.com
+  - DOMAIN-SUFFIX,vimeo.com
+  - DOMAIN-SUFFIX,vimeo-staging.com
+  - DOMAIN-SUFFIX,vimeo-staging2.com
+  - DOMAIN-SUFFIX,vimeobusiness.com
+  - DOMAIN-SUFFIX,vimeocdn.com
+  - DOMAIN-SUFFIX,vimeogoods.com
+  - DOMAIN-SUFFIX,vimeoondemand.com
+  - DOMAIN-SUFFIX,vimeostatus.com
+  - DOMAIN-SUFFIX,vimeo.fr
+  - DOMAIN-SUFFIX,vhx.tv

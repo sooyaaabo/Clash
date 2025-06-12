@@ -1,0 +1,5 @@
+# UpdateTime：2025-06-12 02:32:03
+# RuleCount：2
+payload:
+  - DOMAIN-SUFFIX,flipchina.cn
+  - DOMAIN-SUFFIX,flipboard.com

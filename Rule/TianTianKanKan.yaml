@@ -1,0 +1,7 @@
+# UpdateTime：2025-06-12 02:32:04
+# RuleCount：4
+payload:
+  - DOMAIN-SUFFIX,kankanpro.cn
+  - DOMAIN-SUFFIX,kkstudy.cn
+  - DOMAIN-SUFFIX,ibangtiao.com
+  - DOMAIN-SUFFIX,taogepian.com

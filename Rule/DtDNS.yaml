@@ -1,0 +1,20 @@
+# UpdateTime：2025-06-12 02:32:02
+# RuleCount：17
+payload:
+  - DOMAIN-SUFFIX,3d-game.com
+  - DOMAIN-SUFFIX,4irc.com
+  - DOMAIN-SUFFIX,b0ne.com
+  - DOMAIN-SUFFIX,chatnook.com
+  - DOMAIN-SUFFIX,deaftone.com
+  - DOMAIN-SUFFIX,dtdns.com
+  - DOMAIN-SUFFIX,effers.com
+  - DOMAIN-SUFFIX,gotgeeks.com
+  - DOMAIN-SUFFIX,scieron.com
+  - DOMAIN-SUFFIX,slyip.com
+  - DOMAIN-SUFFIX,suroot.com
+  - DOMAIN-SUFFIX,dtdns.net
+  - DOMAIN-SUFFIX,etowns.net
+  - DOMAIN-SUFFIX,slyip.net
+  - DOMAIN-SUFFIX,darktech.org
+  - DOMAIN-SUFFIX,etowns.org
+  - DOMAIN-SUFFIX,flnet.org

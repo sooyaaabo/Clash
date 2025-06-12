@@ -1,0 +1,6 @@
+# UpdateTime：2025-06-12 02:32:02
+# RuleCount：3
+payload:
+  - DOMAIN-SUFFIX,yzcdn.cn
+  - DOMAIN-SUFFIX,youzan.com
+  - DOMAIN-SUFFIX,youzanyun.com

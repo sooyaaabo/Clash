@@ -1,0 +1,6 @@
+# UpdateTime：2025-06-12 02:32:08
+# RuleCount：3
+payload:
+  - DOMAIN-SUFFIX,addthis.com
+  - DOMAIN-SUFFIX,addthiscdn.com
+  - DOMAIN-SUFFIX,addthisedge.com

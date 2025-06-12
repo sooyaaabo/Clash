@@ -1,0 +1,8 @@
+# UpdateTime：2025-06-12 02:33:58
+# RuleCount：5
+payload:
+  - DOMAIN-SUFFIX,rockstargames.com
+  - DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net
+  - DOMAIN-SUFFIX,media-rockstargames-com.akamaized.net
+  - DOMAIN-SUFFIX,videos-rockstargames-com.akamaized.net
+  - DOMAIN-SUFFIX,rsg.sc

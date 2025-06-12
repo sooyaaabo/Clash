@@ -1,0 +1,14 @@
+# UpdateTime：2025-06-12 02:32:27
+# RuleCount：11
+payload:
+  - DOMAIN-SUFFIX,enet.com.cn
+  - DOMAIN-SUFFIX,enet16.com.cn
+  - DOMAIN-SUFFIX,enet16.cn
+  - DOMAIN-SUFFIX,ezhu.cn
+  - DOMAIN-SUFFIX,ciweekforum.com
+  - DOMAIN-SUFFIX,enet16.com
+  - DOMAIN-SUFFIX,enet369.com
+  - DOMAIN-SUFFIX,ezhu.com
+  - DOMAIN-SUFFIX,mydor.com
+  - DOMAIN-SUFFIX,xingzhiheyi.com
+  - DOMAIN-SUFFIX,enet16.net

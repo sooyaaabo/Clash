@@ -1,0 +1,11 @@
+# UpdateTime：2025-06-12 02:32:38
+# RuleCount：8
+payload:
+  - DOMAIN-SUFFIX,shop.app
+  - DOMAIN-SUFFIX,myshopify.com
+  - DOMAIN-SUFFIX,shopify.com
+  - DOMAIN-SUFFIX,shopifycdn.com
+  - DOMAIN-SUFFIX,shopifycloud.com
+  - DOMAIN-SUFFIX,shopifystatus.com
+  - DOMAIN-SUFFIX,shopifysvc.com
+  - DOMAIN-SUFFIX,shopify.dev

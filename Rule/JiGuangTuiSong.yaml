@@ -1,0 +1,21 @@
+# UpdateTime：2025-06-12 02:32:02
+# RuleCount：18
+payload:
+  - DOMAIN-SUFFIX,42r.cn
+  - DOMAIN-SUFFIX,aurorapush.cn
+  - DOMAIN-SUFFIX,e0n.cn
+  - DOMAIN-SUFFIX,japps.cn
+  - DOMAIN-SUFFIX,jiguang.cn
+  - DOMAIN-SUFFIX,jpush.cn
+  - DOMAIN-SUFFIX,jsurvey.cn
+  - DOMAIN-SUFFIX,jvoice.cn
+  - DOMAIN-SUFFIX,kc9.cn
+  - DOMAIN-SUFFIX,n0q.cn
+  - DOMAIN-SUFFIX,s0n.cn
+  - DOMAIN-SUFFIX,jmlk.co
+  - DOMAIN-SUFFIX,5566ua.com
+  - DOMAIN-SUFFIX,easytomessage.com
+  - DOMAIN-SUFFIX,jpushoa.com
+  - DOMAIN-SUFFIX,pushcfg.com
+  - DOMAIN-SUFFIX,jchat.io
+  - DOMAIN-SUFFIX,jpush.io
