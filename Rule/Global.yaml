@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-12 02:32:50
-# RuleCount：32391
+# UpdateTime：2025-06-14 02:32:41
+# RuleCount：32392
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -5456,6 +5456,7 @@ payload:
   - DOMAIN-SUFFIX,coze.com
   - DOMAIN-SUFFIX,cozydrdrebeats.com
   - DOMAIN-SUFFIX,cpedge.com
+  - DOMAIN-SUFFIX,cpu-monkey.com
   - DOMAIN-SUFFIX,cqcorea.com
   - DOMAIN-SUFFIX,crabporn.com
   - DOMAIN-SUFFIX,crackle.com

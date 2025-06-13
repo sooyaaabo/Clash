@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-12 02:32:02
-# RuleCount：267
+# UpdateTime：2025-06-14 02:31:55
+# RuleCount：271
 payload:
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.mywaifu.best
@@ -9,6 +9,7 @@ payload:
   - DOMAIN,tr.kxmp.cf
   - DOMAIN,tracker.dump.cl
   - DOMAIN,tracker1.myporn.club
+  - DOMAIN,isk.richardsw.club
   - DOMAIN,home.yxgz.club
   - DOMAIN,tracker.kmzs123.cn
   - DOMAIN,tracker.moeblog.cn
@@ -18,10 +19,12 @@ payload:
   - DOMAIN,p4p.arenabg.com
   - DOMAIN,tracker.bt-hash.com
   - DOMAIN,tracker.bt4g.com
+  - DOMAIN,threads.canofsocks.com
   - DOMAIN,open.demonii.com
   - DOMAIN,exodus.desync.com
   - DOMAIN,tracker.dler.com
   - DOMAIN,tracker.filemail.com
+  - DOMAIN,tracker.hifitechindia.com
   - DOMAIN,tracker1.itzmx.com
   - DOMAIN,tracker2.itzmx.com
   - DOMAIN,tracker3.itzmx.com
@@ -30,6 +33,7 @@ payload:
   - DOMAIN,tracker.linvk.com
   - DOMAIN,ttk2.nbaonlineservice.com
   - DOMAIN,tracker.openwebtorrent.com
+  - DOMAIN,tracker.rescuecrew7.com
   - DOMAIN,tracker.sbsub.com
   - DOMAIN,tracker.srv00.com
   - DOMAIN,torrentsmd.com
@@ -40,14 +44,10 @@ payload:
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,ipv4announce.sktorrent.eu
   - DOMAIN,tr.abir.ga
-  - DOMAIN,open.free-tracker.ga
   - DOMAIN,tracker.gmi.gd
-  - DOMAIN,tracker.tritan.gg
-  - DOMAIN,tracker-zhuqiy.dgj055.icu
-  - DOMAIN,tracker.zhuqiy.dgj055.icu
   - DOMAIN,evan.im
   - DOMAIN,tracker.plx.im
-  - DOMAIN,torrent.hificode.in
+  - DOMAIN,tracker.hifimarket.in
   - DOMAIN,1337.abcvg.info
   - DOMAIN,tracker-udp.gbitt.info
   - DOMAIN,share.hkg-fansub.info
@@ -66,7 +66,7 @@ payload:
   - DOMAIN,tracker.kuroy.me
   - DOMAIN,retracker.lanta.me
   - DOMAIN,tracker.lintk.me
-  - DOMAIN,leet-tracker.moe
+  - DOMAIN,tracker.waaa.moe
   - DOMAIN,tracker.yume-hatsuyuki.moe
   - DOMAIN,0d.kebhana.mx
   - DOMAIN,www.all4nothin.net
@@ -80,9 +80,11 @@ payload:
   - DOMAIN,tracker.renfei.net
   - DOMAIN,shubt.net
   - DOMAIN,tracker.skyts.net
+  - DOMAIN,tracker.theoks.net
   - DOMAIN,wepzone.net
   - DOMAIN,tracker.corpscorp.online
   - DOMAIN,concen.org
+  - DOMAIN,tracker.dler.org
   - DOMAIN,tracker2.dler.org
   - DOMAIN,tracker.dmcomic.org
   - DOMAIN,tr4ck3r.duckdns.org
@@ -103,6 +105,7 @@ payload:
   - DOMAIN,tr.zukizuki.org
   - DOMAIN,tracker.ducks.party
   - DOMAIN,tracker.moxing.party
+  - DOMAIN,tracker.breizh.pm
   - DOMAIN,tracker.bittor.pw
   - DOMAIN,tr.nyacat.pw
   - DOMAIN,retracker.hotplug.ru
@@ -116,7 +119,7 @@ payload:
   - DOMAIN,t.jaekr.sh
   - DOMAIN,open.stealth.si
   - DOMAIN,tracker.lyretain.site
-  - DOMAIN,tracker.ololosh.space
+  - DOMAIN,tracker.bitcoinindia.space
   - DOMAIN,tracker.pmman.tech
   - DOMAIN,tracker.valete.tf
   - DOMAIN,tracker.therarbg.to
@@ -129,6 +132,7 @@ payload:
   - DOMAIN,highteahop.top
   - DOMAIN,tracker.kmzs123.top
   - DOMAIN,tracker.netmap.top
+  - DOMAIN,tr3.ysagin.top
   - DOMAIN,tracker.zhuqiy.top
   - DOMAIN,buny.uk
   - DOMAIN,nyaa.tracker.wf

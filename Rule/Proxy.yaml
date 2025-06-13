@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-12 02:32:18
-# RuleCount：7114
+# UpdateTime：2025-06-14 02:32:10
+# RuleCount：7115
 payload:
   - DOMAIN,developer.apple.com
   - DOMAIN,testflight.apple.com
@@ -981,6 +981,7 @@ payload:
   - DOMAIN-SUFFIX,cotweet.com
   - DOMAIN-SUFFIX,coursehero.com
   - DOMAIN-SUFFIX,coze.com
+  - DOMAIN-SUFFIX,cpu-monkey.com
   - DOMAIN-SUFFIX,crackle.com
   - DOMAIN-SUFFIX,crazyshit.com
   - DOMAIN-SUFFIX,crbug.com
