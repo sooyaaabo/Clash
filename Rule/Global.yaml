@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-14 02:32:41
-# RuleCount：32392
+# UpdateTime：2025-06-16 02:33:22
+# RuleCount：32401
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -2739,6 +2739,7 @@ payload:
   - DOMAIN-SUFFIX,aboutgfw.com
   - DOMAIN-SUFFIX,aboutmcdonalds.com
   - DOMAIN-SUFFIX,aboutyourmini.com
+  - DOMAIN-SUFFIX,abplive.com
   - DOMAIN-SUFFIX,absoluporn.com
   - DOMAIN-SUFFIX,absolutewhores.com
   - DOMAIN-SUFFIX,ac-pocketcamp.com
@@ -7051,6 +7052,7 @@ payload:
   - DOMAIN-SUFFIX,financeleadsonline.com
   - DOMAIN-SUFFIX,financetwitter.com
   - DOMAIN-SUFFIX,financialadvisoriq.com
+  - DOMAIN-SUFFIX,financialexpress.com
   - DOMAIN-SUFFIX,finchvpn.com
   - DOMAIN-SUFFIX,find-apple.com
   - DOMAIN-SUFFIX,findacard.com
@@ -8240,6 +8242,7 @@ payload:
   - DOMAIN-SUFFIX,himemix.com
   - DOMAIN-SUFFIX,hindawi.com
   - DOMAIN-SUFFIX,hindiweb.com
+  - DOMAIN-SUFFIX,hindustantimes.com
   - DOMAIN-SUFFIX,hipaa6020.com
   - DOMAIN-SUFFIX,hippyhillscomix.com
   - DOMAIN-SUFFIX,historyofdota.com
@@ -10969,6 +10972,7 @@ payload:
   - DOMAIN-SUFFIX,newhampshirebmw.com
   - DOMAIN-SUFFIX,newhighlandvision.com
   - DOMAIN-SUFFIX,newhtbook.com
+  - DOMAIN-SUFFIX,newindianexpress.com
   - DOMAIN-SUFFIX,newipnow.com
   - DOMAIN-SUFFIX,newisiknowledge.com
   - DOMAIN-SUFFIX,newlineporn.com
@@ -10976,6 +10980,7 @@ payload:
   - DOMAIN-SUFFIX,newmonst1erbeatsto1re.com
   - DOMAIN-SUFFIX,newmonsterbeatsheadphones.com
   - DOMAIN-SUFFIX,newpppp.com
+  - DOMAIN-SUFFIX,news18.com
   - DOMAIN-SUFFIX,newsamerica.com
   - DOMAIN-SUFFIX,newsancai.com
   - DOMAIN-SUFFIX,newsblur.com
@@ -13930,6 +13935,7 @@ payload:
   - DOMAIN-SUFFIX,theguardian.com
   - DOMAIN-SUFFIX,theguardiandns.com
   - DOMAIN-SUFFIX,thehabibshow.com
+  - DOMAIN-SUFFIX,thehansindia.com
   - DOMAIN-SUFFIX,thehealthsite.com
   - DOMAIN-SUFFIX,thehentaiworld.com
   - DOMAIN-SUFFIX,thehindu.com
@@ -15981,6 +15987,7 @@ payload:
   - DOMAIN-SUFFIX,visa.com.cy
   - DOMAIN-SUFFIX,9k6v4y.cyou
   - DOMAIN-SUFFIX,aaapp.cyou
+  - DOMAIN-SUFFIX,acgww.cyou
   - DOMAIN-SUFFIX,bonyu.cyou
   - DOMAIN-SUFFIX,forduck.cyou
   - DOMAIN-SUFFIX,goldvip.cyou
@@ -17617,6 +17624,7 @@ payload:
   - DOMAIN-SUFFIX,huiyi.in
   - DOMAIN-SUFFIX,ikea.in
   - DOMAIN-SUFFIX,indiandefensenews.in
+  - DOMAIN-SUFFIX,indiatoday.in
   - DOMAIN-SUFFIX,intel.in
   - DOMAIN-SUFFIX,jetbra.in
   - DOMAIN-SUFFIX,kindle.in
@@ -31371,6 +31379,7 @@ payload:
   - DOMAIN-SUFFIX,sony.co.uk
   - DOMAIN-SUFFIX,sportswomanoftheyear.co.uk
   - DOMAIN-SUFFIX,sportswomenoftheyear.co.uk
+  - DOMAIN-SUFFIX,standard.co.uk
   - DOMAIN-SUFFIX,starbucks.co.uk
   - DOMAIN-SUFFIX,sunbingo.co.uk
   - DOMAIN-SUFFIX,sweetandmaxwell.co.uk

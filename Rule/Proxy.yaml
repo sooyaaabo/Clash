@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-14 02:32:10
-# RuleCount：7115
+# UpdateTime：2025-06-16 02:32:46
+# RuleCount：7118
 payload:
   - DOMAIN,developer.apple.com
   - DOMAIN,testflight.apple.com
@@ -478,6 +478,7 @@ payload:
   - DOMAIN-SUFFIX,abebooks.com
   - DOMAIN-SUFFIX,ablwang.com
   - DOMAIN-SUFFIX,aboutgfw.com
+  - DOMAIN-SUFFIX,abplive.com
   - DOMAIN-SUFFIX,acast.com
   - DOMAIN-SUFFIX,accountkit.com
   - DOMAIN-SUFFIX,aceros-de-hispania.com
@@ -1287,6 +1288,7 @@ payload:
   - DOMAIN-SUFFIX,filesor.com
   - DOMAIN-SUFFIX,filthdump.com
   - DOMAIN-SUFFIX,financetwitter.com
+  - DOMAIN-SUFFIX,financialexpress.com
   - DOMAIN-SUFFIX,finchvpn.com
   - DOMAIN-SUFFIX,findmespot.com
   - DOMAIN-SUFFIX,findyoutube.com
@@ -1612,6 +1614,7 @@ payload:
   - DOMAIN-SUFFIX,hiitch.com
   - DOMAIN-SUFFIX,himalayanglacier.com
   - DOMAIN-SUFFIX,himemix.com
+  - DOMAIN-SUFFIX,hindustantimes.com
   - DOMAIN-SUFFIX,hitbtc.com
   - DOMAIN-SUFFIX,hiwifi.com
   - DOMAIN-SUFFIX,hjd2048.com
@@ -1752,6 +1755,7 @@ payload:
   - DOMAIN-SUFFIX,imore.com
   - DOMAIN-SUFFIX,in.com
   - DOMAIN-SUFFIX,in-disguise.com
+  - DOMAIN-SUFFIX,india.com
   - DOMAIN-SUFFIX,indiablooms.com
   - DOMAIN-SUFFIX,indianarrative.com
   - DOMAIN-SUFFIX,indiatimes.com
@@ -1976,10 +1980,6 @@ payload:
   - DOMAIN-SUFFIX,link-o-rama.com
   - DOMAIN-SUFFIX,linkedin.com
   - DOMAIN-SUFFIX,linkideo.com
-  - DOMAIN-SUFFIX,api.linksalpha.com
-  - DOMAIN-SUFFIX,apidocs.linksalpha.com
-  - DOMAIN-SUFFIX,help.linksalpha.com
-  - DOMAIN-SUFFIX,www.linksalpha.com
   - DOMAIN-SUFFIX,linkuswell.com
   - DOMAIN-SUFFIX,linode.com
   - DOMAIN-SUFFIX,linpie.com
@@ -2273,8 +2273,10 @@ payload:
   - DOMAIN-SUFFIX,newchen.com
   - DOMAIN-SUFFIX,newgrounds.com
   - DOMAIN-SUFFIX,newhighlandvision.com
+  - DOMAIN-SUFFIX,newindianexpress.com
   - DOMAIN-SUFFIX,newipnow.com
   - DOMAIN-SUFFIX,newmitbbs.com
+  - DOMAIN-SUFFIX,news18.com
   - DOMAIN-SUFFIX,newsancai.com
   - DOMAIN-SUFFIX,newsblur.com
   - DOMAIN-SUFFIX,newsdh.com
@@ -2352,7 +2354,6 @@ payload:
   - DOMAIN-SUFFIX,nytco.com
   - DOMAIN-SUFFIX,nytimes.com
   - DOMAIN-SUFFIX,nytimg.com
-  - DOMAIN-SUFFIX,userapi.nytlog.com
   - DOMAIN-SUFFIX,nytstyle.com
   - DOMAIN-SUFFIX,nzchinese.com
   - DOMAIN-SUFFIX,oanda.com
@@ -2547,6 +2548,7 @@ payload:
   - DOMAIN-SUFFIX,pornhost.com
   - DOMAIN-SUFFIX,pornhub.com
   - DOMAIN-SUFFIX,pornhubpremium.com
+  - DOMAIN-SUFFIX,pornmate.com
   - DOMAIN-SUFFIX,pornoxo.com
   - DOMAIN-SUFFIX,pornrapidshare.com
   - DOMAIN-SUFFIX,pornsharing.com
@@ -3042,6 +3044,7 @@ payload:
   - DOMAIN-SUFFIX,thegay.com
   - DOMAIN-SUFFIX,thegly.com
   - DOMAIN-SUFFIX,theguardian.com
+  - DOMAIN-SUFFIX,thehansindia.com
   - DOMAIN-SUFFIX,thehindu.com
   - DOMAIN-SUFFIX,thehousenews.com
   - DOMAIN-SUFFIX,theinitium.com
@@ -4126,6 +4129,7 @@ payload:
   - DOMAIN-SUFFIX,hacg.in
   - DOMAIN-SUFFIX,huiyi.in
   - DOMAIN-SUFFIX,indiandefensenews.in
+  - DOMAIN-SUFFIX,indiatoday.in
   - DOMAIN-SUFFIX,jetbra.in
   - DOMAIN-SUFFIX,openervpn.in
   - DOMAIN-SUFFIX,percy.in
@@ -6690,7 +6694,6 @@ payload:
   - DOMAIN-SUFFIX,archives.gov.tw
   - DOMAIN-SUFFIX,tacc.cwb.gov.tw
   - DOMAIN-SUFFIX,data.gov.tw
-  - DOMAIN-SUFFIX,epa.gov.tw
   - DOMAIN-SUFFIX,exam.gov.tw
   - DOMAIN-SUFFIX,ey.gov.tw
   - DOMAIN-SUFFIX,fa.gov.tw
@@ -6713,7 +6716,6 @@ payload:
   - DOMAIN-SUFFIX,ntbk.gov.tw
   - DOMAIN-SUFFIX,ntbna.gov.tw
   - DOMAIN-SUFFIX,ntbt.gov.tw
-  - DOMAIN-SUFFIX,ntsna.gov.tw
   - DOMAIN-SUFFIX,pcc.gov.tw
   - DOMAIN-SUFFIX,stat.gov.tw
   - DOMAIN-SUFFIX,taipei.gov.tw
@@ -6835,6 +6837,7 @@ payload:
   - DOMAIN-SUFFIX,my-private-network.co.uk
   - DOMAIN-SUFFIX,national-lottery.co.uk
   - DOMAIN-SUFFIX,pinterest.co.uk
+  - DOMAIN-SUFFIX,standard.co.uk
   - DOMAIN-SUFFIX,telegraph.co.uk
   - DOMAIN-SUFFIX,thechasernews.co.uk
   - DOMAIN-SUFFIX,tibet-house-trust.co.uk

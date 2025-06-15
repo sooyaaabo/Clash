@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-14 02:31:55
-# RuleCount：271
+# UpdateTime：2025-06-16 02:32:31
+# RuleCount：272
 payload:
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.mywaifu.best
@@ -7,15 +7,14 @@ payload:
   - DOMAIN,tracker.bz
   - DOMAIN,bt1.xxxxbt.cc
   - DOMAIN,tr.kxmp.cf
-  - DOMAIN,tracker.dump.cl
   - DOMAIN,tracker1.myporn.club
-  - DOMAIN,isk.richardsw.club
   - DOMAIN,home.yxgz.club
   - DOMAIN,tracker.kmzs123.cn
   - DOMAIN,tracker.moeblog.cn
   - DOMAIN,tracker.foreverpirates.co
   - DOMAIN,tracker.vanitycore.co
   - DOMAIN,0123456789nonexistent.com
+  - DOMAIN,admin.52ywp.com
   - DOMAIN,p4p.arenabg.com
   - DOMAIN,tracker.bt-hash.com
   - DOMAIN,tracker.bt4g.com
@@ -33,18 +32,19 @@ payload:
   - DOMAIN,tracker.linvk.com
   - DOMAIN,ttk2.nbaonlineservice.com
   - DOMAIN,tracker.openwebtorrent.com
-  - DOMAIN,tracker.rescuecrew7.com
   - DOMAIN,tracker.sbsub.com
   - DOMAIN,tracker.srv00.com
   - DOMAIN,torrentsmd.com
   - DOMAIN,tracker.torrust-demo.com
   - DOMAIN,public.tracker.vraphim.com
   - DOMAIN,www.wareztorrent.com
+  - DOMAIN,ns-1.x-fins.com
   - DOMAIN,tracker.yemekyedim.com
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,ipv4announce.sktorrent.eu
   - DOMAIN,tr.abir.ga
   - DOMAIN,tracker.gmi.gd
+  - DOMAIN,tracker-zhuqiy.dgj055.icu
   - DOMAIN,evan.im
   - DOMAIN,tracker.plx.im
   - DOMAIN,tracker.hifimarket.in
@@ -66,6 +66,7 @@ payload:
   - DOMAIN,tracker.kuroy.me
   - DOMAIN,retracker.lanta.me
   - DOMAIN,tracker.lintk.me
+  - DOMAIN,leet-tracker.moe
   - DOMAIN,tracker.waaa.moe
   - DOMAIN,tracker.yume-hatsuyuki.moe
   - DOMAIN,0d.kebhana.mx
