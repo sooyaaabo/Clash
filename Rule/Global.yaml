@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-16 02:33:22
-# RuleCount：32401
+# UpdateTime：2025-06-18 02:33:12
+# RuleCount：32402
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -16168,6 +16168,7 @@ payload:
   - DOMAIN-SUFFIX,number26.de
   - DOMAIN-SUFFIX,nurofen.de
   - DOMAIN-SUFFIX,nvidia.de
+  - DOMAIN-SUFFIX,oojj.de
   - DOMAIN-SUFFIX,otto.de
   - DOMAIN-SUFFIX,pearsonassessment.de
   - DOMAIN-SUFFIX,pearsonclinical.de
