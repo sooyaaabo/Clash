@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-16 02:32:46
-# RuleCount：7118
+# UpdateTime：2025-06-18 02:32:35
+# RuleCount：7120
 payload:
   - DOMAIN,developer.apple.com
   - DOMAIN,testflight.apple.com
@@ -3746,6 +3746,7 @@ payload:
   - DOMAIN-SUFFIX,mobileways.de
   - DOMAIN-SUFFIX,nde.de
   - DOMAIN-SUFFIX,ndr.de
+  - DOMAIN-SUFFIX,oojj.de
   - DOMAIN-SUFFIX,otto.de
   - DOMAIN-SUFFIX,pinterest.de
   - DOMAIN-SUFFIX,privacybox.de
@@ -4843,6 +4844,7 @@ payload:
   - DOMAIN-SUFFIX,gdbt.net
   - DOMAIN-SUFFIX,geek-art.net
   - DOMAIN-SUFFIX,geti2p.net
+  - DOMAIN-SUFFIX,gitlab.net
   - DOMAIN-SUFFIX,gizlen.net
   - DOMAIN-SUFFIX,globaljihad.net
   - DOMAIN-SUFFIX,globalrescue.net

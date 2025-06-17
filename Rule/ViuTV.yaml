@@ -1,4 +1,4 @@
-# UpdateTime：2025-06-16 02:32:34
+# UpdateTime：2025-06-18 02:32:24
 # RuleCount：9
 payload:
   - DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com
