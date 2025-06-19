@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-18 02:33:12
-# RuleCount：32402
+# UpdateTime：2025-06-20 02:33:01
+# RuleCount：32404
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -18980,6 +18980,7 @@ payload:
   - DOMAIN-SUFFIX,viet69.link
   - DOMAIN-SUFFIX,vk.link
   - DOMAIN-SUFFIX,vnet.link
+  - DOMAIN-SUFFIX,w3s.link
   - DOMAIN-SUFFIX,wnacg.link
   - DOMAIN-SUFFIX,4ertik.live
   - DOMAIN-SUFFIX,binancezh.live
@@ -25241,6 +25242,7 @@ payload:
   - DOMAIN-SUFFIX,showup.tv
   - DOMAIN-SUFFIX,softbank.tv
   - DOMAIN-SUFFIX,sourcingforebay.tv
+  - DOMAIN-SUFFIX,storry.tv
   - DOMAIN-SUFFIX,subhd.tv
   - DOMAIN-SUFFIX,swoosh.tv
   - DOMAIN-SUFFIX,tabooporn.tv

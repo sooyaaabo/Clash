@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-18 02:32:35
-# RuleCount：7120
+# UpdateTime：2025-06-20 02:32:26
+# RuleCount：7125
 payload:
   - DOMAIN,developer.apple.com
   - DOMAIN,testflight.apple.com
@@ -4220,6 +4220,7 @@ payload:
   - DOMAIN-SUFFIX,xyy69.info
   - DOMAIN-SUFFIX,youxu.info
   - DOMAIN-SUFFIX,zhenlibu.info
+  - DOMAIN-SUFFIX,ipfs.4everland.io
   - DOMAIN-SUFFIX,apiary.io
   - DOMAIN-SUFFIX,bwbx.io
   - DOMAIN-SUFFIX,cccat.io
@@ -4439,10 +4440,13 @@ payload:
   - DOMAIN-SUFFIX,paper.li
   - DOMAIN-SUFFIX,kxsw.life
   - DOMAIN-SUFFIX,pythonic.life
+  - DOMAIN-SUFFIX,dweb.link
+  - DOMAIN-SUFFIX,nftstorage.link
   - DOMAIN-SUFFIX,page.link
   - DOMAIN-SUFFIX,paoluz.link
   - DOMAIN-SUFFIX,roucdn.link
   - DOMAIN-SUFFIX,vnet.link
+  - DOMAIN-SUFFIX,w3s.link
   - DOMAIN-SUFFIX,hkmap.live
   - DOMAIN-SUFFIX,inherit.live
   - DOMAIN-SUFFIX,google.lk
@@ -6542,6 +6546,7 @@ payload:
   - DOMAIN-SUFFIX,periscope.tv
   - DOMAIN-SUFFIX,pipii.tv
   - DOMAIN-SUFFIX,pscp.tv
+  - DOMAIN-SUFFIX,storry.tv
   - DOMAIN-SUFFIX,subhd.tv
   - DOMAIN-SUFFIX,tibetonline.tv
   - DOMAIN-SUFFIX,top.tv

@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-18 02:32:21
-# RuleCount：265
+# UpdateTime：2025-06-20 02:32:10
+# RuleCount：279
 payload:
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.mywaifu.best
@@ -7,8 +7,6 @@ payload:
   - DOMAIN,tracker.bz
   - DOMAIN,bt1.xxxxbt.cc
   - DOMAIN,tr.kxmp.cf
-  - DOMAIN,tracker.dump.cl
-  - DOMAIN,tracker1.myporn.club
   - DOMAIN,home.yxgz.club
   - DOMAIN,tracker.kmzs123.cn
   - DOMAIN,tracker.moeblog.cn
@@ -19,10 +17,13 @@ payload:
   - DOMAIN,p4p.arenabg.com
   - DOMAIN,tracker.bt-hash.com
   - DOMAIN,tracker.bt4g.com
+  - DOMAIN,threads.canofsocks.com
   - DOMAIN,open.demonii.com
   - DOMAIN,exodus.desync.com
   - DOMAIN,tracker.dler.com
   - DOMAIN,tracker.filemail.com
+  - DOMAIN,tracker.hifitechindia.com
+  - DOMAIN,v74853.hosted-by-vdsina.com
   - DOMAIN,tracker1.itzmx.com
   - DOMAIN,tracker2.itzmx.com
   - DOMAIN,tracker3.itzmx.com
@@ -42,9 +43,11 @@ payload:
   - DOMAIN,tracker.yemekyedim.com
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,ipv4announce.sktorrent.eu
-  - DOMAIN,tr.abir.ga
+  - DOMAIN,open.free-tracker.ga
   - DOMAIN,tracker.gmi.gd
   - DOMAIN,tracker.tritan.gg
+  - DOMAIN,tr-rh-zhuqiy.dgj055.icu
+  - DOMAIN,tr-zhuqiy-1.dgj055.icu
   - DOMAIN,evan.im
   - DOMAIN,tracker.plx.im
   - DOMAIN,torrent.hificode.in
@@ -79,6 +82,7 @@ payload:
   - DOMAIN,tracker.renfei.net
   - DOMAIN,shubt.net
   - DOMAIN,tracker.skyts.net
+  - DOMAIN,tracker.theoks.net
   - DOMAIN,wepzone.net
   - DOMAIN,tracker.corpscorp.online
   - DOMAIN,concen.org
@@ -104,10 +108,12 @@ payload:
   - DOMAIN,tracker.ducks.party
   - DOMAIN,tracker.moxing.party
   - DOMAIN,tracker.bittor.pw
+  - DOMAIN,discord.heihachi.pw
   - DOMAIN,tr.nyacat.pw
   - DOMAIN,retracker.hotplug.ru
   - DOMAIN,tracker.ipv6tracker.ru
   - DOMAIN,bt.okmp3.ru
+  - DOMAIN,tracker.tvunderground.org.ru
   - DOMAIN,1c.premierzal.ru
   - DOMAIN,d40969.acod.regrucolo.ru
   - DOMAIN,servandroidkino.ru
@@ -116,10 +122,16 @@ payload:
   - DOMAIN,tracker.darkness.services
   - DOMAIN,t.jaekr.sh
   - DOMAIN,open.stealth.si
+  - DOMAIN,tracker.lyretain.site
+  - DOMAIN,tracker.skillindia.site
+  - DOMAIN,track3r.site
+  - DOMAIN,tracker.bitcoinindia.space
   - DOMAIN,tracker.ololosh.space
   - DOMAIN,tracker.pmman.tech
   - DOMAIN,tracker.valete.tf
   - DOMAIN,tracker.therarbg.to
+  - DOMAIN,tracker.23794.top
+  - DOMAIN,tr.abiir.top
   - DOMAIN,tracker.expli.top
   - DOMAIN,tracker.gcrenwp.top
   - DOMAIN,sparkle.ghostchu-services.top
@@ -131,6 +143,7 @@ payload:
   - DOMAIN,tracker.zhuqiy.top
   - DOMAIN,buny.uk
   - DOMAIN,nyaa.tracker.wf
+  - DOMAIN,tracker.iperson.xyz
   - DOMAIN,tracker.privateseedbox.xyz
   - DOMAIN,p2p.publictracker.xyz
   - DOMAIN,tracker810.xyz
@@ -265,4 +278,5 @@ payload:
   - DOMAIN-KEYWORD,announce
   - IP-CIDR,207.241.231.226/32
   - IP-CIDR,207.241.226.111/32
+  - IP-CIDR,89.110.76.229/32
   - IP-CIDR,52.58.128.163/32
