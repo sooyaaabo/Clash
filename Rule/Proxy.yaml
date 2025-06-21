@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-20 02:32:26
-# RuleCount：7125
+# UpdateTime：2025-06-22 02:33:00
+# RuleCount：7127
 payload:
   - DOMAIN,developer.apple.com
   - DOMAIN,testflight.apple.com
@@ -552,6 +552,7 @@ payload:
   - DOMAIN-SUFFIX,amoiist.com
   - DOMAIN-SUFFIX,api.amplitude.com
   - DOMAIN-SUFFIX,ampproject.com
+  - DOMAIN-SUFFIX,amuletmc.com
   - DOMAIN-SUFFIX,anaconda.com
   - DOMAIN-SUFFIX,anchorfree.com
   - DOMAIN-SUFFIX,android.com
@@ -1317,6 +1318,7 @@ payload:
   - DOMAIN-SUFFIX,foolsmountain.com
   - DOMAIN-SUFFIX,fooooo.com
   - DOMAIN-SUFFIX,footwiball.com
+  - DOMAIN-SUFFIX,forbes.com
   - DOMAIN-SUFFIX,foreignaffairs.com
   - DOMAIN-SUFFIX,foreignpolicy.com
   - DOMAIN-SUFFIX,forum4hk.com

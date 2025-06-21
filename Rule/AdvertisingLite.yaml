@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-20 02:33:52
-# RuleCount：38052
+# UpdateTime：2025-06-22 02:34:19
+# RuleCount：38053
 payload:
   - DOMAIN,tube.ac
   - DOMAIN,bonzai.ad
@@ -10985,6 +10985,7 @@ payload:
   - DOMAIN,mieru-ca.com
   - DOMAIN,mifxolavi.com
   - DOMAIN,mignpaybmqkcy.com
+  - DOMAIN,ggadoffline.miguvideo.com
   - DOMAIN,ggic03.miguvideo.com
   - DOMAIN,ggmk.miguvideo.com
   - DOMAIN,ggx03.miguvideo.com

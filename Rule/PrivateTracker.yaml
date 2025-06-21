@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-20 02:32:10
-# RuleCount：279
+# UpdateTime：2025-06-22 02:32:46
+# RuleCount：276
 payload:
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.mywaifu.best
@@ -7,13 +7,13 @@ payload:
   - DOMAIN,tracker.bz
   - DOMAIN,bt1.xxxxbt.cc
   - DOMAIN,tr.kxmp.cf
+  - DOMAIN,tracker.dump.cl
   - DOMAIN,home.yxgz.club
   - DOMAIN,tracker.kmzs123.cn
   - DOMAIN,tracker.moeblog.cn
   - DOMAIN,tracker.foreverpirates.co
   - DOMAIN,tracker.vanitycore.co
   - DOMAIN,0123456789nonexistent.com
-  - DOMAIN,admin.52ywp.com
   - DOMAIN,p4p.arenabg.com
   - DOMAIN,tracker.bt-hash.com
   - DOMAIN,tracker.bt4g.com
@@ -39,18 +39,15 @@ payload:
   - DOMAIN,tracker.torrust-demo.com
   - DOMAIN,public.tracker.vraphim.com
   - DOMAIN,www.wareztorrent.com
-  - DOMAIN,ns-1.x-fins.com
   - DOMAIN,tracker.yemekyedim.com
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,ipv4announce.sktorrent.eu
   - DOMAIN,open.free-tracker.ga
   - DOMAIN,tracker.gmi.gd
   - DOMAIN,tracker.tritan.gg
-  - DOMAIN,tr-rh-zhuqiy.dgj055.icu
-  - DOMAIN,tr-zhuqiy-1.dgj055.icu
+  - DOMAIN,trl-zhuqiy.dgj055.icu
   - DOMAIN,evan.im
   - DOMAIN,tracker.plx.im
-  - DOMAIN,torrent.hificode.in
   - DOMAIN,1337.abcvg.info
   - DOMAIN,tracker-udp.gbitt.info
   - DOMAIN,share.hkg-fansub.info
@@ -69,6 +66,7 @@ payload:
   - DOMAIN,tracker.kuroy.me
   - DOMAIN,retracker.lanta.me
   - DOMAIN,tracker.lintk.me
+  - DOMAIN,leet-tracker.moe
   - DOMAIN,tracker.waaa.moe
   - DOMAIN,tracker.yume-hatsuyuki.moe
   - DOMAIN,0d.kebhana.mx
@@ -89,6 +87,7 @@ payload:
   - DOMAIN,tracker.dler.org
   - DOMAIN,tracker2.dler.org
   - DOMAIN,tracker.dmcomic.org
+  - DOMAIN,tracker.guguan.dpdns.org
   - DOMAIN,tr4ck3r.duckdns.org
   - DOMAIN,tracker.torrent.eu.org
   - DOMAIN,www.torrent.eu.org
@@ -111,7 +110,6 @@ payload:
   - DOMAIN,discord.heihachi.pw
   - DOMAIN,tr.nyacat.pw
   - DOMAIN,retracker.hotplug.ru
-  - DOMAIN,tracker.ipv6tracker.ru
   - DOMAIN,bt.okmp3.ru
   - DOMAIN,tracker.tvunderground.org.ru
   - DOMAIN,1c.premierzal.ru
@@ -128,7 +126,6 @@ payload:
   - DOMAIN,tracker.bitcoinindia.space
   - DOMAIN,tracker.ololosh.space
   - DOMAIN,tracker.pmman.tech
-  - DOMAIN,tracker.valete.tf
   - DOMAIN,tracker.therarbg.to
   - DOMAIN,tracker.23794.top
   - DOMAIN,tr.abiir.top
