@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-22 02:33:00
-# RuleCount：7127
+# UpdateTime：2025-06-24 02:32:36
+# RuleCount：7132
 payload:
   - DOMAIN,developer.apple.com
   - DOMAIN,testflight.apple.com
@@ -4284,7 +4284,12 @@ payload:
   - DOMAIN-SUFFIX,z-lib.io
   - DOMAIN-SUFFIX,zeronet.io
   - DOMAIN-SUFFIX,google.iq
+  - DOMAIN-SUFFIX,arvanstorage.ir
+  - DOMAIN-SUFFIX,gov.ir
+  - DOMAIN-SUFFIX,irangov.ir
   - DOMAIN-SUFFIX,irib.ir
+  - DOMAIN-SUFFIX,irna.ir
+  - DOMAIN-SUFFIX,president.ir
   - DOMAIN-SUFFIX,archive.is
   - DOMAIN-SUFFIX,blogspot.is
   - DOMAIN-SUFFIX,google.is

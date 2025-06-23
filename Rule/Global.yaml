@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-22 02:33:40
-# RuleCount：32406
+# UpdateTime：2025-06-24 02:33:13
+# RuleCount：32411
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -18136,6 +18136,7 @@ payload:
   - DOMAIN-SUFFIX,google.iq
   - DOMAIN-SUFFIX,youtube.iq
   - DOMAIN-SUFFIX,ac.ir
+  - DOMAIN-SUFFIX,arvanstorage.ir
   - DOMAIN-SUFFIX,bank-maskan.ir
   - DOMAIN-SUFFIX,bankmellat.ir
   - DOMAIN-SUFFIX,banksepah.ir
@@ -18149,14 +18150,18 @@ payload:
   - DOMAIN-SUFFIX,edu.ir
   - DOMAIN-SUFFIX,enbank.ir
   - DOMAIN-SUFFIX,ghbi.ir
+  - DOMAIN-SUFFIX,gov.ir
+  - DOMAIN-SUFFIX,irangov.ir
   - DOMAIN-SUFFIX,iranlms.ir
   - DOMAIN-SUFFIX,irib.ir
+  - DOMAIN-SUFFIX,irna.ir
   - DOMAIN-SUFFIX,izbank.ir
   - DOMAIN-SUFFIX,jtt.ir
   - DOMAIN-SUFFIX,karafarinbank.ir
   - DOMAIN-SUFFIX,mebank.ir
   - DOMAIN-SUFFIX,mresalat.ir
   - DOMAIN-SUFFIX,postbank.ir
+  - DOMAIN-SUFFIX,president.ir
   - DOMAIN-SUFFIX,qmb.ir
   - DOMAIN-SUFFIX,rb24.ir
   - DOMAIN-SUFFIX,refah-bank.ir
