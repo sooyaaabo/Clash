@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-26 02:33:08
-# RuleCount：7132
+# UpdateTime：2025-06-28 02:33:07
+# RuleCount：7133
 payload:
   - DOMAIN,developer.apple.com
   - DOMAIN,testflight.apple.com
@@ -2641,6 +2641,7 @@ payload:
   - DOMAIN-SUFFIX,r18.com
   - DOMAIN-SUFFIX,radiotime.com
   - DOMAIN-SUFFIX,radiovncr.com
+  - DOMAIN-SUFFIX,radmin-vpn.com
   - DOMAIN-SUFFIX,raggedbanner.com
   - DOMAIN-SUFFIX,rangzen.com
   - DOMAIN-SUFFIX,ranxiang.com

@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-26 02:33:26
-# RuleCount：330
+# UpdateTime：2025-06-28 02:33:26
+# RuleCount：333
 payload:
   - DOMAIN-SUFFIX,amemv.cn
   - DOMAIN-SUFFIX,betastar.cn
@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,gogokid.com.cn
   - DOMAIN-SUFFIX,neihandiantai.com.cn
   - DOMAIN-SUFFIX,toutiaohao.com.cn
+  - DOMAIN-SUFFIX,trae.com.cn
   - DOMAIN-SUFFIX,doubao.cn
   - DOMAIN-SUFFIX,feelgood.cn
   - DOMAIN-SUFFIX,feishu.cn
@@ -28,6 +29,7 @@ payload:
   - DOMAIN-SUFFIX,juliangyinqing.cn
   - DOMAIN-SUFFIX,kolbuyer.cn
   - DOMAIN-SUFFIX,luckycalendar.cn
+  - DOMAIN-SUFFIX,marscode.cn
   - DOMAIN-SUFFIX,neihancommunity.cn
   - DOMAIN-SUFFIX,neihandiantai.cn
   - DOMAIN-SUFFIX,neihanshequ.cn
@@ -45,6 +47,7 @@ payload:
   - DOMAIN-SUFFIX,toutiaoimg.cn
   - DOMAIN-SUFFIX,toutiaoribao.cn
   - DOMAIN-SUFFIX,toutiaowap.cn
+  - DOMAIN-SUFFIX,trae.cn
   - DOMAIN-SUFFIX,ttbyte.cn
   - DOMAIN-SUFFIX,ulikecam.cn
   - DOMAIN-SUFFIX,wtturl.cn

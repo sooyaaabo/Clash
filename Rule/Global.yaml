@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-26 02:33:35
-# RuleCount：32411
+# UpdateTime：2025-06-28 02:33:36
+# RuleCount：32412
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -12466,6 +12466,7 @@ payload:
   - DOMAIN-SUFFIX,radiotime.com
   - DOMAIN-SUFFIX,radiovncr.com
   - DOMAIN-SUFFIX,radiyoyacuvoa.com
+  - DOMAIN-SUFFIX,radmin-vpn.com
   - DOMAIN-SUFFIX,raggedbanner.com
   - DOMAIN-SUFFIX,ragnaporn.com
   - DOMAIN-SUFFIX,rajwaphq.com
