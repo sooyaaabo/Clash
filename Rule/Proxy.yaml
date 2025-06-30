@@ -1,5 +1,5 @@
-# UpdateTime：2025-06-30 01:07:49
-# RuleCount：7133
+# UpdateTime：2025-06-30 14:13:58
+# RuleCount：7134
 payload:
   - DOMAIN,developer.apple.com
   - DOMAIN,testflight.apple.com
@@ -5034,6 +5034,7 @@ payload:
   - DOMAIN-SUFFIX,photonmedia.net
   - DOMAIN-SUFFIX,phptutorial.net
   - DOMAIN-SUFFIX,piaotian.net
+  - DOMAIN-SUFFIX,img.picgo.net
   - DOMAIN-SUFFIX,picidae.net
   - DOMAIN-SUFFIX,pixiv.net
   - DOMAIN-SUFFIX,pixivsketch.net

@@ -1,8 +1,9 @@
-# UpdateTime：2025-06-30 01:08:27
-# RuleCount：32412
+# UpdateTime：2025-06-30 14:14:34
+# RuleCount：32432
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
+  - DOMAIN,yangzhi.app
   - DOMAIN,scholar.google.com.ar
   - DOMAIN,scholar.google.at
   - DOMAIN,scholar.google.com.au
@@ -11,6 +12,7 @@ payload:
   - DOMAIN,scholar.google.com.bo
   - DOMAIN,scholar.google.com.br
   - DOMAIN,scholar.google.ca
+  - DOMAIN,rsshub.woodland.cafe
   - DOMAIN,scholar.google.cat
   - DOMAIN,scholar.google.ch
   - DOMAIN,scholar.google.cl
@@ -201,6 +203,7 @@ payload:
   - DOMAIN,hpstore.corpmerchandise.com
   - DOMAIN,ssl-lvlt.cdn.ea.com
   - DOMAIN,nurofensk-prod-env.eu-west-1.elasticbeanstalk.com
+  - DOMAIN,rsshub.email-once.com
   - DOMAIN,cisco.evergage.com
   - DOMAIN,default.exp-tas.com
   - DOMAIN,developers.facebook.com
@@ -259,6 +262,7 @@ payload:
   - DOMAIN,cvws.icloud-content.com
   - DOMAIN,imperial.insendi.com
   - DOMAIN,cbsi.live.ott.irdeto.com
+  - DOMAIN,rsshub.isrss.com
   - DOMAIN,i.jeded.com
   - DOMAIN,cdn.js7k.com
   - DOMAIN,faronics.kayako.com
@@ -279,9 +283,11 @@ payload:
   - DOMAIN,api.viu.now.com
   - DOMAIN,community.oneplus.com
   - DOMAIN,cloud.oracle.com
+  - DOMAIN,rsshub.pseudoyu.com
   - DOMAIN,clubhouse.pubnubapi.com
   - DOMAIN,wetv.qq.com
   - DOMAIN,gog.qtlglb.com
+  - DOMAIN,rsshub.rssforever.com
   - DOMAIN,ulrichsweb.serialssolutions.com
   - DOMAIN,widgets.stripst.com
   - DOMAIN,cbsplaylistserver.aws.syncbak.com
@@ -291,7 +297,9 @@ payload:
   - DOMAIN,tesla-cdn.thron.com
   - DOMAIN,rtm.tnt-ea.com
   - DOMAIN,ntp.ubuntu.com
+  - DOMAIN,rsshub.umzzz.com
   - DOMAIN,time.windows.com
+  - DOMAIN,rss.wudifeixue.com
   - DOMAIN,assets1.xboxlive.com
   - DOMAIN,assets2.xboxlive.com
   - DOMAIN,disk.yandex.com
@@ -305,6 +313,7 @@ payload:
   - DOMAIN,scholar.google.cz
   - DOMAIN,beck-online.beck.de
   - DOMAIN,scholar.google.de
+  - DOMAIN,rss.datuan.dev
   - DOMAIN,ai.google.dev
   - DOMAIN,scholar.google.dk
   - DOMAIN,scholar.google.com.do
@@ -366,10 +375,12 @@ payload:
   - DOMAIN,scholar.google.co.kr
   - DOMAIN,blizzard.nefficient.co.kr
   - DOMAIN,scholar.google.li
+  - DOMAIN,rss.littlebaby.life
   - DOMAIN,scholar.google.lt
   - DOMAIN,scholar.google.lu
   - DOMAIN,scholar.google.lv
   - DOMAIN,scholar.google.com.ly
+  - DOMAIN,hub.slarker.me
   - DOMAIN,lab.skk.moe
   - DOMAIN,scholar.google.com.mx
   - DOMAIN,scholar.google.com.my
@@ -555,7 +566,10 @@ payload:
   - DOMAIN,scholar.google.no
   - DOMAIN,practivate.adobe.ntp
   - DOMAIN,scholar.google.co.nz
+  - DOMAIN,rss.owo.nz
   - DOMAIN,aqi.aqicn.org
+  - DOMAIN,rsshub.asailor.org
+  - DOMAIN,rsshub2.asailor.org
   - DOMAIN,chinapower.csis.org
   - DOMAIN,ocsp.int-x3.letsencrypt.org
   - DOMAIN,addons.mozilla.org
@@ -563,6 +577,7 @@ payload:
   - DOMAIN,firstsearch.oclc.org
   - DOMAIN,databank.worldbank.org
   - DOMAIN,scholar.google.com.pa
+  - DOMAIN,rsshub.ktachibana.party
   - DOMAIN,scholar.google.com.pe
   - DOMAIN,scholar.google.com.ph
   - DOMAIN,scholar.google.com.pk
@@ -583,11 +598,13 @@ payload:
   - DOMAIN,osu.ppy.sh
   - DOMAIN,sentry.ppy.sh
   - DOMAIN,spectator.ppy.sh
+  - DOMAIN,holoxx.f5.si
   - DOMAIN,scholar.google.si
   - DOMAIN,scholar.google.sk
   - DOMAIN,bybit.ada.support
   - DOMAIN,scholar.google.com.sv
   - DOMAIN,scholar.google.co.th
+  - DOMAIN,rsshub.rss.tips
   - DOMAIN,scholar.google.com.tr
   - DOMAIN,angle.com.tw
   - DOMAIN,scholar.google.com.tw
@@ -597,6 +614,8 @@ payload:
   - DOMAIN,scholar.google.com.uy
   - DOMAIN,scholar.google.co.ve
   - DOMAIN,scholar.google.com.vn
+  - DOMAIN,rsshub.henry.wang
+  - DOMAIN,rss.4040940.xyz
   - DOMAIN,scholar.google.co.za
   - DOMAIN-SUFFIX,easy.ac
   - DOMAIN-SUFFIX,google.ac
@@ -21048,6 +21067,7 @@ payload:
   - DOMAIN-SUFFIX,piaotian.net
   - DOMAIN-SUFFIX,piapro.net
   - DOMAIN-SUFFIX,picasaweb.net
+  - DOMAIN-SUFFIX,img.picgo.net
   - DOMAIN-SUFFIX,picidae.net
   - DOMAIN-SUFFIX,picknicekicks.net
   - DOMAIN-SUFFIX,pinkcore.net
