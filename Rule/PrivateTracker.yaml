@@ -1,5 +1,5 @@
-# UpdateTime：2025-07-03 02:33:06
-# RuleCount：276
+# UpdateTime：2025-07-04 02:33:03
+# RuleCount：282
 payload:
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.mywaifu.best
@@ -7,14 +7,15 @@ payload:
   - DOMAIN,tracker.bz
   - DOMAIN,bt1.xxxxbt.cc
   - DOMAIN,tr.kxmp.cf
+  - DOMAIN,tracker.dump.cl
   - DOMAIN,tracker1.myporn.club
-  - DOMAIN,isk.richardsw.club
   - DOMAIN,home.yxgz.club
   - DOMAIN,tracker.kmzs123.cn
   - DOMAIN,tracker.moeblog.cn
   - DOMAIN,tracker.foreverpirates.co
   - DOMAIN,tracker.vanitycore.co
   - DOMAIN,0123456789nonexistent.com
+  - DOMAIN,admin.52ywp.com
   - DOMAIN,p4p.arenabg.com
   - DOMAIN,tracker.beeimg.com
   - DOMAIN,tracker.bt-hash.com
@@ -41,13 +42,15 @@ payload:
   - DOMAIN,tracker.torrust-demo.com
   - DOMAIN,public.tracker.vraphim.com
   - DOMAIN,www.wareztorrent.com
+  - DOMAIN,ns-1.x-fins.com
   - DOMAIN,tracker.yemekyedim.com
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,ipv4announce.sktorrent.eu
-  - DOMAIN,tr.abir.ga
   - DOMAIN,open.free-tracker.ga
   - DOMAIN,tracker.gmi.gd
   - DOMAIN,tracker.tritan.gg
+  - DOMAIN,tr-rh-zhuqiy.dgj055.icu
+  - DOMAIN,tr-zhuqiy-1.dgj055.icu
   - DOMAIN,tracker-zhuqiy.dgj055.icu
   - DOMAIN,evan.im
   - DOMAIN,tracker.plx.im
@@ -61,6 +64,7 @@ payload:
   - DOMAIN,tracker.cyberia.is
   - DOMAIN,tracker1.520.jp
   - DOMAIN,tracker.bjut.jp
+  - DOMAIN,tracker1.bt.moack.co.kr
   - DOMAIN,tracker.leechshield.link
   - DOMAIN,tracker.aburaya.live
   - DOMAIN,bt.rer.lol
@@ -69,13 +73,14 @@ payload:
   - DOMAIN,tracker.kuroy.me
   - DOMAIN,retracker.lanta.me
   - DOMAIN,tracker.lintk.me
+  - DOMAIN,tracker.moeking.me
+  - DOMAIN,leet-tracker.moe
   - DOMAIN,tracker.waaa.moe
   - DOMAIN,tracker.yume-hatsuyuki.moe
   - DOMAIN,0d.kebhana.mx
   - DOMAIN,www.all4nothin.net
   - DOMAIN,retracker01-msk-virt.corbina.net
   - DOMAIN,extracker.dahrkael.net
-  - DOMAIN,tracker.ddunlimited.net
   - DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
   - DOMAIN,tracker.fnix.net
   - DOMAIN,tracker.gigantino.net
@@ -109,6 +114,7 @@ payload:
   - DOMAIN,tracker.moxing.party
   - DOMAIN,tracker.breizh.pm
   - DOMAIN,tracker.bittor.pw
+  - DOMAIN,discord.heihachi.pw
   - DOMAIN,tr.nyacat.pw
   - DOMAIN,retracker.hotplug.ru
   - DOMAIN,tracker.ipv6tracker.ru
@@ -122,7 +128,6 @@ payload:
   - DOMAIN,tracker.darkness.services
   - DOMAIN,t.jaekr.sh
   - DOMAIN,open.stealth.si
-  - DOMAIN,tracker.lyretain.site
   - DOMAIN,tracker.skillindia.site
   - DOMAIN,tracker.bitcoinindia.space
   - DOMAIN,tracker.ololosh.space
@@ -130,17 +135,18 @@ payload:
   - DOMAIN,tracker.valete.tf
   - DOMAIN,tracker.therarbg.to
   - DOMAIN,tracker.23794.top
+  - DOMAIN,tr.abiir.top
   - DOMAIN,tracker.expli.top
   - DOMAIN,tracker.gcrenwp.top
   - DOMAIN,sparkle.ghostchu-services.top
   - DOMAIN,tracker.ghostchu-services.top
   - DOMAIN,highteahop.top
-  - DOMAIN,tracker.kmzs123.top
   - DOMAIN,tracker.netmap.top
   - DOMAIN,tracker.zhuqiy.top
   - DOMAIN,buny.uk
   - DOMAIN,nyaa.tracker.wf
   - DOMAIN,t.213891.xyz
+  - DOMAIN,tracker.iperson.xyz
   - DOMAIN,tracker.privateseedbox.xyz
   - DOMAIN,p2p.publictracker.xyz
   - DOMAIN,tracker810.xyz
