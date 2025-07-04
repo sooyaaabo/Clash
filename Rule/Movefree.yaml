@@ -1,10 +1,7 @@
-# UpdateTime：2025-07-04 02:34:57
-# RuleCount：7
-payload:
-  - DOMAIN-SUFFIX,movefree.cn
-  - DOMAIN-SUFFIX,keepmovingwithmovefree.com
-  - DOMAIN-SUFFIX,movefreeoffers.com
-  - DOMAIN-SUFFIX,movefreerewards.com
-  - DOMAIN-SUFFIX,movefrees.com
-  - DOMAIN-SUFFIX,schiffvitamins.com
-  - DOMAIN-SUFFIX,move-free.net
+<html>
+<head><title>500 Internal Server Error</title></head>
+<body>
+<center><h1>500 Internal Server Error</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
