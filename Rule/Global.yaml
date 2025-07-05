@@ -1,5 +1,5 @@
-# UpdateTime：2025-07-04 02:33:51
-# RuleCount：32432
+# UpdateTime：2025-07-06 02:32:57
+# RuleCount：32433
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -3720,6 +3720,7 @@ payload:
   - DOMAIN-SUFFIX,avinetworks.com
   - DOMAIN-SUFFIX,avinin.com
   - DOMAIN-SUFFIX,avizoone.com
+  - DOMAIN-SUFFIX,avjb.com
   - DOMAIN-SUFFIX,avjiasu.com
   - DOMAIN-SUFFIX,avmoo.com
   - DOMAIN-SUFFIX,avn.com
