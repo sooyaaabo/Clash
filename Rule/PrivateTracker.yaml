@@ -1,5 +1,5 @@
-# UpdateTime：2025-07-06 02:32:10
-# RuleCount：277
+# UpdateTime：2025-07-08 03:50:47
+# RuleCount：279
 payload:
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.mywaifu.best
@@ -15,7 +15,6 @@ payload:
   - DOMAIN,tracker.foreverpirates.co
   - DOMAIN,tracker.vanitycore.co
   - DOMAIN,0123456789nonexistent.com
-  - DOMAIN,admin.52ywp.com
   - DOMAIN,p4p.arenabg.com
   - DOMAIN,tracker.beeimg.com
   - DOMAIN,tracker.bt-hash.com
@@ -45,9 +44,11 @@ payload:
   - DOMAIN,tracker.yemekyedim.com
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,ipv4announce.sktorrent.eu
+  - DOMAIN,tr.abir.ga
   - DOMAIN,open.free-tracker.ga
   - DOMAIN,tracker.gmi.gd
-  - DOMAIN,tracker.tritan.gg
+  - DOMAIN,tr-zhuqiy-1.dgj055.icu
+  - DOMAIN,tr-zhuqiy-2.dgj055.icu
   - DOMAIN,tracker.itscraftsoftware.my.id
   - DOMAIN,evan.im
   - DOMAIN,tracker.plx.im
@@ -71,6 +72,7 @@ payload:
   - DOMAIN,retracker.lanta.me
   - DOMAIN,tracker.lintk.me
   - DOMAIN,tracker.moeking.me
+  - DOMAIN,leet-tracker.moe
   - DOMAIN,tracker.waaa.moe
   - DOMAIN,tracker.yume-hatsuyuki.moe
   - DOMAIN,0d.kebhana.mx
@@ -85,7 +87,6 @@ payload:
   - DOMAIN,tracker.renfei.net
   - DOMAIN,shubt.net
   - DOMAIN,tracker.skyts.net
-  - DOMAIN,tracker.theoks.net
   - DOMAIN,wepzone.net
   - DOMAIN,tracker.corpscorp.online
   - DOMAIN,concen.org
@@ -110,6 +111,7 @@ payload:
   - DOMAIN,tracker.ducks.party
   - DOMAIN,tracker.moxing.party
   - DOMAIN,tracker.bittor.pw
+  - DOMAIN,discord.heihachi.pw
   - DOMAIN,tr.nyacat.pw
   - DOMAIN,retracker.hotplug.ru
   - DOMAIN,tracker.ipv6tracker.ru
@@ -120,7 +122,6 @@ payload:
   - DOMAIN,servandroidkino.ru
   - DOMAIN,retracker.spark-rostov.ru
   - DOMAIN,taciturn-shadow.spb.ru
-  - DOMAIN,tracker.darkness.services
   - DOMAIN,t.jaekr.sh
   - DOMAIN,open.stealth.si
   - DOMAIN,tracker.skillindia.site
@@ -142,6 +143,7 @@ payload:
   - DOMAIN,buny.uk
   - DOMAIN,nyaa.tracker.wf
   - DOMAIN,t.213891.xyz
+  - DOMAIN,tracker.iperson.xyz
   - DOMAIN,tracker.privateseedbox.xyz
   - DOMAIN,p2p.publictracker.xyz
   - DOMAIN,tracker810.xyz
