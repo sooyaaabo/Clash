@@ -1,7 +1,7 @@
-# UpdateTime：2025-07-12 02:32:10
-# RuleCount：4
-payload:
-  - DOMAIN-SUFFIX,cgbchina.cn
-  - DOMAIN-SUFFIX,cgbchina.com.cn
-  - DOMAIN-SUFFIX,gdb.com.cn
-  - DOMAIN-SUFFIX,95508.com
+<html>
+<head><title>500 Internal Server Error</title></head>
+<body>
+<center><h1>500 Internal Server Error</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
