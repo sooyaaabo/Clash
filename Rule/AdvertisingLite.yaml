@@ -1,5 +1,5 @@
-# UpdateTime：2025-07-12 02:33:26
-# RuleCount：38053
+# UpdateTime：2025-07-14 02:33:20
+# RuleCount：38054
 payload:
   - DOMAIN,tube.ac
   - DOMAIN,bonzai.ad
@@ -17459,6 +17459,7 @@ payload:
   - DOMAIN,xilfqkxezy.com
   - DOMAIN,c.xilongfuwu.com
   - DOMAIN,adbehavior.ximalaya.com
+  - DOMAIN,adsehera.ximalaya.com
   - DOMAIN,adwbs.ximalaya.com
   - DOMAIN,dns.ximalaya.com
   - DOMAIN,xindalawyer.com
