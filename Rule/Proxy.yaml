@@ -1,5 +1,5 @@
-# UpdateTime：2025-07-14 02:32:04
-# RuleCount：7138
+# UpdateTime：2025-07-16 02:32:13
+# RuleCount：7139
 payload:
   - DOMAIN,developer.apple.com
   - DOMAIN,testflight.apple.com
@@ -6247,6 +6247,7 @@ payload:
   - DOMAIN-SUFFIX,wtbn.org
   - DOMAIN-SUFFIX,x-wall.org
   - DOMAIN-SUFFIX,xiaoma.org
+  - DOMAIN-SUFFIX,www.xicons.org
   - DOMAIN-SUFFIX,xinhuanet.org
   - DOMAIN-SUFFIX,xinjiangpolicefiles.org
   - DOMAIN-SUFFIX,xiuren.org

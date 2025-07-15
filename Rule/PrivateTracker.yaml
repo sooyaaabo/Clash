@@ -1,5 +1,5 @@
-# UpdateTime：2025-07-14 02:31:48
-# RuleCount：279
+# UpdateTime：2025-07-16 02:31:58
+# RuleCount：276
 payload:
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.mywaifu.best
@@ -7,9 +7,9 @@ payload:
   - DOMAIN,tracker.bz
   - DOMAIN,bt1.xxxxbt.cc
   - DOMAIN,tr.kxmp.cf
-  - DOMAIN,tracker.dump.cl
   - DOMAIN,isk.richardsw.club
   - DOMAIN,home.yxgz.club
+  - DOMAIN,tracker.home.kmzs123.cn
   - DOMAIN,tracker.kmzs123.cn
   - DOMAIN,tracker.moeblog.cn
   - DOMAIN,tracker.foreverpirates.co
@@ -45,12 +45,8 @@ payload:
   - DOMAIN,tracker.yemekyedim.com
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,ipv4announce.sktorrent.eu
-  - DOMAIN,open.free-tracker.ga
+  - DOMAIN,tr.abir.ga
   - DOMAIN,tracker.gmi.gd
-  - DOMAIN,tracker.tritan.gg
-  - DOMAIN,tr-zhuqiy-2.dgj055.icu
-  - DOMAIN,tracker-zhuqiy.dgj055.icu
-  - DOMAIN,trl-zhuqiy.dgj055.icu
   - DOMAIN,tracker.itscraftsoftware.my.id
   - DOMAIN,evan.im
   - DOMAIN,tracker.plx.im
@@ -65,7 +61,6 @@ payload:
   - DOMAIN,opentracker.io
   - DOMAIN,tracker.cyberia.is
   - DOMAIN,tracker1.520.jp
-  - DOMAIN,tracker.bjut.jp
   - DOMAIN,tracker1.bt.moack.co.kr
   - DOMAIN,tracker.leechshield.link
   - DOMAIN,tracker.aburaya.live
@@ -81,6 +76,7 @@ payload:
   - DOMAIN,www.all4nothin.net
   - DOMAIN,retracker01-msk-virt.corbina.net
   - DOMAIN,extracker.dahrkael.net
+  - DOMAIN,asiatorrent.ddns.net
   - DOMAIN,tracker.ddunlimited.net
   - DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
   - DOMAIN,tracker.fnix.net
@@ -89,6 +85,7 @@ payload:
   - DOMAIN,tracker.renfei.net
   - DOMAIN,shubt.net
   - DOMAIN,tracker.skyts.net
+  - DOMAIN,tracker.theoks.net
   - DOMAIN,wepzone.net
   - DOMAIN,tracker.corpscorp.online
   - DOMAIN,concen.org
@@ -111,7 +108,9 @@ payload:
   - DOMAIN,tracker.tryhackx.org
   - DOMAIN,tracker.ducks.party
   - DOMAIN,tracker.moxing.party
+  - DOMAIN,tracker.breizh.pm
   - DOMAIN,tracker.bittor.pw
+  - DOMAIN,discord.heihachi.pw
   - DOMAIN,tr.nyacat.pw
   - DOMAIN,retracker.hotplug.ru
   - DOMAIN,tracker.ipv6tracker.ru
@@ -128,7 +127,6 @@ payload:
   - DOMAIN,tracker.bitcoinindia.space
   - DOMAIN,tracker.ololosh.space
   - DOMAIN,tracker.pmman.tech
-  - DOMAIN,tracker.valete.tf
   - DOMAIN,tracker.therarbg.to
   - DOMAIN,tracker.23794.top
   - DOMAIN,tr.abiir.top
@@ -145,7 +143,6 @@ payload:
   - DOMAIN,t.213891.xyz
   - DOMAIN,tracker.iperson.xyz
   - DOMAIN,tracker.privateseedbox.xyz
-  - DOMAIN,p2p.publictracker.xyz
   - DOMAIN,tracker810.xyz
   - DOMAIN,open.trackerlist.xyz
   - DOMAIN,tracker.xiaoduola.xyz

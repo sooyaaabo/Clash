@@ -1,5 +1,5 @@
-# UpdateTime：2025-07-14 02:32:37
-# RuleCount：32433
+# UpdateTime：2025-07-16 02:32:51
+# RuleCount：32435
 payload:
   - DOMAIN,practivate.adobe
   - DOMAIN,scholar.google.ae
@@ -23634,6 +23634,7 @@ payload:
   - DOMAIN-SUFFIX,xbox360.org
   - DOMAIN-SUFFIX,xdty.org
   - DOMAIN-SUFFIX,xiaoma.org
+  - DOMAIN-SUFFIX,www.xicons.org
   - DOMAIN-SUFFIX,xinhuanet.org
   - DOMAIN-SUFFIX,xinjiangpolicefiles.org
   - DOMAIN-SUFFIX,xiuren.org
@@ -31708,6 +31709,7 @@ payload:
   - DOMAIN-SUFFIX,taqunuhai.vip
   - DOMAIN-SUFFIX,theporndude.vip
   - DOMAIN-SUFFIX,xdir.vip
+  - DOMAIN-SUFFIX,xinggan77.vip
   - DOMAIN-SUFFIX,xxxvideo.vip
   - DOMAIN-SUFFIX,xxxvidos.vip
   - DOMAIN-SUFFIX,binance.vision

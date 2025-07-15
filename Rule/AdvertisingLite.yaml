@@ -1,5 +1,5 @@
-# UpdateTime：2025-07-14 02:33:20
-# RuleCount：38054
+# UpdateTime：2025-07-16 02:33:36
+# RuleCount：38063
 payload:
   - DOMAIN,tube.ac
   - DOMAIN,bonzai.ad
@@ -27155,6 +27155,7 @@ payload:
   - DOMAIN-SUFFIX,admaji.com
   - DOMAIN-SUFFIX,admddc.com
   - DOMAIN-SUFFIX,admedia.com
+  - DOMAIN-SUFFIX,admiitad.com
   - DOMAIN-SUFFIX,admin5.com
   - DOMAIN-SUFFIX,admin6.com
   - DOMAIN-SUFFIX,e.admin60.com
@@ -27261,6 +27262,7 @@ payload:
   - DOMAIN-SUFFIX,api.ahjinshu.com
   - DOMAIN-SUFFIX,ahjzys.com
   - DOMAIN-SUFFIX,ahlxxx.com
+  - DOMAIN-SUFFIX,ahqovxli.com
   - DOMAIN-SUFFIX,ahszgog.com
   - DOMAIN-SUFFIX,ahuac.com
   - DOMAIN-SUFFIX,ahw3.com
@@ -29211,6 +29213,7 @@ payload:
   - DOMAIN-SUFFIX,e.fimky.com
   - DOMAIN-SUFFIX,m.fimky.com
   - DOMAIN-SUFFIX,findicons.com
+  - DOMAIN-SUFFIX,fipabtomqok.com
   - DOMAIN-SUFFIX,iedc.fitbit.com
   - DOMAIN-SUFFIX,vendor1.fitschigogerl.com
   - DOMAIN-SUFFIX,fj95560.com
@@ -29269,6 +29272,7 @@ payload:
   - DOMAIN-SUFFIX,foxypp.com
   - DOMAIN-SUFFIX,fqtra.com
   - DOMAIN-SUFFIX,fqzds.com
+  - DOMAIN-SUFFIX,fractionfridgejudiciary.com
   - DOMAIN-SUFFIX,adshare.freedocast.com
   - DOMAIN-SUFFIX,add.freeimg8.com
   - DOMAIN-SUFFIX,sp.freep.com
@@ -30722,6 +30726,7 @@ payload:
   - DOMAIN-SUFFIX,kqiaq.com
   - DOMAIN-SUFFIX,kqy1.com
   - DOMAIN-SUFFIX,krakeshlaja.com
+  - DOMAIN-SUFFIX,kreopbkabsit.com
   - DOMAIN-SUFFIX,migu.kssws.ks-cdn.com
   - DOMAIN-SUFFIX,ssp.kssws.ks-cdn.com
   - DOMAIN-SUFFIX,ks67.com
@@ -31826,6 +31831,7 @@ payload:
   - DOMAIN-SUFFIX,obefjbb4mykw.com
   - DOMAIN-SUFFIX,obeip.com
   - DOMAIN-SUFFIX,obeyter.com
+  - DOMAIN-SUFFIX,ocponcphaafb.com
   - DOMAIN-SUFFIX,od0gddq27wkk.com
   - DOMAIN-SUFFIX,oddomane.com
   - DOMAIN-SUFFIX,oebadu.com
@@ -32120,6 +32126,7 @@ payload:
   - DOMAIN-SUFFIX,pp9899.com
   - DOMAIN-SUFFIX,pp9kk.com
   - DOMAIN-SUFFIX,ppcashpop.com
+  - DOMAIN-SUFFIX,ppezijkacga.com
   - DOMAIN-SUFFIX,ppjia55.com
   - DOMAIN-SUFFIX,afp.pplive.com
   - DOMAIN-SUFFIX,gas.data.pplive.com
@@ -33336,6 +33343,7 @@ payload:
   - DOMAIN-SUFFIX,taplytics.com
   - DOMAIN-SUFFIX,tappx.com
   - DOMAIN-SUFFIX,taptica.com
+  - DOMAIN-SUFFIX,tapwhigwy.com
   - DOMAIN-SUFFIX,tarawerap.com
   - DOMAIN-SUFFIX,taglocker.target.com
   - DOMAIN-SUFFIX,targetedinfo.com
@@ -33414,6 +33422,7 @@ payload:
   - DOMAIN-SUFFIX,thejesperbay.com
   - DOMAIN-SUFFIX,advert.api.thejoyrun.com
   - DOMAIN-SUFFIX,sp.theleafchronicle.com
+  - DOMAIN-SUFFIX,thelifeandmore.com
   - DOMAIN-SUFFIX,d.thelocal.com
   - DOMAIN-SUFFIX,themaxmall.com
   - DOMAIN-SUFFIX,analytics.thenest.com
