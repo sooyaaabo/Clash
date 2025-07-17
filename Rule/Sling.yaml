@@ -1,8 +1,7 @@
-# UpdateTime：2025-07-16 02:31:59
-# RuleCount：5
-payload:
-  - DOMAIN-SUFFIX,dishworld.com
-  - DOMAIN-SUFFIX,movenetworks.com
-  - DOMAIN-SUFFIX,movetv.com
-  - DOMAIN-SUFFIX,sling.com
-  - DOMAIN-SUFFIX,slinginternational.com
+<html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
