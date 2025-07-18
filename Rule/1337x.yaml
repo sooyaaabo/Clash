@@ -1,13 +1,7 @@
-# UpdateTime：2025-07-18 02:33:02
-# RuleCount：10
-payload:
-  - DOMAIN-SUFFIX,x1337x.eu
-  - DOMAIN-SUFFIX,1337x.gd
-  - DOMAIN-SUFFIX,1337x.is
-  - DOMAIN-SUFFIX,x1337x.se
-  - DOMAIN-SUFFIX,1337x.st
-  - DOMAIN-SUFFIX,1337x.to
-  - DOMAIN-SUFFIX,1337xto.to
-  - DOMAIN-SUFFIX,1337xx.to
-  - DOMAIN-SUFFIX,1337x.tw
-  - DOMAIN-SUFFIX,x1337x.ws
+<html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
