@@ -1,17 +1,7 @@
-# UpdateTime：2025-07-18 02:32:14
-# RuleCount：14
-payload:
-  - DOMAIN-SUFFIX,vsearch.club
-  - DOMAIN-SUFFIX,bbktel.com.cn
-  - DOMAIN-SUFFIX,vivo.com.cn
-  - DOMAIN-SUFFIX,vivo.cn
-  - DOMAIN-SUFFIX,bbk.com
-  - DOMAIN-SUFFIX,funtouchos.com
-  - DOMAIN-SUFFIX,gdbbk.com
-  - DOMAIN-SUFFIX,iqoo.com
-  - DOMAIN-SUFFIX,vivo.com
-  - DOMAIN-SUFFIX,vivoglobal.com
-  - DOMAIN-SUFFIX,vivosjpt.com
-  - DOMAIN-SUFFIX,vivotc.com
-  - DOMAIN-SUFFIX,vivo.xyz
-  - DOMAIN-SUFFIX,vmic.xyz
+<html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
