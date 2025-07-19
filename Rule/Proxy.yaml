@@ -1,5 +1,5 @@
-# UpdateTime：2025-07-19 02:33:08
-# RuleCount：7139
+# UpdateTime：2025-07-20 02:33:36
+# RuleCount：7137
 payload:
   - DOMAIN,developer.apple.com
   - DOMAIN,testflight.apple.com
@@ -1558,7 +1558,6 @@ payload:
   - DOMAIN-SUFFIX,haiwaikan.com
   - DOMAIN-SUFFIX,hanunyi.com
   - DOMAIN-SUFFIX,ae.hao123.com
-  - DOMAIN-SUFFIX,ar.hao123.com
   - DOMAIN-SUFFIX,br.hao123.com
   - DOMAIN-SUFFIX,en.hao123.com
   - DOMAIN-SUFFIX,id.hao123.com
@@ -5014,7 +5013,6 @@ payload:
   - DOMAIN-SUFFIX,old-cat.net
   - DOMAIN-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net
   - DOMAIN-SUFFIX,onmoon.net
-  - DOMAIN-SUFFIX,onmypc.net
   - DOMAIN-SUFFIX,opendemocracy.net
   - DOMAIN-SUFFIX,openid.net
   - DOMAIN-SUFFIX,openvpn.net

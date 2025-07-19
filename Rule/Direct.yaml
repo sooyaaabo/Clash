@@ -1,5 +1,5 @@
-# UpdateTime：2025-07-19 02:33:10
-# RuleCount：218
+# UpdateTime：2025-07-20 02:33:41
+# RuleCount：219
 payload:
   - DOMAIN,ad.12306.cn
   - DOMAIN,bdtj.tagtic.cn
@@ -218,4 +218,5 @@ payload:
   - DOMAIN-KEYWORD,weather-adge.apple.com
   - DOMAIN-KEYWORD,weather-edge.apple.com
   - DOMAIN-KEYWORD,api-adservices.apple.com
+  - DOMAIN-KEYWORD,amp-api.podcasts.apple.com
   - USER-AGENT,%E8%BF%85%E9%9B%B7

@@ -1,5 +1,5 @@
-# UpdateTime：2025-07-19 02:32:52
-# RuleCount：277
+# UpdateTime：2025-07-20 02:33:23
+# RuleCount：281
 payload:
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.mywaifu.best
@@ -16,6 +16,7 @@ payload:
   - DOMAIN,tracker.foreverpirates.co
   - DOMAIN,tracker.vanitycore.co
   - DOMAIN,0123456789nonexistent.com
+  - DOMAIN,admin.52ywp.com
   - DOMAIN,p4p.arenabg.com
   - DOMAIN,tracker.beeimg.com
   - DOMAIN,tracker.bt-hash.com
@@ -43,11 +44,13 @@ payload:
   - DOMAIN,www.wareztorrent.com
   - DOMAIN,ns-1.x-fins.com
   - DOMAIN,tracker.yemekyedim.com
+  - DOMAIN,tracker.cutie.dating
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,ipv4announce.sktorrent.eu
   - DOMAIN,open.free-tracker.ga
   - DOMAIN,tracker.gmi.gd
   - DOMAIN,tracker.tritan.gg
+  - DOMAIN,tr-zhuqiy-1.dgj055.icu
   - DOMAIN,tracker.itscraftsoftware.my.id
   - DOMAIN,evan.im
   - DOMAIN,tracker.plx.im
@@ -70,7 +73,6 @@ payload:
   - DOMAIN,tracker.kuroy.me
   - DOMAIN,retracker.lanta.me
   - DOMAIN,tracker.lintk.me
-  - DOMAIN,leet-tracker.moe
   - DOMAIN,tracker.waaa.moe
   - DOMAIN,tracker.yume-hatsuyuki.moe
   - DOMAIN,0d.kebhana.mx
@@ -86,6 +88,7 @@ payload:
   - DOMAIN,tracker.renfei.net
   - DOMAIN,shubt.net
   - DOMAIN,tracker.skyts.net
+  - DOMAIN,tracker.theoks.net
   - DOMAIN,wepzone.net
   - DOMAIN,tracker.corpscorp.online
   - DOMAIN,concen.org
@@ -100,17 +103,18 @@ payload:
   - DOMAIN,www.genesis-sp.org
   - DOMAIN,tracker.ipv6tracker.org
   - DOMAIN,tracker.jdx3.org
+  - DOMAIN,ns3109441.mypdns.org
   - DOMAIN,opentor.org
   - DOMAIN,tracker.opentrackr.org
   - DOMAIN,bt.poletracker.org
   - DOMAIN,udp.tracker.projectk.org
   - DOMAIN,seeders-paradise.org
   - DOMAIN,tracker.tryhackx.org
+  - DOMAIN,tr.zukizuki.org
   - DOMAIN,tracker.ducks.party
   - DOMAIN,tracker.moxing.party
   - DOMAIN,tracker.breizh.pm
   - DOMAIN,tracker.bittor.pw
-  - DOMAIN,discord.heihachi.pw
   - DOMAIN,tr.nyacat.pw
   - DOMAIN,retracker.hotplug.ru
   - DOMAIN,tracker.ipv6tracker.ru
