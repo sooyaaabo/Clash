@@ -1,13 +1,7 @@
-# UpdateTime：2025-07-19 02:33:16
-# RuleCount：10
-payload:
-  - DOMAIN,fhnfile.oss-cn-shenzhen.aliyuncs.com
-  - DOMAIN-SUFFIX,sq.cc
-  - DOMAIN-SUFFIX,116cd.cn
-  - DOMAIN-SUFFIX,115.com
-  - DOMAIN-SUFFIX,115cdn.com
-  - DOMAIN-SUFFIX,115img.com
-  - DOMAIN-SUFFIX,116cd.com
-  - DOMAIN-SUFFIX,anxia.com
-  - DOMAIN-SUFFIX,115cdn.net
-  - DOMAIN-SUFFIX,116cd.net
+<html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
