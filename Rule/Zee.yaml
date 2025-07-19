@@ -1,7 +1,25 @@
-<html>
-<head><title>504 Gateway Time-out</title></head>
-<body>
-<center><h1>504 Gateway Time-out</h1></center>
-<hr><center>cloudflare</center>
-</body>
-</html>
+# UpdateTime：2025-07-20 02:33:23
+# RuleCount：22
+payload:
+  - DOMAIN-SUFFIX,zeenews-fonts.s3.amazonaws.com
+  - DOMAIN-SUFFIX,bollywoodlife.com
+  - DOMAIN-SUFFIX,careerfundas.com
+  - DOMAIN-SUFFIX,cricketcountry.com
+  - DOMAIN-SUFFIX,dnaindia.com
+  - DOMAIN-SUFFIX,earngeek.com
+  - DOMAIN-SUFFIX,ekhindi.com
+  - DOMAIN-SUFFIX,india.com
+  - DOMAIN-SUFFIX,indiancolleges.com
+  - DOMAIN-SUFFIX,itripto.com
+  - DOMAIN-SUFFIX,prepsure.com
+  - DOMAIN-SUFFIX,thehealthsite.com
+  - DOMAIN-SUFFIX,wionews.com
+  - DOMAIN-SUFFIX,yo1health.com
+  - DOMAIN-SUFFIX,zee.com
+  - DOMAIN-SUFFIX,zeebiz.com
+  - DOMAIN-SUFFIX,zeeentertainment.com
+  - DOMAIN-SUFFIX,zeenews.com
+  - DOMAIN-SUFFIX,bgr.in
+  - DOMAIN-SUFFIX,dnai.in
+  - DOMAIN-SUFFIX,oncars.in
+  - DOMAIN-SUFFIX,ind.sh
