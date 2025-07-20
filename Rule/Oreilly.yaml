@@ -1,9 +1,7 @@
-# UpdateTime：2025-07-20 02:33:54
-# RuleCount：6
-payload:
-  - DOMAIN-SUFFIX,oreilly.com.cn
-  - DOMAIN-SUFFIX,oreilly.com
-  - DOMAIN-SUFFIX,oreillystatic.com
-  - DOMAIN-SUFFIX,oreil.ly
-  - DOMAIN-SUFFIX,orl.ly
-  - DOMAIN-SUFFIX,oreilly.review
+<html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
