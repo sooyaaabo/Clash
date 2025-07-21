@@ -1,6 +1,7 @@
-# UpdateTime：2025-07-20 02:33:23
-# RuleCount：3
-payload:
-  - DOMAIN-SUFFIX,worldemojiawards.com
-  - DOMAIN-SUFFIX,worldemojiday.com
-  - DOMAIN-SUFFIX,emojipedia.org
+<html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
