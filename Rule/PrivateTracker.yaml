@@ -1,5 +1,5 @@
-# UpdateTime：2025-07-20 02:33:23
-# RuleCount：281
+# UpdateTime：2025-07-22 02:32:18
+# RuleCount：282
 payload:
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.mywaifu.best
@@ -7,8 +7,6 @@ payload:
   - DOMAIN,tracker.bz
   - DOMAIN,bt1.xxxxbt.cc
   - DOMAIN,tr.kxmp.cf
-  - DOMAIN,tracker.dump.cl
-  - DOMAIN,isk.richardsw.club
   - DOMAIN,home.yxgz.club
   - DOMAIN,tracker.home.kmzs123.cn
   - DOMAIN,tracker.kmzs123.cn
@@ -24,6 +22,7 @@ payload:
   - DOMAIN,open.demonii.com
   - DOMAIN,exodus.desync.com
   - DOMAIN,tracker.dler.com
+  - DOMAIN,torrent.tracker.durukanbal.com
   - DOMAIN,tracker.filemail.com
   - DOMAIN,tracker.hifitechindia.com
   - DOMAIN,v74853.hosted-by-vdsina.com
@@ -47,10 +46,12 @@ payload:
   - DOMAIN,tracker.cutie.dating
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,ipv4announce.sktorrent.eu
+  - DOMAIN,tr.abir.ga
   - DOMAIN,open.free-tracker.ga
   - DOMAIN,tracker.gmi.gd
   - DOMAIN,tracker.tritan.gg
   - DOMAIN,tr-zhuqiy-1.dgj055.icu
+  - DOMAIN,tr-zhuqiy-2.dgj055.icu
   - DOMAIN,tracker.itscraftsoftware.my.id
   - DOMAIN,evan.im
   - DOMAIN,tracker.plx.im
@@ -73,19 +74,19 @@ payload:
   - DOMAIN,tracker.kuroy.me
   - DOMAIN,retracker.lanta.me
   - DOMAIN,tracker.lintk.me
+  - DOMAIN,leet-tracker.moe
   - DOMAIN,tracker.waaa.moe
   - DOMAIN,tracker.yume-hatsuyuki.moe
   - DOMAIN,0d.kebhana.mx
   - DOMAIN,www.all4nothin.net
   - DOMAIN,retracker01-msk-virt.corbina.net
   - DOMAIN,extracker.dahrkael.net
-  - DOMAIN,asiatorrent.ddns.net
   - DOMAIN,tracker.ddunlimited.net
-  - DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
   - DOMAIN,tracker.fnix.net
   - DOMAIN,tracker.gigantino.net
   - DOMAIN,tk.greedland.net
   - DOMAIN,tracker.renfei.net
+  - DOMAIN,pybittrack.retiolus.net
   - DOMAIN,shubt.net
   - DOMAIN,tracker.skyts.net
   - DOMAIN,tracker.theoks.net
