@@ -1,5 +1,7 @@
-# UpdateTime：2025-07-22 02:34:19
-# RuleCount：2
-payload:
-  - DOMAIN-SUFFIX,i-cable.com
-  - DOMAIN-SUFFIX,cabletv.com.hk
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
