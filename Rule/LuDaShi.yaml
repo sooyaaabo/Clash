@@ -1,20 +1,7 @@
-# UpdateTime：2025-07-22 02:32:40
-# RuleCount：17
-payload:
-  - DOMAIN-SUFFIX,birdpaper.cn
-  - DOMAIN-SUFFIX,monidashi.com.cn
-  - DOMAIN-SUFFIX,kejids.cn
-  - DOMAIN-SUFFIX,ludan.cn
-  - DOMAIN-SUFFIX,ludashi.cn
-  - DOMAIN-SUFFIX,monidashi.cn
-  - DOMAIN-SUFFIX,taojike.cn
-  - DOMAIN-SUFFIX,dualspace.com
-  - DOMAIN-SUFFIX,dualspacetech.com
-  - DOMAIN-SUFFIX,kejids.com
-  - DOMAIN-SUFFIX,ludashi.com
-  - DOMAIN-SUFFIX,superlitetech.com
-  - DOMAIN-SUFFIX,xiaoluerhuo.com
-  - DOMAIN-SUFFIX,xiaoluhaohuo.com
-  - DOMAIN-SUFFIX,xiaoluyouxuan.com
-  - DOMAIN-SUFFIX,youhua.com
-  - DOMAIN-SUFFIX,easyclean.fun
+<html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
