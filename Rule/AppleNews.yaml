@@ -1,7 +1,7 @@
-# UpdateTime：2025-07-24 02:33:35
-# RuleCount：4
-payload:
-  - DOMAIN,gspe1-ssl.ls.apple.com
-  - DOMAIN,news-client-search.apple.com
-  - USER-AGENT,AppleNews*
-  - USER-AGENT,com.apple.news*
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
