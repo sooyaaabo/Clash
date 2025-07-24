@@ -1,25 +1,7 @@
-# UpdateTime：2025-07-24 02:34:44
-# RuleCount：22
-payload:
-  - DOMAIN-SUFFIX,rarbgmirror.com
-  - DOMAIN-SUFFIX,rarbgs.com
-  - DOMAIN-SUFFIX,rarbgunblock.com
-  - DOMAIN-SUFFIX,rarbg.is
-  - DOMAIN-SUFFIX,rarbg.link
-  - DOMAIN-SUFFIX,dyncdn.me
-  - DOMAIN-SUFFIX,rarbg.me
-  - DOMAIN-SUFFIX,rarbg.bypassed.org
-  - DOMAIN-SUFFIX,proxyrarbg.org
-  - DOMAIN-SUFFIX,rarbgaccess.org
-  - DOMAIN-SUFFIX,rarbgaccessed.org
-  - DOMAIN-SUFFIX,rarbgget.org
-  - DOMAIN-SUFFIX,rarbggo.org
-  - DOMAIN-SUFFIX,rarbgmirror.org
-  - DOMAIN-SUFFIX,rarbgproxy.org
-  - DOMAIN-SUFFIX,rarbgprx.org
-  - DOMAIN-SUFFIX,rarbgto.org
-  - DOMAIN-SUFFIX,rarbgunblock.org
-  - DOMAIN-SUFFIX,rarbgway.org
-  - DOMAIN-SUFFIX,rarbg.to
-  - DOMAIN-SUFFIX,rarbg.unblocked.vc
-  - DOMAIN-SUFFIX,rarbgmirror.xyz
+<html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
