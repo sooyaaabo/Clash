@@ -44,7 +44,7 @@ jobs:
         
         # 定义配置文件
         declare -A configs=(
-            [Clash_Sample_Configuration_By_iKeLee]="https://raw.githubusercontent.com/luestr/ProxyResource/main/Tool/Clash/Config/Clash_Sample_Configuration_By_iKeLee.yaml"
+            [Clash_Sample_Configuration_By_iKeLee]="https://raw.githubusercontent.com/luestr/ProxyResource/main/Tool/Clash/Config/Clash_Sample_Config_By_iKeLee.yaml"
         )
         
         # 下载配置文件并在文件中添加原链接
